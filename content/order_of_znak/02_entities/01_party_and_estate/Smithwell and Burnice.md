@@ -9,8 +9,8 @@ species: human
 last_updated: 2026-10-12
 tags: [npc, ward, leilon, storm-lords-wrath, order-of-znak, acolytes-of-znak]
 aliases: ['Young Smithwell', 'Young Burnice', 'Young Smithwell and Burnice', 'The Leilon Wards']
+modules: ['Storm Lord's Wrath']
 ---
-
 # 👦👧 Young Smithwell & Burnice (The Leilon Wards)
 
 ## 🛡️ Overview & Lore
@@ -49,3 +49,9 @@ As adults, the two wards took up the adventuring mantle to lead the next generat
 ## 💡 Behind the Screen & Trivia
 * **Official D&D 5e Adventure Context:** In the Wizards of the Coast adventure *Storm Lord's Wrath*, Smithwell and Burnice appear in the introductory encounter *"A Normal Day in Leilon"*. The module describes them as 10-year-old NPC children whose parents are fishers targeted by the kraken priest Nixoxious.
 * **Table Emergence & Parallel to Yasmina:** At many tables, rescued children fade into the background once the quest XP is awarded. At Peter and Gary's table, the champions formed deep emotional attachments to their rescuees. Much like [[Yasmina]] was adopted after her liberation from a Night Hag in *"Keeping the Faith"*, Smithwell and Burnice became beloved fixtures of the campaign hearth—ultimately graduating from module NPC cast members to full player characters for the second-generation campaign.
+
+---
+
+## 📚 Sources & Canon References
+* **Official Adventure Modules:** *Storm Lord's Wrath*
+* **Canonical Context:** Two 10-year-old Leilon children rescued from the marshlands during the Kraken raid ('A Normal Day in Leilon') and adopted as wards by The Order of Znak.

@@ -9,8 +9,8 @@ species: lizardfolk
 last_updated: 2026-10-12
 tags: [npc, lizardfolk, chieftain, leader, mere-of-dead-men, order-of-znak, acolytes-of-znak]
 aliases: ['Grixxugroaz', 'Chieftain Grixxugroaz', 'Leader Grixxugroaz']
+modules: ['Storm Lord's Wrath']
 ---
-
 # 🦎 Grixxugroaz
 
 ## 🛡️ Overview & Sovereign Authority
@@ -36,3 +36,10 @@ aliases: ['Grixxugroaz', 'Chieftain Grixxugroaz', 'Leader Grixxugroaz']
 
 ## 💡 Behind the Screen & Trivia
 * **Table Roleplay:** Grixxugroaz's willingness to forge an alliance founded the cross-species brotherhood that directly birthed the second-generation campaign, ***[[The Acolytes of Znak Campaign Plan|The Acolytes of Znak]]***.
+
+---
+
+## 📚 Sources & Canon References
+* **Forgotten Realms Wiki:** [Grixxugroaz](https://forgottenrealms.fandom.com/wiki/Grixxugroaz)
+* **Official Adventure Modules:** *Storm Lord's Wrath*
+* **Canonical Context:** Lizardfolk chieftain and supreme sovereign warlord of the Mere of Dead Men marshland tribe.

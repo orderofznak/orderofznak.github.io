@@ -9,8 +9,8 @@ species: dwarf
 last_updated: 2026-10-12
 tags: [npc, dwarf, grizzelda-copperwraught, the-growler, master-builder, leilon, lords-alliance, order-of-znak]
 aliases: ['Grizzelda Copperwraught', 'The Growler', 'Builder Copperwraught']
+modules: ['Storm Lord's Wrath', 'Sleeping Dragon's Wake', 'Divine Contention']
 ---
-
 # 🔨 Grizzelda Copperwraught ("The Growler")
 
 ## 🛡️ Overview & Identity
@@ -45,3 +45,10 @@ aliases: ['Grizzelda Copperwraught', 'The Growler', 'Builder Copperwraught']
 
 ## 💡 Behind the Screen & Trivia
 * **Official Adventure Context:** Sourced directly from *Storm Lord's Wrath*, Grizzelda personifies the relentless frontier determination needed to carve a fortified town out of marshland ruins.
+
+---
+
+## 📚 Sources & Canon References
+* **Forgotten Realms Wiki:** [Grizzelda Copperwraught](https://forgottenrealms.fandom.com/wiki/Grizzelda_Copperwraught)
+* **Official Adventure Modules:** *Storm Lord's Wrath*, *Sleeping Dragon's Wake*, *Divine Contention*
+* **Canonical Context:** Shield dwarf master builder known as 'The Growler', commissioned by Lord Protector Dagult Neverember to oversee the reconstruction of Leilon.

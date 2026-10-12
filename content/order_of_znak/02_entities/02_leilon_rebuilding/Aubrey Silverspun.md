@@ -9,8 +9,8 @@ nature: ghost
 last_updated: 2026-10-12
 tags: [npc, ghost, aubrey-silverspun, swords-of-leilon, aubreys-peculiarities, magic-shop, claugiyliamatar, divine-contention, leilon, order-of-znak]
 aliases: ['Aubrey Silverspun', 'Aubrey', 'Master Silverspun']
+modules: ['Storm Lord's Wrath', 'Sleeping Dragon's Wake', 'Divine Contention']
 ---
-
 # 🪄 Aubrey Silverspun
 
 ## 🛡️ Overview & Shopkeeper Persona
@@ -47,3 +47,10 @@ Following the defeat of the dragon and the preservation of the town:
 
 ## 💡 Behind the Screen & Trivia
 * **Campaign Milestone:** The post-battle revelation of Aubrey's portrait was one of the most unforgettable, heartwarming narrative moments in Peter and Gary's campaign, seamlessly bridging the published module lore with deep emotional resonance.
+
+---
+
+## 📚 Sources & Canon References
+* **Forgotten Realms Wiki:** [Aubrey Silverspun](https://forgottenrealms.fandom.com/wiki/Aubrey_Silverspun)
+* **Official Adventure Modules:** *Storm Lord's Wrath*, *Sleeping Dragon's Wake*, *Divine Contention*
+* **Canonical Context:** Eccentric shopkeeper at Aubrey's Peculiarities in Leilon, secretly an ancient spectral defender from the historic Swords of Leilon.

@@ -11,8 +11,8 @@ class: wizard
 last_updated: 2026-10-12
 tags: [npc, human, rashemi, wizard, gallio-elibro, house-of-thalivar, thalivar, leilon, order-of-znak]
 aliases: ['Gallio Elibro', 'Gallio', 'Wizard Elibro']
+modules: ['Storm Lord's Wrath', 'Sleeping Dragon's Wake', 'Divine Contention']
 ---
-
 # 🔮 Gallio Elibro
 
 ## 🛡️ Overview & Personality
@@ -50,3 +50,10 @@ Unknown to Gallio himself, his insomnia and night terrors stem from a horrific a
 
 ## 💡 Behind the Screen & Trivia
 * **Official Adventure Context:** In *Storm Lord's Wrath*, Gallio Elibro serves as the primary questgiver for the *"House of Thalivar"* dungeon crawl. His purple-stained fingers and nightly possession provide an eerie, atmospheric subplot connecting local Leilon politics with high-stakes planar magic.
+
+---
+
+## 📚 Sources & Canon References
+* **Forgotten Realms Wiki:** [Gallio Elibro](https://forgottenrealms.fandom.com/wiki/Gallio_Elibro)
+* **Official Adventure Modules:** *Storm Lord's Wrath*, *Sleeping Dragon's Wake*, *Divine Contention*
+* **Canonical Context:** Short-tempered Rashemi wizard sent by Neverwinter to excavate and investigate the haunted House of Thalivar in Leilon.

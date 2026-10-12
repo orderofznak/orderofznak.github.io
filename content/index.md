@@ -40,35 +40,46 @@ date: 2026-10-11
 
 ---
 
-## 👥 Unified Character & NPC Roster
+## 👥 Unified Character & NPC Roster (148 Characters)
 
-### The Original Champions (The Order of Znak)
+### 🏰 The Original Champions & Estate (The Order of Znak)
 * [[Krageer Stoneface Ogolakanu]] — Goliath Barbarian Totem / Champion Fighter *(Played by Gary)*
 * [[Rhynok]] — Wood Elf Ranger Gloomstalker / Assassin Rogue *(Played by Gary)*
 * [[Myagkiy Znak]] (Ь) — Variant Human Life Domain Cleric *(Played by Peter)*
 * [[Tvyordiy Znak]] (Ъ) — Aarakocra Drunken Master Monk with Wereboar Lycanthropy *(Played by Peter)*
+* [[The Order of Znak]] — Central adventuring party and chartered company
+* [[Leopold]] — Human majordomo managing The Order of Znak's fortified estate in Leilon
+* [[Smithwell and Burnice]] — Adopted orphan wards raised at the Leilon headquarters
+* [[Yasmina]] — Young ward rescued from a Night Hag in *"Keeping the Faith"*
+* [[Dayne Beltran]] — Forge Domain cleric ally whose stolen armor was recovered
 
-### The Second Generation (The Acolytes of Znak)
+### 🩸 The Second Generation (The Acolytes of Znak)
 * [[Burnice Znak]] — Paladin / Hexblade Warlock *(Peter)*
 * [[Smithwell Znak]] — Bard / Barbarian *(Gary)*
 * [[Graxxoamo]] — Lizardfolk Ranger / Monk *(Peter)*
 * [[Shriss]] — Lizardfolk Life Cleric / Druid *(Gary)*
-* [[Yasmina]] — Cleric / Fiend Warlock (Rescued ward with dark witch heritage)
+* [[Yasmina]] — Cleric / Fiend Warlock
 
-### Prominent Allies & Nemeses
-* [[Leopold]] — Human majordomo managing The Order of Znak's fortified estate in Leilon
-* [[Grizzelda Copperwraught]] — Master builder "The Growler", commissioned by Lord Neverember to rebuild Leilon
-* [[Gallio Elibro]] — Rashemi wizard conducting arcane research in the House of Thalivar
-* [[Merrygold Brightshine]] — Amiable halfling priest of Lathander and founder of Leilon's dawn shrine
-* [[Aubrey Silverspun]] — Curio merchant at Aubrey's Peculiarities (and ancient ghost of the Swords of Leilon)
-* [[Hazz Yorrum]] — Slovenly sergeant of the Neverwinter soldiers stationed in Leilon
-* [[Martisha Vinetalker]] — Shrewd proprietor of the Wayside Inn and former bandit captain
-* [[Cooragh]] — Half-orc master cook of spicy meat pies and confidante of Martisha
-* [[Grixxugroaz]] — Sovereign chieftain of the Mere of Dead Men lizardfolk tribe
-* [[Dayne Beltran]] — Forge Cleric ally
-* [[DonJon Raskin]] — Cajun-accented overseer of Mountain's Toe Gold Mine
-* [[Matriarch Qolzaz]] — Lizardfolk Matriarch honored in the [[Ballad of Qolzaz]]
-* [[Fheralai Stormsworn]] — High Priestess of Talos
+### 🔨 Leilon Rebuilding & Leadership (35 Entities)
+* [[Gallio Elibro]] (Rashemi Wizard), [[Grizzelda Copperwraught]] (Master Builder), [[Merrygold Brightshine]] (Lathander Priest), [[Aubrey Silverspun]] (Curio Merchant / Ghost), [[Hazz Yorrum]] (Guard Sergeant), [[Jack Torver]], [[Alion Malwyn]], [[Valdi Estapaar]], [[Dagult Neverember]], [[Thalivar]], and 25 more Leilon townsfolk & artisans.
+
+### ⛏️ Phandalin & Frontier Settlements (20 Entities)
+* [[DonJon Raskin]] (Mountain's Toe Gold Mine), [[Harbin Wester]] (Townmaster), [[Elmar Barthen]], [[Linene Graywind]], [[Toblen Stonehill]], [[Adabra Gwynn]], [[Alfonse Kalazorn]] ("Big Al"), [[Halia Thornton]], [[Dazlyn Grayshard]], [[Norbus Ironrune]], [[Garaele]], and frontier miners.
+
+### ⚙️ Gnomengarde Inventors (21 Entities)
+* [[Fibblestib Pinebark]] & [[Dabbledob Plasterpatch]] (Chief Inventors), [[Gnerkli|King Gnerkli]] & [[Korboz|King Korboz]] (Kings of Gnomengarde), [[Facktoré]], [[Anverth]], [[Caramip]], [[Dimble]], [[Jabby]], [[Joybell]], [[Nyx]], [[Pinchwit Wigglehoof]], [[Quippy]], and gnome artificers.
+
+### 🐉 Villains, Bosses & Primordial Threats (19 Entities)
+* [[Ularan Mortus]] (High Priest of Myrkul / Mastermind), [[Cryovain]] (Young White Dragon), [[Claugiyliamatar]] ("Old Gnawbone"), [[Chardansearavitriol]] (Ebondeath), [[Fheralai Stormsworn]] (Talos High Priestess), [[Gorthok]] (The Thunder Boar), [[Moesko]], [[Grannoc]], [[Nixoxious]], [[Argus Skeel]], [[Augusta Krul]], [[Emberlost]], [[Gadrille]], and primordial horrors.
+
+### ⚡ Cults, Pirates & Raiders (24 Entities)
+* Anchorites of Talos, Cult of Myrkul necromancers, and dreadnaught marauders: [[Auntie Unk]], [[Nana Pocktuss]], & [[Granny Muyuk]] (Sea Hag Coven), [[Bindlemint Mincemower]], [[Brakkis Elspaar]], [[Castisha]], [[Dobin Noreth]], [[Drethna]], [[Flenz]], [[Kristoffen]], [[Stands in Tar]], [[Yargath]], and cultist raiders.
+
+### 🍻 Wayside Inn & High Road Hearth (11 Entities)
+* [[Martisha Vinetalker]] (Proprietor & Former Bandit Captain), [[Cooragh]] (Head Cook & Spicy Meat Pie Virtuoso), [[Corwin]], [[Teega]], [[Tarbin Tul]], [[Syleen Wintermoon]], [[Baatorius]], [[Cray Onderquill]], [[Favora Corehoarder]], [[Gori]], [[Koz]].
+
+### 🐊 Wilderness, Mere of Dead Men & Beasts (9 Entities)
+* [[Grixxugroaz]] (Lizardfolk Sovereign) & [[Matriarch Qolzaz]] (Mere of Dead Men), [[Slosh]] (Lizardfolk Render), [[Gustaf Stellern]] (Falcon the Hunter), [[Pell]], [[Lhammaruntosz]] (Bronze Dragon Ally), [[Xanth]] (Centaur), and livestock [[Petunia (cow)]] & [[Vincent (ox)]].
 
 ---
 

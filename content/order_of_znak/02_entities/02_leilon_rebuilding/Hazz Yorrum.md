@@ -10,8 +10,8 @@ ethnicity: damaran
 last_updated: 2026-10-12
 tags: [npc, human, damaran, hazz-yorrum, sergeant, neverwinter, leilon, lords-alliance, order-of-znak]
 aliases: ['Hazz Yorrum', 'Sergeant Hazz Yorrum', 'Sergeant Yorrum']
+modules: ['Storm Lord's Wrath', 'Sleeping Dragon's Wake', 'Divine Contention']
 ---
-
 # 🛡️ Sergeant Hazz Yorrum
 
 ## 🛡️ Overview & Personality
@@ -35,3 +35,10 @@ aliases: ['Hazz Yorrum', 'Sergeant Hazz Yorrum', 'Sergeant Yorrum']
 
 ## 💡 Behind the Screen & Trivia
 * **Official Adventure Context:** Sourced directly from *Storm Lord's Wrath*, Sergeant Yorrum represents the classic tabletop trope of the useless, bureaucratic guard captain whose cowardice highlights the heroism of the player characters.
+
+---
+
+## 📚 Sources & Canon References
+* **Forgotten Realms Wiki:** [Hazz Yorrum](https://forgottenrealms.fandom.com/wiki/Hazz_Yorrum)
+* **Official Adventure Modules:** *Storm Lord's Wrath*, *Sleeping Dragon's Wake*, *Divine Contention*
+* **Canonical Context:** Slovenly, cowardly, and corrupt sergeant commanding Neverwinter garrison soldiers stationed in Leilon.

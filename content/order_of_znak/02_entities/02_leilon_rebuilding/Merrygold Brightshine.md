@@ -12,8 +12,8 @@ deity: lathander
 last_updated: 2026-10-12
 tags: [npc, halfling, cleric, priest, lathander, leilon, shrine-of-lathander, order-of-znak]
 aliases: ['Merrygold Brightshine', 'Merrygold', 'Priestess Brightshine']
+modules: ['Storm Lord's Wrath', 'Sleeping Dragon's Wake', 'Divine Contention']
 ---
-
 # ☀️ Merrygold Brightshine
 
 ## 🛡️ Overview & Personality
@@ -47,3 +47,10 @@ aliases: ['Merrygold Brightshine', 'Merrygold', 'Priestess Brightshine']
 
 ## 💡 Behind the Screen & Trivia
 * **Statblock & Mechanics:** Merrygold utilizes the standard D&D 5e **Priest** statistics, equipped with radiant light spells, *Cure Wounds*, and blessings of the Morninglord.
+
+---
+
+## 📚 Sources & Canon References
+* **Forgotten Realms Wiki:** [Merrygold Brightshine](https://forgottenrealms.fandom.com/wiki/Merrygold_Brightshine)
+* **Official Adventure Modules:** *Storm Lord's Wrath*, *Sleeping Dragon's Wake*, *Divine Contention*
+* **Canonical Context:** Amiable lightfoot halfling priest of Lathander (Morninglord) who founded the Shrine of Lathander in Leilon and supported the town workers.

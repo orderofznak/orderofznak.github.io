@@ -9,8 +9,8 @@ species: half-elf
 last_updated: 2026-10-12
 tags: [npc, half-elf, martisha-vinetalker, wayside-inn, bandit-captain, high-road, order-of-znak]
 aliases: ['Martisha Vinetalker', 'Martisha', 'Innkeeper Martisha']
+modules: ['Storm Lord's Wrath', 'Sleeping Dragon's Wake', 'Divine Contention']
 ---
-
 # 🍷 Martisha Vinetalker
 
 ## 🛡️ Overview & Personality
@@ -42,3 +42,10 @@ aliases: ['Martisha Vinetalker', 'Martisha', 'Innkeeper Martisha']
 
 ## 💡 Behind the Screen & Trivia
 * **Official Adventure Context:** Sourced directly from *Storm Lord's Wrath* (*"Wayside Inn"* encounter), Martisha provides a sharp, morally gray ally whose pragmatic self-interest aligns perfectly with regional frontier survival.
+
+---
+
+## 📚 Sources & Canon References
+* **Forgotten Realms Wiki:** [Martisha Vinetalker](https://forgottenrealms.fandom.com/wiki/Martisha_Vinetalker)
+* **Official Adventure Modules:** *Storm Lord's Wrath*, *Sleeping Dragon's Wake*, *Divine Contention*
+* **Canonical Context:** Shrewd half-elf proprietor of the Wayside Inn on the High Road and former bandit captain.

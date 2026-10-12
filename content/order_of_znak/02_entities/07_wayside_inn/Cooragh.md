@@ -9,8 +9,8 @@ species: half-orc
 last_updated: 2026-10-12
 tags: [npc, half-orc, cooragh, cooragh-struckt, wayside-inn, meat-pies, krageer, order-of-znak]
 aliases: ['Cooragh', 'Cooragh Struckt']
+modules: ['Storm Lord's Wrath', 'Sleeping Dragon's Wake', 'Divine Contention']
 ---
-
 # 🥧 Cooragh Struckt
 
 ## 🛡️ Overview & Personality
@@ -47,3 +47,10 @@ aliases: ['Cooragh', 'Cooragh Struckt']
 
 ## 💡 Behind the Screen & Trivia
 * **Roll20 Canonical Details:** Sourced directly from the table's Roll20 character sheet for *Storm Lord's Wrath*, detailing her full name **Cooragh Struckt**, her Luskan lineage, her bond with Martisha, and her alarmingly spicy culinary mastery.
+
+---
+
+## 📚 Sources & Canon References
+* **Forgotten Realms Wiki:** [Cooragh Struckt](https://forgottenrealms.fandom.com/wiki/Cooragh_Struckt)
+* **Official Adventure Modules:** *Storm Lord's Wrath*, *Sleeping Dragon's Wake*, *Divine Contention*
+* **Canonical Context:** Half-orc head cook at the Wayside Inn along the High Road, renowned for hearty fare and confidante to proprietor Martisha Vinetalker.

@@ -7,8 +7,8 @@ status: archived
 type: npc
 last_updated: 2026-08-11
 tags: [npc, donjon-raskin, order-of-znak, phandalin, gold-mine]
+modules: ['Dungeons & Dragons Essentials Kit (Dragon of Icespire Peak)']
 ---
-
 # 🤠 DonJon Raskin
 
 ## 🛡️ Overview & Lore
@@ -24,3 +24,10 @@ tags: [npc, donjon-raskin, order-of-znak, phandalin, gold-mine]
 ## 💡 Behind the Screen & Trivia
 * **Table Portrayal & Voice:** Voiced by Peter with an exaggerated, hilarious Louisiana Cajun accent that immediately endeared him to Gary.
 * **Running Table Gags:** Peter constantly improvised colorful monologues during interactions, featuring absurdly detailed grievances about DonJon's multiple ex-wives and exaggerated brags about his mythical youth exploits.
+
+---
+
+## 📚 Sources & Canon References
+* **Forgotten Realms Wiki:** [Don-Jon Raskin](https://forgottenrealms.fandom.com/wiki/Don-Jon_Raskin)
+* **Official Adventure Modules:** *Dungeons & Dragons Essentials Kit (Dragon of Icespire Peak)*
+* **Canonical Context:** Prospector, former adventurer, and overseer of Mountain's Toe Gold Mine in the Sword Mountains, appointed by Townmaster Harbin Wester.
