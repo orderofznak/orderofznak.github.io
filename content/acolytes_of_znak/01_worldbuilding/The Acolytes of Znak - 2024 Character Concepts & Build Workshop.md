@@ -31,40 +31,48 @@ This workshop provides Peter and Gary with three concrete pathways for each char
 
 ### 1. ⚔️ Burnice Znak (Peter's PC)
 * **Mentor Heritage:** [[Myagkiy Znak]] (sacrificial healing, radiant protection) + Dark Otherworldly Pact (born from childhood trauma surviving the Leilon kraken cult ritual).
-* **Thematic Fantasy:** A holy frontline crusader who channel dark cosmic power to ensure no innocent child suffers a similar fate.
+* **Canonical 5e Starting Baseline:**
+  * **Level Split:** Paladin 2 (Starting Class) / Warlock 1 (Total Level 3)
+  * **Point Buy Stats:** STR 16 (+3) | DEX 8 (-1) | CON 15 (+2) | INT 8 (-1) | WIS 8 (-1) | CHA 16 (+3)
+  * **Combat Baseline:** AC 16 (Chain Mail) or AC 18 (Chain Mail + Shield + Spear), HP 27, Speed 30 ft
+  * **Feat:** **Polearm Master (PAM)** (Bonus-action 1d4 strike; opportunity attacks on entering reach)
+  * **Fighting Style:** **Blind Fighting** (10 ft Blindsight — trained specifically to fight inside [[Graxxoamo]]'s magical darkness!)
+  * **Skills & Languages:** Athletics, Religion, Insight, Deception, Intimidation; Common, Giant, Elvish, Draconic
+  * **Weapons & Magic:** Glaive, Spear, Longbow; Divine Smite, *Compelled Duel*, *Protection from Good and Evil*, *Thunderous Smite*, *Wrathful Smite*, *Eldritch Blast*, *Green-Flame Blade*, *Armor of Agathys*, *Hex*.
 
 ```mermaid
 flowchart LR
-    BZ[Burnice Znak<br/>Holy Guardian + Dark Blade] --> PathA[Path A: Pure Paladin<br/>Oath of the Watchers / Vengeance]
-    BZ --> PathB[Path B: Paladin X / Warlock 1<br/>Pact of the Blade Dip]
-    BZ --> PathC[Path C: Pure Celestial Warlock<br/>Pact of the Blade + Healing Light]
+    BZ[Burnice Znak<br/>STR 16 | CON 15 | CHA 16<br/>Paladin 2 / Warlock 1 (Level 3)<br/>Polearm Master + Blind Fighting] --> PathA[Path A: Pure Paladin<br/>Oath of the Watchers<br/>Lvl 4: Resilient Con -> CON 16<br/>Lvl 5: Extra Attack | Lvl 6: Aura]
+    BZ --> PathB[Path B: Paladin X / Warlock 1<br/>Existing 2/1 Hybrid<br/>Pact of the Blade + Short Rest Slots<br/>Lvl 4: Watchers | Lvl 6: Extra Attack]
+    BZ --> PathC[Path C: Pure Celestial Warlock<br/>Pact of the Blade + Healing Light<br/>Lvl 5: Thirsting Blade Extra Attack]
 ```
 
 #### Pathway Comparison
 
-| Feature | Path A: Pure Paladin (Watchers / Vengeance) | Path B: Paladin X / Warlock 1 Dip | Path C: Pure Celestial Blade Warlock |
+| Feature | Path A: Pure Paladin (Watchers / Vengeance) | Path B: Paladin X / Warlock 1 (Existing 2/1) | Path C: Pure Celestial Blade Warlock |
 | :--- | :--- | :--- | :--- |
 | **Primary Class** | Paladin (Level 3–10) | Paladin (starts Lvl 2) / Warlock (starts Lvl 1) | Warlock (Level 3–10) |
-| **Subclass** | **Oath of the Watchers** or **Vengeance** | Oath of the Watchers / Fiend or Celestial | **Celestial Patron** |
+| **Subclass** | **Oath of the Watchers** or **Vengeance** | Oath of the Watchers / Hexblade or Celestial | **Celestial Patron** |
 | **Subclass Online** | **Level 3 (Immediate)** | Level 4 | **Level 3 (Immediate)** |
 | **Extra Attack** | **Level 5** | Level 6 | **Level 5 (Thirsting Blade)** |
-| **Stat Dependency** | Str 16, Cha 14, Con 14 | **SAD:** Cha 16, Con 14, Str 13 | **SAD:** Cha 16, Con 14, Dex 14 |
-| **Weapon Mastery** | 2 Masteries (Topple / Sap) | 2 Masteries (Paladin Lvl 1) | None (unless taking Weapon Master feat) |
-| **Patron Flavor** | *Magic Initiate (Warlock)* for EB & Hex; *Watcher's Will* & extraplanar turning | *Pact of the Blade* at Warlock 1 (Cha attacks + Force damage) | Full Pact Magic + *Healing Light* pool (Myagkiy's healing dice) |
+| **Stat Optimization** | **Str 16, Con 15, Cha 16:** Level 4 Feat (*Resilient: Con*) &rarr; **Con 16 (+3)** (Con save prof for concentration) | Same stat array; delayed ASIs/Feats to Lvl 5 | **SAD:** Cha 16, Con 16 (via feat), Str 15/16 |
+| **Weapon Mastery** | 2 Masteries: **Glaive (Graze)** (guaranteed damage on miss) + **Spear (Sap)** (enemy disadvantage) | 2 Masteries (Paladin Lvl 1): Graze + Sap | None (unless taking Weapon Master feat) |
+| **Graxxoamo Darkness Synergy** | **10 ft Blind Fighting:** Fights inside Graxx's *Darkness* with permanent Advantage & enemy Disadvantage | **10 ft Blind Fighting:** Fights inside Graxx's *Darkness* with permanent Advantage & enemy Disadvantage | Gains *Devil's Sight* (120 ft darkness vision) |
+| **Patron & Spell Core** | Sworn extraplanar hunter (*Watcher's Will* saving throw advantage; extraplanar turning) | *Pact of the Blade* at Warlock 1 (Cha attacks + Force damage) + *Armor of Agathys* | Full Pact Magic + *Healing Light* pool (Myagkiy's healing dice) |
 
 #### Recommended Min/Max Progression Schemes:
-* **Path A (Pure Watchers Paladin):**
+* **Path A (Pure Watchers Paladin — Recommended):**
   * *Level 3:* Paladin 3 (Take Oath of the Watchers. Channel Divinity: *Watcher's Will* gives advantage on Int/Wis/Cha saves to self and allies; *Abjure the Extraplanar* turns aberrations, fiends, and elementals).
-  * *Level 4:* Paladin 4 (Feat: *Heavy Armor Master* or *War Caster*).
+  * *Level 4:* Paladin 4 (Feat: **Resilient [Constitution]** &rarr; **Con to 16 (+3)**, adds +1 HP/level, and gives proficiency in Constitution saving throws to maintain *Bless*, *Protection from Evil*, or *Hex*).
   * *Level 5:* Paladin 5 (Extra Attack, 2nd-level spells: *Moonbeam*, *Aid*, *Find Steed*).
-  * *Level 6:* Paladin 6 (*Aura of Protection* adds +Cha to ALL saving throws for party).
+  * *Level 6:* Paladin 6 (*Aura of Protection* adds +3 to ALL saving throws for party).
   * *Level 7:* Paladin 7 (*Aura of the Sentinel* adds +Proficiency to party initiative).
-  * *Level 8:* Paladin 8 (ASI: Charisma to 18).
+  * *Level 8:* Paladin 8 (ASI: Charisma or Strength to 18).
   * *Level 9–10:* Paladin 9–10 (3rd-level spells: *Counterspell*, *Revivify*, *Aura of Courage*).
-* **Path B (Paladin X / Warlock 1 Dip):**
-  * *Level 3:* Paladin 2 / Warlock 1 (Start with Paladin 2 for heavy armor & Divine Smite; take Warlock 1 for *Pact of the Blade* making melee attacks with Charisma + short-rest spell slot).
+* **Path B (Paladin X / Warlock 1 — Existing 2/1 Hybrid):**
+  * *Level 3:* Paladin 2 / Warlock 1 (Heavy armor, Blind Fighting, Divine Smite, *Pact of the Blade* for Charisma weapon attacks, 1 short-rest slot for *Armor of Agathys*).
   * *Level 4:* Paladin 3 / Warlock 1 (Unlock Oath of the Watchers or Vengeance).
-  * *Level 5:* Paladin 4 / Warlock 1 (Feat: *War Caster* or Cha +2).
+  * *Level 5:* Paladin 4 / Warlock 1 (Feat: *Resilient: Con* or Cha to 18).
   * *Level 6:* Paladin 5 / Warlock 1 (Extra Attack unlocks).
   * *Level 7:* Paladin 6 / Warlock 1 (*Aura of Protection*).
   * *Level 8–10:* Paladin 7–9 / Warlock 1 (Paladin aura upgrades and 3rd-level spells).
