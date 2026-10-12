@@ -10,7 +10,7 @@ tags: [character-sheet, goliath, barbarian, fighter, krageer, order-of-znak]
 # 🛡️ Krageer Stoneface Ogolakanu
 
 ## Character Overview & Stats
-* **Player:** [[Gary Forsyth]]
+* **Player:** Gary
 * **Race:** Goliath
 * **Class:** Level 13 Multiclass — Level 9 Barbarian (Totem Warrior) / Level 4 Fighter (Champion Archetype)
 * **Background:** Soldier

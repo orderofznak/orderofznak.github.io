@@ -12,7 +12,7 @@ tags: [tabletop, dnd2024, acolytes-of-znak, strahd, ravenloft, on-hold, plan]
 # 🏰 The Acolytes of Znak — Campaign Plan (Curse of Strahd)
 
 ## Overview
-***The Acolytes of Znak*** is a planned D&D campaign set in Barovia (*Curse of Strahd*) using the **D&D 2024 / 5.5e ruleset**, DMed by User for [[Gary Forsyth]]. The party consists of the grown-up orphaned wards (**Burnice** and **Smithwell**) and lizardfolk exchange allies (**Graxxoamo** and **Shriss**) of [[The Order of Znak]], along with **Yasmina**. Each PC is built as a Level 3 multiclass inheriting abilities and traits from their mentors/parents.
+***The Acolytes of Znak*** is a planned D&D campaign set in Barovia (*Curse of Strahd*) using the **D&D 2024 / 5.5e ruleset**, DMed by User for Gary. The party consists of the grown-up orphaned wards (**Burnice** and **Smithwell**) and lizardfolk exchange allies (**Graxxoamo** and **Shriss**) of [[The Order of Znak]], along with **Yasmina**. Each PC is built as a Level 3 multiclass inheriting abilities and traits from their mentors/parents.
 
 ---
 

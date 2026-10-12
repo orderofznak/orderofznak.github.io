@@ -15,7 +15,7 @@ tags: [character-sheet, aarakocra, monk, drunken-master, tvyordiy-znak, order-of
 * **Class:** Level 13 Monk (Way of the Drunken Master, single class)
 * **Background:** Urchin | **Feat:** Crusher
 * **Personality & Voice:** Surprisingly **deep voice** despite his avian Aarakocra nature; neutral, pragmatic, and measured in all interactions.
-* **Linguistic Origin (Твёрдый знак / Ъ):** Named after the Russian Cyrillic "Hard Sign" (Ъ) inspired by conversations at **RMS** with coworker [[Grigory Romanovsky]]. The symbol represents firmness, hardness, and unyielding impact, directly reflecting his stoic temperament, wereboar resilience, and martial Drunken Master strikes.
+* **Linguistic Origin (Твёрдый знак / Ъ):** Named after the Russian Cyrillic "Hard Sign" (Ъ) inspired by conversations at work with coworker Grigory. The symbol represents firmness, hardness, and unyielding impact, directly reflecting his stoic temperament, wereboar resilience, and martial Drunken Master strikes.
 * **Special Condition / Lore:** Infected with **Wereboar Lycanthropy** (Strength 17, hybrid boar form capabilities)
 * **Ability Scores:** STR 17 (+3) | DEX 20 (+5) | CON 15 (+2) | INT 8 (-1) | WIS 19 (+4) | CHA 8 (-1)
 * **Armor Class (AC):** **20 AC** (Unarmored Defense)

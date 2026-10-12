@@ -12,10 +12,10 @@ tags: [tabletop, dnd5e, order-of-znak, icespire-peak, cmon-listen, keeping-the-f
 # 🐉 The Order of Znak — Complete Campaign Chronicle
 
 ## Overview & Real-World Genesis
-***The Order of Znak*** was a long-running, 1-on-1 dual-character campaign saga between User and [[Gary Forsyth]].
+***The Order of Znak*** was a long-running, 1-on-1 dual-character campaign saga between User and Gary.
 
-### The RMS Connection & Linguistic Origin of "Znak"
-The naming of the party and its core characters originated from real-world conversations at **RMS** (Risk Management Solutions), where User and Gary worked with their Russian colleague **[[Grigory Romanovsky]]**. While exploring Russian language mechanics, User and Gary became intrigued by the linguistic concept of **Znak (Знак — sign/mark)**, specifically the Cyrillic alphabet's two silent modifying signs:
+### Linguistic Origin of "Znak"
+The naming of the party and its core characters originated from real-world conversations at a former tech workplace, where User and Gary worked with their Russian colleague **Grigory**. While exploring Russian language mechanics, User and Gary became intrigued by the linguistic concept of **Znak (Знак — sign/mark)**, specifically the Cyrillic alphabet's two silent modifying signs:
 * **Твёрдый знак (Ъ — Tvyordiy Znak / The Hard Sign):** Signifying firmness, hardness, and unyielding impact. This became User's high-mobility, resilient Aarakocra Drunken Master Monk (carrying wereboar lycanthropy): **[[Tvyordiy Znak]] (Ъ)**.
 * **Мягкий знак (Ь — Myagkiy Znak / The Soft Sign):** Signifying softness, soothing, and life-preserving grace. This became User's fearless, 24 AC battle cleric: **[[Myagkiy Znak]] (Ь)**.
 
@@ -68,7 +68,7 @@ Rather than playing the expansion trilogy (*Storm Lord's Wrath*, *Sleeping Drago
 * **Tempest Dreadnaught Climax:** Epic flagship sea battle beneath an apparition of **Talos**, fighting **[[Fheralai Stormsworn]]**, an **Air Elemental Myrmidon**, and a **Nalfeshnee demon**.
 
 ### 7. Bridge Campaign (WIP / On Hold)
-* **DM:** Gary Forsyth. Work-in-progress bridge adventure for the original 4 PCs of *The Order of Znak* prior to Strahd.
+* **DM:** Gary. Work-in-progress bridge adventure for the original 4 PCs of *The Order of Znak* prior to Strahd.
 
 ---
 

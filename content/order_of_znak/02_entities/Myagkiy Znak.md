@@ -16,7 +16,7 @@ tags: [character-sheet, human, cleric, life-domain, myagkiy-znak, order-of-znak]
 * **Background:** Hermit
 * **Feats:** Observant, Resilient (Constitution)
 * **Philosophy:** Dedicated to preserving life at all costs.
-* **Linguistic Origin (Мягкий знак / Ь):** Named after the Russian Cyrillic "Soft Sign" (Ь) inspired by conversations at **RMS** with coworker [[Grigory Romanovsky]]. The symbol represents softening, soothing, and modifying harshness, embodying his role as a compassionate, life-preserving battle cleric who tempers the party's ferocious frontline.
+* **Linguistic Origin (Мягкий знак / Ь):** Named after the Russian Cyrillic "Soft Sign" (Ь) inspired by conversations at work with coworker Grigory. The symbol represents softening, soothing, and modifying harshness, embodying his role as a compassionate, life-preserving battle cleric who tempers the party's ferocious frontline.
 * **Ability Scores:** STR 19 (+4) | DEX 8 (-1) | CON 19 (+4) | INT 8 (-1) | WIS 20 (+5) | CHA 12 (+1) *(STR boosted by Gauntlets of Ogre Power)*
 * **Armor Class (AC):** **24 AC** (Dayne's +2 Plate Armor & +2 Shield)
 

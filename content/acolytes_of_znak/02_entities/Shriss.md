@@ -10,7 +10,7 @@ tags: [character-sheet, lizardfolk, cleric, druid, shriss, acolytes-of-znak]
 # 🌿 Shriss
 
 ## Profile & Character Sheet (Level 3)
-* **Player:** [[Gary Forsyth]]
+* **Player:** Gary
 * **Race:** Lizardfolk
 * **Class:** Level 3 Life Domain Cleric / Druid multiclass
 * **Origin:** Joined [[The Order of Znak]] as a lizardfolk exchange warrior following the alliance formed after defeating the undead trolls.

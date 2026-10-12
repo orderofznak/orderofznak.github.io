@@ -10,7 +10,7 @@ tags: [character-sheet, elf, ranger, rogue, gloomstalker, assassin, rhynok, orde
 # 🏹 Rhynok
 
 ## Character Overview & Stats
-* **Player:** [[Gary Forsyth]]
+* **Player:** Gary
 * **Race:** Elf
 * **Class:** Level 13 Multiclass — Level 8 Ranger (Gloomstalker) / Level 5 Rogue (Assassin)
 * **Fighting Style:** Archery Fighting Style (+2 to ranged attack rolls)
