@@ -55,6 +55,7 @@ tags: [tabletop, dnd5e, order-of-znak, icespire-peak, cmon-listen, keeping-the-f
 * **Volcano Climax Boss Battle:** The epic culmination of the adventure—[[Myagkiy Znak]] cast *Enlarge* on [[Krageer Stoneface Ogolakanu]], allowing Krageer to wrestle the **Fire Giant Queen** in molten grapple combat inside a dormant volcano!
 
 ### 6. Act 4: *Divine Contention* (*"C'mon, Listen"* Finale)
+* **The Perils of Dumathoin's Gulch:** The Order traversed the jagged Sword Mountains canyon to rendezvous with Gnomengarde inventors. During a vicious ambush by feral wereboars outside the gulch, [[Tvyordiy Znak]] contracted wereboar lycanthropy, mutating the avian monk into a tusked, high-strength hybrid powerhouse.
 * **Tempest Dreadnaught Climax:** Epic flagship sea battle beneath an apparition of **Talos**, fighting high priestess **[[Fheralai Stormsworn]]**, an **Air Elemental Myrmidon**, and a **Nalfeshnee demon**.
 
 ### 7. Bridge Campaign (WIP / On Hold)
@@ -69,7 +70,7 @@ tags: [tabletop, dnd5e, order-of-znak, icespire-peak, cmon-listen, keeping-the-f
 | **[[Krageer Stoneface Ogolakanu]]** | Goliath Barbarian Totem / Fighter Champion | Lvl 13 | Gary | Frontline damage-dealing meat shield (*Ultima Exodus* +2 Greataxe & GWM) |
 | **[[Rhynok]]** | Elf Ranger Gloomstalker / Rogue Assassin | Lvl 13 | Gary | Backline ranged sniper (+2 Longbow, Gloomstalker/Assassin first-round crits) |
 | **[[Myagkiy Znak]] (Ь)** | Variant Human Life Domain Cleric | Lvl 13 | Peter | Fearless 24 AC battle cleric (Dayne's +2 Plate & +2 Shield, life-preserving & healing) |
-| **[[Tvyordiy Znak]] (Ъ)** | Aarakocra Monk Drunken Master (Wereboar Lycanthropy) | Lvl 13 | Peter | High-mobility shock troop (Flight, Stunning Strikes, Crusher forced movement) |
+| **[[Tvyordiy Znak]] (Ъ)** | Aarakocra Monk Drunken Master (Wereboar Lycanthropy) | Lvl 13 | Peter | High-mobility shock troop (Flight, Stunning Strikes, Crusher forced movement; contracted lycanthropy at [[Dumathoin's Gulch]]) |
 
 ---
 
