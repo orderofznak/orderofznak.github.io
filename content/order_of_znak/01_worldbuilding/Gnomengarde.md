@@ -28,6 +28,7 @@ modules: ["Dragon of Icespire Peak", "Divine Contention"]
 ---
 
 ## ⚔️ Campaign Milestones & Party History
+* **Arrival & The Facktoré Incident:** Upon entering Gnomengarde, [[The Order of Znak]] was fired upon by [[Facktoré]] testing her autoloading crossbow contraption, shooting [[Rhynok]]. Cooler heads prevailed before she could do further (minor) harm, and the party was escorted to chief inventors [[Fibblestib Pinebark]] and [[Dabbledob Plasterpatch]]—though [[Krageer Stoneface Ogolakanu|Krageer]] manhandled one or two gnome guards along the way.
 * **The Mimic Crisis (Act 1 — *Dragon of Icespire Peak*):** When several gnomes vanished mysteriously, King Korboz locked King Gnerkli away in a paranoid panic, fearing a shapechanger had possessed him. [[The Order of Znak]] investigated the enclave, uncovered a predatory mimic disguised as furniture, and eliminated the creature.
 * **Invention of the Sanity Ray:** The heroes assisted Fibblestib and Dabbledob in testing and deploying the *Sanity Ray* device to pacify and restore King Korboz's mental composure.
 * **Siege Support (Act 4 — *Divine Contention*):** In gratitude for their liberation, the inventors of Gnomengarde provided experimental weaponry—including alchemical *Gnomengarde grenades* and magical siege support—to aid the Order during the climactic defense of [[Leilon]] against the undead armies of [[Ularan Mortus]].

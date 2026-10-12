@@ -35,8 +35,8 @@ Dabbledob was argumentative, and preferred solutions to problems which addressed
 Dabbletob was also skilled at creating magic items. In turn, both inventors were highly devoted to their kings, [[Gnerkli]] and [[Korboz]], but could be somewhat indifferent toward the well-being of other members of the kingdom.
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Met
+* **Party Notes:** [[The Order of Znak]] was escorted to Dabbledob and [[Fibblestib Pinebark]] after de-escalating an altercation with [[Facktoré]] (who shot [[Rhynok]]), navigating past gnome guards whom [[Krageer Stoneface Ogolakanu|Krageer]] briefly manhandled on the route.
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Dabbledob Plasterpatch](https://forgottenrealms.fandom.com/wiki/Dabbledob%20Plasterpatch)

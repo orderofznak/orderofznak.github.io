@@ -36,6 +36,7 @@ tags: [character-sheet, goliath, barbarian, fighter, krageer, order-of-znak]
   * **Adamantine Shackles:** Used to restrain high-value captive foes.
 
 ## 📜 Key Story Beats & Milestones
+* **Gnomengarde Guard Escort:** Manhandled one or two gnome guards along the path while the party was being escorted to [[Fibblestib Pinebark]] and [[Dabbledob Plasterpatch]] following the [[Facktoré]] crossbow encounter.
 * **Dormant Volcano Climax:** Enlarged by **[[Myagkiy Znak]]**'s magic to colossal proportions, wrestling the **Fire Giant Queen** in molten grapple combat inside a dormant volcano during *"Keeping the Faith"*.
 * **Wayside Inn Romance:** Developed an enduring romance with cook **[[Cooragh]]** at the Wayside Inn.
 * **Woodland Manse Needle Blights:** Pincushioned and knocked unconscious during an early retreat, carried to safety by **[[Tvyordiy Znak]]**.
