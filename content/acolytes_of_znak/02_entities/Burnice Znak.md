@@ -12,8 +12,8 @@ tags: [character-sheet, paladin, warlock, hexblade, burnice-znak, acolytes-of-zn
 # ⚔️ Burnice Znak
 
 ## 🛡️ Overview & Character Lore
-* **Origin & Adoption:** Orphaned in childhood during the calamitous Kraken Priest assault on Leilon, then taken into the care and protection of [[The Order of Znak]] alongside his adoptive brother [[Smithwell Znak]].
-* **Heritage & Vows:** Raised within the shadow of titans, Burnice bound his warrior oaths to a sacred yet shadowed blade, swearing to defend the innocent against cosmic terrors.
+* **Origin & Adoption:** Born the child of Leilon fishers, Burnice and his childhood companion [[Smithwell Znak]] were caught in the crossfire of the kraken cult assault on Leilon (*"A Normal Day in Leilon"* in *Storm Lord's Wrath*). The heroes of [[The Order of Znak]] intervened, driving back the tiefling Kraken Priest **Nixoxious** and rescuing the terrified boys from the marshes—only to discover their parents had already been sacrificed in the water elemental summoning rites. The champions adopted both orphans into the Order, giving them the name **Znak** and raising them at their Leilon headquarters.
+* **Heritage & Vows:** Raised under the spiritual guidance of [[Myagkiy Znak]], Burnice grew up witnessing the severe cost of cosmic and primordial evil. He forged holy martial vows complemented by a shadowy patron blade to ensure no innocent child would suffer a similar fate.
 
 ## 📊 In-Game Mechanics (Level 3 Starting Build)
 * **Class:** Level 3 Multiclass — Paladin / Hexblade Warlock
@@ -27,4 +27,5 @@ tags: [character-sheet, paladin, warlock, hexblade, burnice-znak, acolytes-of-zn
 
 ## 💡 Behind the Screen & Trivia
 * **Player:** Played by Peter in *The Acolytes of Znak*.
-* **Character Concept:** Designed as a thematic heir blending [[Myagkiy Znak]]'s divine convictions with dark planar martial power.
+* **Official D&D 5e Module Origin:** In Wizards of the Coast's *Storm Lord's Wrath*, Burnice is one of two 10-year-old NPC children (alongside Smithwell) introduced in *"A Normal Day in Leilon"*. When the town fishery is attacked by a kraken priest, the missing children become the objective of an urgent rescue mission.
+* **Character Concept & Second-Generation Evolution:** While Smithwell gravitated toward Krageer's chaotic skaldic traditions, Burnice was conceived as the moral and spiritual successor to [[Myagkiy Znak]], combining righteous conviction with hexblade darkness.
