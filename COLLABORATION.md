@@ -86,3 +86,37 @@ To maintain an immersive experience while preserving our rich table history:
      - **Table Portrayal & Roleplay:** Impromptu accents (Cajun DonJon Raskin), ex-wives banter, player reactions.
      - **DM Encounter Tuning:** Up-scaling boss fights, adding minions to challenge min-maxed DPR.
 
+
+
+---
+
+## 🛠️ (Optional) Organization Automation & Data Tools
+
+For bulk importing canonical D&D lore or running automated data extraction, the organization provides standalone tools in the private repository **[`orderofznak/tools`](https://github.com/orderofznak/tools)**.
+
+> [!TIP]
+> **Using these tools is 100% optional.** You can always write and edit notes manually in Markdown using Obsidian or your favorite editor. The scripts simply eliminate tedious copy-pasting when referencing official published Wizards of the Coast campaigns.
+
+### Forgotten Realms Wiki Crawler (`orderofznak/tools`)
+If you want to pull characters, lore, and portrait illustrations for an official campaign (e.g., *Curse of Strahd* for *Acolytes of Znak* or *Vecna: Eve of Ruin*):
+
+1. **Clone the Tools Repository:**
+   ```bash
+   git clone https://github.com/orderofznak/tools.git
+   cd tools
+   ```
+2. **Preview Discovered Characters (Dry Run):**
+   ```bash
+   python main.py --preset acolytes_of_znak --dry-run
+   ```
+3. **Crawl & Export Directly into Wiki Content:**
+   ```bash
+   # Crawls Curse of Strahd directly into the Acolytes entity folder
+   python main.py --preset acolytes_of_znak -o ../orderofznak.github.io/content/acolytes_of_znak/02_entities/
+   ```
+4. **Custom Modules:**
+   ```bash
+   python main.py --modules "Lost_Mine_of_Phandelver" --campaign cousins_and_dragons -o ./output/
+   ```
+
+All generated notes feature Quartz-ready YAML frontmatter, portrait downloads, and a dedicated `## ⚔️ Campaign Interactions & Party Encounters` section for table-specific notes.
