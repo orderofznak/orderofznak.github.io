@@ -52,7 +52,7 @@ All seemed peaceful until the fateful day his band encountered a group of roving
 
 Yet fate had a darker irony in store. **Rot trolls**—the ravenous, plague-ridden scourge of the Mere—had been stalking both parties through the fog and ambushed the battlefield at that very moment. Faced with annihilation by the undead trolls, [[The Order of Znak]] and the surviving lizardfolk formed an immediate, desperate shield wall. Fighting shoulder to shoulder, the holy light of [[Myagkiy Znak]], the thunderous rage of [[Krageer Stoneface Ogolakanu]], the avian fists of [[Tvyordiy Znak]], and the lethal sniping of [[Rhynok]] turned the tide. By the battle's end, shared blood and mutual survival forged an enduring alliance.
 
-Determined to honor their fallen matriarch and bring glory back to their wandering tribe, Graxxoamo and mystic [[Shriss]] traveled north to **Leilon** as exchange envoys to study under the Order. Graxx apprenticed exclusively under **Tvyordiy Znak** and **Rhynok**, absorbing the disciplined martial philosophy of the fist, the predatory precision of the bow, and the arts of concealment in shadows.
+Determined to honor their fallen matriarch and preserve the peace accord ratified by supreme tribal chieftain **[[Grixxugroaz]]**, Graxxoamo and mystic [[Shriss]] traveled north to **[[Leilon]]** as exchange envoys to study under the Order. Upon arrival, they were warmly welcomed into the fortified estate by majordomo **[[Leopold]]** and introduced to the morning ceremonies of **[[Merrygold Brightshine]]**. Graxx apprenticed exclusively under **Tvyordiy Znak** and **Rhynok**, absorbing the disciplined martial philosophy of the fist, the predatory precision of the bow, and the arts of concealment in shadows.
 
 Growing up alongside the Order's adopted orphan wards ([[Burnice Znak]] and [[Smithwell Znak]]) and rescued ward [[Yasmina]], Graxx formed the core of ***The Acolytes of Znak***. Together, the second generation ran regional defense errands, cleared roads along the High Road, and developed an instinctive combat synergy. Now, as the mists of Barovia (*Curse of Strahd*) begin to gather, Graxx brings his reptilian discipline, swamp-honed survival instincts, and pocketful of questionable snacks to the fight against Strahd von Zarovich.
 
@@ -146,4 +146,4 @@ With Graxx's starting ability spread sitting at **DEX 17 / CON 15 / WIS 16**, th
 
 *Related Notes:*
 * [[The Acolytes of Znak Campaign Plan]] | [[The Acolytes of Znak - 2024 Character Concepts & Build Workshop]]
-* [[The Order of Znak]] | [[Tvyordiy Znak]] | [[Rhynok]] | [[Matriarch Qolzaz]] | [[Shriss]]
+* [[The Order of Znak]] | [[Tvyordiy Znak]] | [[Rhynok]] | [[Matriarch Qolzaz]] | [[Grixxugroaz]] | [[Shriss]] | [[Leopold]]

@@ -5,7 +5,7 @@ system: dnd5e
 campaign: order_of_znak
 status: archived
 type: location
-last_updated: 2026-08-12
+last_updated: 2026-10-12
 tags: [location, leilon, sword-coast, lords-alliance, worldbuilding, order-of-znak]
 aliases: [Leilon, Town of Leilon, Leilon Settlement, Town of the High Road]
 ---
@@ -15,26 +15,56 @@ aliases: [Leilon, Town of Leilon, Leilon Settlement, Town of the High Road]
 ## 📜 In-Universe Lore & History
 * **Strategic Crossroads:** An ancient settlement situated along the High Road between Neverwinter and Waterdeep, nestled near the eastern edge of the Mere of Dead Men and beneath the western ridges of the Sword Mountains.
 * **The Reconstruction Effort:** Following decades of abandonment and devastation, the town was formally reclaimed and rebuilt under the authority of the **Lords' Alliance** (spearheaded by Neverwinter's Lord Protector Dagult Neverember) to secure trade transit and revive coastal commerce.
-* **Key Districts & Landmarks:**
-  * **The Fishery & Shorelines:** The primary lifeblood and economic engine of the town, harvesting fish from the coastal shallows.
-  * **Shrine of Lathander:** Dedicated to the Morninglord, offering solace and medical aid to incoming settlers and pilgrims.
-  * **House of Thalivar:** An ominous, ruined wizard's tower dominating the town center, containing lingering arcane wards and planar hazards.
-  * **The Order of Znak Headquarters:** The fortified base of operations and personal residence constructed by [[The Order of Znak]], serving as the martial bastion defending the town.
+* **Civic Rebuilding Leadership:** Rebuilding was directed by gruff dwarf master builder **[[Grizzelda Copperwraught]]** ("The Growler"), commissioned by Neverember to direct work crews and dispense tenday wages. Official defense was garrisoned by Neverwinter soldiers under the slovenly, corrupt **[[Hazz Yorrum|Sergeant Hazz Yorrum]]**, who carried a Neverwinter shield but routinely shirked duty by deferring decisions to wizard **[[Gallio Elibro]]**.
+
+---
+
+## 🏛️ Key Districts & Landmarks
+
+### 1. The Fishery & Shorelines
+The primary lifeblood and economic engine of the town, harvesting fish from the coastal shallows. Site of the tragic kraken cult raid where fisher parents were sacrificed and young [[Smithwell and Burnice]] were orphaned before their rescue by the Order.
+
+### 2. Shrine of Lathander & The First Temple
+Dedicated to the Morninglord, offering solace, healing, and spiritual guidance. Led by the amiable, universally beloved halfling priestess **[[Merrygold Brightshine]]**, who conducts services each day at dawn and secured the charter for Leilon's first permanent temple. Merrygold and her acolytes personally assist in feeding and caring for Grizzelda's laborers outside work shifts.
+
+### 3. House of Thalivar
+An ominous, ruined wizard's tower dominating the town center, containing lingering arcane wards and planar hazards. Stationed in study H3 is the short-tempered Rashemi wizard **[[Gallio Elibro]]**, who suffers from exhaustion caused by nightly possession by the **ghost of Thalivar**, beseeching the Order to cleanse the tower's spectral manifestations.
+
+### 4. Aubrey's Peculiarities & The Swords of Leilon
+A quirky antiquities and magic curio shop run by the eccentric **[[Aubrey Silverspun]]**. Unknown to the populace, Aubrey was secretly an ancient **ghost** of the historic **Swords of Leilon**, visible only to the champions of the Order until his shop's destruction in *Divine Contention* revealed his painted portrait among the ancient heroes.
+
+### 5. The Order of Znak Headquarters
+The fortified manor and personal residence constructed by [[The Order of Znak]] with Grizzelda's masonry crews. Managed by the unflappable human majordomo **[[Leopold]]**, the estate served as the martial heart of the town, housing the heroes, their adopted wards ([[Smithwell and Burnice|Smithwell and Burnice]], [[Yasmina]]), and lizardfolk exchange allies ([[Graxxoamo]], [[Shriss]]).
+
+---
 
 ## 🎨 Cartography & Aerial Survey
 ![[Leilon-overhead.webp]]
 *Overhead Cartographic Survey of Rebuilt Leilon*
 
+---
+
 ## 🗺️ Campaign Significance & Major Sagas
-* **The Kraken Cult Raid (*"A Normal Day in Leilon"*):** When the Order arrived to establish their headquarters in Act 2 (*Storm Lord's Wrath*), the town was assaulted by the tiefling Kraken Priest **Nixoxious**. The champions drove off the cultists, interrupted the summoning ritual at the fishery, and rescued missing children [[Smithwell and Burnice|Smithwell and Burnice]], formally adopting them into the Order after their parents were sacrificed.
+* **The Kraken Cult Raid (*"A Normal Day in Leilon"*):** When the Order arrived to establish their headquarters in Act 2 (*Storm Lord's Wrath*), the town was assaulted by the tiefling Kraken Priest **Nixoxious**. The champions drove off the cultists, interrupted the summoning ritual at the fishery, and rescued missing children [[Smithwell and Burnice|Smithwell and Burnice]], formally adopting them into the Order.
+* **The High Road Alliances:** Secured a mutual protection and trade pact with the **Wayside Inn**, trading town goods for livestock and produce from former bandit captain **[[Martisha Vinetalker]]** and spicy cook **[[Cooragh|Cooragh Struckt]]**. Simultaneously established a southern swamp truce with Mere of Dead Men lizardfolk chieftain **[[Grixxugroaz]]**.
 * **Dragon Cult Incursions (*Sleeping Dragon's Wake*):** During Act 3, Leilon served as the frontline defense against dragon cultists and necrotic monstrosities threatening the High Road.
-* **The Primordial Siege (*Divine Contention*):** In Act 4, Leilon faced a multi-front coordinated invasion from Myrkulite death legions and Talosian storm cultists, prompting the Order to secure anti-siege munitions from [[Dumathoin's Gulch]] and confront [[Fheralai Stormsworn]] at sea.
+* **The Primordial Siege (*Divine Contention*):** In Act 4, Leilon faced a multi-front coordinated invasion from Myrkulite death legions and Talosian storm cultists, during which ancient green dragon **Claugiyliamatar** assaulted the town and destroyed Aubrey's Peculiarities, prompting the Order to secure anti-siege munitions from [[Dumathoin's Gulch]] and confront [[Fheralai Stormsworn]] at sea.
+
+---
 
 ## 👥 Associated Characters & Factions
 * **[[The Order of Znak]]:** Resident protectors and champions who established their permanent fortified base here.
+* **[[Leopold]]:** Human majordomo running the Order's headquarters, trade manifests, and wards care.
 * **[[Smithwell and Burnice]]:** Fisher orphans rescued during the kraken raid and raised at the Order's headquarters.
-* **[[DonJon Raskin]]:** Frontier patron and Lords' Alliance affiliate.
-* **Lords' Alliance:** Governing power rebuilding and defending the trade settlement.
+* **[[Merrygold Brightshine]]:** Amiable halfling priest of Lathander tending the town shrine and temple.
+* **[[Grizzelda Copperwraught]]:** Gruff dwarf master builder ("The Growler") overseeing Leilon's reconstruction.
+* **[[Gallio Elibro]]:** Rashemi wizard studying the House of Thalivar, possessed nightly by Thalivar's ghost.
+* **[[Aubrey Silverspun]]:** Spectral curio merchant of Aubrey's Peculiarities, ancient champion of the Swords of Leilon.
+* **[[Hazz Yorrum|Sergeant Hazz Yorrum]]:** Corrupt, cowardly Neverwinter garrison sergeant.
+* **[[Martisha Vinetalker]] & [[Cooragh|Cooragh Struckt]]:** Proprietors of the allied Wayside Inn to the north.
+* **[[Grixxugroaz]]:** Sovereign chieftain of the allied Mere of Dead Men lizardfolk tribe to the south.
+* **[[DonJon Raskin]]:** Frontier patron and Lords' Alliance mining affiliate.
+* **Lords' Alliance:** Governing power rebuilding and defending the trade settlement under Lord Dagult Neverember.
 
 ---
 

@@ -20,11 +20,11 @@ date: 2026-10-11
 * **Lifecycle:** Completed & Archived Chronicle
 * **Trilogy D&D Beyond Title:** *"C'mon, Listen"*
 * **Act 1: Dragon of Icespire Peak:** Phandalin starter arc, Mountain's Toe Gold Mine ([[DonJon Raskin]]), Woodland Manse blights escape.
-* **Act 2: Storm Lord's Wrath:** Rebuilding Leilon HQ, adopting orphans [[Burnice Znak|Burnice]] & [[Smithwell Znak|Smithwell]], Wayside Inn meat pies ([[Cooragh]]), lizardfolk clash ([[Matriarch Qolzaz]]).
+* **Act 2: Storm Lord's Wrath:** Rebuilding Leilon HQ (guided by [[Leopold]], [[Grizzelda Copperwraught]], [[Gallio Elibro]]), adopting orphans [[Burnice Znak|Burnice]] & [[Smithwell Znak|Smithwell]], Wayside Inn alliance ([[Martisha Vinetalker]], [[Cooragh]]), and lizardfolk treaty ([[Matriarch Qolzaz]], [[Grixxugroaz]]).
 * **Interlude 1: "Shadow's Run":** Gary's subterranean Shadow Dragon dungeon crawl between *Storm Lord's Wrath* and *Sleeping Dragon's Wake* (homage to PC *[[Shadowrun]]*).
 * **Act 3: Sleeping Dragon's Wake:** Escalating cult threats and Sword Coast defense.
 * **Interlude 2: "Keeping the Faith":** Gary's epic quest between *Sleeping Dragon's Wake* and *Divine Contention*—recovering stolen armor for Forge Cleric [[Dayne Beltran]], rescuing young [[Yasmina]] from a Night Hag, and culminating in the **Volcano Boss Battle** with [[Krageer Stoneface Ogolakanu|Krageer]] enlarged by [[Myagkiy Znak|Myagkiy]] wrestling the Fire Giant Queen!
-* **Act 4: Divine Contention Finale:** Flagship dreadnaught sea battle beneath the tempest apparition of **Talos** vs [[Fheralai Stormsworn]], an Air Elemental Myrmidon, and a Nalfeshnee demon.
+* **Act 4: Divine Contention Finale:** Green dragon Claugiyliamatar's siege of Leilon (revealing curio merchant [[Aubrey Silverspun]]), and flagship dreadnaught sea battle beneath the tempest apparition of **Talos** vs [[Fheralai Stormsworn]], an Air Elemental Myrmidon, and a Nalfeshnee demon.
 
 ---
 
@@ -56,7 +56,15 @@ date: 2026-10-11
 * [[Yasmina]] — Cleric / Fiend Warlock (Rescued ward with dark witch heritage)
 
 ### Prominent Allies & Nemeses
-* [[Cooragh]] — Master of meat pies at the Wayside Inn
+* [[Leopold]] — Human majordomo managing The Order of Znak's fortified estate in Leilon
+* [[Grizzelda Copperwraught]] — Master builder "The Growler", commissioned by Lord Neverember to rebuild Leilon
+* [[Gallio Elibro]] — Rashemi wizard conducting arcane research in the House of Thalivar
+* [[Merrygold Brightshine]] — Amiable halfling priest of Lathander and founder of Leilon's dawn shrine
+* [[Aubrey Silverspun]] — Curio merchant at Aubrey's Peculiarities (and ancient ghost of the Swords of Leilon)
+* [[Hazz Yorrum]] — Slovenly sergeant of the Neverwinter soldiers stationed in Leilon
+* [[Martisha Vinetalker]] — Shrewd proprietor of the Wayside Inn and former bandit captain
+* [[Cooragh]] — Half-orc master cook of spicy meat pies and confidante of Martisha
+* [[Grixxugroaz]] — Sovereign chieftain of the Mere of Dead Men lizardfolk tribe
 * [[Dayne Beltran]] — Forge Cleric ally
 * [[DonJon Raskin]] — Cajun-accented overseer of Mountain's Toe Gold Mine
 * [[Matriarch Qolzaz]] — Lizardfolk Matriarch honored in the [[Ballad of Qolzaz]]

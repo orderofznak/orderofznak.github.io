@@ -41,7 +41,8 @@ tags: [character-sheet, human, cleric, life-domain, myagkiy-znak, order-of-znak]
 
 ## 📜 Key Story Beats & Milestones
 * **Dormant Volcano Climax:** Cast *Enlarge* on **[[Krageer Stoneface Ogolakanu]]**, enabling Krageer to wrestle the **Fire Giant Queen** in molten grapple combat inside a dormant volcano during *"Keeping the Faith"*.
-* **Rescue & Adoption of the Leilon Wards:** Served as the moral compass of the party during the Kraken Priest raid on Leilon (*"A Normal Day in Leilon"*), rescuing orphaned children **[[Smithwell and Burnice|Smithwell and Burnice]]** from the marshlands after their fisher parents were sacrificed. Formally adopted them into the Order, mentoring young Burnice in spiritual devotion and the sacred protection of innocent lives.
+* **Rescue & Adoption of the Leilon Wards:** Served as the moral compass of the party during the Kraken Priest raid on Leilon (*"A Normal Day in Leilon"*), rescuing orphaned children **[[Smithwell and Burnice|Smithwell and Burnice]]** from the marshlands after their fisher parents were sacrificed. Formally adopted them into the Order, mentoring young Burnice in spiritual devotion and partnering with majordomo [[Leopold]] to provide a secure, loving home at the Leilon estate.
+* **Fellowship with Merrygold Brightshine:** In Leilon, Myagkiy forged a close spiritual bond with [[Merrygold Brightshine]], the halfling priest of Lathander. The two shared communion at the dawn shrine services, coordinated care and nourishment for town laborers alongside [[Grizzelda Copperwraught]]'s workforce, and sought the Morninglord's radiant blessings prior to hazardous frontier excursions.
 
 ---
 

@@ -12,7 +12,7 @@ tags: [tabletop, dnd2024, acolytes-of-znak, strahd, ravenloft, on-hold, plan]
 # 🏰 The Acolytes of Znak — Campaign Plan (Curse of Strahd)
 
 ## 📜 The Second Generation: Legacy in Ravenloft
-***The Acolytes of Znak*** chronicles the second generation of adventurers carrying the torch of [[The Order of Znak]]. Set within the mist-shrouded domain of Barovia (*Curse of Strahd*), the party consists of the grown-up orphaned wards (**Burnice** and **Smithwell**) rescued from the kraken cult in Leilon (*Storm Lord's Wrath*) and raised by the champions, alongside lizardfolk exchange allies (**Graxxoamo** and **Shriss**) trained and mentored by the original champions, and rescued ward **Yasmina**.
+***The Acolytes of Znak*** chronicles the second generation of adventurers carrying the torch of [[The Order of Znak]]. Set within the mist-shrouded domain of Barovia (*Curse of Strahd*), the party consists of the grown-up orphaned wards (**[[Burnice Znak|Burnice]]** and **[[Smithwell Znak|Smithwell]]**) rescued from the kraken cult in [[Leilon]] (*Storm Lord's Wrath*) and raised under the dedicated care of estate majordomo [[Leopold]] and the champions, alongside lizardfolk exchange allies (**[[Graxxoamo]]** and **[[Shriss]]**) dispatched by supreme chieftain [[Grixxugroaz]] under the Mere of Dead Men peace accord, and rescued ward **[[Yasmina]]**.
 
 ---
 
@@ -20,10 +20,10 @@ tags: [tabletop, dnd2024, acolytes-of-znak, strahd, ravenloft, on-hold, plan]
 
 | Character | Race & Multiclass Build | Player | Mentor / Heritage Connection |
 | :--- | :--- | :--- | :--- |
-| **[[Burnice Znak]]** | Lvl 3 Paladin / Hexblade Warlock | Peter | Leilon orphan ward of [[The Order of Znak]]; mentored by [[Myagkiy Znak]] in martial devotion & pact magic. |
-| **[[Graxxoamo]]** | Lvl 3 Ranger / Monk | Peter | Lizardfolk exchange warrior; trained in mobile combat & wilderness tracking. |
-| **[[Smithwell Znak]]** | Lvl 3 Bard / Barbarian | Gary | Leilon orphan ward of [[The Order of Znak]]; inspired by [[Krageer Stoneface Ogolakanu]]'s skaldic rage & battlefield song. |
-| **[[Shriss]]** | Lvl 3 Life Domain Cleric / Druid | Gary | Lizardfolk exchange warrior; trained in primal nature & divine life preservation. |
+| **[[Burnice Znak]]** | Lvl 3 Paladin / Hexblade Warlock | Peter | Leilon orphan ward of [[The Order of Znak]]; raised by [[Leopold]] & mentored by [[Myagkiy Znak]] in martial devotion & pact magic. |
+| **[[Graxxoamo]]** | Lvl 3 Ranger / Monk | Peter | Lizardfolk envoy dispatched by Chieftain [[Grixxugroaz]]; trained in mobile combat & wilderness tracking under [[Tvyordiy Znak]] & [[Rhynok]]. |
+| **[[Smithwell Znak]]** | Lvl 3 Bard / Barbarian | Gary | Leilon orphan ward of [[The Order of Znak]]; raised by [[Leopold]] & inspired by [[Krageer Stoneface Ogolakanu]]'s skaldic rage & battlefield song. |
+| **[[Shriss]]** | Lvl 3 Life Domain Cleric / Druid | Gary | Lizardfolk envoy dispatched by Chieftain [[Grixxugroaz]]; trained in primal nature & divine life preservation under [[Myagkiy Znak]]. |
 | **[[Yasmina]]** | Lvl 3 Cleric / Fiend Warlock | NPC / Party | Rescued from Night Hag in *"Keeping the Faith"*; dark witch/hag homebrew lineage. |
 
 ---

@@ -45,9 +45,9 @@ tags: [character-sheet, lizardfolk, druid, cleric, shriss, acolytes-of-znak]
 
 Unlike the fiercely athletic hunters of her clan, Shriss was drawn from youth to the esoteric mysteries of the **Mere of Dead Men**. In a harsh wetland where decay and rebirth are bound together in endless biological cycles, Shriss served as an intellectual mystic and tribal sage. She spent years observing the mosses, carnivorous flora, venomous reptiles, and necrotic miasmas of the swamp, recording her observations in handcrafted bone-bound tomes in an unending quest to unravel the fundamental laws governing life, decomposition, and souls.
 
-When her wandering clan clashed with [[The Order of Znak]]—a tragedy that saw the death of [[Matriarch Qolzaz|Matron Quolzaz]]—Shriss was present on the field. Yet when the dreaded scourge of **rot trolls** ambushed both sides, Shriss witnessed a spectacle that challenged her entire worldview: the radiant miracles of dwarf cleric [[Myagkiy Znak]]. Where the rot trolls spread rotting necrosis and gangrene, Myagkiy's divine healing restored mangled flesh instantly without the slow, brutal survivalism of reptilian biology.
+When her wandering clan clashed with [[The Order of Znak]]—a tragedy that saw the death of [[Matriarch Qolzaz|Matron Quolzaz]]—Shriss was present on the field. Yet when the dreaded scourge of **rot trolls** ambushed both sides, Shriss witnessed a spectacle that challenged her entire worldview: the radiant miracles of human cleric [[Myagkiy Znak]]. Where the rot trolls spread rotting necrosis and gangrene, Myagkiy's divine healing restored mangled flesh instantly without the slow, brutal survivalism of reptilian biology.
 
-Fascinated by this miraculous synthesis of life preservation and primal renewal, Shriss joined [[Graxxoamo]] on their diplomatic journey north to **Leilon**. There, while Graxx trained in martial arts under Tvyordiy and Rhynok, Shriss immersed herself in the theological archives and spiritual mentorship of Myagkiy Znak.
+Fascinated by this miraculous synthesis of life preservation and primal renewal, and blessed by supreme chieftain **[[Grixxugroaz]]** to honor the peace treaty with the Order, Shriss joined [[Graxxoamo]] on their diplomatic journey north to **[[Leilon]]**. At the fortified town house, they were welcomed by the Order's majordomo **[[Leopold]]**. There, while Graxx trained in martial arts under Tvyordiy and Rhynok, Shriss immersed herself in theological study alongside Myagkiy and Morninglord priestess **[[Merrygold Brightshine]]**.
 
 Taking holy vows in the **Life Domain**, Shriss fused her deep attunement to primal swamp druidcraft with Myagkiy's radiant compassion. Clad in heavy chain mail and brandishing a bone-tipped spear, she became the intellectual and spiritual anchor of ***The Acolytes of Znak***. As the mists of Barovia (*Curse of Strahd*) descend, Shriss views the domain of dread not merely as a horror, but as the ultimate biological and spiritual mystery waiting to be studied, survived, and cleansed.
 
@@ -178,4 +178,4 @@ With Shriss's starting ability spread sitting at **STR 15 / CON 15 / WIS 16**, t
 
 *Related Notes:*
 * [[The Acolytes of Znak Campaign Plan]] | [[The Acolytes of Znak - 2024 Character Concepts & Build Workshop]]
-* [[The Order of Znak]] | [[Myagkiy Znak]] | [[Graxxoamo]] | [[Burnice Znak]] | [[Smithwell Znak]]
+* [[The Order of Znak]] | [[Myagkiy Znak]] | [[Graxxoamo]] | [[Matriarch Qolzaz]] | [[Grixxugroaz]] | [[Burnice Znak]] | [[Smithwell Znak]] | [[Leopold]] | [[Merrygold Brightshine]]
