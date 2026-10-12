@@ -22,7 +22,7 @@ tags: [tabletop, dnd5e, order-of-znak, icespire-peak, cmon-listen, keeping-the-f
 | :--- | :--- | :--- | :--- |
 | **Act 1** | *Dragon of Icespire Peak* (Starter Box) | Peter | Phandalin origin; Mountain's Toe Gold Mine ([[DonJon Raskin]]); Woodland Manse needle blights escape. |
 | **Act 2** | *Storm Lord's Wrath* (*"C'mon, Listen"* Part 1) | Peter | Establishing Leilon HQ; adopting wards [[Smithwell and Burnice|Smithwell & Burnice]]; Wayside Inn meat pies ([[Cooragh]]); lizardfolk clan truce ([[Matriarch Qolzaz]] / [[Ballad of Qolzaz]]). |
-| **Interlude 1** | *Shadow Dragon Dungeon Crawl* | Gary | Cavern crawl battling shadow creatures and confronting a deadly Shadow Dragon between *Storm Lord's Wrath* and *Sleeping Dragon's Wake*. |
+| **Interlude 1** | *"Shadow's Run"* (Shadow Dragon Dungeon Crawl) | Gary | Cavern crawl battling shadow creatures and confronting a deadly Shadow Dragon between *Storm Lord's Wrath* and *Sleeping Dragon's Wake*. Titled *"Shadow's Run"* as a nostalgic nod to *[[Shadowrun]]*, the classic PC game Gary and Peter played together long ago. |
 | **Act 3** | *Sleeping Dragon's Wake* (*"C'mon, Listen"* Part 2) | Peter | Multi-front dragon cult warfare along the Sword Coast and Leilon defense. |
 | **Interlude 2** | *"Keeping the Faith"* (with Volcano Climax) | Gary | Between *Sleeping Dragon's Wake* and *Divine Contention*: recovering stolen armor for Forge Cleric [[Dayne Beltran]]; Night Hag defeat & rescue of young [[Yasmina]]; epic climax where [[Myagkiy Znak]] enlarges [[Krageer Stoneface Ogolakanu]] to wrestle the **Fire Giant Queen** in a dormant volcano. |
 | **Act 4** | *Divine Contention* (*"C'mon, Listen"* Finale) | Peter | Flagship dreadnaught sea battle beneath the tempest apparition of **Talos** vs. [[Fheralai Stormsworn]], an Air Elemental Myrmidon, and a Nalfeshnee demon. |
@@ -43,8 +43,9 @@ tags: [tabletop, dnd5e, order-of-znak, icespire-peak, cmon-listen, keeping-the-f
 * **Wayside Inn Hearth:** [[Krageer Stoneface Ogolakanu]] formed an enduring romance with cook **[[Cooragh]]** over her famous tavern meat pies.
 * **Lizardfolk Alliance & Qolzaz Tribute:** Clashed with the Mere of Dead Men lizardfolk in the Missing Patrol questline and slew Matriarch **[[Matriarch Qolzaz]]**. After helping vanquish invading undead trolls, gained the tribe's deep respect; Krageer tattooed Qolzaz on his chest (immortalized in ***[[Ballad of Qolzaz]]***). Later joined by lizardfolk exchange allies **Graxxoamo** and **Shriss**.
 
-### 3. Interlude 1: Shadow Dragon Dungeon Crawl (Gary's DM Adventure)
+### 3. Interlude 1: *"Shadow's Run"* — Shadow Dragon Dungeon Crawl (Gary's DM Adventure)
 * **Chronological Placement:** Occurred between *Storm Lord's Wrath* and *Sleeping Dragon's Wake*.
+* **Title & PC Gaming Homage:** Gary explicitly titled this homebrew module *"Shadow's Run"*, an intentional nod and retro homage to *[[Shadowrun]]*, the classic PC game Peter and Gary both played together long ago.
 * **Cavern Dungeon Crawl:** Deep subterranean dungeon crawl battling terrifying shadow creatures and confronting a deadly Shadow Dragon.
 
 ### 4. Act 3: *Sleeping Dragon's Wake* (*"C'mon, Listen"* Part 2)
@@ -108,7 +109,7 @@ Inspired by these concepts, the party took the name **The Order of Znak**, and t
 ### 🎭 Dual-PC Co-Op & Alternating DM Screen
 Rather than playing the expansion trilogy (*Storm Lord's Wrath*, *Sleeping Dragon's Wake*, *Divine Contention* — titled *"C'mon, Listen"* in D&D Beyond) as an uninterrupted block, Peter and Gary ran a 1-on-1 dual-character setup and alternated DM duties:
 * Peter ran the main Dragon of Icespire Peak and Leilon trilogy modules.
-* Gary interleaved custom homebrew dungeon crawls and boss encounters (*Shadow Dragon Dungeon Crawl*, *"Keeping the Faith"*).
+* Gary interleaved custom homebrew dungeon crawls and boss encounters (*"Shadow's Run"*, *"Keeping the Faith"*).
 
 ### ⚔️ DM Encounter Scaling vs. Min-Maxed DPR
 Gary is an avid character optimizer who min-maxed Krageer and Rhynok for extreme DPR and survivability. Operating as DM required up-leveling published encounters, inserting extra frontline bodyguards, and adding high-CR planar threats (such as Air Elemental Myrmidons and Nalfeshnee demons) to maintain intense combat stakes.
@@ -117,3 +118,4 @@ Gary is an avid character optimizer who min-maxed Krageer and Rhynok for extreme
 * **DonJon's Cajun Accent:** Voiced by Peter with an exaggerated Louisiana Cajun drawl, improvising endless monologues about wild youth escapades and grievances concerning his ex-wives.
 * **The Wayside Inn Meat Pies:** Krageer's romance with tavern cook Cooragh was an ongoing comedy highlight driven entirely by his obsession with her meat pies.
 * **Ultima Exodus Greataxe:** Krageer's signature axe was named after *Ultima III: Exodus*, a shared inside joke between Peter and Gary as lifelong *Ultima* fans.
+* **"Shadow's Run" Retro Homage:** Interlude 1 was named *"Shadow's Run"* as a deliberate nod to *[[Shadowrun]]*, the classic PC game Peter and Gary played together long ago.

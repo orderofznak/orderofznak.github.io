@@ -41,7 +41,7 @@ tags: [character-sheet, elf, ranger, rogue, gloomstalker, assassin, rhynok, orde
 * **Armor:** +1 Breastplate Armor
 
 ## 📜 Key Story Beats & Milestones
-* **Shadow Dragon Cavern Crawl:** Provided critical darkvision reconnaissance and sniper support through pitch-black subterranean caverns during Gary's *Shadow Dragon Dungeon Crawl*.
+* **"Shadow's Run" Cavern Crawl:** Provided critical darkvision reconnaissance and sniper support through pitch-black subterranean caverns during Gary's *"Shadow's Run"* dungeon crawl (Interlude 1 Shadow Dragon encounter).
 * **Tempest Dreadnaught Climax:** Provided suppressing fire against storm cultists and fiendish support during the confrontation with [[Fheralai Stormsworn]].
 
 ## 🎨 Artwork & Imagery

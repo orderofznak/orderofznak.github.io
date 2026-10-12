@@ -21,7 +21,7 @@ date: 2026-10-11
 * **Trilogy D&D Beyond Title:** *"C'mon, Listen"*
 * **Act 1: Dragon of Icespire Peak:** Phandalin starter arc, Mountain's Toe Gold Mine ([[DonJon Raskin]]), Woodland Manse blights escape.
 * **Act 2: Storm Lord's Wrath:** Rebuilding Leilon HQ, adopting orphans [[Burnice Znak|Burnice]] & [[Smithwell Znak|Smithwell]], Wayside Inn meat pies ([[Cooragh]]), lizardfolk clash ([[Matriarch Qolzaz]]).
-* **Interlude 1: Shadow Dragon Dungeon Crawl:** Gary's subterranean dungeon crawl between *Storm Lord's Wrath* and *Sleeping Dragon's Wake*.
+* **Interlude 1: "Shadow's Run":** Gary's subterranean Shadow Dragon dungeon crawl between *Storm Lord's Wrath* and *Sleeping Dragon's Wake* (homage to PC *[[Shadowrun]]*).
 * **Act 3: Sleeping Dragon's Wake:** Escalating cult threats and Sword Coast defense.
 * **Interlude 2: "Keeping the Faith":** Gary's epic quest between *Sleeping Dragon's Wake* and *Divine Contention*—recovering stolen armor for Forge Cleric [[Dayne Beltran]], rescuing young [[Yasmina]] from a Night Hag, and culminating in the **Volcano Boss Battle** with [[Krageer Stoneface Ogolakanu|Krageer]] enlarged by [[Myagkiy Znak|Myagkiy]] wrestling the Fire Giant Queen!
 * **Act 4: Divine Contention Finale:** Flagship dreadnaught sea battle beneath the tempest apparition of **Talos** vs [[Fheralai Stormsworn]], an Air Elemental Myrmidon, and a Nalfeshnee demon.
