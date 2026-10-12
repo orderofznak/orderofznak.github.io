@@ -7,7 +7,7 @@ status: archived
 type: npc
 last_updated: 2026-08-11
 tags: [npc, donjon-raskin, order-of-znak, phandalin, gold-mine]
-modules: ['Dungeons & Dragons Essentials Kit (Dragon of Icespire Peak)']
+modules: ["Dragon of Icespire Peak", "Dungeons & Dragons Essentials Kit"]
 ---
 # 🤠 DonJon Raskin
 

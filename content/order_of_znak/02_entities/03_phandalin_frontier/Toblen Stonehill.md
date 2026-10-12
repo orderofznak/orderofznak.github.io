@@ -7,7 +7,7 @@ status: archived
 type: npc
 species: Human
 role: Innkeeper
-modules: [Dungeons & Dragons Essentials Kit, Storm Lord's Wrath]
+modules: ["Storm Lord's Wrath", "Dungeons & Dragons Essentials Kit"]
 last_updated: 2026-10-12
 tags: [npc, order-of-znak, phandalin]
 ---

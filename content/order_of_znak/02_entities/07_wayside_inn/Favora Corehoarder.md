@@ -7,7 +7,7 @@ status: archived
 type: npc
 species: Rock gnome
 role: Priestess
-modules: [Divine Contention]
+modules: ["Divine Contention"]
 last_updated: 2026-10-12
 tags: [npc, order-of-znak]
 ---

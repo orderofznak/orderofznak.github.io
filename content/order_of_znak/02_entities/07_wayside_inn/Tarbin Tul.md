@@ -7,7 +7,7 @@ status: archived
 type: npc
 species: Human
 role: Bard
-modules: [Storm Lord's Wrath, Sleeping Dragon's Wake]
+modules: ["Storm Lord's Wrath", "Sleeping Dragon's Wake"]
 last_updated: 2026-10-12
 tags: [npc, order-of-znak]
 ---

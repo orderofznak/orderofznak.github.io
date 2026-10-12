@@ -7,7 +7,7 @@ status: archived
 type: npc
 species: Human
 role: Adventurer
-modules: [Storm Lord's Wrath, Divine Contention]
+modules: ["Storm Lord's Wrath", "Divine Contention"]
 last_updated: 2026-10-12
 tags: [npc, order-of-znak, leilon]
 ---

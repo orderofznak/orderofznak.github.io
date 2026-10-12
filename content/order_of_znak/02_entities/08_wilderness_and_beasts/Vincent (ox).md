@@ -7,7 +7,7 @@ status: archived
 type: creature
 species: Beast
 role: Draft Animal
-modules: [Dungeons & Dragons Essentials Kit]
+modules: ["Dungeons & Dragons Essentials Kit"]
 last_updated: 2026-10-12
 tags: [creature, beast, phandalin, order-of-znak]
 aliases: ['Vincent']

@@ -10,7 +10,7 @@ ethnicity: damaran
 last_updated: 2026-10-12
 tags: [npc, human, damaran, hazz-yorrum, sergeant, neverwinter, leilon, lords-alliance, order-of-znak]
 aliases: ['Hazz Yorrum', 'Sergeant Hazz Yorrum', 'Sergeant Yorrum']
-modules: ['Storm Lord's Wrath', 'Sleeping Dragon's Wake', 'Divine Contention']
+modules: ["Storm Lord's Wrath", "Sleeping Dragon's Wake", "Divine Contention"]
 ---
 # 🛡️ Sergeant Hazz Yorrum
 
@@ -28,13 +28,13 @@ modules: ['Storm Lord's Wrath', 'Sleeping Dragon's Wake', 'Divine Contention']
 ---
 
 ## ⚔️ Dynamic with The Order of Znak
-* **The True Protectors:** When real dangers besieged Leilon—such as the kraken cult raid in *Storm Lord's Wrath*, talosian storm cultists, or dragon incursions—Yorrum's garrison retreated behind barricades or ducked for cover.
-* **The Order's Ascendance:** His sheer incompetence created the vacuum that allowed [[The Order of Znak]] to step up as the beloved, true champions of Leilon, leaving Yorrum relieved that someone else was doing the dangerous fighting.
+* **Frontier Defense:** When real dangers besieged Leilon—such as the kraken cult raid in *Storm Lord's Wrath*, talosian storm cultists, or dragon incursions—Yorrum's garrison retreated behind barricades or ducked for cover.
+* **The Order's Role:** His reluctance to engage created a vacuum where [[The Order of Znak]] took on primary responsibility for defending the settlement, leaving Yorrum relieved that someone else was handling military engagements.
 
 ---
 
 ## 💡 Behind the Screen & Trivia
-* **Official Adventure Context:** Sourced directly from *Storm Lord's Wrath*, Sergeant Yorrum represents the classic tabletop trope of the useless, bureaucratic guard captain whose cowardice highlights the heroism of the player characters.
+* **Official Adventure Context:** Sourced directly from *Storm Lord's Wrath*, Sergeant Yorrum serves as the cowardly, bureaucratic Neverwinter guard captain stationed in Leilon.
 
 ---
 

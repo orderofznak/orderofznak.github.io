@@ -9,7 +9,7 @@ species: dwarf
 last_updated: 2026-10-12
 tags: [npc, dwarf, grizzelda-copperwraught, the-growler, master-builder, leilon, lords-alliance, order-of-znak]
 aliases: ['Grizzelda Copperwraught', 'The Growler', 'Builder Copperwraught']
-modules: ['Storm Lord's Wrath', 'Sleeping Dragon's Wake', 'Divine Contention']
+modules: ["Storm Lord's Wrath", "Sleeping Dragon's Wake", "Divine Contention"]
 ---
 # 🔨 Grizzelda Copperwraught ("The Growler")
 

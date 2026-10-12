@@ -7,7 +7,7 @@ status: archived
 type: npc
 species: Humanoid
 role: Adventurer / Resident
-modules: [Sleeping Dragon's Wake]
+modules: ["Sleeping Dragon's Wake"]
 last_updated: 2026-10-12
 tags: [npc, order-of-znak]
 ---

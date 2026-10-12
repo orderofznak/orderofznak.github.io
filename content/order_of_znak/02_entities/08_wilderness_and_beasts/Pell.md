@@ -7,7 +7,7 @@ status: archived
 type: npc
 species: Humanoid
 role: Stablehand
-modules: [Dungeons & Dragons Essentials Kit]
+modules: ["Dungeons & Dragons Essentials Kit"]
 last_updated: 2026-10-12
 tags: [npc, order-of-znak]
 ---

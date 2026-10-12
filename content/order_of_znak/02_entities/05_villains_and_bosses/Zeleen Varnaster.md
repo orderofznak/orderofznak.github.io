@@ -7,7 +7,7 @@ status: archived
 type: npc
 species: Human wererat
 role: Bandit
-modules: [Dungeons & Dragons Essentials Kit]
+modules: ["Dungeons & Dragons Essentials Kit"]
 last_updated: 2026-10-12
 tags: [npc, order-of-znak]
 ---

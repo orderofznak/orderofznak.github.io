@@ -7,7 +7,7 @@ status: archived
 type: npc
 species: Dwarf
 role: Priest
-modules: [Divine Contention]
+modules: ["Divine Contention"]
 last_updated: 2026-10-12
 tags: [npc, order-of-znak, leilon]
 ---

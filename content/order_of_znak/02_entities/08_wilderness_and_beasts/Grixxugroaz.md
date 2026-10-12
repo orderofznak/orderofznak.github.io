@@ -9,7 +9,7 @@ species: lizardfolk
 last_updated: 2026-10-12
 tags: [npc, lizardfolk, chieftain, leader, mere-of-dead-men, order-of-znak, acolytes-of-znak]
 aliases: ['Grixxugroaz', 'Chieftain Grixxugroaz', 'Leader Grixxugroaz']
-modules: ['Storm Lord's Wrath']
+modules: ["Storm Lord's Wrath"]
 ---
 # 🦎 Grixxugroaz
 
@@ -31,11 +31,6 @@ modules: ['Storm Lord's Wrath']
 * **The Exchange Envoys:** To cement the alliance and study the tactics of the soft-skinned champions, Grixxugroaz selected two promising tribal youths to travel north to Leilon as official exchange emissaries:
   * **[[Graxxoamo]] ("Graxx"):** The tribe's athletic competitor and hunter (apprenticed under [[Tvyordiy Znak]] and [[Rhynok]]).
   * **[[Shriss]]:** The tribe's intellectual sage and herbalist (apprenticed under [[Myagkiy Znak]]).
-
----
-
-## 💡 Behind the Screen & Trivia
-* **Table Roleplay:** Grixxugroaz's willingness to forge an alliance founded the cross-species brotherhood that directly birthed the second-generation campaign, ***[[The Acolytes of Znak Campaign Plan|The Acolytes of Znak]]***.
 
 ---
 

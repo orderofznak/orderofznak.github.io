@@ -7,7 +7,7 @@ status: archived
 type: villain
 species: Human
 role: High Priest of Myrkul / Overarching BBEG
-modules: [Storm Lord's Wrath, Sleeping Dragon's Wake, Divine Contention]
+modules: ["Storm Lord's Wrath", "Sleeping Dragon's Wake", "Divine Contention"]
 last_updated: 2026-10-12
 tags: [villain, bbeg, myrkul, necromancer, leilon, mere-of-dead-men, order-of-znak]
 aliases: ['The Bone Priest', 'Master of Iniarvs Tower']

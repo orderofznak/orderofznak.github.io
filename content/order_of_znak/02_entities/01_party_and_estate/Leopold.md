@@ -30,10 +30,4 @@ aliases: ['Leopold', 'Majordomo Leopold', 'Butler Leopold']
 * **Raising the Next Generation:** Leopold's greatest campaign responsibility was serving as the daily guardian and parental figure for the Order's adopted wards:
   * Young fisher orphans **[[Smithwell and Burnice|Smithwell and Burnice]]** (rescued from the kraken cult in *Storm Lord's Wrath*).
   * Young **[[Yasmina]]** (rescued from the Night Hag in *"Keeping the Faith"*).
-* **Lessons & Manners:** While [[Krageer Stoneface Ogolakanu|Krageer]] taught Smithwell savage war cries and [[Myagkiy Znak|Myagkiy]] taught Burnice sacred prayers, Leopold taught the children reading, writing, household etiquette, and basic discipline, patiently keeping them safe and grounded inside the manor walls.
-* **Welcoming the Lizardfolk Envoys:** When **[[Graxxoamo]]** and **[[Shriss]]** arrived from the Mere of Dead Men as exchange allies under the decree of chieftain **[[Grixxugroaz]]**, Leopold graciously adapted manor hospitality to welcome reptilian customs—tactfully ignoring Graxx's dried "finger sandwich" snacks while catering to Shriss's intense botanical studies.
-
----
-
-## 💡 Behind the Screen & Trivia
-* **Tabletop Legacy:** Leopold provided an indispensable grounding element to *The Order of Znak*, turning their base of operations from a static map token into a living, breathing home filled with warmth, family, and domestic life.
+* **Care for the Wards & Envoys:** Watched over young wards **[[Smithwell and Burnice|Smithwell and Burnice]]**, young **[[Yasmina]]**, and welcomed lizardfolk exchange allies **[[Graxxoamo]]** and **[[Shriss]]** at the manor.

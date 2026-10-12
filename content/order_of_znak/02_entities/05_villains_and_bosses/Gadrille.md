@@ -7,7 +7,7 @@ status: archived
 type: npc
 species: Half-elf
 role: The Reef-Reaver
-modules: [Storm Lord's Wrath]
+modules: ["Storm Lord's Wrath"]
 last_updated: 2026-10-12
 tags: [npc, order-of-znak]
 ---

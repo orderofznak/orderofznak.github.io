@@ -7,7 +7,7 @@ status: archived
 type: npc
 species: Human
 role: Lord Protector of Neverwinter Open Lord of Waterdeep
-modules: [Divine Contention]
+modules: ["Divine Contention"]
 last_updated: 2026-10-12
 tags: [npc, order-of-znak]
 aliases: ['Dagger Neverember Lord Pretender The Protector']

@@ -7,7 +7,7 @@ status: archived
 type: npc
 species: Human
 role: Innkeeper
-modules: [Sleeping Dragon's Wake, Divine Contention]
+modules: ["Sleeping Dragon's Wake", "Divine Contention"]
 last_updated: 2026-10-12
 tags: [npc, order-of-znak, leilon]
 ---

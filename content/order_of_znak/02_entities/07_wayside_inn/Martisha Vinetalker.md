@@ -9,7 +9,7 @@ species: half-elf
 last_updated: 2026-10-12
 tags: [npc, half-elf, martisha-vinetalker, wayside-inn, bandit-captain, high-road, order-of-znak]
 aliases: ['Martisha Vinetalker', 'Martisha', 'Innkeeper Martisha']
-modules: ['Storm Lord's Wrath', 'Sleeping Dragon's Wake', 'Divine Contention']
+modules: ["Storm Lord's Wrath", "Sleeping Dragon's Wake", "Divine Contention"]
 ---
 # 🍷 Martisha Vinetalker
 
@@ -34,9 +34,8 @@ modules: ['Storm Lord's Wrath', 'Sleeping Dragon's Wake', 'Divine Contention']
 ---
 
 ## 👥 Key Relationships & Dynamics
-* **[[Cooragh|Cooragh Struckt]]:** Longtime close friend and confidante. Martisha deeply trusts the half-orc cook and relies on Cooragh's alarmingly spicy stews and pork pies to draw coin from passing travelers.
-* **[[The Order of Znak]]:** Treats the champions with professional respect and sharp hospitality, knowing that Goliath barbarian [[Krageer Stoneface Ogolakanu|Krageer]]'s infatuation with Cooragh keeps the Sword Coast's deadliest heroes frequenting her tavern.
-* **[[Leopold]]:** Cooperates with the Order's majordomo on regular food shipments and bulk trade manifests for the Leilon headquarters.
+* **[[Cooragh|Cooragh Struckt]]:** Longtime close friend and confidante. Martisha trusts the half-orc cook and relies on Cooragh's spicy stews and pork pies to draw coin from passing travelers.
+* **[[The Order of Znak]]:** Trades and coordinates with the champions during their travels along the High Road, benefiting from the party's frequent patronage and defense of the regional roads.
 
 ---
 

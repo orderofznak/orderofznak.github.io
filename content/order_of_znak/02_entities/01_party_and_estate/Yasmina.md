@@ -27,5 +27,5 @@ tags: [npc, character-sheet, yasmina, night-hag, cleric, warlock, order-of-znak,
 ---
 
 ## 💡 Behind the Screen & Trivia
-* **Campaign Introduction:** Introduced by Gary during his DM adventure *"Keeping the Faith"*, serving as the emotional core of the Night Hag dungeon crawl alongside the recovery of [[Dayne Beltran]]'s +2 Plate Armor.
-* **Bridge to Barovia:** Designed as a living narrative bridge between the two campaigns—growing from a vulnerable rescued orphan in *The Order of Znak* into a gothic-themed hero ready for Ravenloft in *The Acolytes of Znak*.
+* **Campaign Introduction:** Introduced by Gary during his DM adventure *"Keeping the Faith"*, serving as a central rescue objective of the Night Hag dungeon crawl alongside the recovery of [[Dayne Beltran]]'s +2 Plate Armor.
+* **Bridge to Barovia:** Designed as a narrative bridge between the two campaigns—growing from a rescued ward in *The Order of Znak* into an adventurer ready for Ravenloft in *The Acolytes of Znak*.

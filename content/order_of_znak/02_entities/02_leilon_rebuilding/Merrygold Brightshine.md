@@ -12,13 +12,13 @@ deity: lathander
 last_updated: 2026-10-12
 tags: [npc, halfling, cleric, priest, lathander, leilon, shrine-of-lathander, order-of-znak]
 aliases: ['Merrygold Brightshine', 'Merrygold', 'Priestess Brightshine']
-modules: ['Storm Lord's Wrath', 'Sleeping Dragon's Wake', 'Divine Contention']
+modules: ["Storm Lord's Wrath", "Sleeping Dragon's Wake", "Divine Contention"]
 ---
 # ☀️ Merrygold Brightshine
 
 ## 🛡️ Overview & Personality
 * **Identity:** Amiable, outgoing young female halfling priest of **Lathander**, the god of light, dawn, vitality, and renewal.
-* **Civic Role:** One of the foundational community leaders who helped establish [[Leilon]] following its reclamation. Universally beloved by the settlers, fishers, and laborers for her radiant optimism, gentle empathy, and unyielding cheer.
+* **Civic Role:** One of the foundational community leaders who helped establish [[Leilon]] following its reclamation, well-regarded by the settlers, fishers, and laborers for her optimism, gentle empathy, and cheer.
 
 ## 🎨 Character Artwork
 ![[Merrygold.jpg]]
@@ -39,14 +39,13 @@ modules: ['Storm Lord's Wrath', 'Sleeping Dragon's Wake', 'Divine Contention']
 ---
 
 ## 👥 Key Alliances & Dynamics
-* **[[Myagkiy Znak]]:** Shared an immediate, profound spiritual kinship with Peter's Life Domain battle cleric. Myagkiy regularly conferred with Merrygold on local healing relief and divine rituals.
-* **[[Grizzelda Copperwraught]]:** While Grizzelda is gruff, demanding, and blunt with her crews, Merrygold provides the soothing counterweight, ensuring the workers stay nourished and morally supported.
-* **[[Leopold]]:** Collaborates with the Order's majordomo on charitable food distribution and herbal supplies for the household's wards.
+* **[[Myagkiy Znak]]:** Both serve as Life Domain clerics in Leilon, conferring on healing and divine assistance.
+* **[[Grizzelda Copperwraught]]:** While Grizzelda oversees the town construction crews, Merrygold provides pastoral care, ensuring workers receive nourishment and support.
 
 ---
 
 ## 💡 Behind the Screen & Trivia
-* **Statblock & Mechanics:** Merrygold utilizes the standard D&D 5e **Priest** statistics, equipped with radiant light spells, *Cure Wounds*, and blessings of the Morninglord.
+* **Official Adventure Context & Mechanics:** Sourced from *Storm Lord's Wrath*, *Sleeping Dragon's Wake*, and *Divine Contention*, Merrygold serves as the primary spiritual figure in Leilon, utilizing the standard D&D 5e **Priest** statistics.
 
 ---
 

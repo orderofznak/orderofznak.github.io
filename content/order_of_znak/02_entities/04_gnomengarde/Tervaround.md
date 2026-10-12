@@ -7,7 +7,7 @@ status: archived
 type: npc
 species: Rock gnome
 role: Vintner
-modules: [Dungeons & Dragons Essentials Kit]
+modules: ["Dungeons & Dragons Essentials Kit"]
 last_updated: 2026-10-12
 tags: [npc, order-of-znak]
 ---

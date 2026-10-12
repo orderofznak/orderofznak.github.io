@@ -11,7 +11,7 @@ class: wizard
 last_updated: 2026-10-12
 tags: [npc, human, rashemi, wizard, gallio-elibro, house-of-thalivar, thalivar, leilon, order-of-znak]
 aliases: ['Gallio Elibro', 'Gallio', 'Wizard Elibro']
-modules: ['Storm Lord's Wrath', 'Sleeping Dragon's Wake', 'Divine Contention']
+modules: ["Storm Lord's Wrath", "Sleeping Dragon's Wake", "Divine Contention"]
 ---
 # 🔮 Gallio Elibro
 

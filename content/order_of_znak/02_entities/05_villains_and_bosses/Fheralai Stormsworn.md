@@ -7,7 +7,7 @@ status: archived
 type: villain
 last_updated: 2026-08-12
 tags: [npc, villain, fheralai, divine-contention, order-of-znak, talos]
-modules: ['Storm Lord's Wrath', 'Sleeping Dragon's Wake', 'Divine Contention']
+modules: ["Storm Lord's Wrath", "Sleeping Dragon's Wake", "Divine Contention"]
 ---
 # ⚡ Fheralai Stormsworn
 

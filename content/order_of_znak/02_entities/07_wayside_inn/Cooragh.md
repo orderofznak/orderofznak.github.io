@@ -9,7 +9,7 @@ species: half-orc
 last_updated: 2026-10-12
 tags: [npc, half-orc, cooragh, cooragh-struckt, wayside-inn, meat-pies, krageer, order-of-znak]
 aliases: ['Cooragh', 'Cooragh Struckt']
-modules: ['Storm Lord's Wrath', 'Sleeping Dragon's Wake', 'Divine Contention']
+modules: ["Storm Lord's Wrath", "Sleeping Dragon's Wake", "Divine Contention"]
 ---
 # 🥧 Cooragh Struckt
 
@@ -38,7 +38,7 @@ modules: ['Storm Lord's Wrath', 'Sleeping Dragon's Wake', 'Divine Contention']
 ## 💘 Romance with Krageer Stoneface Ogolakanu
 * **An Iron Stomach for Love:** During Act 2 (*Storm Lord's Wrath*), Goliath barbarian **[[Krageer Stoneface Ogolakanu]]** encountered Cooragh's spicy pies and was completely captivated. 
 * While most soft-skinned travelers choked on the blistering spice, Krageer reveled in the heat, declaring Cooragh's pork pies the greatest food in the realm.
-* A deep, comedic romance blossomed between the towering barbarian and the half-orc chef, transforming the Wayside Inn into the beloved home hearth and unofficial resting sanctuary of [[The Order of Znak]].
+* An ongoing comedic romance developed between the towering barbarian and the half-orc chef, making the Wayside Inn a regular stop and favored resting sanctuary for [[The Order of Znak]].
 
 ![[Krageer-and-cooragh.jpg]]
 *Krageer Stoneface Ogolakanu and Cooragh Struckt at the Wayside Inn*

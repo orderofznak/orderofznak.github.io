@@ -7,7 +7,7 @@ status: archived
 type: npc
 species: Dwarf
 role: Barge master
-modules: [Storm Lord's Wrath, Sleeping Dragon's Wake, Divine Contention]
+modules: ["Storm Lord's Wrath", "Sleeping Dragon's Wake", "Divine Contention"]
 last_updated: 2026-10-12
 tags: [npc, order-of-znak, leilon]
 ---

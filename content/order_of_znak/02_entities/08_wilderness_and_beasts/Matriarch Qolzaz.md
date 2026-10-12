@@ -21,8 +21,3 @@ tags: [npc, qolzaz, lizardfolk, krageer, order-of-znak]
 * **The Peace Accord:** Convinced by the Order's valor and respect for Qolzaz, Chieftain Grixxugroaz ratified a historic peace treaty between the lizardfolk tribe and the town of [[Leilon]].
 * **Krageer's Chest Tattoo:** Following Goliath customs of honoring worthy rivals, **[[Krageer Stoneface Ogolakanu]]** had an elaborate portrait of Matriarch Qolzaz inked across his chest in tribute.
 * **Bardic Ballad:** Her valor and the clan's alliance are immortalized in the campaign's epic poem, the ***[[Ballad of Qolzaz]]***.
-
----
-
-## 💡 Behind the Screen & Trivia
-* **Emergent Narrative:** What started as a standard hostile wilderness encounter naturally evolved through table roleplay into an enduring alliance, directly leading Chieftain Grixxugroaz to dispatch lizardfolk exchange champions **[[Graxxoamo]]** and **[[Shriss]]** to Leilon and the Order in later arcs.
