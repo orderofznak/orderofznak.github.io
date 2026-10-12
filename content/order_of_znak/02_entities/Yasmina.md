@@ -20,6 +20,10 @@ tags: [npc, character-sheet, yasmina, night-hag, cleric, warlock, order-of-znak,
 * **Class:** Level 3 Multiclass — Cleric / Fiend Warlock
 * **Heritage Traits:** Custom hag-touched lineage traits blending divine protection with dark occult patron boons.
 
+## 🎨 Character Artwork
+![[Yasmina-child.png]]
+*Young Yasmina as a Rescued Ward in Leilon*
+
 ---
 
 ## 💡 Behind the Screen & Trivia

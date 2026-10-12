@@ -41,6 +41,9 @@ tags: [character-sheet, goliath, barbarian, fighter, krageer, order-of-znak]
 * **Woodland Manse Needle Blights:** Pincushioned and knocked unconscious during an early retreat, carried to safety by **[[Tvyordiy Znak]]**.
 
 ## 🎨 Artwork & Imagery
+![[Krageer.png]]
+*Krageer Stoneface Ogolakanu — Goliath Barbarian / Fighter Champion*
+
 ![[Krageer-and-cooragh.jpg]]
 *Krageer Stoneface Ogolakanu and Cooragh at the Wayside Inn*
 

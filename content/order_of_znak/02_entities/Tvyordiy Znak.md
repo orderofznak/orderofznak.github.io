@@ -42,6 +42,9 @@ tags: [character-sheet, aarakocra, monk, drunken-master, tvyordiy-znak, order-of
 * **The Wereboar Curse of Dumathoin's Gulch (*Divine Contention*):** During the late-campaign expedition into [[Dumathoin's Gulch]] in the Sword Mountains to recover Gnomengarde siege ordnance, Tvyordiy was ambushed by a pack of feral wereboars. In the brutal close-quarters brawl, he contracted wereboar lycanthropy—a physiological twist he embraced to gain hybrid tusks, enhanced strength, and devastating shock-troop momentum.
 
 ## 🎨 Artwork & Imagery
+![[TZnak.png]]
+*Tvyordiy Znak (Ъ) — Aarakocra Monk (Way of the Drunken Master)*
+
 ![[lizardfokl-monk.jpg]]
 *Monk Martial Stance & Lizardfolk Tribe Allies*
 

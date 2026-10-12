@@ -24,6 +24,9 @@ tags: [character-sheet, lizardfolk, ranger, monk, graxxoamo, acolytes-of-znak]
 ![[Graxx.jpg]]
 *Graxxoamo — Lizardfolk Ranger / Monk*
 
+![[Grax.jpg]]
+*Graxxoamo — Lizardfolk Warrior Concept Illustration*
+
 ---
 
 ## 💡 Behind the Screen & Trivia

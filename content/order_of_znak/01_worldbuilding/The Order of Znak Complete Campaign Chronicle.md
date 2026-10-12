@@ -38,8 +38,8 @@ tags: [tabletop, dnd5e, order-of-znak, icespire-peak, cmon-listen, keeping-the-f
 * **Favorite Contact — [[DonJon Raskin]]:** Overseer of Mountain's Toe Gold Mine, rescued from infesting wererats and becoming a lifelong patron.
 
 ### 2. Act 2: *Storm Lord's Wrath* (*"C'mon, Listen"* Part 1)
-* **Defense of Leilon & The Kraken Raid:** Arrived in Leilon during an assault from the sea (*"A Normal Day in Leilon"*), where the tiefling Kraken Priest **Nixoxious** and her cultist berserkers stormed the town fishery, taking local fishers captive for sacrifice to summon water elementals and water weirds. In the panic, two 10-year-old village children and best friends, **Smithwell** (boy) and **Burnice** (girl), went missing in the marshlands.
-* **Rescue & Adoption of the Znak Wards:** The Order shattered the cult's dark summoning ritual and safely rescued [[Smithwell and Burnice|Smithwell and Burnice]], but discovered their fisher parents had tragically been sacrificed. Left orphaned and without family, the children were adopted into the Order by the champions as brother and sister, given the surname **Znak**, and raised at the party's new Leilon headquarters.
+* **Defense of [[Leilon]] & The Kraken Raid:** Arrived in [[Leilon]] during an assault from the sea (*"A Normal Day in Leilon"*), where the tiefling Kraken Priest **Nixoxious** and her cultist berserkers stormed the town fishery, taking local fishers captive for sacrifice to summon water elementals and water weirds. In the panic, two 10-year-old village children and best friends, **Smithwell** (boy) and **Burnice** (girl), went missing in the marshlands.
+* **Rescue & Adoption of the Znak Wards:** The Order shattered the cult's dark summoning ritual and safely rescued [[Smithwell and Burnice|Smithwell and Burnice]], but discovered their fisher parents had tragically been sacrificed. Left orphaned and without family, the children were adopted into the Order by the champions as brother and sister, given the surname **Znak**, and raised at the party's new [[Leilon]] headquarters.
 * **Wayside Inn Hearth:** [[Krageer Stoneface Ogolakanu]] formed an enduring romance with cook **[[Cooragh]]** over her famous tavern meat pies.
 * **Lizardfolk Alliance & Qolzaz Tribute:** Clashed with the Mere of Dead Men lizardfolk in the Missing Patrol questline and slew Matriarch **[[Matriarch Qolzaz]]**. After helping vanquish invading undead trolls, gained the tribe's deep respect; Krageer tattooed Qolzaz on his chest (immortalized in ***[[Ballad of Qolzaz]]***). Later joined by lizardfolk exchange allies **Graxxoamo** and **Shriss**.
 
@@ -76,11 +76,17 @@ tags: [tabletop, dnd5e, order-of-znak, icespire-peak, cmon-listen, keeping-the-f
 ---
 
 ## 🎨 Campaign Chronicle Gallery
+![[Leilon-overhead.webp]]
+*Overhead Cartographic Survey of Rebuilt Leilon*
+
 ![[Krageer-and-cooragh.jpg]]
 *Krageer Stoneface Ogolakanu and Cooragh at the Wayside Inn*
 
 ![[krageer-firegiant.png]]
 *Krageer Wrestling the Fire Giant Queen in the Volcano*
+
+![[firegiant.jpg]]
+*The Volcano Boss Battle — Fire Giant Queen Confrontation*
 
 ![[talos.jpg]]
 *Talos, God of Storms — The Apparition of Divine Contention*

@@ -44,6 +44,10 @@ tags: [character-sheet, elf, ranger, rogue, gloomstalker, assassin, rhynok, orde
 * **Shadow Dragon Cavern Crawl:** Provided critical darkvision reconnaissance and sniper support through pitch-black subterranean caverns during Gary's *Shadow Dragon Dungeon Crawl*.
 * **Tempest Dreadnaught Climax:** Provided suppressing fire against storm cultists and fiendish support during the confrontation with [[Fheralai Stormsworn]].
 
+## 🎨 Artwork & Imagery
+![[Rhynok.png]]
+*Rhynok — Elf Ranger Gloomstalker / Rogue Assassin*
+
 ---
 
 ## 💡 Behind the Screen & Trivia

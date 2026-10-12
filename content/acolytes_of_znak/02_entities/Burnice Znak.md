@@ -23,6 +23,9 @@ tags: [character-sheet, paladin, warlock, hexblade, burnice-znak, acolytes-of-zn
 ![[burnice.png]]
 *Burnice Znak — Paladin / Hexblade Warlock*
 
+![[burnice.jpg]]
+*Burnice Znak — Paladin / Hexblade Concept Art*
+
 ---
 
 ## 💡 Behind the Screen & Trivia
