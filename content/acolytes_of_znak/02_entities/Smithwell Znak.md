@@ -12,7 +12,7 @@ tags: [character-sheet, bard, barbarian, smithwell-znak, acolytes-of-znak]
 # 🪓 Smithwell Znak
 
 ## 🛡️ Overview & Character Lore
-* **Origin & Adoption:** Originally a 10-year-old child of local Leilon fishers during *Storm Lord's Wrath*. During the catastrophic raid on the town by the tiefling Kraken Priest **Nixoxious** (*"A Normal Day in Leilon"*), Smithwell and his best friend [[Burnice Znak]] went missing amidst the chaos. While [[The Order of Znak]] broke the ritual and rescued the children, their parents were tragically sacrificed to summon water elementals. Left orphaned and homeless, the two boys were formally adopted by the Order, taking the surname **Znak** and being raised within the Order's Leilon headquarters.
+* **Origin & Adoption:** Originally a 10-year-old child of local Leilon fishers during *Storm Lord's Wrath*. During the catastrophic raid on the town by the tiefling Kraken Priest **Nixoxious** (*"A Normal Day in Leilon"*), Smithwell and his best friend (and future adoptive sister) [[Burnice Znak]] went missing amidst the chaos. While [[The Order of Znak]] broke the ritual and rescued the children, their parents were tragically sacrificed to summon water elementals. Left orphaned and homeless, the two children were formally adopted by the Order, taking the surname **Znak** and being raised within the Order's Leilon headquarters as adoptive brother and sister (documented in [[Smithwell and Burnice|Young Smithwell & Burnice]]).
 * **Heritage & Spirit:** Captivated by the boisterous laughter, campfire sagas, and devastating frontline ferocity of Goliath champion [[Krageer Stoneface Ogolakanu]], Smithwell channeled both warrior rage and skaldic verse into a unique battle tradition.
 
 ## 📊 In-Game Mechanics (Level 3 Starting Build)

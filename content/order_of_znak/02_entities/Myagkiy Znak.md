@@ -41,7 +41,7 @@ tags: [character-sheet, human, cleric, life-domain, myagkiy-znak, order-of-znak]
 
 ## 📜 Key Story Beats & Milestones
 * **Dormant Volcano Climax:** Cast *Enlarge* on **[[Krageer Stoneface Ogolakanu]]**, enabling Krageer to wrestle the **Fire Giant Queen** in molten grapple combat inside a dormant volcano during *"Keeping the Faith"*.
-* **Rescue & Adoption of the Leilon Wards:** Served as the moral compass of the party during the Kraken Priest raid on Leilon (*"A Normal Day in Leilon"*), rescuing orphaned children **[[Smithwell Znak]]** and **[[Burnice Znak]]** from the marshlands after their fisher parents were sacrificed. Formally adopted them into the Order, mentoring Burnice in the defense of innocent lives.
+* **Rescue & Adoption of the Leilon Wards:** Served as the moral compass of the party during the Kraken Priest raid on Leilon (*"A Normal Day in Leilon"*), rescuing orphaned children **[[Smithwell and Burnice|Smithwell and Burnice]]** from the marshlands after their fisher parents were sacrificed. Formally adopted them into the Order, mentoring young Burnice in spiritual devotion and the sacred protection of innocent lives.
 
 ---
 

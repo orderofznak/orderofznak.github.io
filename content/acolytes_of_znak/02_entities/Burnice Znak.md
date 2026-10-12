@@ -12,8 +12,8 @@ tags: [character-sheet, paladin, warlock, hexblade, burnice-znak, acolytes-of-zn
 # ⚔️ Burnice Znak
 
 ## 🛡️ Overview & Character Lore
-* **Origin & Adoption:** Born the child of Leilon fishers, Burnice and his childhood companion [[Smithwell Znak]] were caught in the crossfire of the kraken cult assault on Leilon (*"A Normal Day in Leilon"* in *Storm Lord's Wrath*). The heroes of [[The Order of Znak]] intervened, driving back the tiefling Kraken Priest **Nixoxious** and rescuing the terrified boys from the marshes—only to discover their parents had already been sacrificed in the water elemental summoning rites. The champions adopted both orphans into the Order, giving them the name **Znak** and raising them at their Leilon headquarters.
-* **Heritage & Vows:** Raised under the spiritual guidance of [[Myagkiy Znak]], Burnice grew up witnessing the severe cost of cosmic and primordial evil. He forged holy martial vows complemented by a shadowy patron blade to ensure no innocent child would suffer a similar fate.
+* **Origin & Adoption:** Born the daughter of Leilon fishers, Burnice and her childhood companion (and future adoptive brother) [[Smithwell Znak]] were caught in the crossfire of the kraken cult assault on Leilon (*"A Normal Day in Leilon"* in *Storm Lord's Wrath*). The heroes of [[The Order of Znak]] intervened, driving back the tiefling Kraken Priest **Nixoxious** and rescuing the terrified children from the marshes—only to discover their parents had already been sacrificed in the water elemental summoning rites. The champions adopted both orphans into the Order, giving them the name **Znak** and raising them at their Leilon headquarters as adoptive brother and sister (documented in [[Smithwell and Burnice|Young Smithwell & Burnice]]).
+* **Heritage & Vows:** Raised under the spiritual guidance of [[Myagkiy Znak]], Burnice grew up witnessing the severe cost of cosmic and primordial evil. She forged holy martial vows complemented by a shadowy patron blade to ensure no innocent child would suffer a similar fate.
 
 ## 📊 In-Game Mechanics (Level 3 Starting Build)
 * **Class:** Level 3 Multiclass — Paladin / Hexblade Warlock
