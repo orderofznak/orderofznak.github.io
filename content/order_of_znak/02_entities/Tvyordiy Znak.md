@@ -10,7 +10,7 @@ tags: [character-sheet, aarakocra, monk, drunken-master, tvyordiy-znak, order-of
 # 🦅 Tvyordiy Znak (Ъ)
 
 ## Character Overview & Stats
-* **Player:** User (DMPC / Dual PC)
+* **Player:** Peter (DMPC / Dual PC)
 * **Race:** Aarakocra
 * **Class:** Level 13 Monk (Way of the Drunken Master, single class)
 * **Background:** Urchin | **Feat:** Crusher

@@ -10,7 +10,7 @@ tags: [character-sheet, paladin, warlock, hexblade, burnice-znak, acolytes-of-zn
 # ⚔️ Burnice Znak
 
 ## Profile & Character Sheet (Level 3)
-* **Player:** User
+* **Player:** Peter
 * **Class:** Level 3 Paladin / Hexblade Warlock multiclass
 * **Origin:** Orphaned during the Kraken Priest attack in Leilon; adopted as a ward by [[The Order of Znak]].
 * **Build Flavor:** Combines holy martial vows with pact blade hex magic inherited from mentors.

@@ -10,7 +10,7 @@ tags: [character-sheet, lizardfolk, ranger, monk, graxxoamo, acolytes-of-znak]
 # 🦎 Graxxoamo
 
 ## Profile & Character Sheet (Level 3)
-* **Player:** User
+* **Player:** Peter
 * **Race:** Lizardfolk
 * **Class:** Level 3 Ranger / Monk multiclass
 * **Origin:** Joined [[The Order of Znak]] as a lizardfolk exchange warrior following the alliance formed after defeating the undead trolls.

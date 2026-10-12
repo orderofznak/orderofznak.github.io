@@ -12,4 +12,4 @@ tags: [npc, donjon-raskin, order-of-znak, phandalin, gold-mine]
 ## Overview & Role
 * **Role:** Overlord / Overseer of Mountain's Toe Gold Mine in *Dragon of Icespire Peak*.
 * **Party Standing:** Absolute favorite NPC of [[The Order of Znak]].
-* **Roleplay & Voice:** Voiced by User with a hilarious **Louisiana Cajun accent**, constantly telling stories about his wild past adventures and rambling about his many ex-wives.
+* **Roleplay & Voice:** Voiced by Peter with a hilarious **Louisiana Cajun accent**, constantly telling stories about his wild past adventures and rambling about his many ex-wives.

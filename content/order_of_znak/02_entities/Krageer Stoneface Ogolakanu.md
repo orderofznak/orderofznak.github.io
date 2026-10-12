@@ -21,7 +21,7 @@ tags: [character-sheet, goliath, barbarian, fighter, krageer, order-of-znak]
 ---
 
 ## ⚔️ Weapons & Legendary Gear
-* **Signature Weapon — *Ultima Exodus*:** A two-handed **+2 Greataxe** forged from silvered and adamantine metal. Named after classic *Ultima III: Exodus* (shared inside joke between Gary and User as *Ultima* fans).
+* **Signature Weapon — *Ultima Exodus*:** A two-handed **+2 Greataxe** forged from silvered and adamantine metal. Named after classic *Ultima III: Exodus* (shared inside joke between Gary and Peter as *Ultima* fans).
 * **Armor:** +2 Scale Mail Armor.
 * **Utility & Magic Items:**
   * **Alchemy Jug:** Provides free drinks at camp and taverns!

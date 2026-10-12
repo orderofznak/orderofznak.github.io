@@ -12,17 +12,17 @@ tags: [tabletop, dnd5e, order-of-znak, icespire-peak, cmon-listen, keeping-the-f
 # 🐉 The Order of Znak — Complete Campaign Chronicle
 
 ## Overview & Real-World Genesis
-***The Order of Znak*** was a long-running, 1-on-1 dual-character campaign saga between User and Gary.
+***The Order of Znak*** was a long-running, 1-on-1 dual-character campaign saga between Peter and Gary.
 
 ### Linguistic Origin of "Znak"
-The naming of the party and its core characters originated from real-world conversations at a former tech workplace, where User and Gary worked with their Russian colleague **Grigory**. While exploring Russian language mechanics, User and Gary became intrigued by the linguistic concept of **Znak (Знак — sign/mark)**, specifically the Cyrillic alphabet's two silent modifying signs:
-* **Твёрдый знак (Ъ — Tvyordiy Znak / The Hard Sign):** Signifying firmness, hardness, and unyielding impact. This became User's high-mobility, resilient Aarakocra Drunken Master Monk (carrying wereboar lycanthropy): **[[Tvyordiy Znak]] (Ъ)**.
-* **Мягкий знак (Ь — Myagkiy Znak / The Soft Sign):** Signifying softness, soothing, and life-preserving grace. This became User's fearless, 24 AC battle cleric: **[[Myagkiy Znak]] (Ь)**.
+The naming of the party and its core characters originated from real-world conversations at a former tech workplace, where Peter and Gary worked with their Russian colleague **Grigory**. While exploring Russian language mechanics, Peter and Gary became intrigued by the linguistic concept of **Znak (Знак — sign/mark)**, specifically the Cyrillic alphabet's two silent modifying signs:
+* **Твёрдый знак (Ъ — Tvyordiy Znak / The Hard Sign):** Signifying firmness, hardness, and unyielding impact. This became Peter's high-mobility, resilient Aarakocra Drunken Master Monk (carrying wereboar lycanthropy): **[[Tvyordiy Znak]] (Ъ)**.
+* **Мягкий знак (Ь — Myagkiy Znak / The Soft Sign):** Signifying softness, soothing, and life-preserving grace. This became Peter's fearless, 24 AC battle cleric: **[[Myagkiy Znak]] (Ь)**.
 
 Inspired by these concepts, the party took the name **The Order of Znak**, and their character sheet names proudly incorporate their Cyrillic symbols **(Ъ)** and **(Ь)**.
 
 ### Alternating DM Collaboration
-Rather than playing the expansion trilogy (*Storm Lord's Wrath*, *Sleeping Dragon's Wake*, *Divine Contention* — titled *"C'mon, Listen"* in D&D Beyond) as an uninterrupted block, User and Gary alternated DM duties, seamlessly interleaving Gary's custom homebrew adventures into the overarching storyline.
+Rather than playing the expansion trilogy (*Storm Lord's Wrath*, *Sleeping Dragon's Wake*, *Divine Contention* — titled *"C'mon, Listen"* in D&D Beyond) as an uninterrupted block, Peter and Gary alternated DM duties, seamlessly interleaving Gary's custom homebrew adventures into the overarching storyline.
 
 ---
 
@@ -30,12 +30,12 @@ Rather than playing the expansion trilogy (*Storm Lord's Wrath*, *Sleeping Drago
 
 | Chronological Phase | Adventure Title | DM | Key Narrative Beats & Milestones |
 | :--- | :--- | :--- | :--- |
-| **Act 1** | *Dragon of Icespire Peak* (Starter Box) | User | Phandalin origin; Mountain's Toe Gold Mine ([[DonJon Raskin]]); Woodland Manse needle blights escape. |
-| **Act 2** | *Storm Lord's Wrath* (*"C'mon, Listen"* Part 1) | User | Establishing Leilon HQ; adopting wards **Smithwell** & **Burnice**; Wayside Inn meat pies ([[Cooragh]]); lizardfolk clan truce ([[Matriarch Qolzaz]] / [[Ballad of Qolzaz]]). |
+| **Act 1** | *Dragon of Icespire Peak* (Starter Box) | Peter | Phandalin origin; Mountain's Toe Gold Mine ([[DonJon Raskin]]); Woodland Manse needle blights escape. |
+| **Act 2** | *Storm Lord's Wrath* (*"C'mon, Listen"* Part 1) | Peter | Establishing Leilon HQ; adopting wards **Smithwell** & **Burnice**; Wayside Inn meat pies ([[Cooragh]]); lizardfolk clan truce ([[Matriarch Qolzaz]] / [[Ballad of Qolzaz]]). |
 | **Interlude 1** | *Shadow Dragon Dungeon Crawl* | Gary | Cavern crawl battling shadow creatures and confronting a deadly Shadow Dragon between *Storm Lord's Wrath* and *Sleeping Dragon's Wake*. |
-| **Act 3** | *Sleeping Dragon's Wake* (*"C'mon, Listen"* Part 2) | User | Multi-front dragon cult warfare along the Sword Coast and Leilon defense. |
+| **Act 3** | *Sleeping Dragon's Wake* (*"C'mon, Listen"* Part 2) | Peter | Multi-front dragon cult warfare along the Sword Coast and Leilon defense. |
 | **Interlude 2** | *"Keeping the Faith"* (with Volcano Climax) | Gary | Between *Sleeping Dragon's Wake* and *Divine Contention*: recovering stolen armor for Forge Cleric [[Dayne Beltran]]; Night Hag defeat & rescue of young [[Yasmina]]; epic climax where [[Myagkiy Znak]] enlarges [[Krageer Stoneface Ogolakanu]] to wrestle the **Fire Giant Queen** in a dormant volcano. |
-| **Act 4** | *Divine Contention* (*"C'mon, Listen"* Finale) | User | Flagship dreadnaught sea battle beneath the tempest apparition of **Talos** vs. [[Fheralai Stormsworn]], an Air Elemental Myrmidon, and a Nalfeshnee demon. |
+| **Act 4** | *Divine Contention* (*"C'mon, Listen"* Finale) | Peter | Flagship dreadnaught sea battle beneath the tempest apparition of **Talos** vs. [[Fheralai Stormsworn]], an Air Elemental Myrmidon, and a Nalfeshnee demon. |
 | **Epilogue / Bridge** | *Bridge Campaign* (WIP / On Hold) | Gary | Work-in-progress bridge adventure for the original 4 champions prior to Ravenloft. |
 
 ---
@@ -45,7 +45,7 @@ Rather than playing the expansion trilogy (*Storm Lord's Wrath*, *Sleeping Drago
 ### 1. Act 1: *Dragon of Icespire Peak* (Starter Box)
 * **Phandalin Origin:** The foundational arc where the 4 champions first united.
 * **Woodland Manse Escape:** Visited Woodland Manse underleveled; accidentally triggered needle blights early in the main room. [[Tvyordiy Znak]] carried a pin-cushioned, collapsed [[Krageer Stoneface Ogolakanu]] off the map as the party barely escaped.
-* **Favorite NPC — [[DonJon Raskin]]:** Overseer of Mountain's Toe Gold Mine, voiced by User with a Louisiana Cajun accent, constantly talking about past adventures and many ex-wives.
+* **Favorite NPC — [[DonJon Raskin]]:** Overseer of Mountain's Toe Gold Mine, voiced by Peter with a Louisiana Cajun accent, constantly talking about past adventures and many ex-wives.
 
 ### 2. Act 2: *Storm Lord's Wrath* (*"C'mon, Listen"* Part 1)
 * **Leilon Headquarters & Wards:** Established party base in Leilon; adopted orphaned children **Smithwell** and **Burnice** as wards.
@@ -78,8 +78,8 @@ Rather than playing the expansion trilogy (*Storm Lord's Wrath*, *Sleeping Drago
 | :--- | :--- | :--- | :--- | :--- |
 | **[[Krageer Stoneface Ogolakanu]]** | Goliath Lvl 9 Barbarian Totem / Lvl 4 Fighter Champion | Lvl 13 | Gary | Frontline damage-dealing meat shield (*Ultima Exodus* +2 Greataxe & GWM) |
 | **[[Rhynok]]** | Elf Lvl 8 Ranger Gloomstalker / Lvl 5 Rogue Assassin | Lvl 13 | Gary | Backline ranged sniper (+2 Longbow, Gloomstalker/Assassin first-round crits) |
-| **[[Myagkiy Znak]] (Ь)** | Variant Human Lvl 13 Life Domain Cleric | Lvl 13 | User | Fearless 24 AC battle cleric (Dayne's +2 Plate & +2 Shield, life-preserving & healing) |
-| **[[Tvyordiy Znak]] (Ъ)** | Aarakocra Lvl 13 Monk Drunken Master (Wereboar Lycanthropy) | Lvl 13 | User | High-mobility shock troop (Deep voice, neutral, flight, Stunning Strikes, Crusher feat) |
+| **[[Myagkiy Znak]] (Ь)** | Variant Human Lvl 13 Life Domain Cleric | Lvl 13 | Peter | Fearless 24 AC battle cleric (Dayne's +2 Plate & +2 Shield, life-preserving & healing) |
+| **[[Tvyordiy Znak]] (Ъ)** | Aarakocra Lvl 13 Monk Drunken Master (Wereboar Lycanthropy) | Lvl 13 | Peter | High-mobility shock troop (Deep voice, neutral, flight, Stunning Strikes, Crusher feat) |
 
 ---
 

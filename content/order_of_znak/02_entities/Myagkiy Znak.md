@@ -10,7 +10,7 @@ tags: [character-sheet, human, cleric, life-domain, myagkiy-znak, order-of-znak]
 # 🕊️ Myagkiy Znak (Ь)
 
 ## Character Overview & Stats
-* **Player:** User (DMPC / Dual PC)
+* **Player:** Peter (DMPC / Dual PC)
 * **Race:** Variant Human
 * **Class:** Level 13 Life Domain Cleric (Single class)
 * **Background:** Hermit
