@@ -251,16 +251,60 @@ flowchart LR
 ---
 
 ### 5. 🔮 Yasmina (NPC / Party Ward)
-* **Origin:** Rescued as a child from a Night Hag in *"Keeping the Faith"*; dark witch/hag lineage.
-* **Thematic Fantasy:** An elusive, tricky young witch wielding uncanny hag magic and eldritch manipulation.
+* **Origin & Mentorship:** Rescued as a child captive from a predatory Night Hag during Gary's *"Keeping the Faith"* DM adventure; raised in Leilon alongside [[Burnice Znak]] and [[Smithwell Znak]] under the protective sheltering wings of [[The Order of Znak]].
+* **Canonical 5e Starting Baseline:**
+  * **Level Split:** Warlock 2 (Starting Class — The Fiend Patron) / Cleric 1 (War Domain) (Total Level 3)
+  * **Point Buy Stats:** STR 8 (-1) | DEX 10 (+0) | CON 15 (+2) | INT 10 (+0) | WIS 13 (+1) | CHA 17 (+3) *(or 18 (+4) with Fey Touched bonus)*
+  * **Combat Baseline:** AC 18 (Plate Armor) / AC 20 (*Shield of Faith*), HP 24, Speed 20 ft *(encumbered by STR 8 heavy armor, offset by 120 ft range and Misty Step)*
+  * **Species & Lineage:** Custom Lineage (Medium Humanoid, Arcana proficiency, **Fey Touched** Feat: *Misty Step* & *Sleep*)
+  * **Background:** Haunted One (Survival, Religion; Languages: Giant, Abyssal; Feature: *Heart of Darkness*)
+  * **Skills & Languages:** Arcana, Nature, Investigation, Survival, Religion; Common, Sylvan, Giant, Abyssal
+  * **Key Features:** *Dark One's Blessing* (5–6 Temp HP on kill), *Agonizing Blast* (+CHA to Eldritch Blast), *Mask of Many Faces* (at-will *Disguise Self*), *War Priest* (bonus action spear attack WIS mod/day).
+  * **Spell Loadout (DC 13/14 Cha, DC 11 Wis):**
+    * *Cantrips (5):* *Eldritch Blast* (1d10 + 3/4), *Toll the Dead* (1d8/1d12), *Guidance*, *Spare the Dying*, *Thaumaturgy*
+    * *Warlock 1st-Level (2 Pact Slots, Short Rest):* *Burning Hands*, *Charm Person*, *Hex*
+    * *Cleric 1st-Level (2 Long Rest Slots):* Domain (*Divine Favor*, *Shield of Faith*), Prepared (*Bane*, *Healing Word*)
+    * *Fey Touched (Free 1/Long Rest):* *Misty Step*, *Sleep*
+
+```mermaid
+flowchart LR
+    YA[Yasmina<br/>STR 8 | CON 15 | WIS 13 | CHA 17-18<br/>Warlock 2 [Fiend] / Cleric 1 [War]<br/>AC 18-20 Plate Armor | Occult Artillery] --> PathA[Path A: Pure 2024 Archfey Warlock<br/>The Coven Witch (Recommended)<br/>Journal as Pact of the Tome<br/>Steps of the Fey Free Misty Steps]
+    YA --> PathB[Path B: Pure 2024 Fiend Warlock<br/>The Iron Blaster<br/>Dark One's Blessing Temp HP Engine<br/>Dark One's Own Luck +1d10 at Lvl 6]
+    YA --> PathC[Path C: War Cleric 1 / Warlock X<br/>Existing Iron Witch Hybrid<br/>Plate Armor AC 18-20 + Spear Strike<br/>Pact Magic Scaling]
+```
 
 #### Pathway Comparison
-* **Path A (Pure 2024 Archfey Patron Warlock — The Coven Witch):**
-  * *Subclass:* **Archfey Patron** (The definitive hag/witch subclass in 2024!).
-  * *Mechanics:* *Steps of the Fey* grants free *Misty Step* casts PB times/day. Each teleport triggers hag riders: *Taunting Step* (disadvantage on attacks against anyone else), *Misty Slam* (2d6 psychic damage + push), or *Refreshing Step* (teleports an ally). At Level 6, *Beguiling Defenses* teleports as a reaction to taking damage.
-  * *Pact Boon:* *Pact of the Tome* (Book of Shadows with 3 cantrips and ritual casting) or *Pact of the Chain* (Hag-like familiar: Quasit, Imp, or Sprite).
+
+| Feature | Path A: Pure Archfey Warlock (The Coven Witch) | Path B: Pure Fiend Warlock (The Iron Blaster) | Path C: War Cleric 1 / Warlock X (Existing Multi) |
+| :--- | :--- | :--- | :--- |
+| **Primary Class** | Warlock (Level 3–10) | Warlock (Level 3–10) | Cleric 1 / Warlock 2–9 |
+| **Subclass** | **Archfey Patron** (The definitive hag witch) | **Fiend Patron** | War Domain Cleric / Fiend (or Archfey) |
+| **Subclass Online** | **Level 3 (Immediate)** | **Level 3 (Immediate)** | **Level 3 (Immediate)** |
+| **Spell Slots** | 2 Pact Slots (Level 2 &rarr; 5 scaling) | 2 Pact Slots (Level 2 &rarr; 5 scaling) | 2 Cleric Lvl 1 slots + 2 Pact Slots |
+| **The Journal Legacy** | **Pact of the Tome:** Her journal IS the Book of Shadows! Grants 3 cantrips (*Guidance*, etc.) + ritual casting! | Used for roleplay / monster lore | Used for roleplay / monster lore |
+| **Mobility & Teleport** | *Steps of the Fey:* Free *Misty Step* PB/day + *Taunting/Slam/Refreshing* riders! | Standard spell slots | Standard spell slots + 1 free via *Fey Touched* |
+| **Survivability** | *Beguiling Defenses* (reaction teleport upon taking damage) | *Dark One's Blessing* (Temp HP on kill); *Dark One's Own Luck* (+1d10 to rolls) | **Heavy Plate Armor (AC 18–20)** + *Dark One's Blessing* |
+| **Armor / Weapon** | Light Armor / Simple (or *Moderately Armored* feat at Lvl 4) | Light Armor / Simple (or *Moderately Armored* feat at Lvl 4) | **Plate Armor (AC 18–20) + Martial Weapons (Spear)** |
+
+#### Recommended Min/Max Progression Schemes:
+* **Path A (Pure 2024 Archfey Patron Warlock — Recommended):**
+  * *Level 3:* Warlock 3 (Archfey Patron. Pact Boon: *Pact of the Tome* turning her journal into the Book of Shadows with *Guidance*, *Spare the Dying*, and *Thaumaturgy*, plus ritual casting. *Steps of the Fey* grants free *Misty Step* PB/day with riders like *Taunting Step* or *Misty Slam*).
+  * *Level 4:* Warlock 4 (Feat: **War Caster** for advantage on concentration and reactive spell blasts, OR **Moderately Armored** / Charisma to 20).
+  * *Level 5:* Warlock 5 (3rd-level pact slots: *Hypnotic Pattern*, *Fireball* or *Hunger of Hadar*. Invocations: *Eldritch Mind*, *Repelling Blast*).
+  * *Level 6:* Warlock 6 (*Beguiling Defenses* allows teleporting as a reaction when taking damage).
+  * *Level 7–10:* Warlock 7–10 (4th & 5th level pact slots, *Dreadful Word*, Mystic Arcanum at Lvl 11).
 * **Path B (Pure 2024 Fiend Patron Warlock):**
-  * *Subclass:* **Fiend Patron** (*Dark One's Blessing* grants Temp HP on kills; *Dark One's Own Luck* adds 1d10 to ability checks/saves).
+  * *Level 3:* Warlock 3 (Fiend Patron. *Dark One's Blessing* grants Temp HP on kills. Level 2 pact slots: *Scorching Ray*, *Hold Person*).
+  * *Level 4:* Warlock 4 (Feat: *Moderately Armored* or *War Caster*; Charisma progression).
+  * *Level 5:* Warlock 5 (3rd-level pact slots: *Fireball*, *Stinking Cloud*; 3rd invocation).
+  * *Level 6:* Warlock 6 (*Dark One's Own Luck* adds 1d10 to any ability check or saving throw!).
+  * *Level 7–10:* Warlock 7–10 (4th & 5th level pact slots: *Wall of Fire*, *Flame Strike*).
+* **Path C (War Cleric 1 / Warlock X — The Existing "Iron Witch" Hybrid):**
+  * *Level 3:* Cleric 1 / Warlock 2 (Plate Armor AC 18/20, War Priest spear strikes, Agonizing Blast, *Mask of Many Faces*, *Healing Word*).
+  * *Level 4:* Cleric 1 / Warlock 3 (Unlock Fiend or Archfey 2nd-level pact magic; *Pact of the Tome* or *Pact of the Blade*).
+  * *Level 5:* Cleric 1 / Warlock 4 (Feat: *War Caster* or Charisma to 20; 2nd-level spells).
+  * *Level 6:* Cleric 1 / Warlock 5 (3rd-level pact slots: *Fireball* or *Hypnotic Pattern*).
+  * *Level 7–10:* Cleric 1 / Warlock 6–9 (Patron level 6 feature, 4th & 5th level pact slots).
 
 ---
 
@@ -272,7 +316,7 @@ flowchart LR
 | **Graxxoamo** | Severe MAD (Dex/Wis/Con); bonus-action clog | **Warrior of Shadow Monk** (native darkness sight + 60 ft teleport) | **Fighter 1 / Monk 2** (Blind Fighting + Weapon Mastery) |
 | **Smithwell** | Rage locks out all Bard spellcasting | **Path of the World Tree Barbarian** + *Musician* Feat | **Barbarian 1 / College of Valor Bard X** |
 | **Shriss** | "Lifeberry" 2024 rule revision | **Circle of the Stars Druid** (*Chalice* equals Life healing) | **Life Cleric 1 / Swamp Druid X** (Heavy Armor + Disciple of Life) |
-| **Yasmina** | Delayed pact magic progression | **Archfey Patron Warlock** (Hag witchcraft & Misty Step riders) | **Cleric 1 / Archfey Warlock X** |
+| **Yasmina** | Delayed pact magic progression & 20 ft speed | **Archfey Patron Warlock** (Journal as *Pact of the Tome* + *Steps of the Fey*) | **War Cleric 1 / Fiend or Archfey Warlock X** (Plate Armor AC 18–20 + Spear) |
 
 ---
 
@@ -281,6 +325,7 @@ flowchart LR
 2. **Burnice's Patron Power:** Does Burnice feel more true as a holy inquisitor who turns extraplanar horrors using Oath of the Watchers, or as a SAD Charisma weapon warrior dipping 1 level into Warlock for *Pact of the Blade*?
 3. **Smithwell's Skaldic Roar:** For Gary, does Path of the World Tree Barbarian (giving party Temp HP every turn and using the *Musician* feat for inspiration) fulfill Krageer's legacy better than a College of Valor Bard who casts spells instead of raging?
 4. **Shriss's Healing Output:** Would Gary prefer the celestial constellation healing of Circle of the Stars Druid (laser blasts + chalice healing bursts), or the armored frontline resilience of a Life Domain Cleric?
+5. **Yasmina's Occult Ward Concept:** Does Yasmina work best as the heavily armored "Iron Witch" (Plate Armor AC 18/20 holding the line with eldritch blasts and spears), or as a pure 2024 Archfey Warlock whose beloved journal literally becomes the *Pact of the Tome* Book of Shadows?
 
 ---
 
