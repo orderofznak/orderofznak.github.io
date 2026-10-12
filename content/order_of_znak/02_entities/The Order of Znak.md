@@ -7,7 +7,7 @@ status: archived
 type: faction
 last_updated: 2026-08-12
 tags: [faction, adventuring-party, order-of-znak, phandalin, leilon, sword-coast]
-aliases: [The Order of Znak, Order of Znak, The Znak Company, Order of the Signs]
+aliases: ['The Order of Znak', 'Order of Znak', 'The Znak Company', 'Order of the Signs']
 ---
 
 # 🛡️ The Order of Znak

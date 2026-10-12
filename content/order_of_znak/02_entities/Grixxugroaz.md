@@ -8,7 +8,7 @@ type: npc
 species: lizardfolk
 last_updated: 2026-10-12
 tags: [npc, lizardfolk, chieftain, leader, mere-of-dead-men, order-of-znak, acolytes-of-znak]
-aliases: [Grixxugroaz, Chieftain Grixxugroaz, Leader Grixxugroaz]
+aliases: ['Grixxugroaz', 'Chieftain Grixxugroaz', 'Leader Grixxugroaz']
 ---
 
 # 🦎 Grixxugroaz

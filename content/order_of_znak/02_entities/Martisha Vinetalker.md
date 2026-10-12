@@ -8,7 +8,7 @@ type: npc
 species: half-elf
 last_updated: 2026-10-12
 tags: [npc, half-elf, martisha-vinetalker, wayside-inn, bandit-captain, high-road, order-of-znak]
-aliases: [Martisha Vinetalker, Martisha, Innkeeper Martisha]
+aliases: ['Martisha Vinetalker', 'Martisha', 'Innkeeper Martisha']
 ---
 
 # 🍷 Martisha Vinetalker

@@ -8,7 +8,7 @@ type: npc
 species: half-orc
 last_updated: 2026-10-12
 tags: [npc, half-orc, cooragh, cooragh-struckt, wayside-inn, meat-pies, krageer, order-of-znak]
-aliases: [Cooragh, Cooragh Struckt]
+aliases: ['Cooragh', 'Cooragh Struckt']
 ---
 
 # 🥧 Cooragh Struckt

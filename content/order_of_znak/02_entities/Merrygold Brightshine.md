@@ -11,7 +11,7 @@ subclass: life_domain
 deity: lathander
 last_updated: 2026-10-12
 tags: [npc, halfling, cleric, priest, lathander, leilon, shrine-of-lathander, order-of-znak]
-aliases: [Merrygold Brightshine, Merrygold, Priestess Brightshine]
+aliases: ['Merrygold Brightshine', 'Merrygold', 'Priestess Brightshine']
 ---
 
 # ☀️ Merrygold Brightshine

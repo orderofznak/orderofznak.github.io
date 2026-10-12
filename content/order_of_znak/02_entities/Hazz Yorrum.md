@@ -9,7 +9,7 @@ species: human
 ethnicity: damaran
 last_updated: 2026-10-12
 tags: [npc, human, damaran, hazz-yorrum, sergeant, neverwinter, leilon, lords-alliance, order-of-znak]
-aliases: [Hazz Yorrum, Sergeant Hazz Yorrum, Sergeant Yorrum]
+aliases: ['Hazz Yorrum', 'Sergeant Hazz Yorrum', 'Sergeant Yorrum']
 ---
 
 # 🛡️ Sergeant Hazz Yorrum

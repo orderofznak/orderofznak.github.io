@@ -8,7 +8,7 @@ type: npc
 nature: ghost
 last_updated: 2026-10-12
 tags: [npc, ghost, aubrey-silverspun, swords-of-leilon, aubreys-peculiarities, magic-shop, claugiyliamatar, divine-contention, leilon, order-of-znak]
-aliases: [Aubrey Silverspun, Aubrey, Master Silverspun]
+aliases: ['Aubrey Silverspun', 'Aubrey', 'Master Silverspun']
 ---
 
 # 🪄 Aubrey Silverspun

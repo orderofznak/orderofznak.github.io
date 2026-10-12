@@ -8,7 +8,7 @@ type: npc
 species: dwarf
 last_updated: 2026-10-12
 tags: [npc, dwarf, grizzelda-copperwraught, the-growler, master-builder, leilon, lords-alliance, order-of-znak]
-aliases: [Grizzelda Copperwraught, The Growler, Builder Copperwraught]
+aliases: ['Grizzelda Copperwraught', 'The Growler', 'Builder Copperwraught']
 ---
 
 # 🔨 Grizzelda Copperwraught ("The Growler")

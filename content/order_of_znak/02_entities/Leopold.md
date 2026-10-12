@@ -8,7 +8,7 @@ type: npc
 species: human
 last_updated: 2026-10-12
 tags: [npc, human, majordomo, butler, leilon, order-of-znak, acolytes-of-znak, hq]
-aliases: [Leopold, Majordomo Leopold, Butler Leopold]
+aliases: ['Leopold', 'Majordomo Leopold', 'Butler Leopold']
 ---
 
 # 🎩 Leopold

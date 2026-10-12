@@ -8,7 +8,7 @@ type: character
 species: human
 last_updated: 2026-10-12
 tags: [npc, ward, leilon, storm-lords-wrath, order-of-znak, acolytes-of-znak]
-aliases: [Young Smithwell, Young Burnice, Young Smithwell and Burnice, The Leilon Wards]
+aliases: ['Young Smithwell', 'Young Burnice', 'Young Smithwell and Burnice', 'The Leilon Wards']
 ---
 
 # 👦👧 Young Smithwell & Burnice (The Leilon Wards)
