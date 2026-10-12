@@ -8,24 +8,36 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
-    pageTitleSuffix: "",
+    pageTitle: "The Order of Znak",
+    pageTitleSuffix: " | Order of Znak Wiki",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: null,
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "orderofznak.github.io",
+    ignorePatterns: [
+      "private",
+      "**/private/**",
+      "templates",
+      ".obsidian",
+      "**/.obsidian/**",
+      "dm_secrets",
+      "**/dm_secrets/**",
+      "drafts",
+      "**/drafts/**",
+      "prep",
+      "**/prep/**",
+      "_MASTER_*",
+      "**/_MASTER_*",
+    ],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
+        header: "Cinzel",
         body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        code: "Fira Code",
       },
       colors: {
         lightMode: {
