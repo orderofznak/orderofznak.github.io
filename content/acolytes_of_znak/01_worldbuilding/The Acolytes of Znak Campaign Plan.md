@@ -36,4 +36,5 @@ tags: [tabletop, dnd2024, acolytes-of-znak, strahd, ravenloft, on-hold, plan]
 
 ## 💡 Behind the Screen & Trivia
 * **Campaign & Engine Context:** DMed by Peter for Gary transitioning to the **D&D 2024 / 5.5e ruleset** in Barovia (*Curse of Strahd*).
-* **Heritage Multiclass Design:** Each PC is designed as a Level 3 multiclass intentionally inheriting fighting styles, spell traditions, and personality traits from their adoptive parents or mentors in *The Order of Znak*.
+* **Heritage Multiclass Design & 2024 Workshop:** Each PC was originally designed as a Level 3 heritage multiclass inheriting traits from their adoptive parents or mentors in *The Order of Znak*. In light of the official 2024 rules (subclasses unlocking at Level 3, weapon masteries, origin feats, and revised monk/barbarian/paladin systems), candidate builds across single-class, small-dip, and multiclass schemes are detailed in [[The Acolytes of Znak - 2024 Character Concepts & Build Workshop]].
+
