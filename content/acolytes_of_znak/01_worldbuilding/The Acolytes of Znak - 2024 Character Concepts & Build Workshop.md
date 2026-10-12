@@ -138,40 +138,57 @@ flowchart LR
 
 ### 3. 🪓 Smithwell Znak (Gary's PC)
 * **Mentor Heritage:** [[Krageer Stoneface Ogolakanu]] (skaldic battle songs, roaring laughter, reckless rage, frontline destruction).
-* **Thematic Fantasy:** A charismatic warrior-skald who bolsters allies with songs and battle shouts while cleaving through enemies in a frenzy.
+* **Canonical 5e Starting Baseline:**
+  * **Level Split:** Barbarian 2 (Starting Class) / Bard 1 (Total Level 3)
+  * **Point Buy Stats:** STR 15 (+2) | DEX 12 (+1) | CON 14 (+2) | INT 10 (+0) | WIS 10 (+0) | CHA 14 (+2)
+  * **Combat Baseline:** AC 13 (Unarmored) or AC 15–16 (Medium Armor), HP 30, Speed 30 ft
+  * **Feat:** **Great Weapon Master (GWM)** (Bonus action attack on crit/kill; -5 to hit for +10 damage)
+  * **The Core Combat Engine:** **Reckless Attack + GWM** (Reckless Attack grants permanent Advantage on attacks, directly offsetting the -5 GWM penalty for devastating +10 damage bursts!)
+  * **Background:** Urban Bounty Hunter (Deception, Persuasion, Pan Flute, Horn; Ear to the Ground)
+  * **Skills & Languages:** Athletics, Perception, Survival, Intimidation, Deception, Persuasion; Common, Draconic
+  * **Class Features:** Rage (2/day, +2 dmg, physical resistance), Danger Sense, Unarmored Defense, Bardic Inspiration (d6, 2 uses/day).
+  * **Spells (2 Lvl 1 slots, DC 12):** *Prestidigitation*, *True Strike*, *Cure Wounds*, *Healing Word*, *Disguise Self*, *Sleep*.
 
 ```mermaid
 flowchart LR
-    SZ[Smithwell Znak<br/>Krageer Skald + Primal Fury] --> PathA[Path A: Pure Barbarian<br/>Path of the World Tree + Musician]
-    SZ --> PathB[Path B: Pure Valor Bard<br/>Warrior-Skald + Cantrip Attacks]
-    SZ --> PathC[Path C: Barbarian 1 / Valor Bard X<br/>Rage Tank + Full Spells]
+    SZ[Smithwell Znak<br/>STR 15 | CON 14 | CHA 14<br/>Barbarian 2 / Bard 1 (Level 3)<br/>Reckless Attack + GWM Engine] --> PathA[Path A: Pure 2024 Barbarian<br/>Path of the World Tree<br/>Musician Feat Inspiration Songs<br/>Lvl 4: Str 16 | ZERO Spell Lockout!]
+    SZ --> PathB[Path B: Pure 2024 Bard<br/>College of Valor<br/>Medium Armor & Martial Weapons<br/>Lvl 6: Cantrip Extra Attack]
+    SZ --> PathC[Path C: Barbarian 2 / Bard 1<br/>Existing Hybrid<br/>Reckless GWM Burst<br/>Rage as Boss Panic Button]
 ```
 
 #### Pathway Comparison
 
-| Feature | Path A: Pure Barbarian (World Tree) | Path B: Pure Bard (College of Valor) | Path C: Barbarian 1 / Valor Bard X |
+| Feature | Path A: Pure Barbarian (World Tree) | Path B: Pure Bard (College of Valor) | Path C: Barbarian 2 / Bard 1 (Existing 2/1) |
 | :--- | :--- | :--- | :--- |
-| **Primary Class** | Barbarian (Level 3–10) | Bard (Level 3–10) | Bard (starts Lvl 2) / Barbarian (starts Lvl 1) |
-| **Subclass** | **Path of the World Tree** | **College of Valor** | College of Valor (at Lvl 4) |
+| **Primary Class** | Barbarian (Level 3–10) | Bard (Level 3–10) | Barbarian (starts Lvl 2) / Bard (starts Lvl 1) |
+| **Subclass** | **Path of the World Tree** | **College of Valor** | Path of the Berserker or World Tree (at Lvl 4) |
 | **Subclass Online** | **Level 3 (Immediate)** | **Level 3 (Immediate)** | Level 4 |
-| **Extra Attack** | **Level 5** | **Level 6 (Cantrip Attack!)** | Level 7 |
-| **Rage & Spell Synergy** | **Zero Spell Conflict:** Skald flavor powered by *Musician* Origin Feat | **Zero Rage Lockout:** Full spellcaster weaving songs and battleaxe strikes | Uses Rage as a panic button for boss fights; casts spells outside rage |
-| **Frontline Mechanics** | Grants 1d6 Temp HP to allies each turn in rage; Level 6 spectral roots pull foes 30 ft | Medium Armor, Shields, Martial Weapons; Combat Inspiration adds to damage/AC | Con saves proficiency, Unarmored Defense / Medium Armor, Rage resistance |
+| **Extra Attack** | **Level 5** | **Level 6 (Cantrip Attack!)** | Level 6 (if Barbarian 5) or Level 7 |
+| **Stat Optimization** | **Str 15, Con 14, Cha 14:** Level 4 Str Half-Feat &rarr; **Str 16 (+3)** (+6 hit, +13 dmg with GWM) | Level 4 Feat (*War Caster* or Cha 16) | Delayed ASIs/Feats to character Level 5 |
+| **Rage & Spell Synergy** | **Zero Spell Conflict:** Skald flavor powered by *Musician* Origin Feat | **Zero Rage Lockout:** Full spellcaster weaving songs and greataxe strikes | Uses Rage as a panic button for boss fights; casts spells outside rage |
+| **Frontline Mechanics** | Grants 1d6 Temp HP to allies each turn in rage; Level 6 spectral roots pull foes 30 ft | Medium Armor, Shields, Martial Weapons; Combat Inspiration adds to damage/AC | Reckless Attack + GWM advantage engine; d12 hit die pool |
 
 #### Recommended Min/Max Progression Schemes:
 * **Path A (Pure Path of the World Tree Barbarian + Musician Feat — Recommended):**
   * *Level 3:* Barbarian 3 (Path of the World Tree. *Vitality of the Tree* grants Temp HP on rage entry and 1d6 Temp HP to an ally within 10 ft every turn. *Musician* feat grants Heroic Inspiration to allies after every rest. *Primal Knowledge* uses Str for Perception/Survival/Stealth during rage).
-  * *Level 4:* Barbarian 4 (Feat: *Great Weapon Master* or Str to 18).
+  * *Level 4:* Barbarian 4 (Feat: *Slasher*, *Crusher*, or revised 2024 *Great Weapon Master* &rarr; **Str to 16 (+3)**).
   * *Level 5:* Barbarian 5 (Extra Attack, Fast Movement).
   * *Level 6:* Barbarian 6 (*Branches of the Tree* teleports enemies up to 30 ft into melee as a reaction).
   * *Level 7:* Barbarian 7 (*Feral Instinct* advantage on initiative).
   * *Level 8–10:* Barbarian 8–10 (ASI, Brutal Strike, Spirit of the Tree).
 * **Path B (Pure College of Valor Bard):**
   * *Level 3:* Bard 3 (College of Valor. Medium armor, shields, martial weapons, Combat Inspiration).
-  * *Level 4:* Bard 4 (Feat: *War Caster* or Cha to 18).
+  * *Level 4:* Bard 4 (Feat: *War Caster* or Cha to 16).
   * *Level 5:* Bard 5 (Font of Inspiration recharges on short rest; 3rd-level spells: *Hypnotic Pattern*).
-  * *Level 6:* Bard 6 (Extra Attack allows casting a Cantrip like *Blade Ward* or *True Strike* in place of one attack!).
+  * *Level 6:* Bard 6 (Extra Attack allows casting a Cantrip like *Blade Ward* or 2024 *True Strike* in place of one attack!).
   * *Level 7–10:* Bard 7–10 (4th & 5th level spells).
+* **Path C (Barbarian X / Bard 1 — The Existing Hybrid):**
+  * *Level 3:* Barbarian 2 / Bard 1 (Reckless Attack + GWM combo, 2 Bardic Inspiration uses, utility spells).
+  * *Level 4:* Barbarian 3 / Bard 1 (Unlock World Tree or Berserker).
+  * *Level 5:* Barbarian 4 / Bard 1 (Str Half-Feat &rarr; Str to 16).
+  * *Level 6:* Barbarian 5 / Bard 1 (Extra Attack on time for martial combat!).
+  * *Level 7–10:* Barbarian 6–9 / Bard 1.
+
 
 ---
 
