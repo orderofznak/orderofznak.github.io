@@ -22,7 +22,7 @@ tags: [npc, order-of-znak]
 * **Adventure Appearances:** Dungeons & Dragons Essentials Kit
 
 ## 📜 Canonical Role & Lore
-**Pallabar** was a [[rock gnome]] living in [[Gnomengarde]] in the late 15 century [[DR]].
+**Pallabar** was a rock gnome living in [[Gnomengarde]] in the late 15 century [[DR]].
 
 ### Description
 Like many other Gnomengarde inhabitants, Pallabar preferred not to talk about his home's troubles with outsiders.

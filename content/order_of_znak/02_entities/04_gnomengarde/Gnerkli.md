@@ -22,7 +22,7 @@ tags: [npc, order-of-znak]
 * **Adventure Appearances:** Dungeons & Dragons Essentials Kit
 
 ## 📜 Canonical Role & Lore
-**Gnerkli** was king of the [[rock gnome]] clan at [[Gnomengarde]] in the late 15 century [[DR]]. He ruled alongside his husband, King [[Korboz]].
+**Gnerkli** was king of the rock gnome clan at [[Gnomengarde]] in the late 15 century [[DR]]. He ruled alongside his husband, King [[Korboz]].
 
 ## ⚔️ Campaign Interactions & Party Encounters
 * **Encounter Status:** Unmet / Met

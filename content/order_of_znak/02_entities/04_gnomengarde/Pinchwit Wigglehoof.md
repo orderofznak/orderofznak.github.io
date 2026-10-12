@@ -21,13 +21,13 @@ tags: [npc, order-of-znak, leilon]
 * **Adventure Appearances:** Storm Lord's Wrath
 
 ## 📜 Canonical Role & Lore
-**Pinchwit Wigglehoof** was a [[gnome]] goatherd in [[Leilon]] in the late 15 century [[DR]].
+**Pinchwit Wigglehoof** was a gnome goatherd in [[Leilon]] in the late 15 century [[DR]].
 
 ### History
-**Circa** [[1491 DR]], part of Pinchwit's flock was to be sold to a wealthy trader from [[Waterdeep]] for a large profit. [[Elmar Barthen]], owner of [[Barthen's Provisions]] in [[Phandalin]], had negotiated the deal. The goats had to be transported from Leilon to Phandalin as part of the arrangement. The Leilon town council hired a group of [[adventurers]] to protect Pinchwit and her goats on the seven-day journey. During their travels, the goats were spooked by [[wyverns]] and had to be rounded up by Pinchwit and the adventurers. Later, the herd was attacked by a group of [[ogre]]s on the prowl that the adventurers fought back. In the end, Pinchwit and her flock arrived safely at Phandalin.
+**Circa** [[1491 DR]], part of Pinchwit's flock was to be sold to a wealthy trader from [[Waterdeep]] for a large profit. [[Elmar Barthen]], owner of [[Barthen's Provisions]] in [[Phandalin]], had negotiated the deal. The goats had to be transported from Leilon to Phandalin as part of the arrangement. The Leilon town council hired a group of adventurers to protect Pinchwit and her goats on the seven-day journey. During their travels, the goats were spooked by wyverns and had to be rounded up by Pinchwit and the adventurers. Later, the herd was attacked by a group of ogres on the prowl that the adventurers fought back. In the end, Pinchwit and her flock arrived safely at Phandalin.
 
 ### Activities
-Pinchwit bred a herd of [[giant goat]]s that provided large quantities of milk and meat. She also sold their goat hair, prized for its warmth and tensile strength.
+Pinchwit bred a herd of giant goats that provided large quantities of milk and meat. She also sold their goat hair, prized for its warmth and tensile strength.
 
 ## ⚔️ Campaign Interactions & Party Encounters
 * **Encounter Status:** Unmet / Met

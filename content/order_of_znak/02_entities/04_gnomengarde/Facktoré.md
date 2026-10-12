@@ -22,10 +22,10 @@ tags: [npc, order-of-znak]
 * **Adventure Appearances:** Dungeons & Dragons Essentials Kit
 
 ## 📜 Canonical Role & Lore
-**Facktoré** was a [[rock gnome]] inventor and guard of [[Gnomengarde]] in the late 15 century [[DR]].
+**Facktoré** was a rock gnome inventor and guard of [[Gnomengarde]] in the late 15 century [[DR]].
 
 ### Personality
-Facktoré was mad, caring only about her inventions and not at all for anything or anyone else. As a guard stationed in Gnomengarde at the controls of one of her inventions, a contraption of four autoloading heavy [[crossbow]]s, she was prone to open fire on visitors simply to test the device, not stopping until she or her machine were incapacitated.
+Facktoré was mad, caring only about her inventions and not at all for anything or anyone else. As a guard stationed in Gnomengarde at the controls of one of her inventions, a contraption of four autoloading heavy crossbows, she was prone to open fire on visitors simply to test the device, not stopping until she or her machine were incapacitated.
 
 ## ⚔️ Campaign Interactions & Party Encounters
 * **Encounter Status:** Unmet / Met

@@ -22,7 +22,7 @@ tags: [npc, order-of-znak, phandalin]
 * **Adventure Appearances:** Dungeons & Dragons Essentials Kit
 
 ## 📜 Canonical Role & Lore
-Sister **Garaele** was an [[elf]] [[cleric]] who lived in [[Phandalin]] in the late 15 century [[DR]]. She was a worshiper of [[Tymora]], and spent much time caring for the [[Shrine of Luck]] in town.
+Sister **Garaele** was an elf cleric who lived in [[Phandalin]] in the late 15 century [[DR]]. She was a worshiper of [[Tymora]], and spent much time caring for the [[Shrine of Luck]] in town.
 
 ### Personality
 Although scholarly, the young acolyte of Tymora had a strong desire to travel and do good for the people of Phandalin. She was also said to be quite zealous, She despised the local terrorists, the [[Redbrands]].

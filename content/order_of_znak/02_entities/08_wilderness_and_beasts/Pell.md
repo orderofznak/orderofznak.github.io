@@ -24,7 +24,7 @@ tags: [npc, order-of-znak]
 **Pell** was a boy who worked for [[Gustaf Stellern]] as a stablehand in his [[Falcon's hunting lodge|hunting lodge]] in [[Neverwinter Wood]] during the late 15 century [[DR]].
 
 ### History
-Following the appearance of the [[white dragon]] [[Cryovain]] in the region, an alliance of [[orcs]] from the south and a [[half-orc]] cult of [[Talos]] formed in Neverwinter Wood and attacked the hunting lodge in which Pell lived. The [[anchorites of Talos]] also conjured [[Gorthok]] the Thunder Boar to aid the attack.
+Following the appearance of the white dragon [[Cryovain]] in the region, an alliance of orcs from the south and a half-orc cult of [[Talos]] formed in Neverwinter Wood and attacked the hunting lodge in which Pell lived. The [[anchorites of Talos]] also conjured [[Gorthok]] the Thunder Boar to aid the attack.
 
 ### Description
 Pell was a mute boy who was twelve years old in [[1492 DR]]. He lived in a simply furnished bedroom on the upper level of the stable house.

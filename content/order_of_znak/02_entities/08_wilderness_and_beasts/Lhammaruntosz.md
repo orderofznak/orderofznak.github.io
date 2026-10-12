@@ -26,7 +26,7 @@ aliases: ['Rauthra', 'Mother Wyrm']
 * **Adventure Appearances:** Sleeping Dragon's Wake
 
 ## 📜 Canonical Role & Lore
-**Lhammaruntosz** was a [[bronze dragon]] who ran the [[Scaly Eye]] shipping company on the [[Sword Coast]].
+**Lhammaruntosz** was a bronze dragon who ran the [[Scaly Eye]] shipping company on the [[Sword Coast]].
 
 Although her sailors often boasted of Lhammaruntosz's protection, most other sailors dismissed it as a tall tale.
 

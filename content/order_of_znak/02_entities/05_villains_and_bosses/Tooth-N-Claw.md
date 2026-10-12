@@ -25,7 +25,7 @@ tags: [npc, order-of-znak]
 **Tooth-N-Claw** was the [[Fiend|fiendish]] pet of [[Gadrille]] the Reef-Reaver in the late 15 century [[DR]].
 
 ### History
-Gadrille was a lieutenant of the [[Cult of Talos]] who was immensely committed to the Storm Lord. As a reward for her devotion, [[Talos]] gave her Tooth-N-Claw as a pet. **Circa** [[1491 DR]], Gadrille's headquarters, the [[Thunder Cliff Caves]], were attacked by a group of [[adventurers]]. Tooth-N-Claw tried to defend Gadrille, but they were defeated by the adventurers.
+Gadrille was a lieutenant of the [[Cult of Talos]] who was immensely committed to the Storm Lord. As a reward for her devotion, [[Talos]] gave her Tooth-N-Claw as a pet. **Circa** [[1491 DR]], Gadrille's headquarters, the [[Thunder Cliff Caves]], were attacked by a group of adventurers. Tooth-N-Claw tried to defend Gadrille, but they were defeated by the adventurers.
 
 ## ⚔️ Campaign Interactions & Party Encounters
 * **Encounter Status:** Unmet / Met

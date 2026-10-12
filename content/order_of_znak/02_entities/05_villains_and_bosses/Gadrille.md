@@ -26,7 +26,7 @@ tags: [npc, order-of-znak]
 ### History
 **Circa** [[1491 DR]], Gadrille's second-in-command, Sovendahl Erkinze, disapproved of some of her more reckless actions and secretly met with the cult's leader, Fheralai Stormsworn, urging her to put a stop to it. Gadrille complied with Fheralai's request but prayed to Talos to punish Sovendahl. The god answered her prayers and cursed Sovendahl.
 
-A little later, the Thunder Cliff Caves were attacked from sea by a group of [[adventurers]]. They defeated Gadrille and her Talos cultists, putting an end to her operation.
+A little later, the Thunder Cliff Caves were attacked from sea by a group of adventurers. They defeated Gadrille and her Talos cultists, putting an end to her operation.
 
 ### Personality
 Gadrille was a despotic and immensely committed servant of [[Talos]].

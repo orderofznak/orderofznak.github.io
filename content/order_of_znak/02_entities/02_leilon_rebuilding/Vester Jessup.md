@@ -24,9 +24,9 @@ tags: [npc, order-of-znak, leilon]
 Private **Vester Jessup** was a [[Neverwinter|Neverwintan]] soldier stationed in the [[Leilon]] garrison in the [[High Tower of Thalivar]] in the late 15 century [[DR]].
 
 ### History
-**Circa** [[1491 DR]], Vester and three other soldiers went missing while on a routine patrol along the Mere of Dead Men. They encountered [[lizardfolk]] tribe and mistook their presence for an attack. The lizardfolk, led by [[Hissain]], fought back and captured the four Leilon troops. They used the captives as bait to lure away a group of [[rot troll]]s that had previously driven the lizardfolk away.
+**Circa** [[1491 DR]], Vester and three other soldiers went missing while on a routine patrol along the Mere of Dead Men. They encountered lizardfolk tribe and mistook their presence for an attack. The lizardfolk, led by [[Hissain]], fought back and captured the four Leilon troops. They used the captives as bait to lure away a group of rot trolls that had previously driven the lizardfolk away.
 
-When Vester still didn't return after already being two days late, his friend Breltora Red-Eye began to worry. However, Vester's commander, Sergeant [[Hazz Yorrum]], did nothing to investigate the disappearance of the soldiers, so Breltora contacted a group of [[adventurers]]. When pressed by Breltora and the adventurers, Yorrum showed them the patrol route on a map. The adventurers then rescued Vester and the other three soldiers.
+When Vester still didn't return after already being two days late, his friend Breltora Red-Eye began to worry. However, Vester's commander, Sergeant [[Hazz Yorrum]], did nothing to investigate the disappearance of the soldiers, so Breltora contacted a group of adventurers. When pressed by Breltora and the adventurers, Yorrum showed them the patrol route on a map. The adventurers then rescued Vester and the other three soldiers.
 
 ### Activities
 Vester was assigned to patrol the [[High Road]] along the [[Mere of Dead Men]] to the south of [[Leilon]].

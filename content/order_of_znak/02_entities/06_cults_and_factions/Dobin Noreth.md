@@ -25,7 +25,7 @@ tags: [npc, order-of-znak]
 **Dobin Noreth** was a member of the [[Stone-Cold Reavers]], a group of reckless adventurers who made their living sometimes as sellswords and sometimes as brigands.
 
 ### History
-The group tried to steal the presumed treasure hoard of the young [[white dragon]] [[Cryovain]] from its lair, [[Icespire Hold]]. Dobin was sent to the nearby village of [[Phandalin]] to gather supplies while the rest of the Stone-Cold Reavers waited for the dragon to leave its lair so they could plunder it in its absence. However, Cryovain hadn't amassed any treasure yet.
+The group tried to steal the presumed treasure hoard of the young white dragon [[Cryovain]] from its lair, [[Icespire Hold]]. Dobin was sent to the nearby village of [[Phandalin]] to gather supplies while the rest of the Stone-Cold Reavers waited for the dragon to leave its lair so they could plunder it in its absence. However, Cryovain hadn't amassed any treasure yet.
 
 ## ⚔️ Campaign Interactions & Party Encounters
 * **Encounter Status:** Unmet / Met

@@ -22,7 +22,7 @@ tags: [npc, order-of-znak]
 * **Adventure Appearances:** Dungeons & Dragons Essentials Kit
 
 ## 📜 Canonical Role & Lore
-**Anverth** was a [[rock gnome]] living in [[Gnomengarde]] in the late 15 century [[DR]].
+**Anverth** was a rock gnome living in [[Gnomengarde]] in the late 15 century [[DR]].
 
 ### Activities
 Like many other inhabitants of Gnomengarde, Anverth could reliably be found napping in the dormitory.

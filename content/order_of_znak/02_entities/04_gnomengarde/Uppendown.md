@@ -22,7 +22,7 @@ tags: [npc, order-of-znak]
 * **Adventure Appearances:** Dungeons & Dragons Essentials Kit
 
 ## 📜 Canonical Role & Lore
-**Uppendown** was a [[rock gnome]] baker living in [[Gnomengarde]] in the late 15 century [[DR]].
+**Uppendown** was a rock gnome baker living in [[Gnomengarde]] in the late 15 century [[DR]].
 
 ### Activities
 Along with [[Panana]], Uppendown was responsible for prepping bread dough made from Gnomengarde's distinctive green mushrooms. His role was to shape the dough into loaves before baking. He took his work very seriously, and worked like an artist in deep concentration with his tongue sticking out at an angle as he sculpted the dough.

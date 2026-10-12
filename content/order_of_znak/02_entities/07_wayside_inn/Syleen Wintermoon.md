@@ -25,7 +25,7 @@ tags: [npc, order-of-znak]
 **Syleen Wintermoon** was the leader of the [[Stone-Cold Reavers]], a group of reckless adventurers who made their living sometimes as sellswords and sometimes as brigands.
 
 ### History
-Syleen grew up in [[Neverwinter]], before becoming an adventurer and eventually the leader of the Stone-Cold Reavers. The group tried to steal the presumed treasure hoard of the young [[white dragon]] [[Cryovain]] from its lair, [[Icespire Hold]]. However, Cryovain hadn't amassed any treasure yet.
+Syleen grew up in [[Neverwinter]], before becoming an adventurer and eventually the leader of the Stone-Cold Reavers. The group tried to steal the presumed treasure hoard of the young white dragon [[Cryovain]] from its lair, [[Icespire Hold]]. However, Cryovain hadn't amassed any treasure yet.
 
 ### Description
 Syleen was a lean woman with red hair that she wore in a ponytail.

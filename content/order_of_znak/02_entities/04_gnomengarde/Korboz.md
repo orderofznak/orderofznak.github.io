@@ -23,7 +23,7 @@ aliases: ['Mad King Korboz']
 * **Adventure Appearances:** Dungeons & Dragons Essentials Kit
 
 ## 📜 Canonical Role & Lore
-**Korboz** was king of the [[rock gnome]] clan at [[Gnomengarde]] in the late 15 century [[DR]]. He ruled alongside his husband, King [[Gnerkli]].
+**Korboz** was king of the rock gnome clan at [[Gnomengarde]] in the late 15 century [[DR]]. He ruled alongside his husband, King [[Gnerkli]].
 
 ## ⚔️ Campaign Interactions & Party Encounters
 * **Encounter Status:** Unmet / Met

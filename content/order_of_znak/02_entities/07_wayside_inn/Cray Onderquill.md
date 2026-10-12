@@ -21,10 +21,10 @@ tags: [npc, order-of-znak]
 * **Adventure Appearances:** Storm Lord's Wrath
 
 ## 📜 Canonical Role & Lore
-**Cray Onderquill** was a novice [[gnome]] [[wizard]] in the late 15 century [[DR]].
+**Cray Onderquill** was a novice gnome wizard in the late 15 century [[DR]].
 
 ### History
-**Circa** [[1491 DR]], Cray Onderquill ran an errand from [[Neverwinter]] to [[Waterdeep]] for her master. She spent one night at the [[Wayside Inn]] on the [[High Road]]. On the same night, the inn was taken over by the [[Cult of Talos]]. Cray magically disguised herself to impersonate a [[Talos]] cultist, then hid under the bed in one of the guest rooms as the cultists began snatching people. She observed that most other guests were impaled as sacrifices; that [[Martisha Vinetalker]], the innkeeper, was held captive in the cellar; and that [[Tarbin Tul]], a local [[bard]], was taken away. The cultists tried to turn the Wayside Inn into a temple of Talos and summoned a violent thunderstorm around the inn in the process. Fortunately, a group of [[adventurers]] rescued Cray and she helped them to stop the ritual in time.
+**Circa** [[1491 DR]], Cray Onderquill ran an errand from [[Neverwinter]] to [[Waterdeep]] for her master. She spent one night at the [[Wayside Inn]] on the [[High Road]]. On the same night, the inn was taken over by the [[Cult of Talos]]. Cray magically disguised herself to impersonate a [[Talos]] cultist, then hid under the bed in one of the guest rooms as the cultists began snatching people. She observed that most other guests were impaled as sacrifices; that [[Martisha Vinetalker]], the innkeeper, was held captive in the cellar; and that [[Tarbin Tul]], a local bard, was taken away. The cultists tried to turn the Wayside Inn into a temple of Talos and summoned a violent thunderstorm around the inn in the process. Fortunately, a group of adventurers rescued Cray and she helped them to stop the ritual in time.
 
 ## ⚔️ Campaign Interactions & Party Encounters
 * **Encounter Status:** Unmet / Met

@@ -21,7 +21,7 @@ tags: [npc, order-of-znak]
 * **Adventure Appearances:** Divine Contention
 
 ## 📜 Canonical Role & Lore
-**Favora Corehoarder** was a [[gnome]] [[priest]] of [[Garl Glittergold]] living in [[Gnomengarde]] in the late 15 century [[DR]].
+**Favora Corehoarder** was a gnome priest of [[Garl Glittergold]] living in [[Gnomengarde]] in the late 15 century [[DR]].
 
 ### Personality
 Favora was courageous and selfless. She was willing to risk her life to protect others. She was an integral member of the small militia that the tiny kingdom had organized since that event.

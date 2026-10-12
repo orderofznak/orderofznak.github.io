@@ -21,10 +21,10 @@ tags: [npc, order-of-znak, leilon]
 * **Adventure Appearances:** Storm Lord's Wrath
 
 ## 📜 Canonical Role & Lore
-**Silla Scalesweep** was a [[halfling]] fisherwoman from [[Neverwinter]] in the late 15 century [[DR]]. She later moved to the town of [[Leilon]], which was being rebuilt.
+**Silla Scalesweep** was a halfling fisherwoman from [[Neverwinter]] in the late 15 century [[DR]]. She later moved to the town of [[Leilon]], which was being rebuilt.
 
 ### History
-**Circa** [[1491 DR]], Silla traveled from Neverwinter to Leilon in the hopes of being hired as a fisher by [[Valdi Estapaar]], the town's fisheries overseer. On her way, she stayed at the [[Wayside Inn]] and accidentally witnessed an [[undead]] attack. The undead had been created by a cult of [[Myrkul]]. A group of [[adventurers]] was able to defend the inn against the attack. Silla then accompanied the adventurers on their way to Leilon.
+**Circa** [[1491 DR]], Silla traveled from Neverwinter to Leilon in the hopes of being hired as a fisher by [[Valdi Estapaar]], the town's fisheries overseer. On her way, she stayed at the [[Wayside Inn]] and accidentally witnessed an undead attack. The undead had been created by a cult of [[Myrkul]]. A group of adventurers was able to defend the inn against the attack. Silla then accompanied the adventurers on their way to Leilon.
 
 ### Description
 Silla was a young, highly chatty halfling woman with lengthy braided hair. She was proficient with the harmonica and enjoyed performing in front of an audience.

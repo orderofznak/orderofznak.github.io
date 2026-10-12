@@ -22,7 +22,7 @@ tags: [npc, order-of-znak]
 * **Adventure Appearances:** Dungeons & Dragons Essentials Kit
 
 ## 📜 Canonical Role & Lore
-**Caramip** was a female [[rock gnome]] living in [[Gnomengarde]] in the late 15 century [[DR]].
+**Caramip** was a female rock gnome living in [[Gnomengarde]] in the late 15 century [[DR]].
 
 ### Description
 Caramip, like most of Gnomengarde's inhabitants, looked up to the master inventors [[Dabbledob Plasterpatch]] and [[Fibblestib Pinebark]], and would refer visitors to them rather than answer any questions herself.

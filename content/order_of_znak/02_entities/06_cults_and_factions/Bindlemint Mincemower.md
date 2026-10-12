@@ -21,10 +21,10 @@ tags: [npc, order-of-znak]
 * **Adventure Appearances:** Divine Contention
 
 ## 📜 Canonical Role & Lore
-**Bindlemint Mincemower** was a [[gnome]] living in [[Gnomengarde]] in the late 15 century [[DR]].
+**Bindlemint Mincemower** was a gnome living in [[Gnomengarde]] in the late 15 century [[DR]].
 
 ### History
-Bindlemint joined the community of Gnomengarde sometime shortly after it experienced an attack by a rampaging [[mimic]]. Not long later, she accompanied the small kingdom's two foremost inventors, [[Dabbledob Plasterpatch]] and [[Fibblestib Pinebark]], to deliver their latest invention, the **[[Gnomengarde grenade]]**, to representatives from the town of [[Leilon]]. The town had requested [[magic]]al aid because it was beset by powerful enemies, as the three gnomes soon had to contend with. Upon their arrival at the agreed meeting place of [[Dumathoin's Gultch]], they were attacked by [[undead]] servants of [[Ularan Mortus]], one of Leilon's chief enemies. While Dabbledob and Fibblestib were unable to escape, Bindlemint fled for Leilon to seek help, but along the way, she was attacked by [[wereboar]]s, but was found by the representatives from Leilon before she sustained more than superficial injuries.
+Bindlemint joined the community of Gnomengarde sometime shortly after it experienced an attack by a rampaging mimic. Not long later, she accompanied the small kingdom's two foremost inventors, [[Dabbledob Plasterpatch]] and [[Fibblestib Pinebark]], to deliver their latest invention, the **Gnomengarde grenade**, to representatives from the town of [[Leilon]]. The town had requested magical aid because it was beset by powerful enemies, as the three gnomes soon had to contend with. Upon their arrival at the agreed meeting place of [[Dumathoin's Gultch]], they were attacked by undead servants of [[Ularan Mortus]], one of Leilon's chief enemies. While Dabbledob and Fibblestib were unable to escape, Bindlemint fled for Leilon to seek help, but along the way, she was attacked by wereboars, but was found by the representatives from Leilon before she sustained more than superficial injuries.
 
 ## ⚔️ Campaign Interactions & Party Encounters
 * **Encounter Status:** Unmet / Met

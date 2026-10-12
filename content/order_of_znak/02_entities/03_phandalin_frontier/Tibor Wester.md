@@ -24,13 +24,13 @@ tags: [npc, order-of-znak]
 **Tibor Wester** was a businessperson who lived on the [[Sword Coast North]] during the late 15 century [[DR]].
 
 ### History
-Some time after the , Tibor's camp was harried by [[ankheg]]s that were called forth by [[anchorites of Talos]]. The Talosian devotees resented the fact that Tibor and his operations intruded on their woodland home.
+Some time after the , Tibor's camp was harried by ankhegs that were called forth by [[anchorites of Talos]]. The Talosian devotees resented the fact that Tibor and his operations intruded on their woodland home.
 
 ### Personality
 He was a spineless man who only looked out for himself and his interests.
 
 ### Activities
-In the 1490s [[DR]], Tibor established a [[Tibor Wester's loggers' camp|logging camp]] in the [[Neverwinter Wood]] on the southern bank of the [[Neverwinter River|river]] where employed local woodsmen to harvest trees and send them downriver to [[Neverwinter]]. He purchased supplies from [[Barthen's Provisions]] in [[Phandalin]] rather than in Neverwinter to avoid paying the latter’s “devastation taxes”,  and he often employed [[adventurer]]s as escorts to this cargo.
+In the 1490s [[DR]], Tibor established a [[Tibor Wester's loggers' camp|logging camp]] in the [[Neverwinter Wood]] on the southern bank of the [[Neverwinter River|river]] where employed local woodsmen to harvest trees and send them downriver to [[Neverwinter]]. He purchased supplies from [[Barthen's Provisions]] in [[Phandalin]] rather than in Neverwinter to avoid paying the latter’s “devastation taxes”,  and he often employed adventurers as escorts to this cargo.
 
 ## ⚔️ Campaign Interactions & Party Encounters
 * **Encounter Status:** Unmet / Met

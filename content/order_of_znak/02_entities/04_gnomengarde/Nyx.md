@@ -22,7 +22,7 @@ tags: [npc, order-of-znak]
 * **Adventure Appearances:** Dungeons & Dragons Essentials Kit
 
 ## 📜 Canonical Role & Lore
-**Nyx** was a [[rock gnome]] living in [[Gnomengarde]] in the late 15 century [[DR]].
+**Nyx** was a rock gnome living in [[Gnomengarde]] in the late 15 century [[DR]].
 
 ### Activities
 Nym was a sound sleeper, and was likely to found napping in the Gnomengarde domiciles alongside her friends.

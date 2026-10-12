@@ -24,7 +24,7 @@ tags: [npc, order-of-znak]
 **Corwin** was a cook employed by [[Gustaf Stellern]] in his [[Falcon's hunting lodge|hunting lodge]] in [[Neverwinter Wood]] during the late 15 century [[DR]].
 
 ### History
-Corwin's employer, Gustaf Stellern, liked to hunt [[orc]]s and turn their heads into trophies. Corwin warned him that this could provoke a retaliatory attack and he was proved right. Following the appearance of the [[white dragon]] [[Cryovain]] in the region, the orcs formed an alliance with a [[half-orc]] cult of [[Talos]] and attacked the hunting lodge. The [[anchorites of Talos]] also conjured [[Gorthok]] the Thunder Boar to aid the attack.
+Corwin's employer, Gustaf Stellern, liked to hunt orcs and turn their heads into trophies. Corwin warned him that this could provoke a retaliatory attack and he was proved right. Following the appearance of the white dragon [[Cryovain]] in the region, the orcs formed an alliance with a half-orc cult of [[Talos]] and attacked the hunting lodge. The [[anchorites of Talos]] also conjured [[Gorthok]] the Thunder Boar to aid the attack.
 
 ### Description
 In the late 15th century [[DR]], Corwin was an aged man who was disenchanted because of his life experiences. He lived in a simply furnished bedroom on the upper level of the stable house.

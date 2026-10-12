@@ -23,7 +23,7 @@ aliases: ['Zook']
 * **Adventure Appearances:** Dungeons & Dragons Essentials Kit
 
 ## 📜 Canonical Role & Lore
-**Zook** was a male [[rock gnome]] living in [[Gnomengarde]] in the late 15 century [[DR]].
+**Zook** was a male rock gnome living in [[Gnomengarde]] in the late 15 century [[DR]].
 
 ### Activities
 Like most of Gnomengarde's inhabitants, Zook looked up to the master inventors [[Dabbledob Plasterpatch]] and [[Fibblestib Pinebark]].

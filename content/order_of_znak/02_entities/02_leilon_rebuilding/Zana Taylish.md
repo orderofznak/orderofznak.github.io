@@ -24,7 +24,7 @@ tags: [npc, order-of-znak, leilon]
 **Zana Taylish** was a [[Calishite]] blacksmith who lived in [[Leilon]] in the late 15 century [[DR]].
 
 ### Activities
-She sold [[armor]] and [[weapon]]s out of a stall in the town square. She did not sell any "exotic" (i.e., [[magical]]) items.
+She sold armor and weapons out of a stall in the town square. She did not sell any "exotic" (i.e., magical) items.
 
 ## ⚔️ Campaign Interactions & Party Encounters
 * **Encounter Status:** Unmet / Met

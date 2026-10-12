@@ -27,7 +27,7 @@ aliases: ['Thistle']
 ### Description
 Thistle would mostly load and unload wagons full of trade goods. When the owner was not in the trading post, Thistle would attend the needs of the customers.
 
-During a routine supply delivery to the [[Dwarf|dwarven]] [[Deadknock Mine]], Thistle discovered the mine completely abandoned. His calls went unanswered, leading him to conclude [[Galdibran]]'s dwarves had been forcibly driven out. When he reported his findings, Elmina Barthen decided to halt supplies, making Thistle's delivery the last. A year later, a group of adventurers questioned him about the mine, after they've been tasked by Elmina to find the dwarves.
+During a routine supply delivery to the dwarven [[Deadknock Mine]], Thistle discovered the mine completely abandoned. His calls went unanswered, leading him to conclude [[Galdibran]]'s dwarves had been forcibly driven out. When he reported his findings, Elmina Barthen decided to halt supplies, making Thistle's delivery the last. A year later, a group of adventurers questioned him about the mine, after they've been tasked by Elmina to find the dwarves.
 
 ## ⚔️ Campaign Interactions & Party Encounters
 * **Encounter Status:** Unmet / Met

@@ -21,7 +21,7 @@ tags: [npc, order-of-znak, leilon]
 * **Adventure Appearances:** Storm Lord's Wrath, Sleeping Dragon's Wake, Divine Contention
 
 ## 📜 Canonical Role & Lore
-**Valdi Estapaar** was the [[half-elf]] overseer of the fishing business and a member of the town council of [[Leilon]] in the late 15 century [[DR]].
+**Valdi Estapaar** was the half-elf overseer of the fishing business and a member of the town council of [[Leilon]] in the late 15 century [[DR]].
 
 ### Description
 Valdi was an elderly half-elven woman.

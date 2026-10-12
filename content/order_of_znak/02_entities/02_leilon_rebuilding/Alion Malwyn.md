@@ -24,7 +24,7 @@ tags: [npc, order-of-znak, leilon]
 **Alion Malwyn** was the proprietor of the [[Umber Hulk's Shell Inn]] in [[Leilon]] as of the late 15 century [[DR]].
 
 ### Description
-They were a nonbinary [[Illuskan]] [[human]].
+They were a nonbinary [[Illuskan]] human.
 
 ### Personality
 Alion was known for being kind and for being eager to share stories. They collected tales and rumors from travelers and happily relayed them to the inn's guests each night.

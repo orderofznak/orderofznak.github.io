@@ -21,7 +21,7 @@ tags: [npc, order-of-znak]
 * **Adventure Appearances:** Dungeons & Dragons Essentials Kit
 
 ## 📜 Canonical Role & Lore
-**Baatorius** was a [[horse]] belonging to [[Gustaf Stellern|Gustaf "Falcon" Stellern]] in the late 15 century [[DR]].
+**Baatorius** was a horse belonging to [[Gustaf Stellern|Gustaf "Falcon" Stellern]] in the late 15 century [[DR]].
 
 ### Description
 Baatorius was a gray stallion. He was Gustaf's reliable riding horse, and was the only horse who lived at [[Falcon's hunting lodge]] in [[Neverwinter Wood]].

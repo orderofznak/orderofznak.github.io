@@ -21,7 +21,7 @@ tags: [npc, order-of-znak, leilon]
 * **Adventure Appearances:** Sleeping Dragon's Wake, Divine Contention
 
 ## 📜 Canonical Role & Lore
-**Puck Caribdas** was an [[elf|elven]] acolyte of [[Tymora]] and seller of [[potion]]s in the town of [[Leilon]] as of the late 15 century [[DR]].
+**Puck Caribdas** was an elven acolyte of [[Tymora]] and seller of potions in the town of [[Leilon]] as of the late 15 century [[DR]].
 
 ### Description
 Puck was physically delicate with a great deal of nervous energy.

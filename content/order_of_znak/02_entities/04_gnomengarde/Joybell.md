@@ -22,10 +22,10 @@ tags: [npc, order-of-znak]
 * **Adventure Appearances:** Dungeons & Dragons Essentials Kit
 
 ## 📜 Canonical Role & Lore
-**Joybell** was a [[rock gnome]] cook living in [[Gnomengarde]] in the late 15 century [[DR]].
+**Joybell** was a rock gnome cook living in [[Gnomengarde]] in the late 15 century [[DR]].
 
 ### Activities
-Joybell operated the [[iron]] [[stove]] in Gnomengarde's kitchen, keeping it hot by stoking it with a [[fire poker]].
+Joybell operated the iron stove in Gnomengarde's kitchen, keeping it hot by stoking it with a fire poker.
 
 ## ⚔️ Campaign Interactions & Party Encounters
 * **Encounter Status:** Unmet / Met

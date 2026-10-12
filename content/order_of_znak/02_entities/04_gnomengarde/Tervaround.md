@@ -22,10 +22,10 @@ tags: [npc, order-of-znak]
 * **Adventure Appearances:** Dungeons & Dragons Essentials Kit
 
 ## 📜 Canonical Role & Lore
-**Tervaround** was a [[rock gnome]] vintner living in [[Gnomengarde]] in the late 15 century [[DR]].
+**Tervaround** was a rock gnome vintner living in [[Gnomengarde]] in the late 15 century [[DR]].
 
 ### Activities
-Tervaround was responsible for making [[mushroom wine]] using Gnomengarde's distinctive purple [[mushroom]]s. She would crush the mushrooms, stuff them into [[barrel]]s, and leave them to ferment deep in the Gnomengarde tunnels.
+Tervaround was responsible for making mushroom wine using Gnomengarde's distinctive purple mushrooms. She would crush the mushrooms, stuff them into barrels, and leave them to ferment deep in the Gnomengarde tunnels.
 
 ## ⚔️ Campaign Interactions & Party Encounters
 * **Encounter Status:** Unmet / Met

@@ -27,7 +27,7 @@ aliases: ['Big Al']
 ### History
 Alfonse Kalazorn was the sheriff of the town of [[Triboar]] until he retired around [[1481 DR]]. As he was bored of retirement, he built up a farm near [[Conyberry]]. Big Al's main source of income was the sale of the butter skulls that gave the Butterskull Ranch its name. The butter for these skull-shaped lumps of butter was made from the milk of the cow [[Petunia (cow)|Petunia]].
 
-**Circa** [[1491 DR]], the ranch was attacked by a small band of [[orcs]] who had been driven from [[Icespire Hold]] by the [[white dragon]] [[Cryovain]]. The orcs freed the [[pig]]s and set the barn and the smithy on fire. A few other animals, including the cow Petunia, also escaped. Alfonse and five of his ranch hands tried to defend the ranch but Alfonse was captured and the hands were killed. Only one ranch hand survived and fled on horseback to the village of [[Phandalin]] to get help.
+**Circa** [[1491 DR]], the ranch was attacked by a small band of orcs who had been driven from [[Icespire Hold]] by the white dragon [[Cryovain]]. The orcs freed the pigs and set the barn and the smithy on fire. A few other animals, including the cow Petunia, also escaped. Alfonse and five of his ranch hands tried to defend the ranch but Alfonse was captured and the hands were killed. Only one ranch hand survived and fled on horseback to the village of [[Phandalin]] to get help.
 
 ## ⚔️ Campaign Interactions & Party Encounters
 * **Encounter Status:** Unmet / Met

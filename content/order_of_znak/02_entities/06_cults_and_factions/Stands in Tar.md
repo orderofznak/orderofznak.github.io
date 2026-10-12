@@ -21,10 +21,10 @@ tags: [npc, order-of-znak]
 * **Adventure Appearances:** Storm Lord's Wrath
 
 ## 📜 Canonical Role & Lore
-**Stands in Tar** was the [[tabaxi]] captain of the **[[Dancing Delight]]** in the late 15 century [[DR]].
+**Stands in Tar** was the tabaxi captain of the **[[Dancing Delight]]** in the late 15 century [[DR]].
 
 ### History
-**Circa** [[1491 DR]], [[Valdi Estapaar]], who was a member of the [[Leilon]] town council, was looking to hire a ship to transport a group of [[Adventurer|adventurers]] to the [[Thunder Cliff Caves]]. The caves at the foot of the [[Thunder Cliffs]] were used as a hideout by the [[Cult of Talos]], which had previously attacked Leilon, and were only accessible by sea. Stands in Tar competed with [[Kristoffen]], the [[dragonborn]] captain of the **[[Ice Floe]]**, for the job. Though the Thundercliffs were considered dangerous, Stands in Tar was undeterred. The adventurers then cleared the caves of the threats there.
+**Circa** [[1491 DR]], [[Valdi Estapaar]], who was a member of the [[Leilon]] town council, was looking to hire a ship to transport a group of adventurers to the [[Thunder Cliff Caves]]. The caves at the foot of the [[Thunder Cliffs]] were used as a hideout by the [[Cult of Talos]], which had previously attacked Leilon, and were only accessible by sea. Stands in Tar competed with [[Kristoffen]], the dragonborn captain of the **[[Ice Floe]]**, for the job. Though the Thundercliffs were considered dangerous, Stands in Tar was undeterred. The adventurers then cleared the caves of the threats there.
 
 ### Personality
 Stands in Tar was a joyful but somewhat quirky tabaxi. She had a reputation for being reckless, yet also for making the impossible possible. Stands in Tar was a hard-drinking alcoholic.

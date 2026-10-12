@@ -25,7 +25,7 @@ tags: [npc, order-of-znak]
 **Yargath** was a member of the [[anchorites of Talos]] in the late 15 century [[DR]]. She was one of the caretakers of the [[Circle of Thunder]] in [[Neverwinter Wood]], a site dedicated to the worship of Talos and the veneration of his servant, [[Gorthok|Gorthok the Thunderboar]].
 
 ### Description
-Yargath was a [[half-orc]], but her appearance left some doubt as to her exact heritage at first glance. Her fingernails were long and sharp, appearing as claws. She kept few furnishings or possessions, save for a **[[potion of greater healing]]** that she took with her when out on patrol in the nearby woods. The anchorites put these orcs to work harassing local hunters or patrolling the area around the Circle, and Yargath was known to lead such orc patrols.
+Yargath was a half-orc, but her appearance left some doubt as to her exact heritage at first glance. Her fingernails were long and sharp, appearing as claws. She kept few furnishings or possessions, save for a **potion of greater healing** that she took with her when out on patrol in the nearby woods. The anchorites put these orcs to work harassing local hunters or patrolling the area around the Circle, and Yargath was known to lead such orc patrols.
 
 ## ⚔️ Campaign Interactions & Party Encounters
 * **Encounter Status:** Unmet / Met

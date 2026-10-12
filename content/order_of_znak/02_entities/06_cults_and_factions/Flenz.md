@@ -22,10 +22,10 @@ tags: [npc, order-of-znak]
 * **Adventure Appearances:** Dungeons & Dragons Essentials Kit
 
 ## 📜 Canonical Role & Lore
-**Flenz** was a [[half-orc]] worshiper of [[Talos]] and a member of the [[anchorites of Talos]] in the late 15 century [[DR]]. Along with fellow anchorites [[Narux]] and [[Yargath]], Flenz was responsible for overseeing rituals dedicated to [[Talos]], god of storms, at the [[Circle of Thunder]] in southern [[Neverwinter Wood]].
+**Flenz** was a half-orc worshiper of [[Talos]] and a member of the [[anchorites of Talos]] in the late 15 century [[DR]]. Along with fellow anchorites [[Narux]] and [[Yargath]], Flenz was responsible for overseeing rituals dedicated to [[Talos]], god of storms, at the [[Circle of Thunder]] in southern [[Neverwinter Wood]].
 
 ### Activities
-Flenz and his fellow anchorites conducted rituals at the Circle of Thunder in order to invoke Talos, to create storms, and to summon [[Gorthok]], a [[primal spirit]] known as the "Thunder Boar." These rituals often entailed blood sacrifices of [[animal]]s or [[humanoid]]s, followed by dancing around the victim's corpse. During these dances, Flenz would wear a rotted boar's head as a mask.
+Flenz and his fellow anchorites conducted rituals at the Circle of Thunder in order to invoke Talos, to create storms, and to summon [[Gorthok]], a primal spirit known as the "Thunder Boar." These rituals often entailed blood sacrifices of animals or humanoids, followed by dancing around the victim's corpse. During these dances, Flenz would wear a rotted boar's head as a mask.
 
 ## ⚔️ Campaign Interactions & Party Encounters
 * **Encounter Status:** Unmet / Met

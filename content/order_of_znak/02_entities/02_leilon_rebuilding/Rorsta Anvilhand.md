@@ -21,13 +21,13 @@ tags: [npc, order-of-znak, leilon]
 * **Adventure Appearances:** Storm Lord's Wrath, Sleeping Dragon's Wake, Divine Contention
 
 ## 📜 Canonical Role & Lore
-**Rorsta Anvilhand** was the [[Dwarf|dwarven]] barge master of [[Leilon]] in the late 15 century [[DR]].
+**Rorsta Anvilhand** was the dwarven barge master of [[Leilon]] in the late 15 century [[DR]].
 
 ### Description
 Rorsta Anvilhand was a grumpy old dwarven woman.
 
 ### Activities
-Rorsta Anvilhand rented out barges for ten days at a time at the [[barge yard]] for 10 [[gp]] each.
+Rorsta Anvilhand rented out barges for ten days at a time at the barge yard for 10 gp each.
 
 ## ⚔️ Campaign Interactions & Party Encounters
 * **Encounter Status:** Unmet / Met

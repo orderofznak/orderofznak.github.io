@@ -27,11 +27,11 @@ tags: [npc, order-of-znak, phandalin]
 **Linene Graywind** was the master of the [[Lionshield Coster (Phandalin)|Lionshield Coster]] trading post in [[Phandalin]] in the late 15 century [[DR]].
 
 ### History
-In [[1491 DR]], Linene expected a large shipment of goods from Yartar, but they never arrived. The caravan transporting the weapons and armor was raided by [[Cragmaw tribe]] [[goblin]]s, and was taken to their [[Cragmaw Hideout|base]].
+In [[1491 DR]], Linene expected a large shipment of goods from Yartar, but they never arrived. The caravan transporting the weapons and armor was raided by [[Cragmaw tribe]] goblins, and was taken to their [[Cragmaw Hideout|base]].
 
 She refused to do business with the [[Redbrands]], a local bandit group, and advised adventurers to stay away from the [[Sleeping Giant]], where the ruffians drank.
 
-Following the attacks by the [[white dragon]] [[Cryovain]] in the surrounding region, Linene hired on [[Velleen Firecrow]] as a new assistant and courier. Velleen and her cadre of adoring [[kobold]]s turned out to be spies for the evil [[Cult of Talos]].
+Following the attacks by the white dragon [[Cryovain]] in the surrounding region, Linene hired on [[Velleen Firecrow]] as a new assistant and courier. Velleen and her cadre of adoring kobolds turned out to be spies for the evil [[Cult of Talos]].
 
 In [[1496 DR]], Linene was training her daughter, [[Minghee Graywind|Minghee]], to someday take over the business, which now found itself in stiff competition with the [[Phandalin Miner's Exchange]] under the ownership of [[Sharna Quirstiron]]. However, Minghee wanted to travel, or to at least find a job that would allow her to do so, which concerned Linene.
 

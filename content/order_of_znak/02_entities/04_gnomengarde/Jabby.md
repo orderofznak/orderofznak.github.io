@@ -22,7 +22,7 @@ tags: [npc, order-of-znak]
 * **Adventure Appearances:** Dungeons & Dragons Essentials Kit
 
 ## 📜 Canonical Role & Lore
-**Jabby** was a [[rock gnome]] living in [[Gnomengarde]] in the late 15 century [[DR]].
+**Jabby** was a rock gnome living in [[Gnomengarde]] in the late 15 century [[DR]].
 
 ### Description
 Jabby was likely to found dozing in the Gnomengarde dormitory alongside her friends.

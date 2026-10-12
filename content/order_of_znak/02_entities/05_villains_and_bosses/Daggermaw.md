@@ -21,7 +21,7 @@ tags: [npc, order-of-znak]
 * **Adventure Appearances:** Dungeons & Dragons Essentials Kit
 
 ## 📜 Canonical Role & Lore
-**Daggermaw** was a large, old, and notably aggressive [[hunter shark]] in the [[Sea of Swords]] along the [[Sword Coast North]] as of the late 15 century [[DR]].
+**Daggermaw** was a large, old, and notably aggressive hunter shark in the [[Sea of Swords]] along the [[Sword Coast North]] as of the late 15 century [[DR]].
 
 ### History
 In the late 15 century DR, the lighthouse at the [[Tower of Storms]] was hijacked by an [[anchorite of Talos]] and used to lure ships to their doom on the nearby rocks. These wrecks became the favorite hunting ground for Daggermaw, along with two other hunter sharks who were relatively tame by comparison.

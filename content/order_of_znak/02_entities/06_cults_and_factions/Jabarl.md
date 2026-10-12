@@ -26,7 +26,7 @@ aliases: ['The Orc-Biter']
 **Jabarl the Orc-Biter** was a member of the [[Stone-Cold Reavers]], a group of reckless adventurers who made their living sometimes as sellswords and sometimes as brigands.
 
 ### Personality
-Jabarl was a rugged, ill-tempered thug who intimidated people to get what he wanted. If that didn't work, he resorted to brute force. Jabarl liked to take care of [[horse]]s, however, which could calm his violent nature.
+Jabarl was a rugged, ill-tempered thug who intimidated people to get what he wanted. If that didn't work, he resorted to brute force. Jabarl liked to take care of horses, however, which could calm his violent nature.
 
 ## ⚔️ Campaign Interactions & Party Encounters
 * **Encounter Status:** Unmet / Met

@@ -22,7 +22,7 @@ tags: [npc, order-of-znak]
 * **Adventure Appearances:** Dungeons & Dragons Essentials Kit
 
 ## 📜 Canonical Role & Lore
-**Panana** was a [[rock gnome]] baker living in [[Gnomengarde]] in the late 15 century [[DR]].
+**Panana** was a rock gnome baker living in [[Gnomengarde]] in the late 15 century [[DR]].
 
 ### Activities
 Along with [[Uppendown]], Panana was responsible for prepping bread dough made from Gnomengarde's distinctive green mushrooms. Her role was to mix and knead the dough using a rolling contraption, which required her to stand atop her workbench in order to operate.

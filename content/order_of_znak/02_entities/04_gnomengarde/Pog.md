@@ -22,10 +22,10 @@ tags: [npc, order-of-znak]
 * **Adventure Appearances:** Dungeons & Dragons Essentials Kit
 
 ## 📜 Canonical Role & Lore
-**Pog** was a [[rock gnome]] guard of [[Gnomengarde]] in the late 15 century [[DR]].
+**Pog** was a rock gnome guard of [[Gnomengarde]] in the late 15 century [[DR]].
 
 ### History
-When Gnomengarde came under attack by a [[mimic]] in the late 15 century DR, the only information given to the gnomes by their king, [[Korboz]], was to attack any [[shapechanger]]s on sight. Unfortunately, this left Pog and his partner Ulla in a predicament because **anyone** could be a shapechanger. They were thus highly suspicious of any outsiders, and were unlikely to let anyone pass without a fight unless they could persuade the sentries otherwise or unless they had an audience with King Korboz or King [[Gnerkli]].
+When Gnomengarde came under attack by a mimic in the late 15 century DR, the only information given to the gnomes by their king, [[Korboz]], was to attack any shapechangers on sight. Unfortunately, this left Pog and his partner Ulla in a predicament because **anyone** could be a shapechanger. They were thus highly suspicious of any outsiders, and were unlikely to let anyone pass without a fight unless they could persuade the sentries otherwise or unless they had an audience with King Korboz or King [[Gnerkli]].
 
 ### Activities
 Alongside [[Ulla]], Pog was one of Gnomengarde's sentries. It was his job to hail any outsiders in [[Common]], and to attack anyone he deemed to be a threat.

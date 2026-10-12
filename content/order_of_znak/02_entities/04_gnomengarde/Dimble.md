@@ -22,7 +22,7 @@ tags: [npc, order-of-znak]
 * **Adventure Appearances:** Dungeons & Dragons Essentials Kit
 
 ## 📜 Canonical Role & Lore
-**Dimble** was a [[rock gnome]] living in [[Gnomengarde]] in the late 15 century [[DR]].
+**Dimble** was a rock gnome living in [[Gnomengarde]] in the late 15 century [[DR]].
 
 ### Activities
 Dimble was responsible for producing the oil that fueled Gnomengarde's lanterns and inventions. He operated the complicated contraption that pressed Gnomengarde's unique red mushrooms to extract their oil. From each big specimen, Dimble could extract four flasks of oil.

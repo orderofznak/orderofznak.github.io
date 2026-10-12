@@ -21,10 +21,10 @@ tags: [npc, order-of-znak, leilon]
 * **Adventure Appearances:** Divine Contention
 
 ## 📜 Canonical Role & Lore
-**Vangol Kuskolt** was a [[dwarven]] [[priest]] of [[Tyr]] active in the [[Sword Coast North]] in the late 15 century [[DR]].
+**Vangol Kuskolt** was a dwarven priest of [[Tyr]] active in the [[Sword Coast North]] in the late 15 century [[DR]].
 
 ### Description
-He walked heavily on an [[iron]] [[Prosthetic|peg leg]].
+He walked heavily on an iron peg leg.
 
 ### Personality
 Vangol was fiery yet fair.

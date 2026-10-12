@@ -22,7 +22,7 @@ tags: [npc, order-of-znak]
 * **Adventure Appearances:** Dungeons & Dragons Essentials Kit
 
 ## 📜 Canonical Role & Lore
-**Quippy** was a [[rock gnome]] living in [[Gnomengarde]] in the late 15 century [[DR]].
+**Quippy** was a rock gnome living in [[Gnomengarde]] in the late 15 century [[DR]].
 
 ### Personality
 Quippy was not afraid to defend herself if attacked, but like most inhabitants of Gnomengarde, she was not likely to start a fight, even if she discovered an intruder in her home.

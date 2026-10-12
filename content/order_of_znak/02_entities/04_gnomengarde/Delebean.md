@@ -22,7 +22,7 @@ tags: [npc, order-of-znak]
 * **Adventure Appearances:** Dungeons & Dragons Essentials Kit
 
 ## 📜 Canonical Role & Lore
-**Delebean** was a [[rock gnome]] living in [[Gnomengarde]] in the late 15 century [[DR]].
+**Delebean** was a rock gnome living in [[Gnomengarde]] in the late 15 century [[DR]].
 
 ### Description
 Not unlike most of Gnomengarde's inhabitants, Delebean was harmless but willing to fight to defend himself and his home.

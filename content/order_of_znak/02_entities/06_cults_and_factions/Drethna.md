@@ -22,10 +22,10 @@ tags: [npc, order-of-znak]
 * **Adventure Appearances:** Dungeons & Dragons Essentials Kit
 
 ## 📜 Canonical Role & Lore
-**Drethna** was a [[half-orc]] worshiper of [[Talos]] and a member of the [[anchorites of Talos]] active in southern [[Neverwinter Wood]] in the late 15 century [[DR]].
+**Drethna** was a half-orc worshiper of [[Talos]] and a member of the [[anchorites of Talos]] active in southern [[Neverwinter Wood]] in the late 15 century [[DR]].
 
 ### History
-In the late 15 century DR, the anchorites of Talos used their [[magic]] to send a number of [[ankheg]]s to attack a [[Tibor Wester's loggers' camp|logging camp]] in [[Neverwinter Wood]], and Drethna was placed in charge of observing whether anyone came to interfere. Rather than to fight, however, she preferred to simply keep watch in her boar shape, and to race off to the anchorite base at the [[Woodland Manse]] if she spotted anyone new or suspicious in the forest.
+In the late 15 century DR, the anchorites of Talos used their magic to send a number of ankhegs to attack a [[Tibor Wester's loggers' camp|logging camp]] in [[Neverwinter Wood]], and Drethna was placed in charge of observing whether anyone came to interfere. Rather than to fight, however, she preferred to simply keep watch in her boar shape, and to race off to the anchorite base at the [[Woodland Manse]] if she spotted anyone new or suspicious in the forest.
 
 ## ⚔️ Campaign Interactions & Party Encounters
 * **Encounter Status:** Unmet / Met
