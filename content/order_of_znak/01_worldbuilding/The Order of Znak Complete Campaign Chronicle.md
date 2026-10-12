@@ -11,18 +11,8 @@ tags: [tabletop, dnd5e, order-of-znak, icespire-peak, cmon-listen, keeping-the-f
 
 # 🐉 The Order of Znak — Complete Campaign Chronicle
 
-## Overview & Real-World Genesis
-***The Order of Znak*** was a long-running, 1-on-1 dual-character campaign saga between Peter and Gary.
-
-### Linguistic Origin of "Znak"
-The naming of the party and its core characters originated from real-world conversations at a former tech workplace, where Peter and Gary worked with their Russian colleague **Grigory**. While exploring Russian language mechanics, Peter and Gary became intrigued by the linguistic concept of **Znak (Знак — sign/mark)**, specifically the Cyrillic alphabet's two silent modifying signs:
-* **Твёрдый знак (Ъ — Tvyordiy Znak / The Hard Sign):** Signifying firmness, hardness, and unyielding impact. This became Peter's high-mobility, resilient Aarakocra Drunken Master Monk (carrying wereboar lycanthropy): **[[Tvyordiy Znak]] (Ъ)**.
-* **Мягкий знак (Ь — Myagkiy Znak / The Soft Sign):** Signifying softness, soothing, and life-preserving grace. This became Peter's fearless, 24 AC battle cleric: **[[Myagkiy Znak]] (Ь)**.
-
-Inspired by these concepts, the party took the name **The Order of Znak**, and their character sheet names proudly incorporate their Cyrillic symbols **(Ъ)** and **(Ь)**.
-
-### Alternating DM Collaboration
-Rather than playing the expansion trilogy (*Storm Lord's Wrath*, *Sleeping Dragon's Wake*, *Divine Contention* — titled *"C'mon, Listen"* in D&D Beyond) as an uninterrupted block, Peter and Gary alternated DM duties, seamlessly interleaving Gary's custom homebrew adventures into the overarching storyline.
+## 📜 The Legend of The Order of Znak
+***The Order of Znak*** is an epic D&D 5e campaign saga charting the rise of four legendary champions across the Sword Coast. Beginning as humble sellswords uniting in the frontier town of Phandalin, the Order evolved into the saviors of Leilon, repelling dragon cults, planar fiends, and elemental deities across an interconnected grand campaign.
 
 ---
 
@@ -43,48 +33,43 @@ Rather than playing the expansion trilogy (*Storm Lord's Wrath*, *Sleeping Drago
 ## 📌 Campaign Phase Details
 
 ### 1. Act 1: *Dragon of Icespire Peak* (Starter Box)
-* **Phandalin Origin:** The foundational arc where the 4 champions first united.
+* **Phandalin Origin:** The foundational arc where the 4 champions first united to defend the frontier.
 * **Woodland Manse Escape:** Visited Woodland Manse underleveled; accidentally triggered needle blights early in the main room. [[Tvyordiy Znak]] carried a pin-cushioned, collapsed [[Krageer Stoneface Ogolakanu]] off the map as the party barely escaped.
-* **Favorite NPC — [[DonJon Raskin]]:** Overseer of Mountain's Toe Gold Mine, voiced by Peter with a Louisiana Cajun accent, constantly talking about past adventures and many ex-wives.
+* **Favorite Contact — [[DonJon Raskin]]:** Overseer of Mountain's Toe Gold Mine, rescued from infesting wererats and becoming a lifelong patron.
 
 ### 2. Act 2: *Storm Lord's Wrath* (*"C'mon, Listen"* Part 1)
-* **Leilon Headquarters & Wards:** Established party base in Leilon; adopted orphaned children **Smithwell** and **Burnice** as wards.
-* **Wayside Inn Romance:** [[Krageer Stoneface Ogolakanu]] became romantically entangled with **[[Cooragh]]** over her famous meat pies.
-* **Lizardfolk Alliance & Qolzaz Tattoo:** Fought lizardfolk tribe in the Missing Patrol questline and killed Matriarch **[[Matriarch Qolzaz]]**. After helping vanquish invading undead trolls, gained tribe respect; Krageer tattooed Qolzaz on his chest (immortalized in ***[[Ballad of Qolzaz]]***). Joined later by lizardfolk exchange allies **Graxxoamo** and **Shriss**.
+* **Leilon Headquarters & Wards:** Established the Order's permanent base in Leilon; adopted orphaned children **Smithwell** and **Burnice** as wards.
+* **Wayside Inn Hearth:** [[Krageer Stoneface Ogolakanu]] formed an enduring romance with cook **[[Cooragh]]** over her famous tavern meat pies.
+* **Lizardfolk Alliance & Qolzaz Tribute:** Clashed with the Mere of Dead Men lizardfolk in the Missing Patrol questline and slew Matriarch **[[Matriarch Qolzaz]]**. After helping vanquish invading undead trolls, gained the tribe's deep respect; Krageer tattooed Qolzaz on his chest (immortalized in ***[[Ballad of Qolzaz]]***). Later joined by lizardfolk exchange allies **Graxxoamo** and **Shriss**.
 
 ### 3. Interlude 1: Shadow Dragon Dungeon Crawl (Gary's DM Adventure)
 * **Chronological Placement:** Occurred between *Storm Lord's Wrath* and *Sleeping Dragon's Wake*.
 * **Cavern Dungeon Crawl:** Deep subterranean dungeon crawl battling terrifying shadow creatures and confronting a deadly Shadow Dragon.
 
 ### 4. Act 3: *Sleeping Dragon's Wake* (*"C'mon, Listen"* Part 2)
-* **Sword Coast Conflict:** Escalating multi-front warfare around Leilon confronting dragon cults and primordial forces.
+* **Sword Coast Conflict:** Escalating multi-front warfare around Leilon confronting dragon cults, undead incursions, and primordial forces.
 
 ### 5. Interlude 2: *"Keeping the Faith"* (Gary's DM Adventure)
 * **Chronological Placement:** Occurred between *Sleeping Dragon's Wake* and *Divine Contention*.
-* **Dayne's Armor & Hag Rescue:** Recovered stolen +2 Plate Armor for Forge Domain Cleric **[[Dayne Beltran]]**; defeated a Night Hag and rescued young **[[Yasmina]]**.
+* **Dayne's Armor & Hag Rescue:** Recovered stolen +2 Plate Armor for Forge Domain Cleric **[[Dayne Beltran]]**; defeated a predatory Night Hag and rescued young **[[Yasmina]]**.
 * **Volcano Climax Boss Battle:** The epic culmination of the adventure—[[Myagkiy Znak]] cast *Enlarge* on [[Krageer Stoneface Ogolakanu]], allowing Krageer to wrestle the **Fire Giant Queen** in molten grapple combat inside a dormant volcano!
 
 ### 6. Act 4: *Divine Contention* (*"C'mon, Listen"* Finale)
-* **Tempest Dreadnaught Climax:** Epic flagship sea battle beneath an apparition of **Talos**, fighting **[[Fheralai Stormsworn]]**, an **Air Elemental Myrmidon**, and a **Nalfeshnee demon**.
+* **Tempest Dreadnaught Climax:** Epic flagship sea battle beneath an apparition of **Talos**, fighting high priestess **[[Fheralai Stormsworn]]**, an **Air Elemental Myrmidon**, and a **Nalfeshnee demon**.
 
 ### 7. Bridge Campaign (WIP / On Hold)
-* **DM:** Gary. Work-in-progress bridge adventure for the original 4 PCs of *The Order of Znak* prior to Strahd.
+* **Narrative Bridge:** Work-in-progress bridge adventure for the original 4 PCs of *The Order of Znak* prior to the mists of Ravenloft.
 
 ---
 
-## 👥 The Order of Znak Party Roster (Dual PC Setup)
+## 👥 The Order of Znak Party Roster
 
 | Character | Race & Class | Level | Player | Primary Combat Role |
 | :--- | :--- | :--- | :--- | :--- |
-| **[[Krageer Stoneface Ogolakanu]]** | Goliath Lvl 9 Barbarian Totem / Lvl 4 Fighter Champion | Lvl 13 | Gary | Frontline damage-dealing meat shield (*Ultima Exodus* +2 Greataxe & GWM) |
-| **[[Rhynok]]** | Elf Lvl 8 Ranger Gloomstalker / Lvl 5 Rogue Assassin | Lvl 13 | Gary | Backline ranged sniper (+2 Longbow, Gloomstalker/Assassin first-round crits) |
-| **[[Myagkiy Znak]] (Ь)** | Variant Human Lvl 13 Life Domain Cleric | Lvl 13 | Peter | Fearless 24 AC battle cleric (Dayne's +2 Plate & +2 Shield, life-preserving & healing) |
-| **[[Tvyordiy Znak]] (Ъ)** | Aarakocra Lvl 13 Monk Drunken Master (Wereboar Lycanthropy) | Lvl 13 | Peter | High-mobility shock troop (Deep voice, neutral, flight, Stunning Strikes, Crusher feat) |
-
----
-
-## 🧠 DM Encounter Scaling & Min-Maxing Mechanics
-Gary is an avid min-maxer who optimizes character DPR and survivability. Operating as DM required up-leveling encounters, adding extra meat-shield minions, and inserting higher-CR threat monsters (such as Air Elemental Myrmidons and Nalfeshnee demons) to maintain high-stakes combat challenges.
+| **[[Krageer Stoneface Ogolakanu]]** | Goliath Barbarian Totem / Fighter Champion | Lvl 13 | Gary | Frontline damage-dealing meat shield (*Ultima Exodus* +2 Greataxe & GWM) |
+| **[[Rhynok]]** | Elf Ranger Gloomstalker / Rogue Assassin | Lvl 13 | Gary | Backline ranged sniper (+2 Longbow, Gloomstalker/Assassin first-round crits) |
+| **[[Myagkiy Znak]] (Ь)** | Variant Human Life Domain Cleric | Lvl 13 | Peter | Fearless 24 AC battle cleric (Dayne's +2 Plate & +2 Shield, life-preserving & healing) |
+| **[[Tvyordiy Znak]] (Ъ)** | Aarakocra Monk Drunken Master (Wereboar Lycanthropy) | Lvl 13 | Peter | High-mobility shock troop (Flight, Stunning Strikes, Crusher forced movement) |
 
 ---
 
@@ -100,3 +85,27 @@ Gary is an avid min-maxer who optimizes character DPR and survivability. Operati
 
 ![[Arm-wrestling.png]]
 *Arm Wrestling Contest — Krageer Stoneface Ogolakanu vs. Tvyordiy Znak*
+
+---
+
+## 💡 Behind the Screen: Campaign Genesis & Table Trivia
+
+### 🇷🇺 The workplace Connection & Linguistic Origin of "Znak"
+The naming of the party and its core character concepts originated from real-world conversations at a former tech workplace, where Peter and Gary worked with Russian colleague **Grigory**. While exploring Russian Cyrillic language mechanics, Peter and Gary became intrigued by the linguistic concept of **Znak (Знак — sign/mark)**, specifically the alphabet's two silent modifying signs:
+* **Твёрдый знак (Ъ — Tvyordiy Znak / The Hard Sign):** Signifying firmness, hardness, and unyielding impact. This became Peter's high-mobility, wereboar Aarakocra Monk: **[[Tvyordiy Znak]] (Ъ)**.
+* **Мягкий знак (Ь — Myagkiy Znak / The Soft Sign):** Signifying softness, soothing, and life-preserving grace. This became Peter's fearless 24 AC battle cleric: **[[Myagkiy Znak]] (Ь)**.
+
+Inspired by these concepts, the party took the name **The Order of Znak**, and their character sheet names proudly incorporate their Cyrillic symbols **(Ъ)** and **(Ь)**.
+
+### 🎭 Dual-PC Co-Op & Alternating DM Screen
+Rather than playing the expansion trilogy (*Storm Lord's Wrath*, *Sleeping Dragon's Wake*, *Divine Contention* — titled *"C'mon, Listen"* in D&D Beyond) as an uninterrupted block, Peter and Gary ran a 1-on-1 dual-character setup and alternated DM duties:
+* Peter ran the main Dragon of Icespire Peak and Leilon trilogy modules.
+* Gary interleaved custom homebrew dungeon crawls and boss encounters (*Shadow Dragon Dungeon Crawl*, *"Keeping the Faith"*).
+
+### ⚔️ DM Encounter Scaling vs. Min-Maxed DPR
+Gary is an avid character optimizer who min-maxed Krageer and Rhynok for extreme DPR and survivability. Operating as DM required up-leveling published encounters, inserting extra frontline bodyguards, and adding high-CR planar threats (such as Air Elemental Myrmidons and Nalfeshnee demons) to maintain intense combat stakes.
+
+### 🍕 Table Running Gags & Homages
+* **DonJon's Cajun Accent:** Voiced by Peter with an exaggerated Louisiana Cajun drawl, improvising endless monologues about wild youth escapades and grievances concerning his ex-wives.
+* **The Wayside Inn Meat Pies:** Krageer's romance with tavern cook Cooragh was an ongoing comedy highlight driven entirely by his obsession with her meat pies.
+* **Ultima Exodus Greataxe:** Krageer's signature axe was named after *Ultima III: Exodus*, a shared inside joke between Peter and Gary as lifelong *Ultima* fans.

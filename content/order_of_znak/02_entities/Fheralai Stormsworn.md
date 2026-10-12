@@ -1,15 +1,25 @@
 ---
 hobby: tabletop
+universe: znak
 system: dnd5e
 campaign: order_of_znak
 status: archived
+type: villain
 last_updated: 2026-08-12
 tags: [npc, villain, fheralai, divine-contention, order-of-znak, talos]
 ---
 
 # ⚡ Fheralai Stormsworn
 
-## Overview & Role
-* **Role:** High-ranking priestess of Talos and primary antagonist of *Divine Contention*.
-* **Climactic Battle:** Fought [[The Order of Znak]] during the campaign climax aboard a tempest-tossed Dreadnaught ship beneath a towering manifestation of Talos.
-* **Encounter Mechanics:** To challenge Gary's min-maxer builds, Peter up-scaled the encounter by adding an **Air Elemental Myrmidon** and a **Nalfeshnee demon** as frontline support alongside Fheralai.
+## 🛡️ Overview & Lore
+* **Role in the Campaign:** High-ranking priestess of Talos (God of Storms) and supreme field commander of storm cultist forces threatening the Sword Coast in *Divine Contention*.
+* **Zealotry & Power:** Wields destructive tempest divine magic, commanding storm elementals and terrifying cult flotillas along the Sea of Swords.
+
+## ⚔️ The Tempest Dreadnaught Climax
+* **The Final Showdown:** Fought [[The Order of Znak]] aboard an ironclad dreadnaught flagship tossed amidst hurricane-force waves, directly beneath an ominous crackling apparition of Talos in the storm clouds above.
+* **Cultist Vanguard:** Supported by an elite cadre of elemental horrors and summoned planar fiends in a desperate attempt to sink Leilon's champions.
+
+---
+
+## 💡 Behind the Screen & Trivia
+* **DM Encounter Tuning & Min-Max Countermeasures:** Because Gary is an avid min-maxer who built Krageer and Rhynok for extreme burst damage, Peter recognized that the standard published statblock for Fheralai would be annihilated in a single round. To maintain epic narrative stakes, Peter up-scaled the encounter by adding an **Air Elemental Myrmidon** and a **Nalfeshnee demon** as frontline bodyguards, forcing the party into tactical positioning and crowd control.

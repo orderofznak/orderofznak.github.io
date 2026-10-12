@@ -115,3 +115,9 @@ And I bear her, in ink, like a god."
 *(Optional Spoken Eulogy)*
 > *Strength need not be gentle to be good.*
 > *And death, when faced with honor, need not be an end.*
+
+---
+
+## 💡 Behind the Screen & Trivia
+* **Origins of the Ballad:** Written to immortalize the transition of the Mere of Dead Men lizardfolk tribe from initial foes to steadfast allies of [[The Order of Znak]].
+* **The Chest Tattoo:** Commemorates Gary's in-character decision to have Krageer tattoo Qolzaz's visage across his chest in accordance with Goliath warrior traditions honoring formidable adversaries.

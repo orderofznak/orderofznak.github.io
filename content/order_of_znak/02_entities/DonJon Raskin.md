@@ -1,15 +1,26 @@
 ---
 hobby: tabletop
+universe: znak
 system: dnd5e
 campaign: order_of_znak
 status: archived
+type: npc
 last_updated: 2026-08-11
 tags: [npc, donjon-raskin, order-of-znak, phandalin, gold-mine]
 ---
 
 # 🤠 DonJon Raskin
 
-## Overview & Role
-* **Role:** Overlord / Overseer of Mountain's Toe Gold Mine in *Dragon of Icespire Peak*.
-* **Party Standing:** Absolute favorite NPC of [[The Order of Znak]].
-* **Roleplay & Voice:** Voiced by Peter with a hilarious **Louisiana Cajun accent**, constantly telling stories about his wild past adventures and rambling about his many ex-wives.
+## 🛡️ Overview & Lore
+* **Role in Phandalin:** Overlord and overseer of the Mountain's Toe Gold Mine in the foothills of the Sword Mountains, appointed by the Phandalin Townmaster.
+* **Personality & Demeanor:** Gregarious, boastful, and surprisingly resilient. A veteran adventurer turned mine supervisor with an unending repertoire of tall tales.
+* **Party Standing:** Recognized as the absolute favorite NPC of [[The Order of Znak]], who frequently checked in on him long after clearing the mine.
+
+## 📜 Key Story Beats & Milestones
+* **Mountain's Toe Gold Mine Liberation:** Escorted and aided by [[The Order of Znak]] during *Dragon of Icespire Peak* to clear out infesting wererats and restore lucrative mining operations for the region.
+
+---
+
+## 💡 Behind the Screen & Trivia
+* **Table Portrayal & Voice:** Voiced by Peter with an exaggerated, hilarious Louisiana Cajun accent that immediately endeared him to Gary.
+* **Running Table Gags:** Peter constantly improvised colorful monologues during interactions, featuring absurdly detailed grievances about DonJon's multiple ex-wives and exaggerated brags about his mythical youth exploits.

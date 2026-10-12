@@ -70,3 +70,19 @@ git push origin main
 ```
 
 Once pushed, GitHub Actions will automatically rebuild and deploy the live site in under 60 seconds!
+
+---
+
+## 📋 Standard Note Layout & "Behind the Screen" Trivia
+
+To maintain an immersive experience while preserving our rich table history:
+
+1. **In-Universe Content First:**
+   - Keep the body of character, NPC, and lore notes strictly grounded in the fictional world (Lore, Mechanics, Combat Tactics, Gear, Key Quests, and Alliances).
+2. **Dedicated Trivia Section at the Bottom (`## 💡 Behind the Screen & Trivia`):**
+   - Place all real-world meta knowledge, table history, and esoteric context in a dedicated section at the bottom of the page (similar to an IMDb trivia or Wikipedia "Behind the scenes" block):
+     - **Linguistic Origins & Concept Genesis:** Cyrillic symbols, Russian modifying signs, etymology.
+     - **Inside Jokes & Homages:** Video game references (like the *Ultima III: Exodus* greataxe homage), running table gags.
+     - **Table Portrayal & Roleplay:** Impromptu accents (Cajun DonJon Raskin), ex-wives banter, player reactions.
+     - **DM Encounter Tuning:** Up-scaling boss fights, adding minions to challenge min-maxed DPR.
+
