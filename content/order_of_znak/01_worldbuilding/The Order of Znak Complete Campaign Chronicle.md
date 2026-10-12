@@ -16,26 +16,34 @@ tags: [tabletop, dnd5e, order-of-znak, icespire-peak, cmon-listen, keeping-the-f
 
 ---
 
-## 📌 Campaign Arc & Modules
+## 📌 Canonical Chronological Campaign Arc
 
-### 1. Module 1: *Dragon of Icespire Peak* (Starter Box)
+### 1. Act 1: *Dragon of Icespire Peak* (Starter Box)
 * **Naming Origin:** Inspired by conversations with coworker [[Grigory Romanovsky]] about Russian alphabet Znak symbols (**Tvyordiy Znak Ъ** and **Myagkiy Znak Ь**).
 * **Woodland Manse Escape:** Visited Woodland Manse underleveled; accidentally triggered needle blights early in the main room. [[Tvyordiy Znak]] carried a pin-cushioned, collapsed [[Krageer Stoneface Ogolakanu]] off the map as the party barely escaped.
 * **Favorite NPC — [[DonJon Raskin]]:** Overseer of Mountain's Toe Gold Mine, voiced by User with a Louisiana Cajun accent, constantly talking about past adventures and many ex-wives.
 
-### 2. Module 2: Expansion Trilogy — *"C'mon, Listen"* (D&D Beyond Title)
-* **Modules:** *Storm Lord's Wrath*, *Sleeping Dragon's Wake*, *Divine Contention*.
+### 2. Act 2: *Storm Lord's Wrath* (*"C'mon, Listen"* Part 1)
 * **Leilon Headquarters & Wards:** Established party base in Leilon; adopted orphaned children **Smithwell** and **Burnice** as wards.
 * **Wayside Inn Romance:** [[Krageer Stoneface Ogolakanu]] became romantically entangled with **[[Cooragh]]** over her famous meat pies.
 * **Lizardfolk Alliance & Qolzaz Tattoo:** Fought lizardfolk tribe in the Missing Patrol questline and killed Matriarch **[[Matriarch Qolzaz]]**. After helping vanquish invading undead trolls, gained tribe respect; Krageer tattooed Qolzaz on his chest (immortalized in ***[[Ballad of Qolzaz]]***). Joined later by lizardfolk exchange allies **Graxxoamo** and **Shriss**.
-* **Climactic Finale (*Divine Contention*):** Tempest Dreadnaught ship battle beneath an apparition of **Talos**, fighting **[[Fheralai Stormsworn]]**, an **Air Elemental Myrmidon**, and a **Nalfeshnee demon**.
 
-### 3. Module 3: Gary's DM Homebrew One-Shots
-* **Shadow Creatures Dungeon Crawl:** Small dungeon crawler battling shadow creatures.
-* ***"Keeping the Faith"*** **(D&D Beyond Title):** Recovered stolen +2 Plate Armor for Forge Domain Cleric **[[Dayne Beltran]]**; defeated a Night Hag and rescued young **[[Yasmina]]**.
-* **Volcano Boss Battle:** [[Myagkiy Znak]] cast *Enlarge* on [[Krageer Stoneface Ogolakanu]], allowing Krageer to wrestle a **Fire Giant Queen** in a dormant volcano!
+### 3. Interlude 1: Shadow Dragon Dungeon Crawl (Gary's DM Adventure)
+* **Chronological Placement:** Occurred between *Storm Lord's Wrath* and *Sleeping Dragon's Wake*.
+* **Cavern Dungeon Crawl:** Deep subterranean dungeon crawl battling terrifying shadow creatures and confronting a deadly Shadow Dragon.
 
-### 4. Module 4: Post-*Divine Contention* Bridge Campaign (WIP / On Hold)
+### 4. Act 3: *Sleeping Dragon's Wake* (*"C'mon, Listen"* Part 2)
+* **Sword Coast Conflict:** Escalating multi-front warfare around Leilon confronting dragon cults and primordial forces.
+
+### 5. Interlude 2: *"Keeping the Faith"* (Gary's DM Adventure)
+* **Chronological Placement:** Occurred between *Sleeping Dragon's Wake* and *Divine Contention*.
+* **Dayne's Armor & Hag Rescue:** Recovered stolen +2 Plate Armor for Forge Domain Cleric **[[Dayne Beltran]]**; defeated a Night Hag and rescued young **[[Yasmina]]**.
+* **Volcano Climax Boss Battle:** The epic culmination of the adventure—[[Myagkiy Znak]] cast *Enlarge* on [[Krageer Stoneface Ogolakanu]], allowing Krageer to wrestle the **Fire Giant Queen** in molten grapple combat inside a dormant volcano!
+
+### 6. Act 4: *Divine Contention* (*"C'mon, Listen"* Finale)
+* **Tempest Dreadnaught Climax:** Epic flagship sea battle beneath an apparition of **Talos**, fighting **[[Fheralai Stormsworn]]**, an **Air Elemental Myrmidon**, and a **Nalfeshnee demon**.
+
+### 7. Bridge Campaign (WIP / On Hold)
 * **DM:** Gary Forsyth. Work-in-progress bridge adventure for the original 4 PCs of *The Order of Znak* prior to Strahd.
 
 ---

@@ -9,21 +9,22 @@ date: 2026-10-11
 
 ---
 
-## 🗺️ Campaign Chronicles & Eras
+## 🗺️ Canonical Campaign Chronicles & Timeline
 
-### 🟣 [[The Order of Znak Complete Campaign Chronicle|1. The Order of Znak (D&D 5e)]]
+### 🟣 [[The Order of Znak Complete Campaign Chronicle|1. The Order of Znak Saga (D&D 5e)]]
 * **Lifecycle:** Completed & Archived Chronicle
-* **D&D Beyond Expansion Title:** *"C'mon, Listen"*
-* **Key Modules:** *Dragon of Icespire Peak*, *Storm Lord's Wrath*, *Sleeping Dragon's Wake*, *Divine Contention*
-* **Headquarters:** Leilon (Sword Coast)
-* **Climactic Battle:** The Tempest Dreadnaught sea battle beneath the tempest apparition of **Talos**, battling [[Fheralai Stormsworn]], an Air Elemental Myrmidon, and a Nalfeshnee demon.
+* **Trilogy D&D Beyond Title:** *"C'mon, Listen"*
+* **Act 1: Dragon of Icespire Peak:** Phandalin starter arc, Mountain's Toe Gold Mine ([[DonJon Raskin]]), Woodland Manse blights escape.
+* **Act 2: Storm Lord's Wrath:** Rebuilding Leilon HQ, adopting orphans [[Burnice Znak|Burnice]] & [[Smithwell Znak|Smithwell]], Wayside Inn meat pies ([[Cooragh]]), lizardfolk clash ([[Matriarch Qolzaz]]).
+* **Interlude 1: Shadow Dragon Dungeon Crawl:** Gary's subterranean dungeon crawl between *Storm Lord's Wrath* and *Sleeping Dragon's Wake*.
+* **Act 3: Sleeping Dragon's Wake:** Escalating cult threats and Sword Coast defense.
+* **Interlude 2: "Keeping the Faith":** Gary's epic quest between *Sleeping Dragon's Wake* and *Divine Contention*—recovering stolen armor for Forge Cleric [[Dayne Beltran]], rescuing young [[Yasmina]] from a Night Hag, and culminating in the **Volcano Boss Battle** with [[Krageer Stoneface Ogolakanu|Krageer]] enlarged by [[Myagkiy Znak|Myagkiy]] wrestling the Fire Giant Queen!
+* **Act 4: Divine Contention Finale:** Flagship dreadnaught sea battle beneath the tempest apparition of **Talos** vs [[Fheralai Stormsworn]], an Air Elemental Myrmidon, and a Nalfeshnee demon.
 
 ---
 
-### 🟡 Interlude & Homebrew Quests (Gary's DM Sessions)
-* **"Keeping the Faith":** Recovering +2 Plate Armor for Forge Domain Cleric [[Dayne Beltran]] and rescuing young [[Yasmina]] from a Night Hag.
-* **The Dormant Volcano:** [[Myagkiy Znak]] casting *Enlarge* on [[Krageer Stoneface Ogolakanu]] to wrestle the Fire Giant Queen in molten terrain.
-* **Shadow Creatures Crawl:** Deep cavern survival engagement following Icespire Peak.
+### 🟡 Bridge Campaign (Gary's DM Adventure — WIP / On Hold)
+* Work-in-progress bridge campaign for the 4 original champions prior to Ravenloft.
 
 ---
 
