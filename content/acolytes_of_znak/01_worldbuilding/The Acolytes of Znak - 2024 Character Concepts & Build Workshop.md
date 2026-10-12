@@ -177,37 +177,58 @@ flowchart LR
 
 ### 4. 🌿 Shriss (Gary's PC)
 * **Mentor Heritage:** [[Myagkiy Znak]] (radiant preservation, life healing) + Mere of Dead Men (swamp nature mystic).
-* **Thematic Fantasy:** A swamp lizardfolk mystic synthesizing primal decay and radiant life restoration.
+* **Canonical 5e Starting Baseline:**
+  * **Level Split:** Druid 2 (Starting Class — Circle of the Land: Swamp) / Cleric 1 (Life Domain) (Total Level 3)
+  * **Point Buy Stats:** STR 15 (+2) | DEX 8 (-1) | CON 15 (+2) | INT 10 (+0) | WIS 16 (+3) | CHA 10 (+0)
+  * **Combat Baseline:** AC 18 (Chain Mail + Wooden Shield), HP 24, Speed 30 ft (swimming 30 ft)
+  * **Background:** Sage (History, Survival; Researcher feature; Languages: Orc, Elvish)
+  * **Skills & Languages:** Medicine, Arcana, History, Survival, Nature, Perception; Common, Draconic, Orc, Elvish
+  * **Wild Shape Forms:** Spider (stealth scout), Giant Lizard (mount/climber), Giant Poisonous Snake (10 ft reach, venom, blindsight)
+  * **Key Features:** Heavy Armor Proficiency (Life Domain), Disciple of Life, Natural Recovery (recharge 1 slot on short rest), Hungry Jaws, Bite.
+  * **Full Wisdom Spell Loadout (DC 13, +5 to-hit):** 4 Level 1 slots, 2 Level 2 slots (upcasting!).
+    * *Druid Cantrips (3):* *Guidance*, *Shillelagh*, *Thorn Whip* (Bonus cantrip)
+    * *Druid Prepared Spells (5):* *Charm Person*, *Faerie Fire*, *Goodberry*, *Ice Knife*, *Thunderwave*
+    * *Cleric Cantrips (3 Recommended):* *Sacred Flame*, *Toll the Dead*, *Thaumaturgy*
+    * *Cleric Domain Spells (Always Prepared):* *Bless*, *Cure Wounds*
+    * *Cleric Prepared Spells (4 Recommended):* *Healing Word*, *Guiding Bolt*, *Sanctuary*, *Detect Magic*
 
 ```mermaid
 flowchart LR
-    SH[Shriss<br/>Swamp Mystic + Life Healer] --> PathA[Path A: Pure Druid<br/>Circle of the Stars]
-    SH --> PathB[Path B: Pure Life Cleric<br/>Protector + Druid Initiate]
-    SH --> PathC[Path C: Life Cleric 1 / Swamp Druid X<br/>Heavy Armor + Primal Land]
+    SH[Shriss<br/>STR 15 | CON 15 | WIS 16<br/>Druid 2 [Swamp] / Cleric 1 [Life]<br/>AC 18 Heavy Armor | Full Wisdom Caster] --> PathA[Path A: Pure 2024 Druid<br/>Circle of the Stars<br/>Chalice Form Healing Bursts<br/>Lvl 4: Resilient Con -> CON 16]
+    SH --> PathB[Path B: Druid 2 / Life Cleric 1<br/>Existing Hybrid (AC 18)<br/>Level 2 Spell Slots at Start<br/>Disciple of Life Healing Engine]
+    SH --> PathC[Path C: Pure Life Cleric<br/>Protector Heavy Armor + Channel Divinity<br/>Magic Initiate Druid: Shillelagh & Goodberry]
 ```
 
 #### Pathway Comparison
 
-| Feature | Path A: Pure Druid (Circle of the Stars) | Path B: Pure Life Domain Cleric | Path C: Life Cleric 1 / Druid X Dip |
+| Feature | Path A: Pure Druid (Circle of the Stars) | Path B: Druid 2 / Life Cleric 1 (Existing 2/1) | Path C: Pure Life Domain Cleric |
 | :--- | :--- | :--- | :--- |
-| **Primary Class** | Druid (Level 3–10) | Cleric (Level 3–10) | Druid (starts Lvl 2) / Cleric (starts Lvl 1) |
-| **Subclass** | **Circle of the Stars** | **Life Domain** | Circle of the Land (Swamp) |
-| **Subclass Online** | **Level 3 (Immediate)** | **Level 3 (Immediate)** | Level 4 |
-| **Healing Engine** | *Chalice Form:* Every healing spell heals an **additional 1d8 + Wis HP** to self/ally | *Disciple of Life:* 2 + Spell Level extra HP; *Preserve Life* Channel Divinity | Disciple of Life bonus on Druid healing spells |
-| **Radiant Offensive** | *Archer Form:* Bonus-action radiant laser (1d8 + Wis radiant damage, 60 ft range) | *Radiant Strikes* / *Spiritual Weapon* / *Spirit Guardians* | Wild Shape utility + Swamp area-of-effect spells |
-| **Armor / Weapons** | Medium Armor + Shield (AC 16–18) | Heavy Armor + Shield (*Protector* Divine Order, AC 18–20) | Heavy Armor + Shield (via Cleric Lvl 1) |
+| **Primary Class** | Druid (Level 3–10) | Druid (starts Lvl 2) / Cleric (starts Lvl 1) | Cleric (Level 3–10) |
+| **Subclass** | **Circle of the Stars** | Circle of the Land (Swamp) & Life Domain | **Life Domain** |
+| **Subclass Online** | **Level 3 (Immediate)** | Level 3 (Druid Subclass Active!) | **Level 3 (Immediate)** |
+| **Spell Slots** | 4 Lvl 1, 2 Lvl 2 | 4 Lvl 1, 2 Lvl 2 (Full Caster Multi!) | 4 Lvl 1, 2 Lvl 2 |
+| **Stat Optimization** | **Str 15, Con 15, Wis 16:** Level 4 Feat (*Resilient: Con*) &rarr; **Con 16 (+3)** (Proficiency in Con saves) | Same stat array; delayed ASIs/Feats to Lvl 5 | Same stat array; delayed ASIs/Feats to Lvl 5 |
+| **Healing Engine** | *Chalice Form:* Every healing spell heals an **additional 1d8 + Wis HP** to self/ally | *Disciple of Life:* 2 + Spell Level extra HP on all healing spells | *Disciple of Life:* 2 + Spell Level extra HP; *Preserve Life* Channel Divinity |
+| **Radiant Offensive** | *Archer Form:* Bonus-action radiant laser (1d8 + Wis radiant damage, 60 ft range) | *Guiding Bolt*, *Sacred Flame*, *Toll the Dead*, *Ice Knife* | *Radiant Strikes*, *Spiritual Weapon*, *Spirit Guardians* |
+| **Armor & Defense** | Medium Armor + Shield (AC 16–18) | **Heavy Armor + Shield (AC 18 Chain Mail!)** | **Heavy Armor + Shield (AC 18 Chain Mail!)** |
 
 #### Recommended Min/Max Progression Schemes:
 * **Path A (Pure Circle of the Stars Druid — Recommended):**
   * *Level 3:* Druid 3 (Circle of the Stars. Free *Guiding Bolt* casts PB/day without spell slots. Starry Form: Chalice adds massive healing bursts; Archer adds radiant ranged bonus attacks; Dragon ensures concentration never breaks).
-  * *Level 4:* Druid 4 (Feat: *Resilient [Con]* or Wis to 18).
-  * *Level 5:* Druid 5 (3rd-level spells: *Revivify*, *Call Lightning*, *Plant Growth*).
+  * *Level 4:* Druid 4 (Feat: **Resilient [Constitution]** &rarr; **Con to 16 (+3)**, adds +1 HP/level, and gives Con saving throw proficiency).
+  * *Level 5:* Druid 5 (3rd-level spells on time: *Revivify*, *Call Lightning*, *Plant Growth*).
   * *Level 6:* Druid 6 (*Cosmic Omen* adds 1d6 bonus to ally rolls or subtracts 1d6 from enemies).
   * *Level 7–10:* Druid 7–10 (4th & 5th level spells).
-* **Path B (Pure Life Domain Cleric with Druid Magic Initiate):**
+* **Path B (Druid X / Life Cleric 1 — The Existing 2/1 Hybrid):**
+  * *Level 3:* Druid 2 / Cleric 1 (AC 18 Chain Mail + Shield, Disciple of Life, Natural Recovery, 2nd-level spell slots).
+  * *Level 4:* Druid 3 / Cleric 1 (Swamp domain spells: *Darkness*, *Melf's Acid Arrow*).
+  * *Level 5:* Druid 4 / Cleric 1 (Feat: *Resilient: Con* &rarr; Con to 16).
+  * *Level 6:* Druid 5 / Cleric 1 (3rd-level spells: *Revivify*, *Call Lightning*).
+  * *Level 7–10:* Druid 6–9 / Cleric 1 (Land's Stride, Nature's Ward, 4th & 5th level spells).
+* **Path C (Pure Life Domain Cleric with Druid Magic Initiate):**
   * *Level 3:* Cleric 3 (Life Domain. *Protector* order for heavy armor. *Magic Initiate: Druid* gives *Shillelagh*, *Guidance*, and *Goodberry*).
-  * *Level 4:* Cleric 4 (Feat: *War Caster* or Wis to 18).
-  * *Level 5:* Cleric 5 (3rd-level spells: *Spirit Guardians*, *Revivify*).
+  * *Level 4:* Cleric 4 (Feat: *Resilient: Con* &rarr; Con to 16).
+  * *Level 5:* Cleric 5 (3rd-level spells on time: *Spirit Guardians*, *Revivify*).
   * *Level 6–10:* Cleric 6–10 (Blessed Healer, Divine Strike).
 
 ---
