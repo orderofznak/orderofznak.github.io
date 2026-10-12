@@ -11,15 +11,39 @@ tags: [tabletop, dnd5e, order-of-znak, icespire-peak, cmon-listen, keeping-the-f
 
 # 🐉 The Order of Znak — Complete Campaign Chronicle
 
-## Overview
-***The Order of Znak*** was a long-running, 1-on-1 dual-character campaign saga between User and [[Gary Forsyth]]. Starting with the starter box *Dragon of Icespire Peak*, the campaign served as a casual environment for both players to deeply learn D&D 5e mechanics while helping User hone DM skills for ***Cousins and Dragons***. The saga grew to encompass the full expansion trilogy (titled *"C'mon, Listen"* in D&D Beyond) and Gary's homebrew DM one-shots (*"Keeping the Faith"*).
+## Overview & Real-World Genesis
+***The Order of Znak*** was a long-running, 1-on-1 dual-character campaign saga between User and [[Gary Forsyth]].
+
+### The RMS Connection & Linguistic Origin of "Znak"
+The naming of the party and its core characters originated from real-world conversations at **RMS** (Risk Management Solutions), where User and Gary worked with their Russian colleague **[[Grigory Romanovsky]]**. While exploring Russian language mechanics, User and Gary became intrigued by the linguistic concept of **Znak (Знак — sign/mark)**, specifically the Cyrillic alphabet's two silent modifying signs:
+* **Твёрдый знак (Ъ — Tvyordiy Znak / The Hard Sign):** Signifying firmness, hardness, and unyielding impact. This became User's high-mobility, resilient Aarakocra Drunken Master Monk (carrying wereboar lycanthropy): **[[Tvyordiy Znak]] (Ъ)**.
+* **Мягкий знак (Ь — Myagkiy Znak / The Soft Sign):** Signifying softness, soothing, and life-preserving grace. This became User's fearless, 24 AC battle cleric: **[[Myagkiy Znak]] (Ь)**.
+
+Inspired by these concepts, the party took the name **The Order of Znak**, and their character sheet names proudly incorporate their Cyrillic symbols **(Ъ)** and **(Ь)**.
+
+### Alternating DM Collaboration
+Rather than playing the expansion trilogy (*Storm Lord's Wrath*, *Sleeping Dragon's Wake*, *Divine Contention* — titled *"C'mon, Listen"* in D&D Beyond) as an uninterrupted block, User and Gary alternated DM duties, seamlessly interleaving Gary's custom homebrew adventures into the overarching storyline.
 
 ---
 
-## 📌 Canonical Chronological Campaign Arc
+## ⏱️ Chronological Campaign Timeline
+
+| Chronological Phase | Adventure Title | DM | Key Narrative Beats & Milestones |
+| :--- | :--- | :--- | :--- |
+| **Act 1** | *Dragon of Icespire Peak* (Starter Box) | User | Phandalin origin; Mountain's Toe Gold Mine ([[DonJon Raskin]]); Woodland Manse needle blights escape. |
+| **Act 2** | *Storm Lord's Wrath* (*"C'mon, Listen"* Part 1) | User | Establishing Leilon HQ; adopting wards **Smithwell** & **Burnice**; Wayside Inn meat pies ([[Cooragh]]); lizardfolk clan truce ([[Matriarch Qolzaz]] / [[Ballad of Qolzaz]]). |
+| **Interlude 1** | *Shadow Dragon Dungeon Crawl* | Gary | Cavern crawl battling shadow creatures and confronting a deadly Shadow Dragon between *Storm Lord's Wrath* and *Sleeping Dragon's Wake*. |
+| **Act 3** | *Sleeping Dragon's Wake* (*"C'mon, Listen"* Part 2) | User | Multi-front dragon cult warfare along the Sword Coast and Leilon defense. |
+| **Interlude 2** | *"Keeping the Faith"* (with Volcano Climax) | Gary | Between *Sleeping Dragon's Wake* and *Divine Contention*: recovering stolen armor for Forge Cleric [[Dayne Beltran]]; Night Hag defeat & rescue of young [[Yasmina]]; epic climax where [[Myagkiy Znak]] enlarges [[Krageer Stoneface Ogolakanu]] to wrestle the **Fire Giant Queen** in a dormant volcano. |
+| **Act 4** | *Divine Contention* (*"C'mon, Listen"* Finale) | User | Flagship dreadnaught sea battle beneath the tempest apparition of **Talos** vs. [[Fheralai Stormsworn]], an Air Elemental Myrmidon, and a Nalfeshnee demon. |
+| **Epilogue / Bridge** | *Bridge Campaign* (WIP / On Hold) | Gary | Work-in-progress bridge adventure for the original 4 champions prior to Ravenloft. |
+
+---
+
+## 📌 Campaign Phase Details
 
 ### 1. Act 1: *Dragon of Icespire Peak* (Starter Box)
-* **Naming Origin:** Inspired by conversations with coworker [[Grigory Romanovsky]] about Russian alphabet Znak symbols (**Tvyordiy Znak Ъ** and **Myagkiy Znak Ь**).
+* **Phandalin Origin:** The foundational arc where the 4 champions first united.
 * **Woodland Manse Escape:** Visited Woodland Manse underleveled; accidentally triggered needle blights early in the main room. [[Tvyordiy Znak]] carried a pin-cushioned, collapsed [[Krageer Stoneface Ogolakanu]] off the map as the party barely escaped.
 * **Favorite NPC — [[DonJon Raskin]]:** Overseer of Mountain's Toe Gold Mine, voiced by User with a Louisiana Cajun accent, constantly talking about past adventures and many ex-wives.
 

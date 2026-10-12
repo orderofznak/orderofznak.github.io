@@ -7,6 +7,11 @@ date: 2026-10-11
 
 > Welcome to the collective campaign chronicle and digital garden for **The Order of Znak** and **The Acolytes of Znak**, collaborating across tabletop campaigns run by Peter and Gary Forsyth.
 
+> [!NOTE] 🇷🇺 **The Origin of "Znak" (Знак):**
+> The party name and core character concepts originated from real-world conversations at **RMS** (Risk Management Solutions) where Peter and Gary worked with Russian colleague **[[Grigory Romanovsky]]**. Inspired by the Russian Cyrillic alphabet's two silent modifying signs, Peter crafted:
+> * **Твёрдый знак (Ъ) — [[Tvyordiy Znak]] (The Hard Sign):** Representing firmness, resilience, and unyielding impact &rarr; Aarakocra Monk Drunken Master (Wereboar Lycanthropy).
+> * **Мягкий знак (Ь) — [[Myagkiy Znak]] (The Soft Sign):** Representing gentleness, soothing, and life preservation &rarr; Variant Human Life Domain Cleric.
+
 ---
 
 ## 🗺️ Canonical Campaign Chronicles & Timeline
