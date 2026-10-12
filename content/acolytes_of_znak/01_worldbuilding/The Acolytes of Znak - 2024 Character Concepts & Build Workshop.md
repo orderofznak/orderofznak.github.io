@@ -42,9 +42,9 @@ This workshop provides Peter and Gary with three concrete pathways for each char
 
 ```mermaid
 flowchart LR
-    BZ[Burnice Znak<br/>STR 16 | CON 15 | CHA 16<br/>Paladin 2 / Warlock 1 (Level 3)<br/>Polearm Master + Blind Fighting] --> PathA[Path A: Pure Paladin<br/>Oath of the Watchers<br/>Lvl 4: Resilient Con -> CON 16<br/>Lvl 5: Extra Attack | Lvl 6: Aura]
-    BZ --> PathB[Path B: Paladin X / Warlock 1<br/>Existing 2/1 Hybrid<br/>Pact of the Blade + Short Rest Slots<br/>Lvl 4: Watchers | Lvl 6: Extra Attack]
-    BZ --> PathC[Path C: Pure Celestial Warlock<br/>Pact of the Blade + Healing Light<br/>Lvl 5: Thirsting Blade Extra Attack]
+    BZ["Burnice Znak<br/>STR 16 • CON 15 • CHA 16<br/>Paladin 2 / Warlock 1 (Level 3)<br/>Polearm Master + Blind Fighting"] --> PathA["Path A: Pure Paladin<br/>Oath of the Watchers<br/>Lvl 4: Resilient Con to CON 16<br/>Lvl 5: Extra Attack • Lvl 6: Aura"]
+    BZ --> PathB["Path B: Paladin X / Warlock 1<br/>Existing 2/1 Hybrid<br/>Pact of the Blade + Short Rest Slots<br/>Lvl 4: Watchers • Lvl 6: Extra Attack"]
+    BZ --> PathC["Path C: Pure Celestial Warlock<br/>Pact of the Blade + Healing Light<br/>Lvl 5: Thirsting Blade Extra Attack"]
 ```
 
 #### Pathway Comparison
@@ -92,9 +92,9 @@ flowchart LR
 
 ```mermaid
 flowchart LR
-    GX[Graxxoamo<br/>DEX 17 | CON 15 | WIS 16<br/>Monk 2 / Ranger 1 (Level 3)] --> PathA[Path A: Pure 2024 Monk<br/>Warrior of Shadow<br/>Lvl 4: Dex 18 / Con 16]
-    GX --> PathB[Path B: Monk X / Ranger 1<br/>Hunter's Mark + Weapon Masteries<br/>Lvl 4: Shadow Subclass]
-    GX --> PathC[Path C: Monk X / Fighter 1<br/>Blind Fighting + Tactical Mind<br/>10 ft Blindsight in Darkness]
+    GX["Graxxoamo<br/>DEX 17 • CON 15 • WIS 16<br/>Monk 2 / Ranger 1 (Level 3)"] --> PathA["Path A: Pure 2024 Monk<br/>Warrior of Shadow<br/>Lvl 4: Dex 18 / Con 16"]
+    GX --> PathB["Path B: Monk X / Ranger 1<br/>Hunter's Mark + Weapon Masteries<br/>Lvl 4: Shadow Subclass"]
+    GX --> PathC["Path C: Monk X / Fighter 1<br/>Blind Fighting + Tactical Mind<br/>10 ft Blindsight in Darkness"]
 ```
 
 #### Pathway Comparison
@@ -151,9 +151,9 @@ flowchart LR
 
 ```mermaid
 flowchart LR
-    SZ[Smithwell Znak<br/>STR 15 | CON 14 | CHA 14<br/>Barbarian 2 / Bard 1 (Level 3)<br/>Reckless Attack + GWM Engine] --> PathA[Path A: Pure 2024 Barbarian<br/>Path of the World Tree<br/>Musician Feat Inspiration Songs<br/>Lvl 4: Str 16 | ZERO Spell Lockout!]
-    SZ --> PathB[Path B: Pure 2024 Bard<br/>College of Valor<br/>Medium Armor & Martial Weapons<br/>Lvl 6: Cantrip Extra Attack]
-    SZ --> PathC[Path C: Barbarian 2 / Bard 1<br/>Existing Hybrid<br/>Reckless GWM Burst<br/>Rage as Boss Panic Button]
+    SZ["Smithwell Znak<br/>STR 15 • CON 14 • CHA 14<br/>Barbarian 2 / Bard 1 (Level 3)<br/>Reckless Attack + GWM Engine"] --> PathA["Path A: Pure 2024 Barbarian<br/>Path of the World Tree<br/>Musician Feat Inspiration Songs<br/>Lvl 4: Str 16 • ZERO Spell Lockout!"]
+    SZ --> PathB["Path B: Pure 2024 Bard<br/>College of Valor<br/>Medium Armor & Martial Weapons<br/>Lvl 6: Cantrip Extra Attack"]
+    SZ --> PathC["Path C: Barbarian 2 / Bard 1<br/>Existing Hybrid<br/>Reckless GWM Burst<br/>Rage as Boss Panic Button"]
 ```
 
 #### Pathway Comparison
@@ -211,9 +211,9 @@ flowchart LR
 
 ```mermaid
 flowchart LR
-    SH[Shriss<br/>STR 15 | CON 15 | WIS 16<br/>Druid 2 [Swamp] / Cleric 1 [Life]<br/>AC 18 Heavy Armor | Full Wisdom Caster] --> PathA[Path A: Pure 2024 Druid<br/>Circle of the Stars<br/>Chalice Form Healing Bursts<br/>Lvl 4: Resilient Con -> CON 16]
-    SH --> PathB[Path B: Druid 2 / Life Cleric 1<br/>Existing Hybrid (AC 18)<br/>Level 2 Spell Slots at Start<br/>Disciple of Life Healing Engine]
-    SH --> PathC[Path C: Pure Life Cleric<br/>Protector Heavy Armor + Channel Divinity<br/>Magic Initiate Druid: Shillelagh & Goodberry]
+    SH["Shriss<br/>STR 15 • CON 15 • WIS 16<br/>Druid 2 (Swamp) / Cleric 1 (Life)<br/>AC 18 Heavy Armor • Full Wisdom Caster"] --> PathA["Path A: Pure 2024 Druid<br/>Circle of the Stars<br/>Chalice Form Healing Bursts<br/>Lvl 4: Resilient Con to CON 16"]
+    SH --> PathB["Path B: Druid 2 / Life Cleric 1<br/>Existing Hybrid (AC 18)<br/>Level 2 Spell Slots at Start<br/>Disciple of Life Healing Engine"]
+    SH --> PathC["Path C: Pure Life Cleric<br/>Protector Heavy Armor + Channel Divinity<br/>Magic Initiate Druid: Shillelagh & Goodberry"]
 ```
 
 #### Pathway Comparison
@@ -268,9 +268,9 @@ flowchart LR
 
 ```mermaid
 flowchart LR
-    YA[Yasmina<br/>STR 8 | CON 15 | WIS 13 | CHA 17-18<br/>Warlock 2 [Fiend] / Cleric 1 [War]<br/>AC 18-20 Plate Armor | Occult Artillery] --> PathA[Path A: Pure 2024 Archfey Warlock<br/>The Coven Witch (Recommended)<br/>Journal as Pact of the Tome<br/>Steps of the Fey Free Misty Steps]
-    YA --> PathB[Path B: Pure 2024 Fiend Warlock<br/>The Iron Blaster<br/>Dark One's Blessing Temp HP Engine<br/>Dark One's Own Luck +1d10 at Lvl 6]
-    YA --> PathC[Path C: War Cleric 1 / Warlock X<br/>Existing Iron Witch Hybrid<br/>Plate Armor AC 18-20 + Spear Strike<br/>Pact Magic Scaling]
+    YA["Yasmina<br/>STR 8 • CON 15 • WIS 13 • CHA 17-18<br/>Warlock 2 (Fiend) / Cleric 1 (War)<br/>AC 18-20 Plate Armor • Occult Artillery"] --> PathA["Path A: Pure 2024 Archfey Warlock<br/>The Coven Witch (Recommended)<br/>Journal as Pact of the Tome<br/>Steps of the Fey Free Misty Steps"]
+    YA --> PathB["Path B: Pure 2024 Fiend Warlock<br/>The Iron Blaster<br/>Dark One's Blessing Temp HP Engine<br/>Dark One's Own Luck +1d10 at Lvl 6"]
+    YA --> PathC["Path C: War Cleric 1 / Warlock X<br/>Existing Iron Witch Hybrid<br/>Plate Armor AC 18-20 + Spear Strike<br/>Pact Magic Scaling"]
 ```
 
 #### Pathway Comparison
