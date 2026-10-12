@@ -28,7 +28,7 @@ aliases: ['The Order of Znak', 'Order of Znak', 'The Znak Company', 'Order of th
 
 | Champion | Heritage & Class | Role & Signature Combat Style |
 | :--- | :--- | :--- |
-| **[[Krageer Stoneface Ogolakanu]]** | Goliath Barbarian Totem / Champion | Unstoppable frontline damage sponge (*Ultima Exodus* +2 Greataxe & GWM criticals). |
+| **[[Krageer Stoneface Ogolakanu]]** | Goliath Barbarian Totem / Champion | Unstoppable frontline damage sponge (*[[Ultima Exodus]]* +2 Greataxe & GWM criticals). |
 | **[[Rhynok]]** | Elf Ranger Gloomstalker / Assassin | Backline sniper specializing in opening-round critical ambushes (+2 Longbow). |
 | **[[Myagkiy Znak]] (Ь)** | Human Life Domain Cleric | Fearless 24 AC battle cleric, life-preserving burst healing, and party moral anchor. |
 | **[[Tvyordiy Znak]] (Ъ)** | Aarakocra Monk Drunken Master | High-mobility shock troop, Stunning Strikes, Crusher forced movement, and wereboar hybrid power. |

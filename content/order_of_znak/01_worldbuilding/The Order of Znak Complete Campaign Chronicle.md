@@ -72,7 +72,7 @@ tags: [tabletop, dnd5e, order-of-znak, icespire-peak, cmon-listen, keeping-the-f
 
 | Character | Race & Class | Level | Player | Primary Combat Role |
 | :--- | :--- | :--- | :--- | :--- |
-| **[[Krageer Stoneface Ogolakanu]]** | Goliath Barbarian Totem / Fighter Champion | Lvl 13 | Gary | Frontline damage-dealing meat shield (*Ultima Exodus* +2 Greataxe & GWM) |
+| **[[Krageer Stoneface Ogolakanu]]** | Goliath Barbarian Totem / Fighter Champion | Lvl 13 | Gary | Frontline damage-dealing meat shield (*[[Ultima Exodus]]* +2 Greataxe & GWM) |
 | **[[Rhynok]]** | Elf Ranger Gloomstalker / Rogue Assassin | Lvl 13 | Gary | Backline ranged sniper (+2 Longbow, Gloomstalker/Assassin first-round crits) |
 | **[[Myagkiy Znak]] (Ь)** | Variant Human Life Domain Cleric | Lvl 13 | Peter | Fearless 24 AC battle cleric (Dayne's +2 Plate & +2 Shield, life-preserving & healing) |
 | **[[Tvyordiy Znak]] (Ъ)** | Aarakocra Monk Drunken Master (Wereboar Lycanthropy) | Lvl 13 | Peter | High-mobility shock troop (Flight, Stunning Strikes, Crusher forced movement; contracted lycanthropy at [[Dumathoin's Gulch]]) |
@@ -120,5 +120,5 @@ Gary is an avid character optimizer who min-maxed Krageer and Rhynok for extreme
 ### 🍕 Table Running Gags & Homages
 * **DonJon's Cajun Accent:** Voiced by Peter with an exaggerated Louisiana Cajun drawl, improvising endless monologues about wild youth escapades and grievances concerning his ex-wives.
 * **The Wayside Inn Fiery Meat Pies & Tattoos:** Krageer's romance with half-orc head cook [[Cooragh]] Struckt was an ongoing comedy highlight driven by his obsession with her alarmingly well-spiced stews and special fiery pork pies. Whenever asked about the curved dagger tattoos beneath her ears, Cooragh would deadpan that she got them purely to spite her human mother from Luskan as youthful folly.
-* **Ultima Exodus Greataxe:** Krageer's signature axe was named after *Ultima III: Exodus*, a shared inside joke between Peter and Gary as lifelong *Ultima* fans.
+* **[[Ultima Exodus]] Greataxe:** Krageer's signature axe was named after *Ultima III: Exodus*, a shared inside joke between Peter and Gary as lifelong *Ultima* fans.
 * **"Shadow's Run" Retro Homage:** Interlude 1 was named *"Shadow's Run"* as a deliberate nod to *[[Shadowrun]]*, the classic PC game Peter and Gary played together long ago.

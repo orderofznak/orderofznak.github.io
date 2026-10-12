@@ -29,7 +29,7 @@ tags: [character-sheet, goliath, barbarian, fighter, krageer, order-of-znak]
 * **Grapple & Titan Warfare:** Uses Mountain's Born physical traits to physically grapple and pin massive monsters.
 
 ## 🎒 Weapons & Legendary Gear
-* **Signature Weapon — *Ultima Exodus*:** A legendary two-handed **+2 Greataxe** forged from silvered and adamantine metal, capable of carving through magical defenses and reinforced structures.
+* **Signature Weapon — [[Ultima Exodus]]:** A legendary two-handed **+2 Greataxe** forged from silvered and adamantine metal, capable of carving through magical defenses and reinforced structures.
 * **Armor:** +2 Scale Mail Armor
 * **Utility & Magic Items:**
   * **Alchemy Jug:** Guarantees fresh rations and ale for camp rest.
@@ -44,6 +44,9 @@ tags: [character-sheet, goliath, barbarian, fighter, krageer, order-of-znak]
 ## 🎨 Artwork & Imagery
 ![[Krageer.png]]
 *Krageer Stoneface Ogolakanu — Goliath Barbarian / Fighter Champion*
+
+![[Ultima_exodus_axe.jpeg]]
+*Ultima Exodus — Krageer's legendary +2 two-handed Greataxe*
 
 ![[Krageer-and-cooragh.jpg]]
 *Krageer Stoneface Ogolakanu and Cooragh at the Wayside Inn*
