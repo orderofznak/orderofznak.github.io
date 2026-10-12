@@ -73,40 +73,55 @@ flowchart LR
 
 ### 2. 🦎 Graxxoamo (Peter's PC)
 * **Mentor Heritage:** [[Tvyordiy Znak]] (disciplined agility, unarmed combat, physical resilience) + [[Rhynok]] (ambush predator, wetland stealth, sniper tracking).
-* **Thematic Fantasy:** A disciplined lizardfolk stalker who seamlessly transitions between devastating unarmed strikes and shadow ambush tactics.
+* **Canonical 5e Starting Baseline:**
+  * **Level Split:** Monk 2 (Starting Class) / Ranger 1 (Total Level 3)
+  * **Point Buy Stats:** STR 8 (-1) | DEX 17 (+3) | CON 15 (+2) | INT 8 (-1) | WIS 16 (+3) | CHA 8 (-1)
+  * **Combat Baseline:** AC 16 (Natural Armor / Unarmored Defense), HP 25, Speed 30 ft (swimming 30 ft)
+  * **Skills (7 Proficiencies):** Acrobatics, Religion, Nature, Athletics, Sleight of Hand, Stealth, Survival
+  * **Tools & Languages:** Cooking Utensils, Land Vehicles; Common, Draconic, Giant, Elvish
+  * **Key Features:** Favored Enemy (**Undead** — tailor-made for Barovia!), Natural Explorer (**Swamp**), Dedicated Weapon, Hungry Jaws, Bite.
+  * **Signature Roleplay Flaw:** An insatiable craving for tribal *"finger sandwiches"* (pickled severed digits).
 
 ```mermaid
 flowchart LR
-    GX[Graxxoamo<br/>Martial Monk + Shadow Hunter] --> PathA[Path A: Pure 2024 Monk<br/>Warrior of Shadow]
-    GX --> PathB[Path B: Monk X / Fighter 1 Dip<br/>Blind Fighting + Weapon Mastery]
-    GX --> PathC[Path C: Pure Gloom Stalker Ranger<br/>Unarmed Fighting + Dread Ambusher]
+    GX[Graxxoamo<br/>DEX 17 | CON 15 | WIS 16<br/>Monk 2 / Ranger 1 (Level 3)] --> PathA[Path A: Pure 2024 Monk<br/>Warrior of Shadow<br/>Lvl 4: Dex 18 / Con 16]
+    GX --> PathB[Path B: Monk X / Ranger 1<br/>Hunter's Mark + Weapon Masteries<br/>Lvl 4: Shadow Subclass]
+    GX --> PathC[Path C: Monk X / Fighter 1<br/>Blind Fighting + Tactical Mind<br/>10 ft Blindsight in Darkness]
 ```
 
 #### Pathway Comparison
 
-| Feature | Path A: Pure 2024 Monk (Shadow) | Path B: Monk X / Fighter 1 Dip | Path C: Pure Gloom Stalker Ranger |
+| Feature | Path A: Pure 2024 Monk (Shadow) | Path B: Monk X / Ranger 1 (Existing 2/1) | Path C: Monk X / Fighter 1 Dip |
 | :--- | :--- | :--- | :--- |
-| **Primary Class** | Monk (Level 3–10) | Monk (starts Lvl 2) / Fighter (starts Lvl 1) | Ranger (Level 3–10) |
-| **Subclass** | **Warrior of Shadow** | Warrior of Shadow (at Lvl 4) | **Gloom Stalker** |
-| **Subclass Online** | **Level 3 (Immediate)** | Level 4 | **Level 3 (Immediate)** |
-| **Extra Attack** | **Level 5** | Level 6 | **Level 5** |
-| **Stat Dependency** | **SAD:** Dex 16, Wis 16, Con 14 | Dex 16, Wis 16, Con 14 | Dex 16, Wis 14, Con 14 |
-| **Defensive Core** | Unarmored Defense (AC 16), *Deflect Attacks* (reduces melee + ranged damage!) | AC 16, *Deflect Attacks*, *Second Wind* | Medium Armor + Shield (AC 18) |
-| **Rhynok Stalker Synergy** | Casts *Darkness* for 1 Focus and **sees through it natively**; at Lvl 6, at-will 60 ft shadow teleport with advantage | Adds *Blind Fighting* style (10 ft blindsight) + *Tactical Mind* (+1d10 to failed stealth checks) | *Umbral Sight* (invisible to darkvision in darkness) + *Dread Ambusher* fear/burst |
+| **Primary Class** | Monk (Level 3–10) | Monk (starts Lvl 2) / Ranger (starts Lvl 1) | Monk (starts Lvl 2) / Fighter (starts Lvl 1) |
+| **Subclass** | **Warrior of Shadow** | Warrior of Shadow (at Lvl 4) | Warrior of Shadow (at Lvl 4) |
+| **Subclass Online** | **Level 3 (Immediate)** | Level 4 | Level 4 |
+| **Extra Attack** | **Level 5** | Level 6 | Level 6 |
+| **Stat Optimization** | **Dex 17 & Con 15:** Level 4 Dex Half-Feat &rarr; **Dex 18 (AC 17, +7 to-hit)**; Lvl 8 **Chef Feat** &rarr; **Con 16** | Same stat array; delayed ASIs/Feats to Lvl 5 | Same stat array; delayed ASIs/Feats to Lvl 5 |
+| **Defensive Core** | Unarmored Defense (AC 16 &rarr; 17), *Deflect Attacks* (reduces melee + ranged damage!) | AC 16, *Deflect Attacks*, 2 Level 1 spell slots | AC 16, *Deflect Attacks*, *Second Wind* |
+| **Rhynok Stalker Synergy** | Casts *Darkness* for 1 Focus and **sees through it natively**; at Lvl 6, at-will 60 ft shadow teleport with advantage | 2 free castings of *Hunter's Mark*/day (no slots) + 2 Weapon Masteries (Vex/Nick) | *Blind Fighting* style (10 ft blindsight) + *Tactical Mind* (+1d10 to failed stealth checks) |
+| **"Finger Sandwich" Tech** | **Chef Feat (Level 8):** Turns his finger sandwich obsession into temporary HP treats for party | **Chef Feat:** Available at character Level 5 or 9 | **Chef Feat:** Available at character Level 5 or 9 |
 
 #### Recommended Min/Max Progression Schemes:
 * **Path A (Pure Warrior of Shadow Monk — Recommended):**
   * *Level 3:* Monk 3 (Warrior of Shadow. 1d6 Martial Arts die, free bonus-action unarmed strike, *Deflect Attacks* reduces damage from ALL attacks by 1d10 + Dex + 3, cast *Darkness* with 1 Focus and see through it natively!).
-  * *Level 4:* Monk 4 (Feat: *Speedy* or Dex to 18).
+  * *Level 4:* Monk 4 (Feat: *Athlete*, *Speedy*, or *Weapon Master* &rarr; **Dex to 18 (+4)**. AC becomes 17, attack bonus +7, damage +4).
   * *Level 5:* Monk 5 (Extra Attack, *Stunning Strike*, 1d8 Martial Arts die).
-  * *Level 6:* Monk 6 (*Shadow Step* grants at-will 60 ft bonus-action teleport between shadows, granting advantage on next attack).
+  * *Level 6:* Monk 6 (*Shadow Step* grants at-will 60 ft bonus-action teleport between shadows with Advantage on next attack).
   * *Level 7:* Monk 7 (*Evasion* for zero damage on Dex saves).
-  * *Level 8:* Monk 8 (ASI: Dex or Wis to 18/20).
+  * *Level 8:* Monk 8 (Feat: **Chef Feat** &rarr; **Con to 16 (+3)**, +8 max HP, finger sandwich Temp HP treats).
   * *Level 9–10:* Monk 9–10 (*Acrobatic Movement*, Heightened Focus).
-* **Path B (Monk X / Fighter 1 Dip — The Blindsight Ambush Master):**
+* **Path B (Monk X / Ranger 1 — The Existing 2/1 Hybrid):**
+  * *Level 3:* Monk 2 / Ranger 1 (Favored Enemy Undead, 2 free Hunter's Mark/day, Weapon Mastery Nick/Vex, 2 spell slots).
+  * *Level 4:* Monk 3 / Ranger 1 (Unlock Warrior of Shadow!).
+  * *Level 5:* Monk 4 / Ranger 1 (Dex Half-Feat &rarr; **Dex to 18**).
+  * *Level 6:* Monk 5 / Ranger 1 (Extra Attack & Stunning Strike).
+  * *Level 7:* Monk 6 / Ranger 1 (Shadow Step).
+  * *Level 8–10:* Monk 7–9 / Ranger 1.
+* **Path C (Monk X / Fighter 1 Dip — The Blindsight Ambush Master):**
   * *Level 3:* Fighter 1 / Monk 2 (Gain *Blind Fighting* fighting style + Weapon Mastery Nick/Vex + *Second Wind* / *Tactical Mind*).
   * *Level 4:* Fighter 1 / Monk 3 (Warrior of Shadow unlocks).
-  * *Level 5:* Fighter 1 / Monk 4 (ASI / Feat).
+  * *Level 5:* Fighter 1 / Monk 4 (ASI / Feat &rarr; Dex to 18).
   * *Level 6:* Fighter 1 / Monk 5 (Extra Attack).
   * *Level 7:* Fighter 1 / Monk 6 (Shadow Step).
   * *Level 8–10:* Fighter 1 / Monk 7–9.
