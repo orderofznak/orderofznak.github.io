@@ -16,7 +16,8 @@ modules: ["Storm Lord's Wrath", "Sleeping Dragon's Wake", "Divine Contention"]
 * **Zealotry & Power:** Wields destructive tempest divine magic, commanding storm elementals and terrifying cult flotillas along the Sea of Swords.
 
 ## ⚔️ The Tempest Dreadnaught Climax
-* **The Final Showdown:** Fought [[The Order of Znak]] aboard an ironclad dreadnaught flagship tossed amidst hurricane-force waves, directly beneath an ominous crackling apparition of Talos in the storm clouds above.
+* **Naval Pursuit on *Twinkle*:** [[The Order of Znak]] called upon Captain [[Deloz Montiv]] to navigate the hurricane-swept Sea of Swords aboard *[[Twinkle and Icingdeath|Twinkle]]*, tracking down Fheralai's storm fleet and bringing the heroes directly alongside her flagship.
+* **The Final Showdown:** Fought the Order aboard the ironclad dreadnaught flagship tossed amidst hurricane-force waves, directly beneath an ominous crackling apparition of Talos in the storm clouds above. Captain Deloz joined the fray as the heroes scoured the vessel deck by deck.
 * **Cultist Vanguard:** Supported by an elite cadre of elemental horrors and summoned planar fiends in a desperate attempt to sink Leilon's champions.
 
 ---

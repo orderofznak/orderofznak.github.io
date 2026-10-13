@@ -42,6 +42,7 @@ tags: [character-sheet, elf, ranger, rogue, gloomstalker, assassin, rhynok, orde
 
 ## 📜 Key Story Beats & Milestones
 * **Gnomengarde Crossbow Ambush:** Shot by the eccentric gnome inventor [[Facktoré]] testing her autoloading crossbow apparatus upon the party's arrival in [[Gnomengarde]], before cooler heads de-escalated the encounter to prevent further harm.
+* **Piercing the Illusory Facade of *Twinkle*:** Sensed that the seemingly human crew aboard Captain [[Deloz Montiv]]'s ship *[[Twinkle and Icingdeath|Twinkle]]* was distinctly elvish, piercing the glamour projected by the ship's enchanted figurehead and leading to the friendly reveal that they were drow in disguise.
 * **"Shadow's Run" Cavern Crawl:** Provided critical darkvision reconnaissance and sniper support through pitch-black subterranean caverns during Gary's *"Shadow's Run"* dungeon crawl (Interlude 1 Shadow Dragon encounter).
 * **Tempest Dreadnaught Climax:** Provided suppressing fire against storm cultists and fiendish support during the confrontation with [[Fheralai Stormsworn]].
 
