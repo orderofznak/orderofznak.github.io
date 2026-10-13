@@ -37,6 +37,9 @@ When [[The Order of Znak]] first encountered Captain Deloz aboard the *Twinkle*,
 
 When the illusory facade was dropped and the crew was revealed to be drow, the revelation caused no hostility or alarm. The Order of Znak welcomed them warmly, forging an enduring naval friendship with Captain Deloz and his crew.
 
+### Diplomatic Mission to Lord Neverember
+During the adventure arc involving the twin ships, the heroes journeyed to Neverwinter to petition Lord Protector [[Dagult Neverember]] for desperately needed military resources and naval reinforcements to defend [[Leilon]]. After each of the party's higher-charisma members attempted in turn to persuade the stubborn ruler, [[Krageer Stoneface Ogolakanu]]—wielding a Charisma score of only 6—surprised everyone at the table by delivering the winning argument that swayed Neverember to grant his full aid.
+
 ### The Storm Dreadnaught Assault on Fheralai Stormsworn
 When the heroes needed to locate and eliminate the Talos cult leader High Priestess **[[Fheralai Stormsworn]]** amidst hurricane-swept waters, they called upon Captain Deloz and the *Twinkle*. 
 

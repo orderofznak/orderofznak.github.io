@@ -41,8 +41,8 @@ In the , Neverember turned his attention to the ruined city of Neverwinter, whic
 .
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Met
+* **The Petition for Leilon Aid:** During the *Icingdeath and Twinkle* questline in *Divine Contention*, [[The Order of Znak]] traveled to Neverwinter to petition Lord Protector Neverember for military and economic aid to defend [[Leilon]]. Each champion in turn attempted to persuade him of the urgent need. Despite Dagult's stubborn pragmatism and reluctance to commit assets, the party's least charismatic member—the Goliath barbarian **[[Krageer Stoneface Ogolakanu]]** (who possessed a Charisma of only 6)—stepped forward and successfully swayed Neverember to pledge his full aid to Leilon's defense.
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Dagult Neverember](https://forgottenrealms.fandom.com/wiki/Dagult%20Neverember)

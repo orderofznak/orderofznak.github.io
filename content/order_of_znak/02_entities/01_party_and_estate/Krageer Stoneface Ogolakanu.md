@@ -36,6 +36,7 @@ tags: [character-sheet, goliath, barbarian, fighter, krageer, order-of-znak]
   * **Adamantine Shackles:** Used to restrain high-value captive foes.
 
 ## 📜 Key Story Beats & Milestones
+* **Diplomatic Sway of Lord Neverember:** During the *[[Twinkle and Icingdeath|Icingdeath and Twinkle]]* adventure, the Order journeyed to Neverwinter to petition Lord [[Dagult Neverember]] for aid to protect Leilon. After each party member attempted and failed to convince the Lord Protector, Krageer—despite having the lowest Charisma in the group (CHA 6 / -2 penalty)—stepped up and successfully persuaded Dagult to commit his full aid.
 * **Gnomengarde Guard Escort:** Manhandled one or two gnome guards along the path while the party was being escorted to [[Fibblestib Pinebark]] and [[Dabbledob Plasterpatch]] following the [[Facktoré]] crossbow encounter.
 * **Dormant Volcano Climax:** Enlarged by **[[Myagkiy Znak]]**'s magic to colossal proportions, wrestling the **Fire Giant Queen** in molten grapple combat inside a dormant volcano during *"Keeping the Faith"*.
 * **Wayside Inn Romance:** Developed an enduring romance with cook **[[Cooragh]]** at the Wayside Inn.
@@ -63,3 +64,4 @@ tags: [character-sheet, goliath, barbarian, fighter, krageer, order-of-znak]
 * **Player & Optimization:** Played by Gary. Gary min-maxed Krageer for maximum DPR and survivability, blending Totem resistance with Champion critical strikes to consistently challenge encounter balance.
 * **Inside Joke — *Ultima Exodus*:** The greataxe was named after the classic RPG *Ultima III: Exodus*, an intentional inside joke between Gary and Peter as devoted fans of the *Ultima* franchise.
 * **Running Table Gag — Wayside Inn Meat Pies:** Krageer's courtship of Cooragh was an improvised table running gag—his affection for her was driven almost entirely by his love for her legendary tavern meat pies.
+* **The Accidental "Party Face":** Despite having an abysmal Charisma score of 6 (-2 modifier), Gary frequently had Krageer step up to act as the party's diplomat and spokesperson. Defying all statistical odds, Krageer rolled remarkably high on persuasion checks and succeeded as the party face a surprising number of times.
