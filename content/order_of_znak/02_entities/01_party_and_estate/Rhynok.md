@@ -38,9 +38,11 @@ tags: [character-sheet, elf, ranger, rogue, gloomstalker, assassin, rhynok, orde
   * **Poisoner's Kit & Belt:** Rapid toxin application in combat
   * **Adamantine Nets:** High-durability containment for live captures
   * **Ring of the Beast Master**
+  * **Ring of Water Walking**
 * **Armor:** +1 Breastplate Armor
 
 ## 📜 Key Story Beats & Milestones
+* **Deeping Cave Acid Pool Relay:** In [[Claugiyliamatar]]'s lair (*Sleeping Dragon's Wake*), Rhynok coordinated with [[Myagkiy Znak]] to ferry his *Ring of Water Walking* across the cavern's acid pools alongside the cleric's *Water Walk* spell, securing safe passage across the caustic waters for the entire party.
 * **Gnomengarde Crossbow Ambush:** Shot by the eccentric gnome inventor [[Facktoré]] testing her autoloading crossbow apparatus upon the party's arrival in [[Gnomengarde]], before cooler heads de-escalated the encounter to prevent further harm.
 * **Piercing the Illusory Facade of *Twinkle*:** Sensed that the seemingly human crew aboard Captain [[Deloz Montiv]]'s ship *[[Twinkle and Icingdeath|Twinkle]]* was distinctly elvish, piercing the glamour projected by the ship's enchanted figurehead and leading to the friendly reveal that they were drow in disguise.
 * **"Shadow's Run" Cavern Crawl:** Provided critical darkvision reconnaissance and sniper support through pitch-black subterranean caverns during Gary's *"Shadow's Run"* dungeon crawl (Interlude 1 Shadow Dragon encounter).

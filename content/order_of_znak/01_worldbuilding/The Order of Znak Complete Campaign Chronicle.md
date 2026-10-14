@@ -5,7 +5,7 @@ system: dnd5e
 campaign: order_of_znak
 status: archived
 role: player_and_co_dm
-last_updated: 2026-08-12
+last_updated: 2026-10-13
 tags: [tabletop, dnd5e, order-of-znak, icespire-peak, cmon-listen, keeping-the-faith, archived]
 ---
 
@@ -52,6 +52,12 @@ tags: [tabletop, dnd5e, order-of-znak, icespire-peak, cmon-listen, keeping-the-f
 
 ### 4. Act 3: *Sleeping Dragon's Wake* (*"C'mon, Listen"* Part 2)
 * **Sword Coast Conflict:** Escalating multi-front warfare around Leilon confronting dragon cults, undead incursions, and primordial forces.
+* **Infiltration of Deeping Cave (Claugiyliamatar's Lair):** Venturing deep into Kryptgarden Forest to seek an audience with the ancient green dragon [[Claugiyliamatar]] ("Old Gnawbone"), the Order infiltrated via the perilous northern cave entrance, fighting their way through grasping assassin vines and teleporting phase spiders.
+* **The Caustic Acid Crossing & Krageer's Rage:** Encountering massive subterranean acid pools blocking their advance, the party devised an ingenious crossing relay: [[Rhynok]] provided his *Ring of Water Walking*, while [[Myagkiy Znak]] cast the *Water Walk* spell, ferrying the magic ring back and forth across the burning caustic pools to guide each hero safely over. Impatient and headstrong, [[Krageer Stoneface Ogolakanu]] charged straight across the boiling acid in a Barbarian rage, requiring extensive post-crossing healing from Myagkiy once safely on the other side.
+* **Audience with Old Gnawbone & The Hunt for [[Viantha Cruelhex]]:** Reaching the green dragon's inner lair, Claugiyliamatar demanded a tribute of service, tasking the Order with eliminating [[Viantha Cruelhex]], an insidious sea hag warlock of the Cult of the Dragon operating within Kryptgarden Forest. The champions tracked down Viantha and swiftly dispatched her in the shadowy woods.
+* **Ebondeath's Possession & The Sword Wraith Ambush:** Returning to Deeping Cave with Viantha's corpse, the encounter escalated into catastrophe when the necrotic spirit of the dracolich [[Chardansearavitriol]] (Ebondeath) possessed Claugiyliamatar before the party's eyes. As the green wyrm writhed under foul necrotic corruption, spectral sword wraiths materialized throughout the cavern, forcing the Order to battle through waves of undead warriors.
+* **The Poisoned Hoard & Monk Immunity:** Discovering the dragon's treasure hoard trapped behind a *Wall of Force* and choked with lethal green dragon poison gas, the party relied on extreme frontline tactics. Krageer served as the initial "sacrificial lamb," braving the deadly toxic fumes to absorb the brunt of the hazard. Once Krageer fell back to safety, [[Tvyordiy Znak]] utilized his 10th-level Monk feature **Purity of Body** (granting total immunity to poison damage and the poisoned condition) to stride fearlessly into the lethal cloud, safely extracting the dragon's entire hoard unharmed.
+* **Bluffing the Evil Druids:** Laden with dragon treasure on their exit through Deeping Cave, the Order was confronted by four evil forest druids. Rather than engaging in another exhausting skirmish, the champions bluffed the druids into believing they were allied emissaries of Claugiyliamatar, walking out of the Kryptgarden caverns completely unmolested.
 
 ### 5. Interlude 2: *"Keeping the Faith"* (Gary's DM Adventure)
 * **Chronological Placement:** Occurred between *Sleeping Dragon's Wake* and *Divine Contention*.
@@ -124,3 +130,4 @@ Gary is an avid character optimizer who min-maxed Krageer and Rhynok for extreme
 * **"Shadow's Run" Retro Homage:** Interlude 1 was named *"Shadow's Run"* as a deliberate nod to *[[Shadowrun]]*, the classic PC game Peter and Gary played together long ago.
 * **Salvatore Drow Lore & The Twin Ships:** Peter's deep familiarity with R.A. Salvatore's 39 *Legend of Drizzt* audiobooks inspired the portrayal of Jarlaxle Baenre's Bregan D'aerthe privateer ships *[[Twinkle and Icingdeath|Twinkle and Icingdeath]]*. Rhynok pierced the illusory glamour cloaking Captain [[Deloz Montiv]]'s drow crew, forging a friendly surface alliance that culminated in Deloz boarding the dreadnaught alongside the Order.
 * **Krageer as the Unlikely "Party Face":** Despite playing a Goliath barbarian with an abysmal Charisma of 6 (-2 penalty), Gary frequently volunteered Krageer to speak for the party during tense diplomatic negotiations. Krageer succeeded a surprising number of times against impossible odds—most famously when he swayed Lord Protector [[Dagult Neverember]] into sending full Neverwinter aid to Leilon after every other party member had failed.
+* **The "Sacrificial Lamb" Hoard Breach:** During the Deeping Cave dungeon crawl in *Sleeping Dragon's Wake*, the party tackled the poison gas chamber trapped behind a *Wall of Force* by sending Krageer in first as the "sacrificial lamb" to soak the initial poison damage. Once Krageer scrambled out and was healed, Peter realized Tvyordiy's Level 10 Monk feature *Purity of Body* made him completely immune to poison damage and the poisoned condition, allowing Tvyordiy to casually stroll through the deadly fumes without taking a single point of damage to secure the dragon's entire hoard.

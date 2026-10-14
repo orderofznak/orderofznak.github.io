@@ -35,8 +35,8 @@ Ebondeath disappeared in [[922 DR]], becoming a dracolich at the behest of [[Str
 When Myrkul returned over a century later during the [[Second Sundering]], a group of his worshipers within the Cult of the Dragon sought out Ebondeath's mausoleum. Led by [[Ularan Mortus]], these cultists eventually unearthed the disembodied dracolich and plotted to return him to physical form through possessing the body of the green dragon [[Claugiyliamatar]].
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Met (Possession Event)
+* **Possession of Claugiyliamatar (*Sleeping Dragon's Wake*):** When [[The Order of Znak]] returned to [[Deeping Cave]] carrying the corpse of [[Viantha Cruelhex]], Ebondeath's disembodied dracolich spirit manifested and successfully possessed the body of the green dragon [[Claugiyliamatar]], fulfilling the dark ritual orchestrated by [[Ularan Mortus]]. As the possessed dragon took wing to spread terror across the Sword Coast, spectral sword wraiths rose to ambush the champions.
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Chardansearavitriol](https://forgottenrealms.fandom.com/wiki/Chardansearavitriol)

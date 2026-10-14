@@ -5,7 +5,7 @@ system: dnd5e
 campaign: order_of_znak
 status: archived
 type: character
-last_updated: 2026-08-12
+last_updated: 2026-10-13
 tags: [character-sheet, aarakocra, monk, drunken-master, tvyordiy-znak, order-of-znak, lycanthropy, wereboar]
 ---
 
@@ -37,6 +37,7 @@ tags: [character-sheet, aarakocra, monk, drunken-master, tvyordiy-znak, order-of
   * **Goggles of Night**
 
 ## 📜 Key Story Beats & Milestones
+* **Claugiyliamatar's Poisoned Hoard Extraction (*Sleeping Dragon's Wake*):** When the Order explored Deeping Cave in Kryptgarden Forest to meet [[Claugiyliamatar]], they found the green dragon's hoard sealed behind a *Wall of Force* and choked with toxic gas. After [[Krageer Stoneface Ogolakanu]] charged in as the sacrificial lamb to absorb the initial blast, Tvyordiy utilized his 10th-level Monk feature **Purity of Body** (granting total immunity to poison damage and the poisoned condition) to stride into the lethal cloud completely unscathed once Krageer was safely clear, systematically securing and extracting the dragon's treasure hoard.
 * **Woodland Manse Extraction:** When the party visited the Woodland Manse underleveled and accidentally roused needle blights, Tvyordiy scooped up a pin-cushioned, unconscious **[[Krageer Stoneface Ogolakanu]]** and flew him off the map, narrowly escaping a TPK.
 * **Lizardfolk Alliance:** Fought side-by-side with marshland tribes, establishing mutual respect with **[[Matriarch Qolzaz]]** and integrating lizardfolk allies into the Order.
 * **The Wereboar Curse of Dumathoin's Gulch (*Divine Contention*):** During the late-campaign expedition into [[Dumathoin's Gulch]] in the Sword Mountains to recover Gnomengarde siege ordnance, Tvyordiy was ambushed by a pack of feral wereboars. In the brutal close-quarters brawl, he contracted wereboar lycanthropy—a physiological twist he embraced to gain hybrid tusks, enhanced strength, and devastating shock-troop momentum.

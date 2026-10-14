@@ -36,6 +36,7 @@ tags: [character-sheet, goliath, barbarian, fighter, krageer, order-of-znak]
   * **Adamantine Shackles:** Used to restrain high-value captive foes.
 
 ## 📜 Key Story Beats & Milestones
+* **Deeping Cave Acid Sprint & Poison Hoard Tank:** In [[Claugiyliamatar]]'s lair (*Sleeping Dragon's Wake*), Krageer attempted to charge across the subterranean acid pools in a Barbarian rage, requiring extensive post-crossing healing from [[Myagkiy Znak]]. Later, at the dragon's hoard sealed behind a *Wall of Force*, Krageer served as the "sacrificial lamb," enduring the full brunt of the deadly poison gas trap before retreating so the poison-immune [[Tvyordiy Znak]] could safely claim the treasure.
 * **Diplomatic Sway of Lord Neverember:** During the *[[Twinkle and Icingdeath|Icingdeath and Twinkle]]* adventure, the Order journeyed to Neverwinter to petition Lord [[Dagult Neverember]] for aid to protect Leilon. After each party member attempted and failed to convince the Lord Protector, Krageer—despite having the lowest Charisma in the group (CHA 6 / -2 penalty)—stepped up and successfully persuaded Dagult to commit his full aid.
 * **Gnomengarde Guard Escort:** Manhandled one or two gnome guards along the path while the party was being escorted to [[Fibblestib Pinebark]] and [[Dabbledob Plasterpatch]] following the [[Facktoré]] crossbow encounter.
 * **Dormant Volcano Climax:** Enlarged by **[[Myagkiy Znak]]**'s magic to colossal proportions, wrestling the **Fire Giant Queen** in molten grapple combat inside a dormant volcano during *"Keeping the Faith"*.
