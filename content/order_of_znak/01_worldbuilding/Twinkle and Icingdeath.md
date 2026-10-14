@@ -38,10 +38,19 @@ When [[The Order of Znak]] first encountered Captain Deloz aboard the *Twinkle*,
 When the illusory facade was dropped and the crew was revealed to be drow, the revelation caused no hostility or alarm. The Order of Znak welcomed them warmly, forging an enduring naval friendship with Captain Deloz and his crew.
 
 ### Diplomatic Mission to Lord Neverember
-During the adventure arc involving the twin ships, the heroes journeyed to Neverwinter to petition Lord Protector [[Dagult Neverember]] for desperately needed military resources and naval reinforcements to defend [[Leilon]]. After each of the party's higher-charisma members attempted in turn to persuade the stubborn ruler, [[Krageer Stoneface Ogolakanu]]—wielding a Charisma score of only 6—surprised everyone at the table by delivering the winning argument that swayed Neverember to grant his full aid.
+Following the crisis at Thalivar's Beacon and the recovery of [[The Ruinstone]], the heroes embarked on *Twinkle* and *Icingdeath* to Neverwinter to petition Lord Protector [[Dagult Neverember]] for desperately needed military resources and naval reinforcements to defend [[Leilon]]. After each of the party's higher-charisma members attempted in turn to persuade the stubborn ruler, [[Krageer Stoneface Ogolakanu]]—wielding a Charisma score of only 6—surprised everyone at the table by delivering the winning argument that swayed Neverember to grant his full aid.
+
+### Return Voyage Ambush 1: Invisible Stalkers at Sea
+On the return voyage south toward Leilon, the waters grew unnatural and violent as the vessels were ambushed by lethal **Invisible Stalkers** summoned by enemy conjurers to scuttle the ships. Alerted to the air currents and sudden pressure changes, [[The Order of Znak]], working in tandem with the seasoned drow mariners and officers of both crews, cornered and destroyed the unseen elemental assassins before they could butcher the crew.
+
+### Return Voyage Ambush 2: The Fleet Battle (*Throatcutter* & *Thunderstrike*)
+Not long after repelling the stalkers, lookouts spotted sails on the horizon: a hostile Talosite flotilla commanded by the chaotic evil war priest **[[Galas Windrage]]**. The enemy force comprised a warship (the ***Throatcutter***) and a swift longship (the ***Thunderstrike***), each brimming with 40 battle-hardened sailors, berserkers, and heavy artillery:
+* **The Siege Engine Broadside:** The ships closed to range, trading punishing broadsides of concussive ballista bolts and mangonel stones that splintered hulls and rigging across the churning Sea of Swords.
+* **Deckside Archery & Krageer's Bow Duel:** While [[Rhynok]] provided deadly sniper support picking off enemy helmsmen and siege crews from the rigging, Krageer—taking a page out of Rhynok's book—set aside his axe, pulled out his own bow, and enthusiastically traded arrow volleys with enemy sailors and berserkers across the waves.
+* **Triumphant Return:** The Order and privateers boarded and shattered the brigand vessels, slaying Galas Windrage and wiping out his reaver crews. Escorting Neverwinter's pledged military supplies, *Twinkle* and *Icingdeath* returned victorious to Leilon.
 
 ### The Storm Dreadnaught Assault on Fheralai Stormsworn
-When the heroes needed to locate and eliminate the Talos cult leader High Priestess **[[Fheralai Stormsworn]]** amidst hurricane-swept waters, they called upon Captain Deloz and the *Twinkle*. 
+Later in the campaign, when the heroes needed to locate and eliminate the Talos cult leader High Priestess **[[Fheralai Stormsworn]]** amidst hurricane-swept waters, they called upon Captain Deloz and the *Twinkle*. 
 
 Deloz piloted the vessel through violent tempest conditions, successfully tracking down the Talosite fleet. Upon reaching the enemy flagship, Captain Deloz and his crew joined [[The Order of Znak]] in direct combat, boarding and scouring the ironclad dreadnaught deck by deck until the priestess was defeated.
 

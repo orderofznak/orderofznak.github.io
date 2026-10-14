@@ -29,6 +29,7 @@ tags: [character-sheet, elf, ranger, rogue, gloomstalker, assassin, rhynok, orde
 ## ⚔️ Combat Role & Tactics
 * **Lethal Alpha-Strike Sniper:** Specializes in devastating opening salvos. Synergizes Gloomstalker *Dread Ambusher* extra first-round attacks with Assassin *Assassinate* automatic critical hits and *Sneak Attack* dice, frequently eliminating primary enemy casters before they take a turn.
 * **Poison & Ranged Control:** Uses the Poisoner feat to coat longbow arrows with venom, debilitating surviving frontline threats from extreme range with Sharpshooter.
+* **The "Rope Trick" Extradimensional Sniper Pocket:** One of Rhynok's favorite signature combat tricks was casting *Rope Trick*, climbing up into the invisible extradimensional space, pulling the rope up behind him, and firing deadly longbow salvos with total cover and complete impunity down upon enemy ranks below.
 
 ## 🎒 Weapons & Stealth Equipment
 * **Ranged Weapons:** **+2 Longbow**
@@ -36,12 +37,15 @@ tags: [character-sheet, elf, ranger, rogue, gloomstalker, assassin, rhynok, orde
 * **Stealth & Utility Gear:**
   * **Boots of Elvenkind** & **Cloak of Elvenkind** (Advantage on Stealth checks, Disadvantage on enemy perception)
   * **Poisoner's Kit & Belt:** Rapid toxin application in combat
+  * **Wilderness Venom Harvesting (Downtime):** During downtime intervals between quests, Rhynok ventured into the wild swamps and foothills to track down deadly beasts—specifically **giant poisonous snakes**—to milk and extract their venom, continually stocking lethal poisons for his weapons.
   * **Adamantine Nets:** High-durability containment for live captures
   * **Ring of the Beast Master**
   * **Ring of Water Walking**
 * **Armor:** +1 Breastplate Armor
 
 ## 📜 Key Story Beats & Milestones
+* **High Seas Naval Battles (*Divine Contention*):** Aboard *[[Twinkle and Icingdeath|Twinkle]]* and *Icingdeath*, Rhynok helped eliminate an ambush of Invisible Stalkers at sea, and later picked off enemy officers and siege crews with precision longbow fire during the naval fleet battle against [[Galas Windrage]]'s *Throatcutter* and *Thunderstrike*.
+* **Dumathoin's Gulch Sniping, Persuasion & Boneclaw Slaying (*Divine Contention*):** In the opening quest of *Divine Contention*, deployed his signature *Rope Trick* pocket sniper tactic against swarming sword wraiths; successfully persuaded the dwarven eidolon [[Sister Silvergranite]] to yield the Gnomengarde grenade; and spearheaded the elimination of the lethal Boneclaw.
 * **Deeping Cave Acid Pool Relay:** In [[Claugiyliamatar]]'s lair (*Sleeping Dragon's Wake*), Rhynok coordinated with [[Myagkiy Znak]] to ferry his *Ring of Water Walking* across the cavern's acid pools alongside the cleric's *Water Walk* spell, securing safe passage across the caustic waters for the entire party.
 * **Gnomengarde Crossbow Ambush:** Shot by the eccentric gnome inventor [[Facktoré]] testing her autoloading crossbow apparatus upon the party's arrival in [[Gnomengarde]], before cooler heads de-escalated the encounter to prevent further harm.
 * **Piercing the Illusory Facade of *Twinkle*:** Sensed that the seemingly human crew aboard Captain [[Deloz Montiv]]'s ship *[[Twinkle and Icingdeath|Twinkle]]* was distinctly elvish, piercing the glamour projected by the ship's enchanted figurehead and leading to the friendly reveal that they were drow in disguise.

@@ -30,12 +30,15 @@ tags: [character-sheet, goliath, barbarian, fighter, krageer, order-of-znak]
 
 ## 🎒 Weapons & Legendary Gear
 * **Signature Weapon — [[Ultima Exodus]]:** A legendary two-handed **+2 Greataxe** forged from silvered and adamantine metal, capable of carving through magical defenses and reinforced structures.
+* **Secondary Weapon — Longbow:** Kept ready for ranged skirmishes, siege combat, and long-range exchanges.
 * **Armor:** +2 Scale Mail Armor
 * **Utility & Magic Items:**
   * **Alchemy Jug:** Guarantees fresh rations and ale for camp rest.
   * **Adamantine Shackles:** Used to restrain high-value captive foes.
 
 ## 📜 Key Story Beats & Milestones
+* **High Seas Archery Duel (*Divine Contention*):** During the return voyage from Neverwinter aboard *[[Twinkle and Icingdeath|Twinkle]]* and *Icingdeath*, the ships were ambushed by [[Galas Windrage]]'s warships (*Throatcutter* and *Thunderstrike*). Taking a page out of Rhynok's book, Krageer drew his own bow and enthusiastically traded arrow volleys with enemy sailors and berserkers across the churning waves amidst incoming ballista and mangonel fire.
+* **Thalivar's Beacon & The Psychic Pain of the Star Spawn Manglers (*Divine Contention*):** Following the return from Dumathoin's Gulch, the Order rushed to Thalivar's Beacon to contain a breach of Far Realm horrors. In the furious battle atop the tower against Star Spawn Manglers, Krageer—whose Bear Totem Barbarian rage granted him resistance against virtually every form of physical and elemental damage—encountered the one pain he could not flinch off: pure psychic damage. Despite enduring agonizing psychic assaults, Krageer cleaved through the aberrations to secure **[[The Ruinstone]]**.
 * **Deeping Cave Acid Sprint & Poison Hoard Tank:** In [[Claugiyliamatar]]'s lair (*Sleeping Dragon's Wake*), Krageer attempted to charge across the subterranean acid pools in a Barbarian rage, requiring extensive post-crossing healing from [[Myagkiy Znak]]. Later, at the dragon's hoard sealed behind a *Wall of Force*, Krageer served as the "sacrificial lamb," enduring the full brunt of the deadly poison gas trap before retreating so the poison-immune [[Tvyordiy Znak]] could safely claim the treasure.
 * **Diplomatic Sway of Lord Neverember:** During the *[[Twinkle and Icingdeath|Icingdeath and Twinkle]]* adventure, the Order journeyed to Neverwinter to petition Lord [[Dagult Neverember]] for aid to protect Leilon. After each party member attempted and failed to convince the Lord Protector, Krageer—despite having the lowest Charisma in the group (CHA 6 / -2 penalty)—stepped up and successfully persuaded Dagult to commit his full aid.
 * **Gnomengarde Guard Escort:** Manhandled one or two gnome guards along the path while the party was being escorted to [[Fibblestib Pinebark]] and [[Dabbledob Plasterpatch]] following the [[Facktoré]] crossbow encounter.

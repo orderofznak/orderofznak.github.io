@@ -8,7 +8,7 @@ type: npc
 species: human
 ethnicity: rashemi
 class: wizard
-last_updated: 2026-10-12
+last_updated: 2026-10-13
 tags: [npc, human, rashemi, wizard, gallio-elibro, house-of-thalivar, thalivar, leilon, order-of-znak]
 aliases: ['Gallio Elibro', 'Gallio', 'Wizard Elibro']
 modules: ["Storm Lord's Wrath", "Sleeping Dragon's Wake", "Divine Contention"]
@@ -36,8 +36,8 @@ Unknown to Gallio himself, his insomnia and night terrors stem from a horrific a
 ## 📜 The Haunting of the Tower & The Quest
 * **Furious at Abandonment:** When spectral apparitions and planar phantoms began manifesting throughout the ruin, the reconstruction laborers panicked and abandoned their posts. Gallio was incensed that work had ground to a halt.
 * **Hiring [[The Order of Znak]]:** While Gallio has not seen the spirits with his own eyes, he does not doubt his underlings' genuine terror. He beseeches the champions of [[The Order of Znak]] to enter the tower, ascend the levels, and cleanse every spectral presence so his crews can return.
-* **Study in Area H3:** Gallio remains stationed in his second-floor study (area H3) amidst stacks of tomes and parchment while the party explores the upper reaches.
 * **Lorekeeper of the Tower:** When approached respectfully, Gallio can recount the ancient history, planar dangers, and architectural layout of the House of Thalivar to anyone who enquires.
+* **Thalivar's Beacon & Resignation to Neverwinter (*Divine Contention*):** In Act 4, when the beacon apparatus flared and summoned deadly **Star Spawn Manglers** from the Far Realm into the tower, [[The Order of Znak]] intervened to vanquish the aberrant horrors and recover **[[The Ruinstone]]**. Pushed past his physical and mental limits by months of sleepless night terrors, ghostly possession by Thalivar, and alien incursions, Gallio formally resigned his commission as Neverwinter's town mage and returned permanently to Neverwinter, leaving Leilon's arcane defense entirely in the hands of the Order.
 
 ---
 
