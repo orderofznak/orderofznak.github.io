@@ -31,7 +31,7 @@ Daggermaw was mean and always hungry. She would attack any potential prey she sa
 
 ## ⚔️ Campaign Interactions & Party Encounters
 * **Encounter Status:** Never Encountered (Left Undisturbed in the Offshore Wrecks)
-* **Party Notes:** Ferocious hunter shark prowling the sunken shipwrecks below the [[Tower of Storms]]. Because [[The Order of Znak]] befriended the **awakened giant crab** on the beach and laid the banshee **[[Miraal]]** to rest by returning her stolen conch shell from [[Moesko]], the crab retrieved the enchanted **+1 Longbow** from the sunken wreck for [[Rhynok]]—meaning the party never dove into the frigid surf to explore the shipwrecks themselves, leaving Daggermaw and the other hunter sharks undisturbed.
+* **Party Notes:** Ferocious hunter shark prowling the five sunken shipwrecks (including the *Star-Crossed Lover* and the *Orca*) below the [[Tower of Storms]]. Because [[The Order of Znak]] befriended the **awakened giant crab** on the beach and laid the banshee **[[Miraal]]** to rest by returning her stolen conch shell from [[Moesko]], the crab retrieved the enchanted **+1 Longbow** from the wreck of the *Star-Crossed Lover* for [[Rhynok]]—meaning the party never dove into the frigid surf to explore the shipwrecks (or the sunken chest aboard the *Orca*) themselves, leaving Daggermaw and the other hunter sharks completely undisturbed.
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Daggermaw](https://forgottenrealms.fandom.com/wiki/Daggermaw)
