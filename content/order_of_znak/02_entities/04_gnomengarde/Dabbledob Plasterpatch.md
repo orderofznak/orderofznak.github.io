@@ -37,8 +37,8 @@ Dabbletob was also skilled at creating magic items. In turn, both inventors were
 ## ⚔️ Campaign Interactions & Party Encounters
 * **Encounter Status:** Met (Allied Chief Inventor)
 * **Party Notes:**
-  * **Act 1 (*Dragon of Icespire Peak*, Level 2):** Following [[Tvyordiy Znak]]'s clutch **natural 20** Persuasion check that defused hostilities after [[Facktoré]] shot [[Rhynok]] and [[Krageer Stoneface Ogolakanu|Krageer]] roughed up two guards, the party met with Dabbledob and [[Fibblestib Pinebark]] in their workshop. Rather than needing Dabbledob's proposed straitjacket, the Order hunted down and killed the shapeshifting **Mimic** terrorizing King [[Korboz]].
-  * **Act 4 (*Divine Contention*):** Traveled to [[Dumathoin's Gulch]] carrying the arming key for the **Gnomengarde Grenade** to aid [[The Order of Znak]] in defending [[Leilon]] against [[Claugiyliamatar]] and [[Ularan Mortus]].
+  * **[[01 - Act 1 - Dragon of Icespire Peak|Act 1: Dragon of Icespire Peak]]:** After [[Facktoré]] shot [[Rhynok]] with her autoloading crossbow contraption and [[Krageer Stoneface Ogolakanu|Krageer]] roughed up sentries [[Pog]] and [[Ulla]], the party met with Dabbledob and [[Fibblestib Pinebark]] in their workshop. Rather than needing Dabbledob's proposed straitjacket, the Order hunted down and killed the shapeshifting **Mimic in the barrel room** that had been terrorizing King [[Korboz]].
+  * **[[06 - Act 4 - Divine Contention|Act 4: Divine Contention]]:** Traveled to [[Dumathoin's Gulch]] carrying the arming key for the **Gnomengarde Grenade** to aid [[The Order of Znak]] in defending [[Leilon]] against [[Claugiyliamatar]] and [[Ularan Mortus]].
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Dabbledob Plasterpatch](https://forgottenrealms.fandom.com/wiki/Dabbledob%20Plasterpatch)

@@ -33,10 +33,10 @@ At some point not long before the arrival of the white dragon [[Cryovain]] in th
 Grannoc was a half-orc who dressed in hide armor and was a devout follower of [[Talos]], the god of storms. He was known to perform eerie dances while invoking his god, and to become enraged if anyone dared to interrupt him.
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Slain (Woodland Manse Boss)
+* **Encounter Status:** Slain ([[Woodland Manse]] Boss)
 * **Party Notes:**
-  * **First Encounter — The Level 3 Retreat:** When [[The Order of Znak]] first scouted the [[Woodland Manse]] at **Level 3** after discovering the dead wizard and his map to the [[Tower of Storms]], Grannoc's ritual in the central courtyard unleashed a massive swarm of twig, needle, and vine blights alongside his fellow [[Anchorites of Talos]]. Outnumbered by the zerging horde, the Level 3 party executed a fighting withdrawal into the forest.
-  * **Second Encounter — The Level 6 Vengeance:** Immediately after slaying [[Gorthok]] at the [[Circle of Thunder]], the **Level 6** party marched back to the [[Woodland Manse]] accompanied by centaur ally [[Xanth]]. Armed with Extra Attacks, [[Myagkiy Znak]]'s *Spirit Guardians*, [[Tvyordiy Znak]]'s *Stunning Strikes*, [[Rhynok]]'s *Sharpshooter* volleys, and [[Krageer Stoneface Ogolakanu|Krageer]]'s silvered greataxe, the Order annihilated Grannoc, his anchorite lieutenants, the blight hordes, and a flock of stirges.
+  * **First Encounter — The Blood-Note of Gruumsh & Desperate Retreat:** Prior to [[The Order of Znak]]'s first foray into the [[Woodland Manse]], [[Rhynok]] staged a brilliant Gruumsh blood-note ruse outside the clearing that terrified many of the stationed orcs into fleeing. Inside the central courtyard, however, Grannoc, the Gulthias blights, savage boars, and fellow [[Anchorites of Talos]] overwhelmed the party—knocking [[Krageer Stoneface Ogolakanu|Krageer]] unconscious twice before [[Tvyordiy Znak]] swooped back from his flight to carry the Goliath to safety.
+  * **Second Encounter — Post-[[Circle of Thunder]] Vengeance:** Immediately after slaying [[Gorthok]], [[Flenz]], and [[Narux]] at the [[Circle of Thunder]], the seasoned party marched back to the [[Woodland Manse]] accompanied by centaur ally [[Xanth]]. With [[Myagkiy Znak]]'s *Spirit Guardians*, [[Tvyordiy Znak]]'s *Stunning Strikes*, [[Rhynok]]'s enchanted longbow, [[Krageer Stoneface Ogolakanu|Krageer]]'s silvered greataxe, and Xanth's hooves, the Order annihilated Grannoc, his remaining anchorites, the blight hordes, and the stirges.
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Grannoc](https://forgottenrealms.fandom.com/wiki/Grannoc)

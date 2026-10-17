@@ -33,7 +33,7 @@ Norbus seemed brusque and acted overly wary. He enjoyed joking around with Dazly
 
 ## ⚔️ Campaign Interactions & Party Encounters
 * **Encounter Status:** Met (Employer & Allied Prospector)
-* **Party Notes:** Gruff shield dwarf prospector working with [[Dazlyn Grayshard]] at the [[Temple of Abbathor]]. Aided by [[The Order of Znak]] at **Level 1–2**, who eliminated two ochre jellies inside the ruins and four marauding orcs at the canyon entrance. Together with Dazlyn, Norbus rewarded the party with a pair of **Sending Stones** that served as the Order's long-range communication lifeline across the entire four-campaign saga.
+* **Party Notes:** Gruff shield dwarf prospector working with [[Dazlyn Grayshard]] at the [[Temple of Abbathor]]. Aided by [[The Order of Znak]], who eliminated the corrosive **Ochre Jellies** inside the ruins, excavated the rubble tunnel to the Statue of Abbathor, and slaughtered a pack of marauding orcs at the canyon exit. Though unmoved by the party's appeals for extra coin, Norbus and Dazlyn rewarded the champions with a pair of ***Sending Stones*** that served as the Order's long-range communication lifeline across the entire four-act saga.
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Norbus Ironrune](https://forgottenrealms.fandom.com/wiki/Norbus%20Ironrune)

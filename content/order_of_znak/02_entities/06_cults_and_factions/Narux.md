@@ -28,8 +28,8 @@ tags: [npc, order-of-znak]
 Narux and his fellow anchorites conducted rituals at the Circle of Thunder in order to please Talos and to create storms. They also revered and would attempt to summon [[Gorthok|Gorthok the Thunder Boar]], a primal spirit in service to Talos. These rituals often entailed blood sacrifices of animals or humanoids, followed by dancing around the victim's corpse while wearing a rotted boar's head as a mask.
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Slain (Circle of Thunder)
-* **Party Notes:** Half-orc [[Anchorites of Talos|Anchorite of Talos]] who co-channelled the summoning of [[Gorthok]] the Thunder Boar alongside [[Flenz]] at the [[Circle of Thunder]]. Cut down at **Level 5–6** by [[The Order of Znak]] and [[Xanth]], after which Life Cleric [[Myagkiy Znak]]—the sole shield-bearer of the party—claimed the **+1 Shield** hidden at the standing stones.
+* **Encounter Status:** Slain ([[Circle of Thunder]])
+* **Party Notes:** Half-orc [[Anchorites of Talos|Anchorite of Talos]] who co-channeled the summoning of [[Gorthok]] the Thunder Boar alongside [[Flenz]] at the [[Circle of Thunder]]. Cut down by [[The Order of Znak]] and [[Xanth]], after which [[Myagkiy Znak]]—the sole shield-bearer of the party—claimed the ***+1 Shield*** from the caves below the standing stones.
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Narux](https://forgottenrealms.fandom.com/wiki/Narux)

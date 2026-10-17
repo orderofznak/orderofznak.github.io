@@ -33,7 +33,7 @@ Dazlyn was sincere and enjoyed joking around with Norbus.
 
 ## ⚔️ Campaign Interactions & Party Encounters
 * **Encounter Status:** Met (Employer & Allied Prospector)
-* **Party Notes:** Shield dwarf prospector excavating the [[Temple of Abbathor]] in Dwarven Excavation alongside her partner [[Norbus Ironrune]]. At **Level 1**, [[The Order of Znak]] warned the duo of [[Cryovain]] and cleared the inner temple of two ochre jellies via a kiting ambush at the secret door. After the party defeated four orcs outside the canyon as newly minted Level 2 heroes, Dazlyn and Norbus gifted them the **Sending Stones** before the party greedily pried loose the exploding altar gem.
+* **Party Notes:** Shield dwarf prospector excavating the [[Temple of Abbathor]] alongside her partner [[Norbus Ironrune]]. Arriving after [[Umbrage Hill]], [[The Order of Znak]] slew the corrosive **Ochre Jellies** inside the temple, discovered its secret doors, and excavated the rubble-choked tunnel to the inner Statue of Abbathor (where [[Krageer Stoneface Ogolakanu]] triggered the exploding gem trap). Although the party could not persuade Dazlyn and Norbus to part with extra coin, the prospectors gifted them their promised pair of ***Sending Stones*** before the Order slaughtered an orc ambush at the canyon exit.
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Dazlyn Grayshard](https://forgottenrealms.fandom.com/wiki/Dazlyn%20Grayshard)

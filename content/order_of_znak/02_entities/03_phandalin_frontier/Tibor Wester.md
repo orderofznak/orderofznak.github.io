@@ -34,7 +34,7 @@ In the 1490s [[DR]], Tibor established a [[Tibor Wester's loggers' camp|logging 
 
 ## ⚔️ Campaign Interactions & Party Encounters
 * **Encounter Status:** Met (Rescued Employer)
-* **Party Notes:** Half-brother of [[Harbin Wester]] and manager of the [[Loggers' Camp]]. At **Level 3**, [[The Order of Znak]] arrived with supplies from [[Elmar Barthen]]—after accidentally triggering Tibor's *Poison Spray* trap on the locked payroll crate en route—and rescued the terrified Tibor from four burrowing **ankhegs**, while [[Myagkiy Znak]] located and destroyed the hidden [[Anchorites of Talos|Talosian]] totems buried around the camp.
+* **Party Notes:** Half-brother of [[Harbin Wester]] and manager of the [[Loggers' Camp]]. Guided through Neverwinter Wood by [[Rhynok]]'s woodcraft (spotting a shapeshifted anchorite boar along the trail), [[The Order of Znak]] arrived with the ox-drawn supply wagon from [[Elmar Barthen]] and rescued the terrified Tibor from burrowing **ankhegs**—including one that erupted right beside his barricaded office cabin.
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Tibor Wester](https://forgottenrealms.fandom.com/wiki/Tibor%20Wester)

@@ -27,7 +27,7 @@ aliases: ['Mad King Korboz']
 
 ## ⚔️ Campaign Interactions & Party Encounters
 * **Encounter Status:** Met (Rescued Monarch)
-* **Party Notes:** Co-ruler of [[Gnomengarde]] alongside his husband [[Gnerkli]]. At **Level 2**, [[The Order of Znak]] investigated Korboz's sudden "madness" and discovered he had locked himself and Gnerkli inside the royal bedroom after a shapeshifting **Mimic** infiltrated the caverns and devoured two gnomes. Once the party hunted down and slew the Mimic—and after [[Tvyordiy Znak]]'s natural 20 Persuasion check calmed the throne room standoff—Korboz rewarded the champions with the *Wand of Pyrotechnics*, *Pole of Collapsing*, *Clockwork Amulet*, and *Hat of Wizardry*.
+* **Party Notes:** Co-ruler of [[Gnomengarde]] alongside his husband [[Gnerkli]]. [[The Order of Znak]] investigated Korboz's sudden seclusion and discovered he had locked himself and Gnerkli inside the royal bedroom after a shapeshifting **Mimic** infiltrated the caverns and devoured two gnomes. Once the party hunted down and slew the **Mimic in the barrel room**, Korboz and Gnerkli rewarded the champions with the *Wand of Pyrotechnics*, *Pole of Collapsing*, *Clockwork Amulet*, and *Hat of Wizardry*.
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Korboz](https://forgottenrealms.fandom.com/wiki/Korboz)

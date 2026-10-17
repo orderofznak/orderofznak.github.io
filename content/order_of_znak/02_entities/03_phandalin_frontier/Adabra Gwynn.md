@@ -30,7 +30,7 @@ When the white dragon [[Cryovain]] began terrorizing the region, the people of P
 
 ## ⚔️ Campaign Interactions & Party Encounters
 * **Encounter Status:** Met (Rescued Ally & Apothecary)
-* **Party Notes:** Rescued by [[The Order of Znak]] at **Level 1** during their very first starter quest at [[Umbrage Hill]]. Rather than fighting the hungry manticore that [[Cryovain]] had driven down from the peaks, the party negotiated with the beast and bought it off with meat and gold. Grateful for her salvation, Adabra gifted the party a *Potion of Healing*, signed a letter confirming her safety for [[Harbin Wester]], and remained a steadfast apothecary ally throughout Act 1.
+* **Party Notes:** Rescued by [[The Order of Znak]] during their very first frontier quest at [[Umbrage Hill]]. Rather than parleying with the hungry **manticore** besieging her stone windmill, the party **fought and drove the beast off**. Although the champions could not convince the stubborn acolyte to abandon her windmill for [[Phandalin]], a grateful Adabra gifted them a *Potion of Healing* and signed a letter confirming her safety for [[Harbin Wester]]. *(Later, prior to the [[Woodland Manse]], the manticore and its mate returned to Umbrage Hill and were slain by [[Cryovain]].)*
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Adabra Gwynn](https://forgottenrealms.fandom.com/wiki/Adabra%20Gwynn)

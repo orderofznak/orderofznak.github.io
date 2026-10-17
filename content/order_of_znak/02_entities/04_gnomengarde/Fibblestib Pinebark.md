@@ -37,8 +37,8 @@ Fibblestib was also skilled at creating magic items. In turn, both inventors wer
 ## ⚔️ Campaign Interactions & Party Encounters
 * **Encounter Status:** Met (Allied Chief Inventor)
 * **Party Notes:**
-  * **Act 1 (*Dragon of Icespire Peak*, Level 2):** After [[Rhynok]] was blasted by [[Facktoré]]'s malfunctioning heavy crossbow platform and [[Krageer Stoneface Ogolakanu|Krageer]] manhandled two aggressive gnome guards, [[Tvyordiy Znak]] rolled a **natural 20** on Persuasion to de-escalate the crisis. Escorted to the workshop, the party consulted Fibblestib and [[Dabbledob Plasterpatch]] to learn the truth about King [[Korboz]]'s madness and the shapeshifting **Mimic**, which the party promptly slew.
-  * **Act 4 (*Divine Contention*):** Reunited with [[The Order of Znak]] at [[Dumathoin's Gulch]] alongside Dabbledob and bodyguard [[Bindlemint Mincemower]] to deliver the wild-magic **Gnomengarde Grenade** for the defense of [[Leilon]].
+  * **[[01 - Act 1 - Dragon of Icespire Peak|Act 1: Dragon of Icespire Peak]]:** After [[Rhynok]] was shot by [[Facktoré]]'s autoloading heavy crossbow contraption and a wary [[Krageer Stoneface Ogolakanu|Krageer]] roughed up gnome guards [[Pog]] and [[Ulla]], the party met with Fibblestib and [[Dabbledob Plasterpatch]] in their workshop to learn the truth about King [[Korboz]]'s seclusion and the shapeshifting **Mimic**—which the Order hunted down and slew in the barrel room.
+  * **[[06 - Act 4 - Divine Contention|Act 4: Divine Contention]]:** Reunited with [[The Order of Znak]] at [[Dumathoin's Gulch]] alongside Dabbledob and bodyguard [[Bindlemint Mincemower]] to deliver the wild-magic **Gnomengarde Grenade** for the defense of [[Leilon]].
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Fibblestib Pinebark](https://forgottenrealms.fandom.com/wiki/Fibblestib%20Pinebark)

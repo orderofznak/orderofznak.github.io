@@ -29,7 +29,7 @@ Facktoré was mad, caring only about her inventions and not at all for anything 
 
 ## ⚔️ Campaign Interactions & Party Encounters
 * **Encounter Status:** Met (Subdued & De-escalated)
-* **Party Notes:** Sleep-deprived, manic rock gnome inventor at [[Gnomengarde]]. During [[The Order of Znak]]'s **Level 2** expedition, Facktoré's spinning, multi-directional heavy crossbow apparatus malfunctioned and opened fire on the party, shooting [[Rhynok]] before the champions restrained her and [[Tvyordiy Znak]] rolled a **natural 20** on Persuasion to calm the cavern guards (after [[Krageer Stoneface Ogolakanu|Krageer]] manhandled two of them) and secure an audience with [[Fibblestib Pinebark]] and [[Dabbledob Plasterpatch]].
+* **Party Notes:** Sleep-deprived, manic rock gnome inventor at [[Gnomengarde]]. During [[The Order of Znak]]'s expedition to the caverns, Facktoré opened fire with her spinning, autoloading heavy crossbow apparatus and shot [[Rhynok]]—making the party understandably distrustful of the gnomes (and prompting [[Krageer Stoneface Ogolakanu|Krageer]] to rough up sentries [[Pog]] and [[Ulla]] along the way to chief inventors [[Fibblestib Pinebark]] and [[Dabbledob Plasterpatch]]).
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Facktoré](https://forgottenrealms.fandom.com/wiki/Facktor%C3%A9)
