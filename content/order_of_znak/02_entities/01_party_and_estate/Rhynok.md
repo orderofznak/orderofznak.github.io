@@ -5,69 +5,85 @@ system: dnd5e
 campaign: order_of_znak
 status: archived
 type: character
-last_updated: 2026-10-16
+last_updated: 2026-10-17
 tags: [character-sheet, elf, ranger, rogue, gloomstalker, assassin, rhynok, order-of-znak]
 ---
 
 # 🏹 Rhynok
 
 ## 🛡️ Overview & Character Lore
-* **Personality & Demeanor:** Silent, watchful, and deadly. Moves through shadowed tree canopies and subterranean caverns without leaving a trace.
-* **Background:** Criminal / Smuggler. Master of disguises, waterways, and concealed pathways before putting his lethal marksmanship at the service of [[The Order of Znak]].
-* **Favored Domains:**
-  * **Favored Terrain:** Swamp and Forest
-  * **Favored Enemies:** Humanoids (**Orcs** from Level 1) and Undead
-
-## 📊 In-Game Mechanics & Stats
-* **Race:** Elf
-* **Class:** Level 13 Multiclass — Level 8 Ranger (**Gloom Stalker** Conclave chosen at Level 3) / Level 5 Rogue (**Assassin**)
-* **Fighting Style:** Archery Fighting Style (+2 to ranged attack rolls)
-* **Feats:** **Sharpshooter** (taken at Level 4), **Poisoner**
-* **Ability Scores:** STR 16 (+3) | DEX 20 (+5) | CON 18 (+4) | INT 11 (+0) | WIS 14 (+2) | CHA 11 (+0)
-* **Armor Class (AC):** **18 AC** (wearing +1 Breastplate Armor with maximum DEX bonus)
-
-## ⚔️ Combat Role & Tactics
-* **Lethal Alpha-Strike Sniper:** Specializes in devastating opening salvos. Synergizes Gloom Stalker *Dread Ambusher* extra first-round attacks with Assassin *Assassinate* automatic critical hits and *Sneak Attack* dice, frequently eliminating primary enemy casters before they take a turn.
-* **Early-Level Ranger Spellcasting (*Goodberry* & *Hail of Thorns*):** Upon unlocking Ranger Spellcasting at **Level 2** after [[Umbrage Hill]], Rhynok became well-versed in ***Goodberry*** (for reliable party healing and rations) and ***Hail of Thorns*** (turning his longbow shots into AoE thorn-burst salvos against clustered foes like orcs).
-* **Poison & Ranged Control:** Uses the Poisoner feat to coat longbow arrows with venom, debilitating surviving frontline threats from extreme range with Sharpshooter.
-* **The "Rope Trick" Extradimensional Sniper Pocket:** One of Rhynok's favorite signature combat tricks was casting *Rope Trick*, climbing up into the invisible extradimensional space, pulling the rope up behind him, and firing deadly longbow salvos with total cover and complete impunity down upon enemy ranks below.
-
-## 🎒 Weapons & Stealth Equipment
-* **Ranged Weapons Progression:**
-  * **Mundane Longbow (Levels 1–4):** Starter bow in [[Phandalin]], used to drive off the [[Umbrage Hill]] Manticore and slaughter the [[Temple of Abbathor]] & [[Butterskull Ranch]] Orcs.
-  * **+1 Longbow (*Dragon of Icespire Peak*):** Retrieved from the seafloor wreck by the **awakened giant crab** at the **[[Tower of Storms]]** after the party helped [[Miraal]] (when Peter gave Gary the choice of what *+1 Weapon* it was and who received it). Pivotal in carrying the party against [[Zeleen Varnaster]]'s immune wererats at [[Mountain's Toe Gold Mine]] and slaying [[Cryovain]] atop [[Icespire Hold]].
-  * **+2 Longbow (Tier 2–3):** Upgraded signature bow across the Leilon trilogy.
-* **Melee Weapons Progression:**
-  * **Mundane Warhammer & Silvered Shortsword (Act 1):** Carried a mundane **Warhammer** at Level 1 in [[Phandalin]], and later **silvered a Shortsword** (used against the mountain hobgoblins and at [[Icespire Hold]]).
-  * **Dagger of Venom & Scimitar of Speed (Tier 2–3)**
-* **Stealth & Utility Gear:**
-  * **Boots of Elvenkind** & **Cloak of Elvenkind** (Advantage on Stealth checks, Disadvantage on enemy perception — Rhynok eagerly eyed the ***Boots of Elvenkind*** offered by [[Gustaf Stellern|Falcon]] at [[Falcon's Hunting Lodge]], received them from Falcon in [[Phandalin]] after the lodge was ransacked by [[Gorthok]], and later sought out the matching ***Cloak of Elvenkind*** in a subsequent adventure!)
-  * **Poisoner's Kit & Belt:** Rapid toxin application in combat
-  * **Wilderness Venom Harvesting (Downtime):** During downtime intervals between quests, Rhynok ventured into the wild swamps and foothills to track down deadly beasts—specifically **giant poisonous snakes**—to milk and extract their venom, continually stocking lethal poisons for his weapons.
-  * **Adamantine Nets:** High-durability containment for live captures
-  * **Ring of the Beast Master**
-  * **Ring of Water Walking**
-* **Armor:** +1 Breastplate Armor
-
-## 📜 Key Story Beats & Milestones
-* **High Seas Naval Battles (*Divine Contention*):** Aboard *[[Twinkle and Icingdeath|Twinkle]]* and *Icingdeath*, Rhynok helped eliminate an ambush of Invisible Stalkers at sea, and later picked off enemy officers and siege crews with precision longbow fire during the naval fleet battle against [[Galas Windrage]]'s *Throatcutter* and *Thunderstrike*.
-* **Dumathoin's Gulch Sniping, Persuasion & Boneclaw Slaying (*Divine Contention*):** In the opening quest of *Divine Contention*, deployed his signature *Rope Trick* pocket sniper tactic against swarming sword wraiths; successfully persuaded the dwarven eidolon [[Sister Silvergranite]] to yield the Gnomengarde grenade; and spearheaded the elimination of the lethal Boneclaw.
-* **Deeping Cave Acid Pool Relay:** In [[Claugiyliamatar]]'s lair (*Sleeping Dragon's Wake*), Rhynok coordinated with [[Myagkiy Znak]] to ferry his *Ring of Water Walking* across the cavern's acid pools alongside the cleric's *Water Walk* spell, securing safe passage across the caustic waters for the entire party.
-* **Piercing the Illusory Facade of *Twinkle*:** Sensed that the seemingly human crew aboard Captain [[Deloz Montiv]]'s ship *[[Twinkle and Icingdeath|Twinkle]]* was distinctly elvish, piercing the glamour projected by the ship's enchanted figurehead and leading to the friendly reveal that they were drow in disguise.
-* **"Shadow's Run" Cavern Crawl:** Provided critical darkvision reconnaissance and sniper support through pitch-black subterranean caverns during Gary's *"Shadow's Run"* dungeon crawl (Interlude 1 Shadow Dragon encounter).
-* **Tempest Dreadnaught Climax:** Provided suppressing fire against storm cultists and fiendish support during the confrontation with [[Fheralai Stormsworn]].
-* **Slaying [[Cryovain]] at [[Icespire Hold]] (*Dragon of Icespire Peak* Finale):** Fought mountain **Hobgoblins** with his **Silvered Shortsword**, helped dispatch the [[Stone-Cold Reavers]], and rained precision **+1 Longbow** (*Sharpshooter*) shots into **[[Cryovain]]** atop [[Icespire Hold]] while [[Tvyordiy Znak]] stunned the dragon and [[Krageer Stoneface Ogolakanu]] unloaded with the *Dragon Slayer* Longsword.
-* **Carrying the [[Mountain's Toe Gold Mine]] Wererat Battle:** When [[Krageer Stoneface Ogolakanu]] and [[Tvyordiy Znak]] proved unable to harm [[Zeleen Varnaster]]'s nonmagical-weapon-immune wererats, Rhynok (with his **+1 Longbow** and *Sharpshooter*) and [[Myagkiy Znak]] (*Spirit Guardians*, *Spiritual Weapon*, *Sacred Flame*) carried the entire fight!
-* **The Gruumsh Blood-Note Ruse at [[Woodland Manse]] & [[Falcon's Hunting Lodge]]:** Using his Favored Enemy knowledge of **Orcs** before the party's first foray into the [[Woodland Manse]], Rhynok slew an animal outside, left its bloody remains, and wrote a warning in blood stating that **Gruumsh** was angry—terrifying many of the stationed orcs into fleeing! [[Gustaf Stellern|Falcon]] was duly impressed when the party later helped him drive off [[Cryovain]] at [[Falcon's Hunting Lodge]], and awarded Rhynok the ***Boots of Elvenkind*** in [[Phandalin]] before the party and [[Xanth]] conquered [[Yargath]]'s patrol, the [[Circle of Thunder]], and the [[Woodland Manse]].
-* **[[Tower of Storms]], [[Shrine of Savras]] & [[Loggers' Camp]]:** Guided the party to the [[Loggers' Camp]] with a series of **Survival checks**; received his **+1 Longbow** from the **awakened giant crab** at the [[Tower of Storms]] after slaying the harpies and [[Moesko]]; and fought the **Orcs and Ogres** alongside [[DonJon Raskin]] at the [[Shrine of Savras]] (where either Rhynok or Krageer touched the altar to receive the vision of [[Cryovain]]).
-* **[[Gnomengarde]] Crossbow Ambush & [[Temple of Abbathor]] Orc Slaughter:** Shot by [[Facktoré]]'s autoloading crossbow contraption upon arriving in [[Gnomengarde]] at Level 3, right after slaughtering the exiting **Orc ambush** at the [[Temple of Abbathor]] with a high Initiative roll and Favored Enemy (Orcs).
-
-## 🎨 Artwork & Imagery
-![[Rhynok.png]]
-*Rhynok — Elf Ranger Gloomstalker / Rogue Assassin*
+* **Personality & Demeanor:** Silent, watchful, and lethal. Moves through shadowed forest canopies, fetid marshlands, and subterranean caverns without leaving a footprint or a sound.
+* **Background:** Criminal / Smuggler. Master of disguises, covert waterways, and concealed pathways before placing his deadeye marksmanship at the service of [[The Order of Znak]].
+* **Wilderness Mastery & Sworn Quarry:** Born to the tangled boughs of forest and swamp, harboring a lifelong, merciless enmity toward **Orcs** and the **Undead**, and harvesting deadly serpent venoms during quiet days between campaigns.
 
 ---
 
-## 💡 Behind the Screen & Trivia
-* **Player & Optimization Strategy:** Played by Gary. Gary built Rhynok to push 5e's ranged opening-round damage to its mathematical maximum, leveraging Gloomstalker / Assassin stealth synergy.
-* **Combat Dynamic:** While Krageer served as Gary's noisy, aggressive melee frontline, Rhynok was his lethal tactical counterpart operating entirely from darkness.
+## 📜 In-Universe Chronicle & Key Deeds
+
+### 🏔️ [[01 - Act 1 - Dragon of Icespire Peak|Act 1: Dragon of Icespire Peak]]
+* **Awakening the Wilds at [[Umbrage Hill]] & [[Temple of Abbathor]]:** After helping drive off the manticore besieging [[Adabra Gwynn]]'s windmill at [[Umbrage Hill]], Rhynok began weaving primal woodland magic into his craft—conjuring nourishing *Goodberries* and turning his arrows into bursts of piercing thorns (*Hail of Thorns*). Exiting the [[Temple of Abbathor]] with the dwarves' *Sending Stones*, Rhynok's lightning reflexes and sworn hatred of orc-kind cut down an ambushing pack of marauding orcs before they could close the canyon gap, and he embraced the shadows of the wilds as an unseen **Gloom Stalker**.
+* **Crossbow Ambush in [[Gnomengarde]] & The Outhouse Strike at [[Butterskull Ranch]]:** Took a surprise bolt from manic gnome inventor [[Facktoré]]'s autoloading crossbow contraption upon entering [[Gnomengarde]] before helping slay the barrel-room mimic, and later spearheaded the stealth ambush of the orc raiders at [[Butterskull Ranch]]—dropping the sentry at the ranch outhouse before rescuing [[Alfonse Kalazorn|"Big Al" Kalazorn]] and [[Petunia (cow)|Petunia]].
+* **The Blood-Note of Gruumsh at the [[Woodland Manse]]:** Prior to the party's first foray into the [[Woodland Manse]], Rhynok used his deep knowledge of orcish superstition to stage a masterstroke of psychological warfare—slaying a wild animal outside the clearing, displaying its bloody remains, and scrawling a message in blood proclaiming that **Gruumsh** was angry with them, which terrified a large number of the stationed orcs into fleeing!
+* **[[Loggers' Camp]] Navigation & [[Falcon's Hunting Lodge]]:** Guided the party's ox-drawn supply wagon through Neverwinter Wood with unerring woodcraft—spotting a shapeshifted anchorite boar fleeing along the trail—and helped slay the burrowing ankhegs at [[Tibor Wester]]'s camp. At [[Falcon's Hunting Lodge]], Rhynok helped **[[Gustaf Stellern|Falcon]]** drive off [[Cryovain]] and earned the veteran hunter's praise for his Gruumsh blood-ruse, immediately setting his sights on Falcon's offered reward: a pair of ***Boots of Elvenkind***.
+* **The Awakened Crab's Gift at the [[Tower of Storms]] & [[Shrine of Savras]]:** After befriending the awakened giant crab on the beach, slaying the cliffside harpies and undead anchorite [[Moesko]], destroying Moesko's beating heart atop the beacon, and returning the conch shell to banshee [[Miraal]], Rhynok received an enchanted **+1 Longbow** retrieved by the crab from the offshore wreck! Wielding his new bow alongside [[DonJon Raskin]] at the [[Shrine of Savras]], Rhynok helped fell the occupying horde of orcs and ogres and laid hands upon the altar to behold the vision of [[Cryovain]] atop [[Icespire Hold]].
+* **Carrying the [[Mountain's Toe Gold Mine]] Wererat Battle:** When [[Krageer Stoneface Ogolakanu]] and [[Tvyordiy Znak]] discovered their mundane weapons could not scratch [[Zeleen Varnaster]]'s lycanthrope pack, Rhynok's enchanted **+1 Longbow** and [[Myagkiy Znak]]'s radiant magic carried the entire battle!
+* **[[Axeholm]], The *Boots of Elvenkind* & The [[Circle of Thunder]]:** Silvered a shortsword in [[Phandalin]], rappelled down the chimney of [[Axeholm]] to help banish [[Vyldara]] the banshee, and returned to [[Dragon Barrow]] to enlist centaur ally **[[Xanth]]**. Meeting the evacuated [[Gustaf Stellern|Falcon]] in [[Phandalin]] after his lodge was overrun by [[Gorthok]], Rhynok claimed his prized ***Boots of Elvenkind***—which later inspired him to hunt down a matching ***Cloak of Elvenkind***—and rained lethal arrows into [[Yargath]]'s ten-orc patrol, [[Gorthok]] the Thunder Boar at the [[Circle of Thunder]], and [[Grannoc]]'s cultists during the party's triumphant return to the [[Woodland Manse]].
+* **Slaying [[Cryovain]] at [[Icespire Hold]]:** Cut down mountain **Hobgoblins** in close quarters with his **Silvered Shortsword**, helped subdue the [[Stone-Cold Reavers]], and drove deadeye arrows from his **+1 Longbow** into a stunned **[[Cryovain]]** atop the frozen roof of [[Icespire Hold]].
+
+### ⛈️ [[02 - Act 2 - Storm Lord's Wrath|Act 2: Storm Lord's Wrath]] & [[03 - Interlude 1 - Shadow's Run|Interlude 1: "Shadow's Run"]]
+* **Guardian of [[Leilon]] & Stalker of the Deep Dark:** Helped crush [[Nixoxious]]'s Kraken raid and adopt orphaned wards **[[Smithwell and Burnice]]** into the Znak estate, forged the lizardfolk truce in the Mere of Dead Men, and led the party through the pitch-black caverns of *"Shadow's Run"*—using his Gloom Stalker invisibility in darkness to outmaneuver shadow creatures and slay the **Shadow Dragon**.
+
+### 🐲 [[04 - Act 3 - Sleeping Dragon's Wake|Act 3: Sleeping Dragon's Wake]] & [[05 - Interlude 2 - Keeping the Faith|Interlude 2: "Keeping the Faith"]]
+* **Deeping Cave Acid Relay & Hunt for [[Viantha Cruelhex]]:** Loaned his *Ring of Water Walking* to [[Myagkiy Znak]] to ferry the party safely across the boiling acid pools of [[Claugiyliamatar]]'s lair, ambushed and slew undead warlock [[Viantha Cruelhex]] in Kryptgarden Forest, and supported the volcano showdown against the **Fire Giant Queen** in *"Keeping the Faith"*.
+
+### ⚡ [[06 - Act 4 - Divine Contention|Act 4: Divine Contention]]
+* **The Extradimensional Sniper of [[Dumathoin's Gulch]]:** When spectral sword wraiths swarmed the canyon, Rhynok cast ***Rope Trick***, climbed into the unseen pocket dimension above the battlefield, pulled up the rope, and rained poisoned arrows down with total cover and impunity. Inside the dwarven shrine, he persuaded eidolon **[[Sister Silvergranite]]** to yield the volatile **Gnomengarde grenade** before spearheading the destruction of a lethal **Boneclaw**.
+* **Piercing the Glamour of *[[Twinkle and Icingdeath]]* & Naval Marksman:** Aboard Captain [[Deloz Montiv]]'s caravel *Twinkle*, Rhynok's keen elven senses pierced the illusory human disguise projected by the ship's figurehead—uncovering their friendly Bregan D'aerthe drow allies. On the return voyage from Neverwinter, he picked off Invisible Stalkers and enemy siege crews aboard [[Galas Windrage]]'s warships, and delivered lethal suppressing fire aboard the Talosite flagship dreadnaught against **[[Fheralai Stormsworn]]**.
+
+---
+
+## 🎨 Artwork & Imagery
+![[Rhynok.png]]
+*Rhynok — Wood Elf Gloom Stalker Ranger / Assassin Rogue*
+
+---
+
+## 📊 Character Build, Level Progression & Gear Acquisition Log
+
+### 🧬 Final Level 13 Build & Ability Scores
+* **Player:** Gary
+* **Race & Background:** Wood Elf | Criminal / Smuggler
+* **Class Split (Level 13):** Level 8 Ranger (*Gloom Stalker Conclave*) / Level 5 Rogue (*Assassin*)
+* **Ability Scores:** `STR 16 (+3)` | `DEX 20 (+5)` | `CON 18 (+4)` | `INT 11 (+0)` | `WIS 14 (+2)` | `CHA 11 (+0)`
+* **Armor Class (AC):** **18 AC** (+1 Breastplate Armor)
+* **Favored Terrain & Enemies:** Swamp & Forest | Humanoids (**Orcs** from Level 1) & Undead
+
+### 📈 Level-by-Level Progression
+| Level / Tier | Class & Milestone | Mechanical Features, Subclass, Feats & Spells Taken |
+| :--- | :--- | :--- |
+| **Level 1** | Ranger 1 (*Phandalin Arrival*) | *Favored Enemy (Orcs)*, *Natural Explorer (Forest/Swamp)*. |
+| **Level 2** | Ranger 2 (*Post-[[Umbrage Hill]]*) | **Fighting Style:** *Archery* (+2 to ranged attack rolls); **Spellcasting:** ***Goodberry*** & ***Hail of Thorns***. |
+| **Level 3** | Ranger 3 (*Post-[[Temple of Abbathor]]*) | **Subclass:** ***Gloom Stalker Conclave*** (*Dread Ambusher* bonus first-round attack +1d8 damage & +WIS to Initiative; *Umbral Sight* darkvision & invisible to darkvision in darkness; *Disguise Self*). |
+| **Level 4** | Ranger 4 (*Post-[[Butterskull Ranch]]*) | **Feat:** ***Sharpshooter*** (ignore half/three-quarters cover, no long-range disadvantage, -5 attack / +10 damage power shots). |
+| **Level 5** | Ranger 5 (*Pre-[[Mountain's Toe Gold Mine]]*) | ***Extra Attack*** (2 attacks per Action; 3 on Round 1 via *Dread Ambusher*) & 2nd-level Ranger spells (***Rope Trick***, *Pass without Trace*). |
+| **Levels 6–7** | Ranger 6–7 (*End of Act 1 — [[Icespire Hold]]*) | *Favored Enemy (Undead)*, *Natural Explorer* upgrade, & *Iron Mind* (proficiency in Wisdom saving throws). |
+| **Levels 8–13** | Ranger 8 / Rogue 5 (*Acts 2–4 Leilon Trilogy*) | **Feat:** ***Poisoner*** (ignores poison resistance, bonus-action poison application); multiclassed into **Rogue (Assassin)** for *Expertise*, *Cunning Action*, *Sneak Attack (3d6)*, ***Assassinate*** (advantage vs. foes who haven't acted + auto-crit on surprised targets), and *Uncanny Dodge*. |
+
+### 🎒 Weapons, Armor & Item Acquisition Log
+| Item / Weapon | Where & When Acquired | Mechanical Properties & Campaign Notes |
+| :--- | :--- | :--- |
+| **Mundane Longbow & Warhammer** | **[[Phandalin]]** (Level 1 Starter Gear) | Standard longbow and warhammer used from [[Umbrage Hill]] through [[Falcon's Hunting Lodge]]. |
+| **+1 Longbow** | **[[Tower of Storms]]** (Level 4 — Awakened Crab) | Retrieved from the sunken offshore shipwreck by the awakened giant crab after the party helped banshee [[Miraal]] (when Peter gave Gary the choice of what *+1 Weapon* it was and who received it). Carried the [[Mountain's Toe Gold Mine]] wererat fight and slew [[Cryovain]]. |
+| **Silvered Shortsword** | **[[Phandalin]] Smithy** (Level 5, pre-[[Axeholm]]) | Silvered alongside Krageer's axe and Tvyordiy's *Qiang*; wielded in melee against the mountain hobgoblins and inside [[Icespire Hold]]. |
+| ***Boots of Elvenkind*** | **[[Phandalin]]** from **[[Gustaf Stellern\|Falcon]]** (Level 5) | Offered by Falcon at [[Falcon's Hunting Lodge]] and awarded in Phandalin after [[Gorthok]] ransacked the lodge; grants Advantage on Stealth checks to move silently. |
+| ***Cloak of Elvenkind*** | **Subsequent Campaign Quest (Acts 2–4)** | Inspired by his love for the *Boots of Elvenkind*, Rhynok hunted down the matching cloak (imposing Disadvantage on enemy Perception checks to see him). |
+| **+2 Longbow, *Dagger of Venom* & *Scimitar of Speed*** | **Leilon Trilogy (Acts 2–4)** | High-tier magical ranged and melee arsenal. |
+| ***Ring of Water Walking* & *Ring of the Beast Master*** | **Leilon Trilogy (Acts 2–4)** | Used in the Deeping Cave acid pool relay with [[Myagkiy Znak]]. |
+| **+1 Breastplate, *Poisoner's Kit* & *Adamantine Nets*** | **Leilon Trilogy (Acts 2–4)** | Grants 18 AC without stealth disadvantage, rapid venom crafting, and unbreakable target capture. |
+
+---
+
+## 💡 Behind the Screen & Table Trivia
+* **Optimization Strategy:** Played by Gary. Gary built Rhynok to push 5e's ranged opening-round Nova damage to its mathematical ceiling, combining Gloom Stalker's *Dread Ambusher*, Assassin's *Assassinate*, *Sharpshooter*, and *Poisoner*.
+* **The "Rope Trick" Pocket Sniper:** One of Gary's signature tactical plays was having Rhynok cast *Rope Trick*, climb into the invisible extradimensional space, pull the rope up, and snipe from complete cover.
+* **Downtime Snake Venom Milking:** Between quests, Gary regularly sent Rhynok out into the swamps and foothills to hunt and milk **giant poisonous snakes**, keeping his *Poisoner* vials stocked with fresh natural toxins.

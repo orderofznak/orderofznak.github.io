@@ -14,22 +14,16 @@ date: 2026-10-11
 
 ---
 
-## 🗺️ Canonical Campaign Chronicles & Timeline
+## 📚 Canonical Campaign Chronicles & Timeline
 
-### 🟣 [[The Order of Znak Complete Campaign Chronicle|1. The Order of Znak Saga (D&D 5e)]]
-* **Lifecycle:** Completed & Archived Chronicle
-* **Trilogy D&D Beyond Title:** *"C'mon, Listen"*
-* **Act 1: Dragon of Icespire Peak (Levels 1–7):** Complete frontier chronicle from [[Phandalin]] & [[Stonehill Inn]] through [[Umbrage Hill]], [[Temple of Abbathor]], [[Gnomengarde]], [[Butterskull Ranch]], [[Loggers' Camp]], [[Falcon's Hunting Lodge]], the [[Woodland Manse]] retreat & vengeance, [[Tower of Storms]], [[Shrine of Savras]], [[Dragon Barrow]], [[Mountain's Toe Gold Mine]] (with [[DonJon Raskin]]), [[Axeholm]], [[Circle of Thunder]] (with [[Xanth]] vs [[Gorthok]]), and the rooftop showdown at [[Icespire Hold]] slaying [[Cryovain]].
-* **Act 2: Storm Lord's Wrath:** Rebuilding [[Leilon]] HQ (guided by [[Leopold]], [[Grizzelda Copperwraught]], [[Gallio Elibro]]), adopting orphans [[Burnice Znak|Burnice]] & [[Smithwell Znak|Smithwell]], Wayside Inn alliance ([[Martisha Vinetalker]], [[Cooragh]]), and lizardfolk treaty ([[Matriarch Qolzaz]], [[Grixxugroaz]]).
-* **Interlude 1: "Shadow's Run":** Gary's subterranean Shadow Dragon dungeon crawl between *Storm Lord's Wrath* and *Sleeping Dragon's Wake* (homage to PC *[[Shadowrun]]*).
-* **Act 3: Sleeping Dragon's Wake:** Escalating cult threats and Sword Coast defense.
-* **Interlude 2: "Keeping the Faith":** Gary's epic quest between *Sleeping Dragon's Wake* and *Divine Contention*—recovering stolen armor for Forge Cleric [[Dayne Beltran]], rescuing young [[Yasmina]] from a Night Hag, and culminating in the **Volcano Boss Battle** with [[Krageer Stoneface Ogolakanu|Krageer]] enlarged by [[Myagkiy Znak|Myagkiy]] wrestling the Fire Giant Queen!
-* **Act 4: Divine Contention Finale:** Green dragon [[Claugiyliamatar]]'s siege of [[Leilon]] (revealing curio merchant [[Aubrey Silverspun]]), [[Dumathoin's Gulch]] wereboar ambush, and flagship dreadnaught sea battle beneath the tempest apparition of **Talos** vs [[Fheralai Stormsworn]], an Air Elemental Myrmidon, and a Nalfeshnee demon.
-
----
-
-### 🟡 Bridge Campaign (Gary's DM Adventure — WIP / On Hold)
-* Work-in-progress bridge campaign for the 4 original champions prior to Ravenloft.
+### 🟣 [[The Order of Znak Complete Campaign Chronicle|1. The Order of Znak Saga — Complete Hub]]
+* **[[01 - Act 1 - Dragon of Icespire Peak|Act 1: Dragon of Icespire Peak]]:** Complete frontier chronicle from [[Phandalin]] & [[Stonehill Inn]] through [[Umbrage Hill]], [[Temple of Abbathor]], [[Gnomengarde]], [[Butterskull Ranch]], [[Loggers' Camp]], [[Falcon's Hunting Lodge]], the [[Woodland Manse]] blood-ruse & vengeance, [[Tower of Storms]], [[Shrine of Savras]], [[Dragon Barrow]], [[Mountain's Toe Gold Mine]] (with [[DonJon Raskin]]), [[Axeholm]], [[Circle of Thunder]] (with [[Xanth]] vs. [[Gorthok]]), and the rooftop showdown at [[Icespire Hold]] slaying [[Cryovain]].
+* **[[02 - Act 2 - Storm Lord's Wrath|Act 2: Storm Lord's Wrath]]:** Rebuilding [[Leilon]] HQ (guided by [[Leopold]], [[Grizzelda Copperwraught]], [[Gallio Elibro]]), adopting orphans [[Smithwell and Burnice|Smithwell & Burnice]], [[The Wayside Inn]] alliance ([[Martisha Vinetalker]], [[Cooragh]]), and Mere of Dead Men lizardfolk treaty ([[Matriarch Qolzaz]], [[Grixxugroaz]], [[Ballad of Qolzaz]]).
+* **[[03 - Interlude 1 - Shadow's Run|Interlude 1: "Shadow's Run"]]:** Subterranean cavern crawl battling shadow-warped creatures and vanquishing a lethal Shadow Dragon between *Storm Lord's Wrath* and *Sleeping Dragon's Wake*.
+* **[[04 - Act 3 - Sleeping Dragon's Wake|Act 3: Sleeping Dragon's Wake]]:** Infiltrating Deeping Cave in Kryptgarden Forest, the caustic acid relay, hunting [[Viantha Cruelhex]] for [[Claugiyliamatar]], Ebondeath's ([[Chardansearavitriol]]) possession of Old Gnawbone, extracting the poisoned hoard, and bluffing [[Gnawbones|The Gnawbones]] circle.
+* **[[05 - Interlude 2 - Keeping the Faith|Interlude 2: "Keeping the Faith"]]:** Recovering stolen armor for Forge Cleric [[Dayne Beltran]], rescuing young [[Yasmina]] from a Night Hag, and culminating in the **Volcano Boss Battle** with [[Krageer Stoneface Ogolakanu|Krageer]] enlarged by [[Myagkiy Znak|Myagkiy]] wrestling the Fire Giant Queen!
+* **[[06 - Act 4 - Divine Contention|Act 4: Divine Contention]]:** [[Dumathoin's Gulch]] wereboar ambush, Star Spawn Manglers & [[The Ruinstone]] atop the House of Thalivar, sailing *[[Twinkle and Icingdeath]]* to Neverwinter & sinking [[Galas Windrage]]'s fleet, [[Claugiyliamatar]]'s siege of [[Leilon]] (revealing [[Aubrey Silverspun]]'s portrait), and boarding the flagship dreadnaught beneath the tempest apparition of **Talos** vs. [[Fheralai Stormsworn]], an Air Elemental Myrmidon, and a Nalfeshnee demon.
+* **[[07 - Epilogue - Bridge Campaign|Epilogue: Bridge Campaign (WIP / On Hold)]]:** Upcoming bridge adventure for the four original champions prior to the mists of Ravenloft.
 
 ---
 

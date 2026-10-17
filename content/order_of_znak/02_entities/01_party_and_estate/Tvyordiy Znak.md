@@ -5,46 +5,40 @@ system: dnd5e
 campaign: order_of_znak
 status: archived
 type: character
-last_updated: 2026-10-16
+last_updated: 2026-10-17
 tags: [character-sheet, aarakocra, monk, drunken-master, tvyordiy-znak, order-of-znak, lycanthropy, wereboar]
 ---
 
 # 🦅 Tvyordiy Znak (Ъ)
 
 ## 🛡️ Overview & Character Lore
-* **Personality & Temperament:** Stoic, pragmatic, and remarkably unflappable. Possesses a surprisingly resonant deep voice that contrasts sharply with his avian Aarakocra heritage.
-* **Background:** Urchin. Scavenged and survived on city fringes before channeling agility into martial mastery.
-* **Special Condition (Wereboar Lycanthropy):** Contracted wereboar lycanthropy late in the campaign during the expedition into **[[Dumathoin's Gulch]]** in *Divine Contention*. The curse permanently elevated his physical Strength to 17 (+3) and granted him ferocious hybrid tusks in melee combat.
+* **Personality & Temperament:** Stoic, pragmatic, and remarkably unflappable. Possesses a surprisingly resonant, gravel-deep baritone voice that contrasts sharply with his avian Aarakocra heritage.
+* **Background:** Urchin. Scavenged and survived on city fringes before channeling his aerial agility into Eastern monastic martial mastery.
+* **Battlefield Role:** High-velocity aerial shock trooper—combining natural winged flight, the swaying redirection of the Drunken Master, rapid *Qiang* spear and staff combinations, and nerve-locking *Stunning Strikes* that can halt even a full-grown dragon in its tracks.
+* **The Wereboar's Mark:** Contracted wereboar lycanthropy late in the campaign during the expedition into **[[Dumathoin's Gulch]]**—embracing the curse's feral brawn and hybrid tusks to become an even more concussive, unyielding frontline striker.
 
-## 📊 In-Game Mechanics & Stats
-* **Race:** Aarakocra
-* **Class:** Level 13 Monk (**Way of the Drunken Master** chosen at Level 3, single class)
-* **Background:** Urchin
-* **ASIs & Feats:** **+2 Dexterity ASI** (Level 4), **Crusher**
-* **Ability Scores:** STR 17 (+3) | DEX 20 (+5) | CON 15 (+2) | INT 8 (-1) | WIS 19 (+4) | CHA 8 (-1)
-* **Armor Class (AC):** **20 AC** (Unarmored Defense)
+---
 
-## ⚔️ Combat Role & Tactics
-* **High-Mobility Shock Troop:** Combines natural flight speed, Drunken Master disengage/redirection mobility, Crusher forced movement, and Vicious +2 Quarterstaff strikes.
-* **Stunning Strike Flanker:** Darts across enemy lines to shut down high-priority spellcasters, bosses, and even dragons (like [[Cryovain]]) with multiple rapid **Stunning Strikes** in a single round.
+## 📜 In-Universe Chronicle & Key Deeds
 
-## 🎒 Equipment & Magic Items
-* **Weapons Progression:**
-  * **Starter Spear Flavored as a *Qiang* (Act 1 — *Oriental Adventures* Homage):** Started at Level 1 in [[Phandalin]] wielding a **Spear flavored as a Chinese *Qiang*** to give his monk combat an Eastern martial arts flair referencing earlier D&D edition *Oriental Adventures* sourcebooks. After being unable to hurt [[Zeleen Varnaster]]'s immune wererats at [[Mountain's Toe Gold Mine]] (prior to unlocking Level 6 *Ki-Empowered Strikes*), Tvyordiy **silvered his *Qiang*** in [[Phandalin]] before [[Axeholm]] and wielded it all the way through the mountain hobgoblin and [[Icespire Hold]] battles!
-  * **Vicious Quarterstaff +2 (Tier 2–3):** Upgraded signature monk weapon in the Leilon trilogy.
-* **Magic Items & Accessories:**
-  * **Sash of the Patient Master** (restores 1d4+1 Ki points per day)
-  * **Ring of Surtur**
-  * **Circlet of Blasting**
-  * **Goggles of Night**
+### 🏔️ [[01 - Act 1 - Dragon of Icespire Peak|Act 1: Dragon of Icespire Peak]]
+* **The *Qiang* Spear & The Drunken Master:** Arriving in [[Phandalin]] carrying a slender Eastern-style ***Qiang* spear**, Tvyordiy fought beside his new companions to drive off the manticore at [[Umbrage Hill]] and clear the Ochre Jellies and orc ambush at the [[Temple of Abbathor]]—stepping into the swaying, unpredictable martial discipline of the **Way of the Drunken Master**.
+* **The "Flight" Rescue at the [[Woodland Manse]]:** During the party's harrowing first expedition to the [[Woodland Manse]], the companions were overwhelmed in the Gulthias Tree courtyard by [[Grannoc]], swarms of blights, wild boars, and anchorite *Lightning Bolts*. As the party broke into a fighting withdrawal, [[Krageer Stoneface Ogolakanu]] fell unconscious twice—dropping a second time at the edge of the clearing under a parting volley of needle blight spines. Swooping back from his **flight** (*in both the avian and tactical senses of the word!*), Tvyordiy scooped up the pin-cushioned Goliath and carried him away to safety.
+* **Heisting the Gold Bell at the [[Shrine of Savras]]:** After fighting through the ankhegs of the [[Loggers' Camp]], the harpies and undead keeper [[Moesko]] at the [[Tower of Storms]], and the horde of orcs and ogres at the [[Shrine of Savras]] alongside [[DonJon Raskin]], Tvyordiy and Krageer scaled the ruined belfry tower and pried loose the shrine's **2,500 gp solid gold bell**.
+* **Silvering the *Qiang* & Cleansing [[Axeholm]]:** When his wooden-and-steel *Qiang* failed to wound [[Zeleen Varnaster]]'s immune wererats at [[Mountain's Toe Gold Mine]], Tvyordiy had his ***Qiang* spear silvered** in [[Phandalin]] alongside Krageer's greataxe. Rappelling down the chimney of [[Axeholm]] under Myagkiy's *Guidance*, Tvyordiy helped purge the fortress of spiders, ghouls, the banshee [[Vyldara]], and the undead Castellan.
+* **The [[Circle of Thunder]] & [[Woodland Manse]] Vengeance:** Riding into Neverwinter Wood with centaur ally **[[Xanth]]** after clearing [[Dragon Barrow]], Tvyordiy unleashed rapid multi-strike combinations and nerve-locking *Stunning Strikes* to help slaughter [[Yargath]]'s ten-orc patrol, fell **[[Gorthok]] the Thunder Boar**, [[Flenz]], and [[Narux]] at the [[Circle of Thunder]], and wipe out [[Grannoc]] and the stirges at the [[Woodland Manse]].
+* **Stunning [[Cryovain]] Atop [[Icespire Hold]]:** After fighting mountain hobgoblins and the [[Stone-Cold Reavers]] with his **Silvered *Qiang***, Tvyordiy ascended to the icy roof of [[Icespire Hold]]. Darting through freezing wind and Ice Mephits, **Tvyordiy landed a series of clutch *Stunning Strikes* directly on [[Cryovain]]**—locking the white dragon in place on the roof so [[Krageer Stoneface Ogolakanu]] could unload with his *Dragon Slayer* Longsword and [[Rhynok]] could finish the wyrm off!
 
-## 📜 Key Story Beats & Milestones
-* **Claugiyliamatar's Poisoned Hoard Extraction (*Sleeping Dragon's Wake*):** When the Order explored Deeping Cave in Kryptgarden Forest to meet [[Claugiyliamatar]], they found the green dragon's hoard sealed behind a *Wall of Force* and choked with toxic gas. After [[Krageer Stoneface Ogolakanu]] charged in as the sacrificial lamb to absorb the initial blast, Tvyordiy utilized his 10th-level Monk feature **Purity of Body** (granting total immunity to poison damage and the poisoned condition) to stride into the lethal cloud completely unscathed once Krageer was safely clear, systematically securing and extracting the dragon's treasure hoard.
-* **Clutch *Stunning Strikes* on [[Cryovain]] (*Dragon of Icespire Peak* Finale):** Atop the frozen roof of [[Icespire Hold]] against white dragon **[[Cryovain]]** and added **Ice Mephits**, Tvyordiy landed **clutch *Stunning Strikes* directly on the dragon**—locking Cryovain down so **[[Krageer Stoneface Ogolakanu]]** could unload devastating salvos with his ***Dragon Slayer* Longsword** and **[[Rhynok]]** could finish the wyrm with precision +1 Longbow fire!
-* **[[Woodland Manse]] "Flight" Rescue of Krageer (*Dragon of Icespire Peak*):** When the party visited the [[Woodland Manse]] underleveled and was overwhelmed at the Gulthias Tree by [[Grannoc]], blights, boars, and anchorite *Lightning Bolts*, [[Krageer Stoneface Ogolakanu]] fell unconscious twice—dropping a second time at the map edge to a final salvo of needle blight needles as the others escaped. Swooping back in from his **flight** (*double pun intended: Aarakocra aerial flight and tactical fleeing!*), Tvyordiy picked up the pin-cushioned Goliath and dragged him away to safety.
-* **[[Shrine of Savras]] Gold Bell Heist, [[Mountain's Toe Gold Mine]], [[Axeholm]] & [[Circle of Thunder]]:** Climbed the ruined belfry tower of the [[Shrine of Savras]] with Krageer to pry loose the **2,500 gp solid gold bell**; struggled to hurt the nonmagical-weapon-immune wererats at [[Mountain's Toe Gold Mine]] before **silvering his *Qiang* spear** in [[Phandalin]]; cleared [[Axeholm]] and [[Vyldara]]; and used *Extra Attack* and *Stunning Strikes* alongside centaur ally **[[Xanth]]** to crush [[Yargath]]'s 10-orc patrol and defeat [[Gorthok]] the Thunder Boar at the [[Circle of Thunder]].
-* **Lizardfolk Alliance:** Fought side-by-side with marshland tribes, establishing mutual respect with **[[Matriarch Qolzaz]]** and integrating lizardfolk allies into the Order.
-* **The Wereboar Curse of Dumathoin's Gulch (*Divine Contention* Opening Quest):** During the opening adventure of *Divine Contention* into [[Dumathoin's Gulch]] in the Sword Mountains to recover the Gnomengarde grenade, Tvyordiy was ambushed by a pack of feral wereboars. In the chaotic melee, Tvyordiy was knocked prone and bitten by a wereboar, contracting wereboar lycanthropy—a physiological twist he embraced to permanently elevate his physical Strength to 17 (+3) and gain ferocious hybrid tusks, transforming him into an unyielding, concussive "Hard Sign" (Ъ) shock trooper.
+### ⛈️ [[02 - Act 2 - Storm Lord's Wrath|Act 2: Storm Lord's Wrath]] & [[03 - Interlude 1 - Shadow's Run|Interlude 1: "Shadow's Run"]]
+* **The Mere of Dead Men & Lizardfolk Brotherhood:** Helped rescue and adopt orphaned wards **[[Smithwell and Burnice]]** in [[Leilon]], fought side-by-side with the lizardfolk of the Mere of Dead Men against invading rot trolls to forge the peace pact with [[Grixxugroaz]], helped train lizardfolk envoy **[[Graxxoamo]]** in monastic martial arts, and harried the **Shadow Dragon** through the lightless depths of *"Shadow's Run"*.
+
+### 🐲 [[04 - Act 3 - Sleeping Dragon's Wake|Act 3: Sleeping Dragon's Wake]] & [[05 - Interlude 2 - Keeping the Faith|Interlude 2: "Keeping the Faith"]]
+* **Striding Through Claugiyliamatar's Poisoned Hoard:** In Deeping Cave, after Ebondeath possessed [[Claugiyliamatar]] and the party discovered the dragon's treasure hoard trapped behind a *Wall of Force* and choked with lethal green dragon poison gas, Krageer charged in first as the "sacrificial lamb" to test the trap. Once Krageer retreated, Tvyordiy centered his monastic breath—his body and spirit completely impervious to poison—and strolled calmly through the deadly green fumes without taking a scratch, extracting the dragon's entire hoard unharmed!
+
+### ⚡ [[06 - Act 4 - Divine Contention|Act 4: Divine Contention]]
+* **The Wereboar Curse of [[Dumathoin's Gulch]]:** Ambushed by feral wereboars at the entrance to [[Dumathoin's Gulch]], Tvyordiy was knocked from his feet and bitten—contracting **wereboar lycanthropy**. Embracing the curse's feral brawn and hybrid tusks, the Aarakocra monk fought with newfound savagery against the House of Thalivar's Star Spawn Manglers, [[Galas Windrage]]'s reaver fleet, [[Claugiyliamatar]]'s siege of Leilon, and high priestess **[[Fheralai Stormsworn]]** aboard the hurricane-lashed Talosite dreadnaught.
+
+---
 
 ## 🎨 Artwork & Imagery
 ![[TZnak.png]]
@@ -58,9 +52,40 @@ tags: [character-sheet, aarakocra, monk, drunken-master, tvyordiy-znak, order-of
 
 ---
 
-## 💡 Behind the Screen & Trivia
+## 📊 Character Build, Level Progression & Gear Acquisition Log
+
+### 🧬 Final Level 13 Build & Ability Scores
+* **Player:** Peter
+* **Race & Background:** Aarakocra (Wereboar Lycanthrope) | Urchin
+* **Class (Level 13):** Level 13 Monk (*Way of the Drunken Master*, single-classed)
+* **Ability Scores:** `STR 17 (+3)` *(via Wereboar Lycanthropy)* | `DEX 20 (+5)` | `CON 15 (+2)` | `INT 8 (-1)` | `WIS 19 (+4)` | `CHA 8 (-1)`
+* **Armor Class (AC):** **20 AC** (*Unarmored Defense*: 10 + 5 DEX + 4 WIS + 1 item bonus)
+
+### 📈 Level-by-Level Progression
+| Level / Tier | Class & Milestone | Mechanical Features, Subclass & ASIs Taken |
+| :--- | :--- | :--- |
+| **Level 1** | Monk 1 (*Phandalin Arrival*) | *Unarmored Defense*, *Martial Arts* (bonus-action unarmed strike, DEX for monk weapons), Aarakocra 50-ft *Flight* & *Talons*. |
+| **Level 2** | Monk 2 (*Post-[[Umbrage Hill]]*) | ***Ki*** (*Flurry of Blows*, *Patient Defense*, *Step of the Wind*) & *Unarmored Movement* (+10 ft speed). |
+| **Level 3** | Monk 3 (*Post-[[Temple of Abbathor]]*) | **Subclass:** ***Way of the Drunken Master*** (*Drunken Technique*: automatic *Disengage* benefit + 10 ft speed whenever using *Flurry of Blows*) & *Deflect Missiles*. |
+| **Level 4** | Monk 4 (*Post-[[Butterskull Ranch]]*) | **ASI:** **+2 Dexterity** (increasing attack/damage, AC, and Initiative) & *Slow Fall*. |
+| **Level 5** | Monk 5 (*Pre-[[Mountain's Toe Gold Mine]]*) | ***Extra Attack*** (2 attacks per Action, up to 4 with *Flurry of Blows*) & ***Stunning Strike*** (CON save or Stunned until end of Tvyordiy's next turn—used to lock down [[Cryovain]]!). |
+| **Levels 6–7** | Monk 6–7 (*End of Act 1 — [[Icespire Hold]]*) | ***Ki-Empowered Strikes*** (unarmed strikes count as magical), *Tipsy Sway* (*Leap to Your Feet* & *Redirect Attack*), & ***Evasion*** (zero damage on successful DEX saves). |
+| **Levels 8–13** | Monk 8–13 (*Acts 2–4 Leilon Trilogy*) | **Feat:** ***Crusher*** (bludgeoning forced movement & advantage after crits); ***Purity of Body (Level 10)*** (complete immunity to disease and **poison damage / poisoned condition**—used to loot Claugiyliamatar's poisoned hoard!); *Drunkard's Luck* (Level 11); **Wereboar Lycanthropy** (sets STR to 17, hybrid form & tusks). |
+
+### 🎒 Weapons, Armor & Item Acquisition Log
+| Item / Weapon | Where & When Acquired | Mechanical Properties & Campaign Notes |
+| :--- | :--- | :--- |
+| **Mundane *Qiang* Spear** | **[[Phandalin]]** (Level 1 Starter Gear) | Standard Monk Spear (1d6/1d8 versatile) flavored as a Chinese ***Qiang*** as an homage to *Oriental Adventures*; unable to hurt immune wererats at [[Mountain's Toe Gold Mine]]. |
+| **Silvered *Qiang* Spear** | **[[Phandalin]] Smithy** (Level 5, pre-[[Axeholm]]) | Silvered alongside Krageer's greataxe after [[Mountain's Toe Gold Mine]]; wielded through [[Axeholm]], [[Circle of Thunder]], and [[Icespire Hold]]. |
+| **Vicious Quarterstaff +2** | **Leilon Trilogy (Acts 2–4)** | Upgraded signature monk weapon in Tiers 2–3. |
+| ***Sash of the Patient Master*** | **Leilon Trilogy (Acts 2–4)** | Restores 1d4+1 expended Ki points once per day, fueling additional *Stunning Strikes* and *Flurry of Blows*. |
+| ***Goggles of Night*, *Ring of Surtur* & *Circlet of Blasting*** | **Leilon Trilogy (Acts 2–4)** | Grants 60-ft darkvision for subterranean dungeon crawls and ranged *Scorching Ray* utility. |
+
+---
+
+## 💡 Behind the Screen & Table Trivia
 * **Player & Dual-PC Dynamics:** Played by Peter as a dual-PC / DMPC alongside Gary's frontline builds.
 * **Linguistic Origin (Твёрдый знак / Ъ):** Named after the Russian Cyrillic "Hard Sign" (Ъ) inspired by conversations at work with coworker Grigory. The symbol represents firmness, hardness, and unyielding impact—directly reflecting Tvyordiy's stoic temperament, wereboar constitution, and concussive martial strikes.
-* **Character Sheet Symbolism:** Peter incorporated the Russian Cyrillic symbol **(Ъ)** into Tvyordiy's official D&D Beyond character sheet title.
+* **Oriental Adventures Homage (*Qiang*):** Flavoring Tvyordiy's starting spear as a ***Qiang*** was Peter's deliberate nod to classic 1e/3e *Oriental Adventures* monk weaponry.
 * **Table Roleplay:** Peter voiced Tvyordiy with a deadpan, baritone gravel that became an enduring comedy point whenever interacting with excitable NPCs.
-* **The Wereboar Lycanthropy Ruling:** In official 5e adventure *Divine Contention*, the Dumathoin's Gulch quest includes a surprise wereboar ambush. While most parties immediately cast *Remove Curse*, Peter and Gary leaned into the mechanical and roleplay chaos of an Aarakocra Drunken Master Monk who gained 17 Strength and hybrid wereboar tusks, perfectly complementing the unyielding "Hard Sign" (Ъ) concept.
+* **The Wereboar Lycanthropy Ruling:** While most parties immediately cast *Remove Curse* after the [[Dumathoin's Gulch]] wereboar ambush in *Divine Contention*, Peter and Gary leaned into the mechanical and roleplay chaos of an Aarakocra Drunken Master Monk who gained 17 Strength and hybrid wereboar tusks, perfectly complementing the unyielding "Hard Sign" (Ъ) concept.

@@ -5,7 +5,7 @@ system: dnd5e
 campaign: order_of_znak
 status: archived
 type: character
-last_updated: 2026-10-16
+last_updated: 2026-10-17
 tags: [character-sheet, goliath, barbarian, fighter, krageer, order-of-znak]
 ---
 
@@ -14,51 +14,41 @@ tags: [character-sheet, goliath, barbarian, fighter, krageer, order-of-znak]
 ## 🛡️ Overview & Character Lore
 * **Personality & Demeanor:** Towering, fearless, and relentlessly loyal to his companions. A mountain-born Goliath warrior who measures worth by martial prowess, honor in battle, and the quality of campfire food.
 * **Background:** Soldier. Forged through rigorous discipline and battlefield camaraderie before finding his true brothers-in-arms in [[The Order of Znak]].
-* **Tribal Inscription (Chest Tattoo):** Inked across his chest with the visage of **[[Matriarch Qolzaz]]**—the lizardfolk matriarch slain in battle and honored out of deep respect after their joint victory against invading undead trolls.
+* **Battlefield Role:** The unstoppable frontline juggernaut of the company—charging headfirst into the fiercest melees, shrugging off elemental and physical punishment through the primal spirit of the Bear Totem, and cleaving foes in two with sweeping two-handed blows.
+* **Tribal Inscription (Chest Tattoo):** Inked across his broad chest with the visage of **[[Matriarch Qolzaz]]**—the lizardfolk matriarch slain in battle and honored out of deep respect after their joint victory against invading undead rot trolls (immortalized in the ***[[Ballad of Qolzaz]]***).
 
-## 📊 In-Game Mechanics & Stats
-* **Race:** Goliath
-* **Class:** Level 13 Multiclass — Level 9 Barbarian (Path of the Totem Warrior — Bear Totem at Lv 3) / Level 4 Fighter (Champion Archetype)
-* **Background:** Soldier
-* **ASIs & Feats:** **+2 Constitution ASI** (Level 4), **Great Weapon Master (GWM)**
-* **Ability Scores:** STR 20 (+5) | DEX 13 (+1) | CON 16 (+3) | INT 10 (+0) | WIS 12 (+1) | CHA 6 (-2)
-* **Armor Class (AC):** **18 AC** (wearing +2 Scale Mail Armor)
+---
 
-## ⚔️ Combat Role & Tactics
-* **Frontline Juggernaut:** Acts as the primary damage-dealing meat shield of [[The Order of Znak]]. Synergizes Bear Totem Warrior damage resistance (resisting all damage except psychic while raging, unlocked at Level 3) with Champion Fighter expanded critical range (19–20) and Great Weapon Master power attacks to deliver crushing single-target DPR.
-* **Grapple & Titan Warfare:** Uses Mountain's Born physical traits to physically grapple and pin massive monsters.
+## 📜 In-Universe Chronicle & Key Deeds
 
-## 🎒 Weapons & Legendary Gear
-* **Signature Weapon — [[Ultima Exodus]]:** A legendary two-handed **+2 Greataxe** forged from silvered and adamantine metal, capable of carving through magical defenses and reinforced structures.
-* **Act 1 Starter & Progression Weapons (*Dragon of Icespire Peak*):**
-  * **Mundane & Silvered Greataxe + Javelins:** Started at Level 1 in [[Phandalin]] with a mundane two-handed **Greataxe** and **Javelins**. After being unable to hurt [[Zeleen Varnaster]]'s immune wererats at [[Mountain's Toe Gold Mine]], Krageer paid to have his **Greataxe silvered** in [[Phandalin]] before [[Axeholm]], vowing **never to be powerless against his enemies again**!
-  * ***Dragon Slayer* Longsword:** Claimed from Lady Tanamere Alagondar's sarcophagus on the party's return trip to **[[Dragon Barrow]]** (after slaying a Will-o'-Wisp in the Adventurers' Sepulcher and the Invisible Stalker guardian), and used to unload devastating +3d6 dragon-slaying blows against a stunned **[[Cryovain]]** atop [[Icespire Hold]].
-* **Secondary Weapon — Longbow:** Kept ready for ranged skirmishes, siege combat, and long-range exchanges.
-* **Armor & Headgear:**
-  * **+2 Scale Mail Armor**
-  * ***Dread Helm*:** Claimed from the hidden fireplace vault in the Castellan's Bedchamber of **[[Axeholm]]**, giving his eyes a menacing crimson glow beneath the shadowed steel faceplate.
-* **Utility & Magic Items:**
-  * ***Sending Stones* (Shared Party Relic):** Acquired from [[Dazlyn Grayshard]] and [[Norbus Ironrune]] at the [[Temple of Abbathor]] (Level 2) and used by the party for the rest of the entire campaign.
-  * **Alchemy Jug:** Guarantees fresh rations and ale for camp rest.
-  * **Adamantine Shackles:** Used to restrain high-value captive foes.
+### 🏔️ [[01 - Act 1 - Dragon of Icespire Peak|Act 1: Dragon of Icespire Peak]]
+* **The Gem of Greed at the [[Temple of Abbathor]]:** After helping drive off the manticore at [[Umbrage Hill]] and slaying the corrosive Ochre Jellies in the Dwarven Excavation, Krageer excavated the rubble tunnel to the inner Statue of Abbathor. Tempted by its glowing jewel, he pried at the gem and triggered its fiery explosive trap—taking the full brunt of the blast even as his newly honed danger instincts warned him of the peril. Emerging from the canyon to slaughter an orc ambush, Krageer bonded with the primal spirit of the **Bear Totem**.
+* **[[Gnomengarde]] & [[Butterskull Ranch]]:** Roughed up gnome sentries [[Pog]] and [[Ulla]] in the tense aftermath of [[Facktoré]]'s crossbow ambush before helping slay the **Mimic in the barrel room**, and ambushed the orc raiders at [[Butterskull Ranch]] to rescue [[Alfonse Kalazorn|"Big Al" Kalazorn]] and [[Petunia (cow)|Petunia]].
+* **Double Down & Rescue at the [[Woodland Manse]]:** During the party's harrowing first foray into the [[Woodland Manse]], Krageer held the frontline in the Gulthias courtyard until he fell unconscious **twice**—revived once in the thick of the fray, then felled a second time at the edge of the trees by a parting volley of needle blight spines before **[[Tvyordiy Znak]]** swooped back from his **flight** and hauled the pin-cushioned Goliath to safety.
+* **The Gold Bell of the [[Shrine of Savras]]:** Fought shoulder-to-shoulder with [[DonJon Raskin]] against a massive warband of orcs and ogres at the [[Shrine of Savras]], beheld the altar's divinatory vision of [[Cryovain]] atop [[Icespire Hold]], and scaled the crumbling belfry tower with [[Tvyordiy Znak]] to pry loose the shrine's **2,500 gp solid gold bell**.
+* **The Wererat Lesson, Silvered Steel & Cleansing [[Axeholm]]:** When his mundane iron greataxe proved powerless to wound [[Zeleen Varnaster]]'s lycanthrope pack at [[Mountain's Toe Gold Mine]], Krageer marched back to [[Phandalin]] and had his **Greataxe coated in silver**, vowing never again to stand helpless before an enemy. Rappelling down the chimney of [[Axeholm]], he carved through giant spiders, ghouls, and the moon elf banshee [[Vyldara]], claiming the crimson-eyed ***Dread Helm*** from the Castellan's hidden fireplace vault before putting down the undead Castellan ghoul.
+* **The *Dragon Slayer* Blade & The Storm of Neverwinter Wood:** Returning to [[Dragon Barrow]] to overcome the Invisible Stalker, Krageer claimed Lady Tanamere Alagondar's ***Dragon Slayer* Longsword** and enlisted centaur ally **[[Xanth]]**. Together they slaughtered [[Yargath]]'s ten-orc patrol, crushed **[[Gorthok]] the Thunder Boar**, [[Flenz]], and [[Narux]] at the [[Circle of Thunder]], and marched back past the ransacked ruins of [[Falcon's Hunting Lodge]] to wipe out [[Grannoc]] and the blights at the [[Woodland Manse]].
+* **Slaying [[Cryovain]] Atop [[Icespire Hold]]:** After cutting through mountain hobgoblins and the [[Stone-Cold Reavers]], Krageer ascended to the frozen roof of [[Icespire Hold]]. When [[Tvyordiy Znak]] locked [[Cryovain]] in place with a series of stunning blows, Krageer roared into a rage and unleashed devastating salvos with his ***Dragon Slayer* Longsword**, felling the white dragon!
 
-## 📜 Key Story Beats & Milestones
-* **High Seas Archery Duel (*Divine Contention*):** During the return voyage from Neverwinter aboard *[[Twinkle and Icingdeath|Twinkle]]* and *Icingdeath*, the ships were ambushed by [[Galas Windrage]]'s warships (*Throatcutter* and *Thunderstrike*). Taking a page out of Rhynok's book, Krageer drew his own bow and enthusiastically traded arrow volleys with enemy sailors and berserkers across the churning waves amidst incoming ballista and mangonel fire.
-* **Thalivar's Beacon & The Psychic Pain of the Star Spawn Manglers (*Divine Contention*):** Following the return from Dumathoin's Gulch, the Order rushed to Thalivar's Beacon to contain a breach of Far Realm horrors. In the furious battle atop the tower against Star Spawn Manglers, Krageer—whose Bear Totem Barbarian rage granted him resistance against virtually every form of physical and elemental damage—encountered the one pain he could not flinch off: pure psychic damage. Despite enduring agonizing psychic assaults, Krageer cleaved through the aberrations to secure **[[The Ruinstone]]**.
-* **Deeping Cave Acid Sprint & Poison Hoard Tank:** In [[Claugiyliamatar]]'s lair (*Sleeping Dragon's Wake*), Krageer attempted to charge across the subterranean acid pools in a Barbarian rage, requiring extensive post-crossing healing from [[Myagkiy Znak]]. Later, at the dragon's hoard sealed behind a *Wall of Force*, Krageer served as the "sacrificial lamb," enduring the full brunt of the deadly poison gas trap before retreating so the poison-immune [[Tvyordiy Znak]] could safely claim the treasure.
-* **Diplomatic Sway of Lord Neverember:** During the *[[Twinkle and Icingdeath|Icingdeath and Twinkle]]* adventure, the Order journeyed to Neverwinter to petition Lord [[Dagult Neverember]] for aid to protect Leilon. After each party member attempted and failed to convince the Lord Protector, Krageer—despite having the lowest Charisma in the group (CHA 6 / -2 penalty)—stepped up and successfully persuaded Dagult to commit his full aid.
-* **Dormant Volcano Climax:** Enlarged by **[[Myagkiy Znak]]**'s magic to colossal proportions, wrestling the **Fire Giant Queen** in molten grapple combat inside a dormant volcano during *"Keeping the Faith"*.
-* **Wayside Inn Romance:** Developed an enduring romance with cook **[[Cooragh]]** at the [[The Wayside Inn|Wayside Inn]].
-* **Slaying [[Cryovain]] Atop [[Icespire Hold]] (*Dragon of Icespire Peak* Finale):** After fighting through hobgoblins, dispatching the [[Stone-Cold Reavers]], and ascending to the frozen roof of [[Icespire Hold]] against [[Cryovain]] and added **Ice Mephits**, [[Tvyordiy Znak]] landed clutch *Stunning Strikes* on the white dragon—enabling Krageer to unload with his ***Dragon Slayer* Longsword** and help bring Cryovain down at Level 7!
-* **[[Axeholm]], [[Dragon Barrow]], [[Circle of Thunder]] & [[Woodland Manse]] Rematch (*Dragon of Icespire Peak*):** After being unable to hurt the immune wererats at [[Mountain's Toe Gold Mine]], Krageer silvered his Greataxe in [[Phandalin]], climbed down the [[Axeholm]] chimney with Myagkiy's *Guidance*, cleared the spiders, ghouls, [[Vyldara]] the banshee, and the Castellan ghoul, and claimed the ***Dread Helm***. Returning to [[Dragon Barrow]], he claimed the ***Dragon Slayer* Longsword** and enlisted centaur ally **[[Xanth]]**, fighting alongside him to wipe out [[Yargath]]'s 10-orc patrol and slay [[Gorthok]] the Thunder Boar, [[Flenz]], and [[Narux]] at the [[Circle of Thunder]] before cleaning out the [[Woodland Manse]].
-* **[[Shrine of Savras]] Ogre Battle & Gold Bell Heist (*Dragon of Icespire Peak*):** Fought alongside [[DonJon Raskin]] against the horde of orcs and ogres at the [[Shrine of Savras]], experienced/shared the altar vision of [[Cryovain]], and climbed the belfry tower with [[Tvyordiy Znak]] to pry loose the **2,500 gp solid gold bell**.
-* **[[Woodland Manse]] Double Down & Tvyordiy's "Flight" Rescue (*Dragon of Icespire Peak*):** During the party's underleveled first expedition to the [[Woodland Manse]], Krageer was knocked unconscious **twice**—saved the first time by a clutch Medicine check, and felled a second time at the map edge by needle blight needles before **[[Tvyordiy Znak]]** swooped in from his **flight** and dragged him to safety.
-* **[[Gnomengarde]] Guard Escort & Barrel Room Mimic (*Dragon of Icespire Peak*):** Manhandled one or two gnome guards along the path while being escorted to [[Fibblestib Pinebark]] and [[Dabbledob Plasterpatch]] after [[Facktoré]]'s crossbow incident, then helped slay the **Mimic in the barrel room**.
-* **[[Temple of Abbathor]] *Danger Sense* Double-Fail (DC 15):** At Level 2 inside the Dwarven Excavation, after clearing the rubble tunnel to the Statue of Abbathor, Krageer pried at the glowing gem and triggered the exploding trap—rolling with **Advantage via *Danger Sense*** yet **rolling under DC 15 on both dice**!
+### ⛈️ [[02 - Act 2 - Storm Lord's Wrath|Act 2: Storm Lord's Wrath]] & [[03 - Interlude 1 - Shadow's Run|Interlude 1: "Shadow's Run"]]
+* **Savior of [[Leilon]] & Adoptive Father:** Helped shatter [[Nixoxious]]'s Kraken cult raid on Leilon, rescuing and adopting orphaned ten-year-olds **[[Smithwell and Burnice]]** into the Znak household under majordomo [[Leopold]].
+* **Hearth & Romance at [[The Wayside Inn]]:** Courted half-orc head cook **[[Cooragh|Cooragh Struckt]]** at the Wayside Inn, completely won over by her fiery personality and her alarmingly spicy pork pies.
+* **The Lizardfolk Pact & Shadow Dragon:** Slew [[Matriarch Qolzaz]] in the Mere of Dead Men, fought beside sovereign [[Grixxugroaz]] against invading rot trolls, and honored Qolzaz with his iconic chest tattoo before descending into the lightless caverns of *"Shadow's Run"* to slay a **Shadow Dragon**.
+
+### 🐲 [[04 - Act 3 - Sleeping Dragon's Wake|Act 3: Sleeping Dragon's Wake]] & [[05 - Interlude 2 - Keeping the Faith|Interlude 2: "Keeping the Faith"]]
+* **Deeping Cave Acid Charge & The Poisoned Hoard:** In [[Claugiyliamatar]]'s lair, grew impatient waiting for the party's *Water Walk* ring relay and charged straight through the boiling acid pools in a barbarian rage. Later, after Ebondeath possessed the green dragon, Krageer braved the poison-trapped treasure vault first as the "sacrificial lamb" before poison-immune [[Tvyordiy Znak]] extracted the hoard.
+* **Wrestling the Fire Giant Queen:** Inside a dormant volcano during *"Keeping the Faith"*, **[[Myagkiy Znak]]** cast *Enlarge* on Krageer, swelling the Goliath to giant-kin stature so he could grapple and overpower the **Fire Giant Queen** amidst rivers of molten lava!
+
+### ⚡ [[06 - Act 4 - Divine Contention|Act 4: Divine Contention]]
+* **Psychic Agony at Thalivar's Beacon:** Battled Far Realm **Star Spawn Manglers** atop the House of Thalivar to claim **[[The Ruinstone]]**, enduring the one form of pain his Bear Totem rage could not dull—mind-rending psychic damage ("brain pain").
+* **The Unlikely Envoy & High Seas Archer:** Sailing to Neverwinter aboard Captain [[Deloz Montiv]]'s *[[Twinkle and Icingdeath]]*, Krageer stepped forward when every other appeal failed and personally persuaded **[[Dagult Neverember|Lord Protector Dagult Neverember]]** to commit his full military aid to Leilon. On the return voyage against [[Galas Windrage]]'s warships (*Throatcutter* and *Thunderstrike*), Krageer set aside his axe to gleefully trade longbow arrow volleys across the waves.
+* **Dreadnaught Climax:** Wielding his legendary greataxe ***[[Ultima Exodus]]***, Krageer stormed the Talosite flagship dreadnaught beneath the tempest apparition of [[Talos]], helping vanquish **[[Fheralai Stormsworn]]**, an Air Elemental Myrmidon, and a Nalfeshnee demon.
+
+---
 
 ## 🎨 Artwork & Imagery
 ![[Krageer.png]]
-*Krageer Stoneface Ogolakanu — Goliath Barbarian / Fighter Champion*
+*Krageer Stoneface Ogolakanu — Goliath Bear Totem Barbarian / Champion Fighter*
 
 ![[Ultima_exodus_axe.jpeg]]
 *Ultima Exodus — Krageer's legendary +2 two-handed Greataxe*
@@ -74,8 +64,44 @@ tags: [character-sheet, goliath, barbarian, fighter, krageer, order-of-znak]
 
 ---
 
-## 💡 Behind the Screen & Trivia
-* **Player & Optimization:** Played by Gary. Gary min-maxed Krageer for maximum DPR and survivability, blending Totem resistance with Champion critical strikes to consistently challenge encounter balance.
-* **Inside Joke — *Ultima Exodus*:** The greataxe was named after the classic RPG *Ultima III: Exodus*, an intentional inside joke between Gary and Peter as devoted fans of the *Ultima* franchise.
-* **Running Table Gag — Wayside Inn Meat Pies:** Krageer's courtship of Cooragh was an improvised table running gag—his affection for her was driven almost entirely by his love for her legendary tavern meat pies.
-* **The Accidental "Party Face":** Despite having an abysmal Charisma score of 6 (-2 modifier), Gary frequently had Krageer step up to act as the party's diplomat and spokesperson. Defying all statistical odds, Krageer rolled remarkably high on persuasion checks and succeeded as the party face a surprising number of times.
+## 📊 Character Build, Level Progression & Gear Acquisition Log
+
+### 🧬 Final Level 13 Build & Ability Scores
+* **Player:** Gary
+* **Race & Background:** Goliath | Soldier
+* **Class Split (Level 13):** Level 9 Barbarian (*Path of the Totem Warrior — Bear Totem*) / Level 4 Fighter (*Champion*)
+* **Ability Scores:** `STR 20 (+5)` | `DEX 13 (+1)` | `CON 16 (+3)` | `INT 10 (+0)` | `WIS 12 (+1)` | `CHA 6 (-2)`
+* **Armor Class (AC):** **18 AC** (+2 Scale Mail Armor)
+
+### 📈 Level-by-Level Progression
+| Level / Tier | Class & Milestone | Mechanical Features, Subclass & ASIs Taken |
+| :--- | :--- | :--- |
+| **Level 1** | Barbarian 1 (*Phandalin Arrival*) | *Rage*, *Unarmored Defense*, Goliath *Stone's Endurance* & *Powerful Build*. |
+| **Level 2** | Barbarian 2 (*Post-[[Umbrage Hill]]*) | ***Reckless Attack*** (at-will advantage on melee STR attacks) & ***Danger Sense*** (advantage on DEX saves vs. visible traps/effects). |
+| **Level 3** | Barbarian 3 (*Post-[[Temple of Abbathor]]*) | **Subclass:** ***Path of the Totem Warrior (Bear Totem)*** — resistance to all damage types except psychic while raging. |
+| **Level 4** | Barbarian 4 (*Post-[[Butterskull Ranch]]*) | **ASI:** **+2 Constitution** (boosting HP and frontline durability). |
+| **Level 5** | Barbarian 5 (*Pre-[[Mountain's Toe Gold Mine]]*) | ***Extra Attack*** (2 attacks per Action) & ***Fast Movement*** (+10 ft speed). |
+| **Levels 6–7** | Barbarian 6–7 (*End of Act 1 — [[Icespire Hold]]*) | *Aspect of the Beast* (Totem feature) & *Feral Instinct* (advantage on Initiative, cannot be surprised if raging). |
+| **Levels 8–13** | Barbarian 9 / Fighter 4 (*Acts 2–4 Leilon Trilogy*) | *Brutal Critical* (Barbarian 9); multiclassed into **Fighter (Champion)** for *Action Surge*, *Fighting Style*, ***Improved Critical (19–20)***, and the ***Great Weapon Master (GWM)*** feat. |
+
+### 🎒 Weapons, Armor & Item Acquisition Log
+| Item / Weapon | Where & When Acquired | Mechanical Properties & Campaign Notes |
+| :--- | :--- | :--- |
+| **Mundane Greataxe & Javelins** | **[[Phandalin]]** (Level 1 Starter Gear) | Standard 1d12 slashing greataxe and thrown javelins; ineffective against nonmagical-immune wererats at [[Mountain's Toe Gold Mine]]. |
+| ***Sending Stones* (Shared)** | **[[Temple of Abbathor]]** (Level 2) | Reward from dwarf prospectors [[Dazlyn Grayshard]] & [[Norbus Ironrune]]; used by the party for long-range communication all campaign. |
+| **Silvered Greataxe** | **[[Phandalin]] Smithy** (Level 5, pre-[[Axeholm]]) | Krageer paid to silver his greataxe after the [[Mountain's Toe Gold Mine]] wererat fight, vowing never to be powerless against a foe again. |
+| ***Dread Helm*** | **[[Axeholm]]** (Level 5 — Castellan's Bedchamber) | Found by Myagkiy's Perception check inside the hidden fireplace vault; grants menacing glowing crimson eyes beneath the steel visor. |
+| ***Dragon Slayer* Longsword** | **[[Dragon Barrow]]** (Level 5 — Return Expedition) | Claimed from Lady Tanamere Alagondar's sarcophagus after slaying the Will-o'-Wisp and Invisible Stalker; +1 Longsword dealing **+3d6 bonus slashing damage against dragons** (used to butcher [[Cryovain]] at [[Icespire Hold]]). |
+| ***[[Ultima Exodus]]*** | **High-Level Campaign (Acts 2–4)** | Signature legendary **+2 Greataxe** forged from silvered and adamantine metal; cleaves through magical defenses and siege structures. |
+| **Longbow** | **Secondary Ranged Weapon** | Used for ranged exchanges and famously during the naval fleet battle against [[Galas Windrage]]. |
+| **+2 Scale Mail Armor** | **Leilon Trilogy (Acts 2–4)** | Brings Krageer's frontline Armor Class to **18 AC**. |
+| **Alchemy Jug & Adamantine Shackles** | **Leilon Trilogy (Acts 2–4)** | Utility items providing endless camp ale/rations and unbreakable prisoner restraints. |
+
+---
+
+## 💡 Behind the Screen & Table Trivia
+* **Optimization Strategy:** Gary min-maxed Krageer for maximum DPR and survivability, blending Bear Totem universal damage resistance with *Reckless Attack*, *Great Weapon Master* (-5/+10), and Champion Fighter's 19–20 critical threat range.
+* **The *Danger Sense* Double-Fail (DC 15):** At Level 2 inside the [[Temple of Abbathor]], right after unlocking *Danger Sense*, Krageer pried at the trapped gem in the Statue of Abbathor—rolling with Advantage on his DC 15 Dexterity save, yet **rolling under 15 on both d20s**!
+* **Inside Joke — *Ultima Exodus*:** The signature greataxe was named after the classic RPG *Ultima III: Exodus*, an intentional inside joke between Gary and Peter as lifelong fans of the *Ultima* franchise.
+* **Running Table Gag — Wayside Inn Meat Pies:** Krageer's courtship of [[Cooragh]] was an improvised table running gag—his affection for her was driven almost entirely by his obsession with her alarmingly spicy tavern pork pies.
+* **The Accidental "Party Face":** Despite having an abysmal Charisma score of 6 (-2 modifier), Gary frequently volunteered Krageer to act as the party's diplomat. Defying all statistical odds, Krageer rolled remarkably high on Persuasion checks and succeeded a surprising number of times—most notably swaying [[Dagult Neverember]] in Neverwinter.
