@@ -20,7 +20,7 @@ modules: ["Dragon of Icespire Peak"]
 ---
 
 ## ⚔️ Campaign Interactions & Party Quest
-* **The Supply Cart Trek & Rhynok's Survival Navigation:** After escaping their underleveled first foray into the [[Woodland Manse]], [[The Order of Znak]] returned to [[Phandalin]] to pick up the provision cart from [[Elmar Barthen]] (pulled by draft ox **[[Vincent (ox)|Vincent]]**). Guided through the forest by a series of **Survival checks** from **[[Rhynok]]**, the party spotted a suspicious **boar** along the trail—actually a shapeshifted **[[Anchorites of Talos|Anchorite of Talos]]** who bolted back toward the [[Woodland Manse]].
+* **The Supply Cart Trek & Rhynok's Wilderness Navigation:** After escaping their harrowing first foray into the [[Woodland Manse]], [[The Order of Znak]] returned to [[Phandalin]] to pick up the provision cart from [[Elmar Barthen]] (pulled by draft ox **[[Vincent (ox)|Vincent]]**). Guided through the tangled forest trails by **[[Rhynok]]'s keen woodcraft and tracking instincts**, the party spotted a suspicious **boar** along the trail—actually a shapeshifted **[[Anchorites of Talos|Anchorite of Talos]]** who bolted back toward the [[Woodland Manse]].
 * **Ankheg Battle & Delivery to Tibor Wester:** Arriving at the camp to find it sabotaged with hidden anchorite totems that had lured burrowing **Ankhegs**, the party battled and slew the ankhegs—including the ankheg bursting up near **[[Tibor Wester]]'s barricaded office/cabin**—rescuing Tibor and delivering the supplies before departing.
 
 ---

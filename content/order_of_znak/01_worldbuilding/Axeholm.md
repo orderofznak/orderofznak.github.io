@@ -21,11 +21,11 @@ modules: ["Dragon of Icespire Peak"]
 
 ## ⚔️ Campaign Interactions & Party Quest
 * **Pre-Expedition Prep — Silvered Arsenal:** Before setting out for Axeholm, [[The Order of Znak]] stopped in [[Phandalin]] where **[[Krageer Stoneface Ogolakanu]] silvered his Greataxe** (vowing never to be powerless against his enemies again after the [[Mountain's Toe Gold Mine]] wererats), **[[Tvyordiy Znak]]** silvered his ***Qiang* spear**, and **[[Rhynok]]** silvered his **Shortsword**.
-* **Chimney Insertion with *Guidance*:** Finding the main dwarven gates sealed, the party scaled the mountain and entered Axeholm by climbing down the **chimney**, with every single party member succeeding on their **Athletics checks** thanks to **[[Myagkiy Znak]]'s *Guidance* cantrip**!
+* **Chimney Insertion with *Guidance*:** Finding the main dwarven gates sealed, the party scaled the mountain and entered Axeholm by climbing down the **chimney**, with every single champion making the perilous descent unscathed thanks to their athletic prowess and **[[Myagkiy Znak]]'s prayerful *Guidance***!
 * **Purging the Lower Halls:** Descending from the chimney, the party first slew the **Giant Spiders**, then battled waves of **Ghouls** and **Stirges** as they pushed through the **West Hall** and the **Smithy**, before crossing to the **East Hall** and the **Ghouls' Den** to eradicate the remaining ghouls.
-* **Slaying [[Vyldara]] the Banshee:** Ascending the stairs to the upper level, the party wandered into the **Haunted Hall** and confronted the moon elf banshee **[[Vyldara]]**. Bolstered by their high Constitution saves, **none of the party succumbed to her deadly *Wail***, and with magic and silvered/magical weapons on their side, they swiftly destroyed her.
-* **Castellan's Bedchamber, Secret Fireplace Vault & Castellan Ghoul:** Moving into the **Castellan's Bedchamber**, the champions dispatched another flock of **Stirges**, and **[[Myagkiy Znak]]'s keen Perception check** discovered the hidden iron vault inside the fireplace:
-  * **[[Myagkiy Znak]]** claimed the ***Gauntlets of Ogre Power*** (setting his Strength to 19).
+* **Slaying [[Vyldara]] the Banshee:** Ascending the stairs to the upper level, the party wandered into the **Haunted Hall** and confronted the moon elf banshee **[[Vyldara]]**. Bolstered by their ironclad fortitude, **none of the party succumbed to her deadly *Wail***, and with divine magic and silvered/magical weapons on their side, they swiftly destroyed her.
+* **Castellan's Bedchamber, Secret Fireplace Vault & Castellan Ghoul:** Moving into the **Castellan's Bedchamber**, the champions dispatched another flock of **Stirges**, and **[[Myagkiy Znak]]'s sharp eyes** spotted the hidden iron vault concealed inside the fireplace:
+  * **[[Myagkiy Znak]]** claimed the ***Gauntlets of Ogre Power*** (infusing his frame with prodigious giant-kin strength).
   * **[[Krageer Stoneface Ogolakanu]]** claimed the ***Dread Helm*** (giving his eyes a menacing crimson glow beneath the shadowed steel faceplate).
   * Finally, the party fought and **defeated the ghoul of the dwarf Castellan** before leaving Axeholm behind, completely cleared!
 
