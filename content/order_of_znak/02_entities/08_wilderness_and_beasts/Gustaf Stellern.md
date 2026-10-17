@@ -34,8 +34,10 @@ Falcon showed no fear and appeared confident and casual even in difficult situat
 Following the appearance of the white dragon [[Cryovain]] in the region, Falcon noticed an alliance of orcs from the south and a half-orc cult of [[Talos]] that gathered in the [[Woodland Manse]] not far from his hunting lodge. He hired some adventurers to make a preemptive strike against them. In retaliation, a band of twenty orcs attacked Falcon's hunting lodge. The [[anchorites of Talos]] also conjured [[Gorthok]] the Thunder Boar to aid the attack.
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Met (Allied Ranger & Quest Patron)
+* **Party Notes:**
+  * **Hospitality at Falcon's Hunting Lodge (Level 3):** Known across Neverwinter Wood as **Falcon the Hunter**, Gustaf welcomed [[The Order of Znak]] to [[Falcon's Hunting Lodge]] after they rescued [[Tibor Wester]] at the [[Loggers' Camp]]. While [[Myagkiy Znak]] shared wine with Falcon, [[Rhynok]] competed in an archery contest with the veteran hunter and briefed him on the escalating orc and [[Anchorites of Talos]] threat.
+  * **The Ransacked Lodge & Boots of Elvenkind (Levels 5–6):** After the party cleared [[Dragon Barrow]] and ambushed [[Yargath]], they visited [[Falcon's Hunting Lodge]] only to find it ransacked by a giant boar and marked with heavy orcsign. Tracking Falcon back to [[Phandalin]], the party reunited with him and received his promised reward—the **Boots of Elvenkind** (claimed by [[Rhynok]])—before marching out to crush [[Gorthok]] at the [[Circle of Thunder]] and purge the [[Woodland Manse]].
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Gustaf Stellern](https://forgottenrealms.fandom.com/wiki/Gustaf%20Stellern)

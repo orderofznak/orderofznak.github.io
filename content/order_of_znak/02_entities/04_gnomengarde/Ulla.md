@@ -31,8 +31,8 @@ When Gnomengarde came under attack by a mimic in the late 15 century DR, the onl
 Alongside [[Pog]], Ulla was one of Gnomengarde's sentries. It was her job to hail any outsiders in Gnomish, and to attack anyone she deemed to be a threat.
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Met (Manhandled & De-escalated — Level 2)
+* **Party Notes:** Rock gnome sentry stationed alongside [[Pog]] in [[Gnomengarde]]. During [[The Order of Znak]]'s **Level 2** visit, after [[Facktoré]] opened fire on [[Rhynok]], Ulla and Pog clashed with the party and were briefly **manhandled by [[Krageer Stoneface Ogolakanu|Krageer]]** before [[Tvyordiy Znak]] rolled a **natural 20** on Persuasion to de-escalate the standoff and gain an audience with [[Fibblestib Pinebark]] and [[Dabbledob Plasterpatch]].
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Ulla](https://forgottenrealms.fandom.com/wiki/Ulla)

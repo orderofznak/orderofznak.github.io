@@ -28,8 +28,8 @@ aliases: ['Ander']
 He was a fast talker who was both naïve and brave.
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Met (Allied Store Clerk)
+* **Party Notes:** Young clerk at Barthen's Provisions in [[Phandalin]] who assisted [[Elmar Barthen]] in loading the supply wagon, the ox [[Vincent (ox)|Vincent]], and the trapped payroll crate for [[The Order of Znak]]'s expedition to the [[Loggers' Camp]].
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Ander (Phandalin)](https://forgottenrealms.fandom.com/wiki/Ander%20%28Phandalin%29)

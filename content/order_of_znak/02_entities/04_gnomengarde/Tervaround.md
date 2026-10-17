@@ -28,8 +28,8 @@ tags: [npc, order-of-znak]
 Tervaround was responsible for making mushroom wine using Gnomengarde's distinctive purple mushrooms. She would crush the mushrooms, stuff them into barrels, and leave them to ferment deep in the Gnomengarde tunnels.
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Met (Gnomengarde Expedition — Level 2)
+* **Party Notes:** Rock gnome vintner in [[Gnomengarde]] whose fermenting mushroom-wine barrels provided the disguise for the shapeshifting **Mimic** that [[The Order of Znak]] hunted down and slew at **Level 2**.
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Tervaround](https://forgottenrealms.fandom.com/wiki/Tervaround)

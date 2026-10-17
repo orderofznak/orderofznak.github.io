@@ -41,8 +41,9 @@ In the , Neverember turned his attention to the ruined city of Neverwinter, whic
 .
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Met
-* **The Petition for Leilon Aid:** During the *Icingdeath and Twinkle* questline in *Divine Contention*, [[The Order of Znak]] traveled to Neverwinter to petition Lord Protector Neverember for military and economic aid to defend [[Leilon]]. Each champion in turn attempted to persuade him of the urgent need. Despite Dagult's stubborn pragmatism and reluctance to commit assets, the party's least charismatic member—the Goliath barbarian **[[Krageer Stoneface Ogolakanu]]** (who possessed a Charisma of only 6)—stepped forward and successfully swayed Neverember to pledge his full aid to Leilon's defense.
+* **Encounter Status:** Met (Patron & Ally)
+* **Renown After Slaying Cryovain (Act 1 Finale):** When [[The Order of Znak]] slew the white dragon [[Cryovain]] atop [[Icespire Hold]] and returned to [[Phandalin]] as Level 7 heroes, word of their triumph spread across the Sword Coast directly to Lord Protector Dagult Neverember in [[Neverwinter]] and the Lords of [[Waterdeep]], prompting Neverember's council to recruit the Order to spearhead the rebuilding and defense of [[Leilon]].
+* **The Petition for Leilon Aid (Act 4):** During the *Icingdeath and Twinkle* questline in *Divine Contention*, [[The Order of Znak]] traveled to Neverwinter to petition Lord Protector Neverember for military and economic aid to defend [[Leilon]]. Each champion in turn attempted to persuade him of the urgent need. Despite Dagult's stubborn pragmatism and reluctance to commit assets, the party's least charismatic member—the Goliath barbarian **[[Krageer Stoneface Ogolakanu]]** (who possessed a Charisma of only 6)—stepped forward and successfully swayed Neverember to pledge his full aid to Leilon's defense.
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Dagult Neverember](https://forgottenrealms.fandom.com/wiki/Dagult%20Neverember)

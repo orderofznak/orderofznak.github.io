@@ -27,7 +27,7 @@ tags: [npc, order-of-znak]
 ### History
 When Gnomengarde's King Korboz went mad in the late 15 century DR, Fibblestib and Dabbledob made curing him their sole focus, even as the mimic responsible for his condition rampaged through the tiny kingdom. However, the two inventors quickly reached an impasse as Fibblestib argued that the pair should invent a  **sanity ray**, Dabbledob dismissed it as "stupid" and instead argued in favor of inventing a **straitjacket**.
 
-Not long after this incident, the town of [[Leilon]] asked Gnomengarde for aid, specifically for any magical items or weapons that could fend off a suspected attack by the green dragon [[Claugiyliamatar]]. In response, the two gnomish inventors created the **Gnomengarde grenade**, a weapon suffused with wild magic, and personally attempted to deliver it to Leilon's agents at a meeting point in [[Dumathoin's Gultch]]. Because of the item's instability, it was transported in two parts: Fibblestib carried the weapon itself while Dabbledob carried a magical key which was used to arm the device. However, the necromancer [[Ularan Mortus]] sent undead to waylay the pair, who survived thanks to their escort, [[Bindlemint Mincemower]], fleeing to find the adventurers from Leilon.
+Not long after this incident, the town of [[Leilon]] asked Gnomengarde for aid, specifically for any magical items or weapons that could fend off a suspected attack by the green dragon [[Claugiyliamatar]]. In response, the two gnomish inventors created the **Gnomengarde grenade**, a weapon suffused with wild magic, and personally attempted to deliver it to Leilon's agents at a meeting point in [[Dumathoin's Gulch]]. Because of the item's instability, it was transported in two parts: Fibblestib carried the weapon itself while Dabbledob carried a magical key which was used to arm the device. However, the necromancer [[Ularan Mortus]] sent undead to waylay the pair, who survived thanks to their escort, [[Bindlemint Mincemower]], fleeing to find the adventurers from Leilon.
 
 ### Personality
 Fibblestib preferred solutions to problems which addressed root causes rather than symptoms. His ideas for inventions could be rather unrealistic.
@@ -35,8 +35,10 @@ Fibblestib preferred solutions to problems which addressed root causes rather th
 Fibblestib was also skilled at creating magic items. In turn, both inventors were highly devoted to their kings, [[Gnerkli]] and [[Korboz]], but could be somewhat indifferent toward the well-being of other members of the kingdom.
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Met
-* **Party Notes:** [[The Order of Znak]] was escorted to Fibblestib and [[Dabbledob Plasterpatch]] after de-escalating an altercation with [[Facktoré]] (who shot [[Rhynok]]), navigating past gnome guards whom [[Krageer Stoneface Ogolakanu|Krageer]] briefly manhandled on the route.
+* **Encounter Status:** Met (Allied Chief Inventor)
+* **Party Notes:**
+  * **Act 1 (*Dragon of Icespire Peak*, Level 2):** After [[Rhynok]] was blasted by [[Facktoré]]'s malfunctioning heavy crossbow platform and [[Krageer Stoneface Ogolakanu|Krageer]] manhandled two aggressive gnome guards, [[Tvyordiy Znak]] rolled a **natural 20** on Persuasion to de-escalate the crisis. Escorted to the workshop, the party consulted Fibblestib and [[Dabbledob Plasterpatch]] to learn the truth about King [[Korboz]]'s madness and the shapeshifting **Mimic**, which the party promptly slew.
+  * **Act 4 (*Divine Contention*):** Reunited with [[The Order of Znak]] at [[Dumathoin's Gulch]] alongside Dabbledob and bodyguard [[Bindlemint Mincemower]] to deliver the wild-magic **Gnomengarde Grenade** for the defense of [[Leilon]].
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Fibblestib Pinebark](https://forgottenrealms.fandom.com/wiki/Fibblestib%20Pinebark)

@@ -28,8 +28,8 @@ tags: [npc, order-of-znak]
 Along with [[Panana]], Uppendown was responsible for prepping bread dough made from Gnomengarde's distinctive green mushrooms. His role was to shape the dough into loaves before baking. He took his work very seriously, and worked like an artist in deep concentration with his tongue sticking out at an angle as he sculpted the dough.
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Met (Gnomengarde Expedition — Level 2)
+* **Party Notes:** Rock gnome baker sculpting green mushroom loaves alongside [[Panana]] in [[Gnomengarde]]'s kitchen when [[The Order of Znak]] visited at **Level 2** and slew the shapeshifting **Mimic**.
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Uppendown](https://forgottenrealms.fandom.com/wiki/Uppendown)

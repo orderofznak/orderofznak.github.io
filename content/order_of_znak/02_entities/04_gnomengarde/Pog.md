@@ -31,8 +31,8 @@ When Gnomengarde came under attack by a mimic in the late 15 century DR, the onl
 Alongside [[Ulla]], Pog was one of Gnomengarde's sentries. It was his job to hail any outsiders in [[Common]], and to attack anyone he deemed to be a threat.
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Met (Manhandled & De-escalated — Level 2)
+* **Party Notes:** One of the two paranoid rock gnome sentries (alongside [[Ulla]]) guarding the halls of [[Gnomengarde]] during the **Mimic** crisis. At **Level 2**, after [[Facktoré]] shot [[Rhynok]] with her crossbow contraption, Pog and Ulla confronted the party and were briefly **manhandled by [[Krageer Stoneface Ogolakanu|Krageer]]** before [[Tvyordiy Znak]] rolled a clutch **natural 20** on Persuasion to calm the guards and secure an escort to [[Fibblestib Pinebark]] and [[Dabbledob Plasterpatch]].
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Pog](https://forgottenrealms.fandom.com/wiki/Pog)

@@ -28,8 +28,8 @@ tags: [npc, order-of-znak]
 Jabby was likely to found dozing in the Gnomengarde dormitory alongside her friends.
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Met (Gnomengarde Expedition — Level 2)
+* **Party Notes:** Resident of [[Gnomengarde]] encountered in the dormitory during [[The Order of Znak]]'s **Level 2** investigation into the missing gnomes and the shapeshifting **Mimic**.
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Jabby](https://forgottenrealms.fandom.com/wiki/Jabby)

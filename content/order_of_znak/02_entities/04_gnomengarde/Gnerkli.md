@@ -25,8 +25,8 @@ tags: [npc, order-of-znak]
 **Gnerkli** was king of the rock gnome clan at [[Gnomengarde]] in the late 15 century [[DR]]. He ruled alongside his husband, King [[Korboz]].
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Met (Rescued Monarch)
+* **Party Notes:** Co-ruler of [[Gnomengarde]] bound in his royal bedchamber by his terrified husband [[Korboz]] to protect him from the shapeshifting **Mimic** stalking the caverns. Freed at **Level 2** after [[The Order of Znak]] slew the Mimic and resolved the crisis peacefully, establishing the lifelong alliance between Gnomengarde and the Order that later proved pivotal during the defense of [[Leilon]] in *Divine Contention*.
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Gnerkli](https://forgottenrealms.fandom.com/wiki/Gnerkli)

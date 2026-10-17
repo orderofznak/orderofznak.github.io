@@ -5,7 +5,7 @@ system: dnd5e
 campaign: order_of_znak
 status: archived
 type: faction
-last_updated: 2026-08-12
+last_updated: 2026-10-16
 tags: [faction, adventuring-party, order-of-znak, phandalin, leilon, sword-coast]
 aliases: ['The Order of Znak', 'Order of Znak', 'The Znak Company', 'Order of the Signs']
 ---
@@ -13,7 +13,7 @@ aliases: ['The Order of Znak', 'Order of Znak', 'The Znak Company', 'Order of th
 # 🛡️ The Order of Znak
 
 ## 📜 In-Universe History & Organization
-* **Founding in Phandalin (Act 1: *Dragon of Icespire Peak*):** Established in the frontier boomtown of Phandalin when four disparate adventurers banded together to defend the Sword Mountains: Goliath barbarian [[Krageer Stoneface Ogolakanu]], Elf ranger sniper [[Rhynok]], Life Domain battle cleric [[Myagkiy Znak]], and Aarakocra drunken master monk [[Tvyordiy Znak]]. Their brotherhood was forged in survival—most notably surviving the deadly needle blight ambush at the Woodland Manse and liberating the Mountain's Toe Gold Mine for overseer [[DonJon Raskin]], who became a lifelong benefactor.
+* **Founding in [[Phandalin]] (Act 1: *Dragon of Icespire Peak*, Levels 1–7):** Established in the frontier boomtown of [[Phandalin]] when four disparate adventurers banded together at Level 1 to defend the Sword Mountains: Goliath Bear Totem barbarian [[Krageer Stoneface Ogolakanu]], Elf Gloom Stalker ranger [[Rhynok]], Life Domain battle cleric [[Myagkiy Znak]], and Aarakocra Drunken Master monk [[Tvyordiy Znak]]. Across their frontier campaign, the Order drove off the manticore at [[Umbrage Hill]], cleared the [[Temple of Abbathor]] (acquiring their campaign-long *Sending Stones*), slew the barrel-room mimic in [[Gnomengarde]], liberated [[Butterskull Ranch]] and the [[Loggers' Camp]], survived a harrowing underleveled retreat at the [[Woodland Manse]] (after Rhynok's Gruumsh blood-note ruse), destroyed [[Moesko]]'s heart at the [[Tower of Storms]] (earning Rhynok's +1 Longbow from the awakened crab), fought alongside lifelong friend [[DonJon Raskin]] at the [[Shrine of Savras]] and [[Mountain's Toe Gold Mine]], silvered their weapons and purged [[Axeholm]] of [[Vyldara]] the banshee, claimed the *Dragon Slayer* Longsword and enlisted centaur ally [[Xanth]] at [[Dragon Barrow]], crushed [[Yargath]]'s patrol and [[Gorthok]] the Thunder Boar at the [[Circle of Thunder]], cleaned out the [[Woodland Manse]], and slew the white dragon [[Cryovain]] (and added Ice Mephits) atop [[Icespire Hold]]. Returning to [[Phandalin]] as Level 7 heroes, their renown reached **[[Dagult Neverember|Lord Dagult Neverember]]** and the **Lords of Waterdeep**.
 * **Fortified Base in [[Leilon]] (Act 2: *Storm Lord's Wrath*):** Following their frontier victories, the Order relocated to the coastal town of [[Leilon]] to construct a permanent fortified headquarters. The construction and estate logistics were coordinated alongside Lord Neverember's master builder [[Grizzelda Copperwraught]], town guard sergeant [[Hazz Yorrum]], town wizard [[Gallio Elibro]], and managed day-to-day by their faithful human majordomo [[Leopold]]. Upon arrival (*"A Normal Day in Leilon"*), the Order broke a coastal raid by the tiefling Kraken Priest **Nixoxious**, rescued missing 10-year-old children [[Smithwell and Burnice|Smithwell and Burnice]], and adopted them as permanent wards, entrusted to Leopold's compassionate upbringing at the estate.
 ![[Leilon-overhead.webp]]
 *Overhead Cartographic Survey of Rebuilt Leilon & The Order's Headquarters*

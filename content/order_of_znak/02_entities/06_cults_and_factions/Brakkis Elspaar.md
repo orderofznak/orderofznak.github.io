@@ -34,8 +34,8 @@ Brakkis was out of shape and had lost the benefits of youth.
 He took advantage of any opportunities presented to him, resorting to thievery when honest work was unavailable. He was a follower rather than a leader. This suited him because all he really wanted to think and talk about were dogs and what he would do when he retired.
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Slain (Icespire Hold)
+* **Party Notes:** Member of the [[Stone-Cold Reavers]] mercenary band lurking inside [[Icespire Hold]]. Slain at **Level 6** when [[The Order of Znak]] stormed the fortress and eliminated the Reavers with silvered weapons and divine magic prior to slaying [[Cryovain]] on the roof.
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Brakkis Elspaar](https://forgottenrealms.fandom.com/wiki/Brakkis%20Elspaar)

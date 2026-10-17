@@ -27,8 +27,8 @@ tags: [npc, order-of-znak]
 Baatorius was a gray stallion. He was Gustaf's reliable riding horse, and was the only horse who lived at [[Falcon's hunting lodge]] in [[Neverwinter Wood]].
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Met (Falcon's Hunting Lodge)
+* **Party Notes:** Reliable gray stallion stabled at [[Falcon's Hunting Lodge]] in Neverwinter Wood and ridden by [[Gustaf Stellern]] (Falcon the Hunter) when Falcon, [[Corwin]], and [[Pell]] evacuated to [[Phandalin]] following the giant boar and orc raid on the lodge.
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Baatorius](https://forgottenrealms.fandom.com/wiki/Baatorius)

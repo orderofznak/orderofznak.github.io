@@ -28,8 +28,8 @@ tags: [npc, order-of-znak]
 Like many other Gnomengarde inhabitants, Pallabar preferred not to talk about his home's troubles with outsiders.
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Met (Gnomengarde Expedition — Level 2)
+* **Party Notes:** Resident of [[Gnomengarde]] whose wariness toward outsiders was overcome at **Level 2** when [[Tvyordiy Znak]] rolled a **natural 20** on Persuasion and [[The Order of Znak]] slew the shapeshifting **Mimic**.
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Pallabar](https://forgottenrealms.fandom.com/wiki/Pallabar)

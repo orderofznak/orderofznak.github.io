@@ -28,8 +28,8 @@ tags: [npc, order-of-znak]
 Not unlike most of Gnomengarde's inhabitants, Delebean was harmless but willing to fight to defend himself and his home.
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Met (Gnomengarde Expedition — Level 2)
+* **Party Notes:** Resident of [[Gnomengarde]] whose clan was saved when [[The Order of Znak]] de-escalated tensions via [[Tvyordiy Znak]]'s natural 20 Persuasion check and hunted down the shapeshifting **Mimic** at **Level 2**.
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Delebean](https://forgottenrealms.fandom.com/wiki/Delebean)

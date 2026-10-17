@@ -34,8 +34,8 @@ The second of these crises was the arrival of the white dragon [[Cryovain]], who
 Following his failures as townmaster, the people of Phandalin abolished the position in favor of a three person town council. Harbin managed to secure a position on the council by blaming adventurers for the ills that the town had suffered under his leadership. Then in the , he ran for the newly created position of mayor using the same platform.
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Met (Employer & Townmaster)
+* **Party Notes:** Cowardly, dragon-terrified banker and Townmaster of [[Phandalin]] who refused to open his door during [[Cryovain]]'s reign of terror, sliding job postings onto the Townmaster's Hall notice board and paying gold rewards from behind a bolted door. [[The Order of Znak]] systematically completed every single contract he posted—from [[Umbrage Hill]], the [[Temple of Abbathor]], and [[Gnomengarde]] at Levels 1–2 to clearing [[Axeholm]] as a fortified town evacuation refuge at Level 5.
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Harbin Wester](https://forgottenrealms.fandom.com/wiki/Harbin%20Wester)

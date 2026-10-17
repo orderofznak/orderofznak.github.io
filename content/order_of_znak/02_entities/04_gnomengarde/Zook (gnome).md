@@ -29,8 +29,8 @@ aliases: ['Zook']
 Like most of Gnomengarde's inhabitants, Zook looked up to the master inventors [[Dabbledob Plasterpatch]] and [[Fibblestib Pinebark]].
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Met (Gnomengarde Expedition — Level 2)
+* **Party Notes:** Resident of [[Gnomengarde]] encountered during [[The Order of Znak]]'s **Level 2** expedition to slay the shapeshifting **Mimic** and restore King [[Korboz]].
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Zook (gnome)](https://forgottenrealms.fandom.com/wiki/Zook%20%28gnome%29)

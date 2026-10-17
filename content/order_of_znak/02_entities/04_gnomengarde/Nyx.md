@@ -28,8 +28,8 @@ tags: [npc, order-of-znak]
 Nym was a sound sleeper, and was likely to found napping in the Gnomengarde domiciles alongside her friends.
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Met (Gnomengarde Expedition — Level 2)
+* **Party Notes:** Resident of [[Gnomengarde]] encountered in the dormitories during [[The Order of Znak]]'s **Level 2** mission to slay the **Mimic** and rescue Kings [[Korboz]] and [[Gnerkli]].
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Nyx](https://forgottenrealms.fandom.com/wiki/Nyx)

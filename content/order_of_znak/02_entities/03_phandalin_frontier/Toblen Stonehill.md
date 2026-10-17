@@ -32,8 +32,8 @@ By [[1496 DR]], Pip was old enough to help run the business. That year, Harbin W
 Toblen was a young man who was quite short and very friendly.
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Met (Allied Innkeeper & Early Patron)
+* **Party Notes:** Friendly proprietor of the [[Stonehill Inn]] in [[Phandalin]], which served as [[The Order of Znak]]'s primary hearth, rumor hub, and resting quarters throughout Act 1 (*Dragon of Icespire Peak*). Toblen welcomed the four champions upon their arrival at Level 1 and hosted the town-wide celebration when they returned as Level 7 heroes after slaying [[Cryovain]].
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Toblen Stonehill](https://forgottenrealms.fandom.com/wiki/Toblen%20Stonehill)

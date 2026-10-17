@@ -29,8 +29,8 @@ She served as the local midwife and apothecary for the nearby village of [[Phand
 When the white dragon [[Cryovain]] began terrorizing the region, the people of Phandalin feared for Adabra's safety, and Townmaster [[Harbin Wester]] offered to pay anyone willing to brave the short journey to check on her and urge her to return to town. He was somewhat right to be worried as Adabra's home was attacked by a manticore, which had been driven from from its mountaintop nest in the [[Sword Mountains]] by the dragon.
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Met (Rescued Ally & Apothecary)
+* **Party Notes:** Rescued by [[The Order of Znak]] at **Level 1** during their very first starter quest at [[Umbrage Hill]]. Rather than fighting the hungry manticore that [[Cryovain]] had driven down from the peaks, the party negotiated with the beast and bought it off with meat and gold. Grateful for her salvation, Adabra gifted the party a *Potion of Healing*, signed a letter confirming her safety for [[Harbin Wester]], and remained a steadfast apothecary ally throughout Act 1.
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Adabra Gwynn](https://forgottenrealms.fandom.com/wiki/Adabra%20Gwynn)

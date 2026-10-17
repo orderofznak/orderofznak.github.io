@@ -30,8 +30,8 @@ Corwin's employer, Gustaf Stellern, liked to hunt orcs and turn their heads into
 In the late 15th century [[DR]], Corwin was an aged man who was disenchanted because of his life experiences. He lived in a simply furnished bedroom on the upper level of the stable house.
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Met (Falcon's Hunting Lodge)
+* **Party Notes:** Quiet, dutiful steward and cook serving [[Gustaf Stellern]] (Falcon the Hunter) at [[Falcon's Hunting Lodge]] in Neverwinter Wood. Hosted [[The Order of Znak]] during their **Level 3** stay at the lodge (where he poured wine for [[Myagkiy Znak]]) and survived the subsequent [[Anchorites of Talos|Talosian]] giant boar and orc raid that forced Falcon and his staff to evacuate temporarily to [[Phandalin]].
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Corwin](https://forgottenrealms.fandom.com/wiki/Corwin)

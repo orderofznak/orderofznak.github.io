@@ -32,8 +32,8 @@ When a group of adventurers came to the excavation site and warned Dazlyn and No
 Dazlyn was sincere and enjoyed joking around with Norbus.
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Met (Employer & Allied Prospector)
+* **Party Notes:** Shield dwarf prospector excavating the [[Temple of Abbathor]] in Dwarven Excavation alongside her partner [[Norbus Ironrune]]. At **Level 1**, [[The Order of Znak]] warned the duo of [[Cryovain]] and cleared the inner temple of two ochre jellies via a kiting ambush at the secret door. After the party defeated four orcs outside the canyon as newly minted Level 2 heroes, Dazlyn and Norbus gifted them the **Sending Stones** before the party greedily pried loose the exploding altar gem.
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Dazlyn Grayshard](https://forgottenrealms.fandom.com/wiki/Dazlyn%20Grayshard)

@@ -28,8 +28,8 @@ tags: [npc, order-of-znak]
 Runa was a muscular woman. She had black hair and cold blue eyes.
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Slain (Icespire Hold)
+* **Party Notes:** Shieldmaiden of the [[Stone-Cold Reavers]] stationed at [[Icespire Hold]]. Slain alongside [[Brakkis Elspaar]], [[Dobin Noreth]], and [[Jabarl]] at **Level 6** when [[The Order of Znak]] purged the fortress en route to their rooftop battle against [[Cryovain]].
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Runa Vokdottir](https://forgottenrealms.fandom.com/wiki/Runa%20Vokdottir)

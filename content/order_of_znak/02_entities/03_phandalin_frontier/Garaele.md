@@ -34,8 +34,8 @@ By [[1496 DR]], Garaele had cut ties with the Harpers. That year, she began acti
 That same year, the [[Temple of the Coinmaiden]] was established in Phandalin, which Garaele perceived as direct competition to herself and the Shrine of Luck. This led her to became even more energized and frantic in her proselytizing.
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Met (Allied Priestess)
+* **Party Notes:** Elven acolyte of Tymora tending the Shrine of Luck in [[Phandalin]], where Life Cleric [[Myagkiy Znak]] frequently paid respects and traded frontier blessings between expeditions into the Sword Mountains.
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Garaele](https://forgottenrealms.fandom.com/wiki/Garaele)

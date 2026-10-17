@@ -28,8 +28,8 @@ tags: [npc, order-of-znak]
 Along with [[Uppendown]], Panana was responsible for prepping bread dough made from Gnomengarde's distinctive green mushrooms. Her role was to mix and knead the dough using a rolling contraption, which required her to stand atop her workbench in order to operate.
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Met (Gnomengarde Expedition — Level 2)
+* **Party Notes:** Rock gnome baker operating the mushroom-dough rolling contraption in [[Gnomengarde]]'s kitchen when [[The Order of Znak]] entered the caverns at **Level 2** and eliminated the **Mimic**.
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Panana](https://forgottenrealms.fandom.com/wiki/Panana)

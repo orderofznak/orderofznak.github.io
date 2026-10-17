@@ -28,8 +28,8 @@ tags: [npc, order-of-znak]
 Dimble was responsible for producing the oil that fueled Gnomengarde's lanterns and inventions. He operated the complicated contraption that pressed Gnomengarde's unique red mushrooms to extract their oil. From each big specimen, Dimble could extract four flasks of oil.
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Met (Gnomengarde Expedition — Level 2)
+* **Party Notes:** Rock gnome mushroom-oil press operator in [[Gnomengarde]] encountered by [[The Order of Znak]] during their **Level 2** expedition to slay the shapeshifting **Mimic** and restore King [[Korboz]].
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Dimble](https://forgottenrealms.fandom.com/wiki/Dimble)

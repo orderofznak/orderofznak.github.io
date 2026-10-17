@@ -26,8 +26,8 @@ aliases: ['Mad King Korboz']
 **Korboz** was king of the rock gnome clan at [[Gnomengarde]] in the late 15 century [[DR]]. He ruled alongside his husband, King [[Gnerkli]].
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Met (Rescued Monarch)
+* **Party Notes:** Co-ruler of [[Gnomengarde]] alongside his husband [[Gnerkli]]. At **Level 2**, [[The Order of Znak]] investigated Korboz's sudden "madness" and discovered he had locked himself and Gnerkli inside the royal bedroom after a shapeshifting **Mimic** infiltrated the caverns and devoured two gnomes. Once the party hunted down and slew the Mimic—and after [[Tvyordiy Znak]]'s natural 20 Persuasion check calmed the throne room standoff—Korboz rewarded the champions with the *Wand of Pyrotechnics*, *Pole of Collapsing*, *Clockwork Amulet*, and *Hat of Wizardry*.
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Korboz](https://forgottenrealms.fandom.com/wiki/Korboz)

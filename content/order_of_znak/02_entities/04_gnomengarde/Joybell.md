@@ -28,8 +28,8 @@ tags: [npc, order-of-znak]
 Joybell operated the iron stove in Gnomengarde's kitchen, keeping it hot by stoking it with a fire poker.
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Met (Gnomengarde Expedition — Level 2)
+* **Party Notes:** Rock gnome cook tending the iron stove in [[Gnomengarde]]'s kitchen when [[The Order of Znak]] explored the caverns at **Level 2** to hunt down the shapeshifting **Mimic**.
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Joybell](https://forgottenrealms.fandom.com/wiki/Joybell)

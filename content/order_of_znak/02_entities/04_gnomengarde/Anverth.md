@@ -28,8 +28,8 @@ tags: [npc, order-of-znak]
 Like many other inhabitants of Gnomengarde, Anverth could reliably be found napping in the dormitory.
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Met (Gnomengarde Expedition — Level 2)
+* **Party Notes:** Resident of [[Gnomengarde]] encountered during [[The Order of Znak]]'s **Level 2** expedition to investigate King [[Korboz]]'s madness and slay the shapeshifting **Mimic** stalking the caverns.
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Anverth](https://forgottenrealms.fandom.com/wiki/Anverth)

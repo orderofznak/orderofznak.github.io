@@ -34,8 +34,8 @@ Syleen was a lean woman with red hair that she wore in a ponytail.
 Syleen went on risky adventures, enjoying the adrenaline rush that they brought. She had a brash demeanor and was a notorious liar, assuming the people around her to be dishonest as well.
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Slain (Icespire Hold)
+* **Party Notes:** Brash leader of the [[Stone-Cold Reavers]] mercenary band who lurked inside [[Icespire Hold]] hoping to plunder [[Cryovain]]'s non-existent hoard. Slain alongside [[Brakkis Elspaar]], [[Dobin Noreth]], [[Jabarl]], and [[Runa Vokdottir]] at **Level 6** when [[The Order of Znak]] stormed the fortress with their newly silvered weapons before ascending to the roof to slay the white dragon.
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Syleen Wintermoon](https://forgottenrealms.fandom.com/wiki/Syleen%20Wintermoon)

@@ -30,8 +30,8 @@ In the late 15 century DR, the lighthouse at the [[Tower of Storms]] was hijacke
 Daggermaw was mean and always hungry. She would attack any potential prey she saw without warning, and it was said that she enjoyed the act of killing.
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Slain (Tower of Storms Reef Threat)
+* **Party Notes:** Ferocious hunter shark prowling the sunken shipwrecks below the [[Tower of Storms]] while guarding the skeletal remains of the banshee [[Miraal]]'s corpse. At **Level 3**, after slaying [[Moesko]] in the lighthouse, [[The Order of Znak]] braved the freezing surf, dispatched the reef threat, and recovered Miraal's jeweled spellbook to earn the **+1 Longbow** for [[Rhynok]] as well as looting the five shipwrecks.
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Daggermaw](https://forgottenrealms.fandom.com/wiki/Daggermaw)

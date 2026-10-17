@@ -28,8 +28,8 @@ tags: [npc, order-of-znak]
 The group tried to steal the presumed treasure hoard of the young white dragon [[Cryovain]] from its lair, [[Icespire Hold]]. Dobin was sent to the nearby village of [[Phandalin]] to gather supplies while the rest of the Stone-Cold Reavers waited for the dragon to leave its lair so they could plunder it in its absence. However, Cryovain hadn't amassed any treasure yet.
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Slain (Icespire Hold)
+* **Party Notes:** Member of the [[Stone-Cold Reavers]] mercenary band occupying the gatehouse of [[Icespire Hold]]. Cut down at **Level 6** by [[The Order of Znak]] during the party's final assault on [[Cryovain]]'s mountain stronghold.
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Dobin Noreth](https://forgottenrealms.fandom.com/wiki/Dobin%20Noreth)

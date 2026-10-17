@@ -36,8 +36,8 @@ As a banshee, Vyldara appeared as a floating, spectral female elf clothed in tat
 When she was alive, Vyldara was manipulative and violent. In death, she was delusional and extremely quick to anger. Any attempt to speak with or reason with her was met with the full force of her terrifying power.
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Slain (Axeholm Haunted Hall Boss)
+* **Party Notes:** Moon elf ambassador whose betrayal and execution transformed her into a restless **banshee** haunting the upper halls of [[Axeholm]]. At **Level 5**, after scaling the mountain chimney and clearing the lower halls of giant spiders, ghouls, and stirges with [[Krageer Stoneface Ogolakanu|Krageer]]'s newly silvered greataxe, [[The Order of Znak]] ascended the stairs into the Haunted Hall and confronted Vyldara. Remarkably, **none of the four party members succumbed to her deadly *Wail*** on their Constitution saving throws, and the party's magical attacks and silvered steel swiftly banished her spirit before they uncovered the Castellan's fireplace vault (*Gauntlets of Ogre Power* for [[Myagkiy Znak|Myagkiy]] and *Dread Helm* for Krageer).
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Vyldara](https://forgottenrealms.fandom.com/wiki/Vyldara)

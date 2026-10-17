@@ -31,8 +31,10 @@ Cryovain was chained to the "[[Krigvind]]", the jarl's colossal warship. During 
 After escaping the frost giants, Cryovain flew south to avoid other more powerful dragons. He killed the orc war chief [[Kra]] and drove his tribe of orcs out of [[Icespire Hold]] on [[Icespire Peak]], taking the fortress as his new lair. Cryovain terrorized the surrounding areas&mdash;including the settlements of [[Phandalin]], [[Gnomengarde]], [[Leilon]], and [[Neverwinter]]&mdash;and the displaced orcs wreaked havoc in the area as well. Cryovain also drove a manticore from its mountaintop nest, which then attacked [[Adabra Gwynn|Adabra Gwynn's]] home on [[Umbrage Hill]].
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Slain (Act 1 Final Boss — Level 7 Milestone)
+* **Party Notes:**
+  * **Frontier Reign of Terror (Levels 1–6):** Cryovain's arrival atop [[Icespire Hold]] drove the manticore to attack [[Adabra Gwynn]] at [[Umbrage Hill]], displaced the mountain orc tribe into [[Butterskull Ranch]], the [[Shrine of Savras]], and the alliance with the [[Anchorites of Talos]], and kept [[Phandalin]] in perpetual dread.
+  * **The Rooftop Showdown at Icespire Hold (Level 6 &rarr; 7):** After fighting a hobgoblin warband in the foothills, cutting down the [[Stone-Cold Reavers]] inside the gatehouse and fortress halls, and clearing the stirge-infested keep with their newly silvered weapons, [[The Order of Znak]] ascended to the icy roof of [[Icespire Hold]]. To elevate the climax, Peter reinforced Cryovain with a pack of **Ice Mephits**. While [[Myagkiy Znak]] maintained *Bless* on the party and used his *Spiritual Weapon* to swat down the Ice Mephits, the champions dodged blasts of freezing breath. [[Tvyordiy Znak]] delivered a series of clutch **Stunning Strikes** that locked Cryovain in place on the roof, allowing [[Krageer Stoneface Ogolakanu|Krageer]] to unleash devastating rages with Lady Tanamere Alagondar's ***Dragon Slayer* longsword** while [[Rhynok]] hammered the beast with *Sharpshooter* precision from his *+1 longbow*. Slaying Cryovain propelled the party to **Level 7** and spread their renown to [[Dagult Neverember]] in [[Neverwinter]] and the Lords of [[Waterdeep]].
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Cryovain](https://forgottenrealms.fandom.com/wiki/Cryovain)

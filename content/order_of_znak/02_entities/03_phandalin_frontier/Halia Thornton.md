@@ -32,8 +32,8 @@ In the , Halia was killed by the sect of the [[Zhentarim]] loyal to the [[Mansho
 Thornton was a calculating agent with huge ambitions. She wished to further the Zhentarim cause by taking over [[Phandalin]] and adding it to their territory. Thornton wished to do this by slowly establishing her guild as the governing body of the village.
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Met (Allied Broker & Quest Contact)
+* **Party Notes:** Calculating guildmaster of the [[Phandalin]] Miner's Exchange who coordinated mineral claims and frontier bounties with [[The Order of Znak]], particularly regarding the dwarven excavation at the [[Temple of Abbathor]] and the liberation of [[Mountain's Toe Gold Mine]] alongside [[DonJon Raskin]].
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Halia Thornton](https://forgottenrealms.fandom.com/wiki/Halia%20Thornton)

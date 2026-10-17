@@ -28,8 +28,8 @@ Vincent is a sturdy draft ox stabled in Phandalin.
 Known for reliable freight hauling along the Triboar Trail, Vincent aided in hauling mining gear and timber for the town's rebuilding efforts.
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Met & Escorted (Loggers' Camp Supply Run)
+* **Party Notes:** Dependable draft ox provided by [[Elmar Barthen]] at Barthen's Provisions in [[Phandalin]] to pull the supply wagon—and the infamous *Poison Spray*-trapped payroll crate—when [[The Order of Znak]] marched into Neverwinter Wood at **Level 3** to resupply and rescue [[Tibor Wester]] at the [[Loggers' Camp]].
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Vincent (ox)](https://forgottenrealms.fandom.com/wiki/Vincent%20%28ox%29)

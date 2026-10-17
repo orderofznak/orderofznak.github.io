@@ -42,8 +42,8 @@ She was described to be sharp-tongued. and was grateful to anyone that could aid
 Graywind was a representative of the [[Lionshield Coster]], a [[Yartar]]-based merchant organization. She traded in a wide variety of supplies, and the Lionshield Coster was the main place to buy finished goods Linene did not deal in illicit goods,
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Met (Allied Quartermaster & Armorer)
+* **Party Notes:** Master of the Lionshield Coster in [[Phandalin]] and the party's primary martial outfitter during Act 1. After Level 5—when [[Krageer Stoneface Ogolakanu|Krageer]] and [[Tvyordiy Znak|Tvyordiy]] were rendered completely unable to harm the immune wererats at [[Mountain's Toe Gold Mine]]—the party returned to Phandalin and commissioned the local smiths and outfitters to **silver** Krageer's greataxe, Tvyordiy's *Qiang* (spear), and [[Rhynok]]'s short sword prior to assaulting [[Axeholm]] and [[Icespire Hold]].
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Linene Graywind](https://forgottenrealms.fandom.com/wiki/Linene%20Graywind)

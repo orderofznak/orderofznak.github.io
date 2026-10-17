@@ -29,8 +29,9 @@ modules: ["Dragon of Icespire Peak", "Storm Lord's Wrath", "Sleeping Dragon's Wa
 ---
 
 ## ⚔️ Campaign Role in *The Order of Znak*
-* **The Blight Invasion (Act 1):** Orchestrated attacks across the frontier, infesting the Woodland Manse with needle and twig blights before being eradicated by [[The Order of Znak]].
-* **The Siege of Leilon (Act 4):** Marched upon rebuilt [[Leilon]] in a multi-front assault against both town defenders and rival Myrkulite death cultists under [[Ularan Mortus]], seeking to claim the planar *Ruinstone*.
+* **Loggers' Camp Totems & The First Woodland Manse Retreat (Level 3):** [[The Order of Znak]] first uncovered the Anchorites' sabotage at the [[Loggers' Camp]], where [[Myagkiy Znak]] located the hidden totems summoning Giant Boars and ankhegs. Following a map discovered on a dead wizard at the [[Woodland Manse]]—where [[Grannoc]] and an overwhelming wave of twig, needle, and vine blights forced the Level 3 party into their only tactical retreat of Act 1—the party sailed to the [[Tower of Storms]] and slew the undead anchorite [[Moesko]].
+* **The Circle of Thunder & Second Assault on the Woodland Manse (Levels 5–6):** Enlisting the centaur [[Xanth]], the Level 5 party ambushed [[Yargath]] and ten Talosian orcs en route to the [[Circle of Thunder]], then defeated [[Flenz]], [[Narux]], and the summoned primordial boar [[Gorthok]] the Thunder Boar in a tempestuous summit battle. Immediately afterward, the party marched back to the [[Woodland Manse]] with Extra Attacks, *Spirit Guardians*, *Stunning Strikes*, and Xanth's hooves to annihilate Grannoc, the remaining anchorites, their blight hordes, and a flock of stirges.
+* **The Siege of Leilon (Act 4):** Under High Priestess [[Fheralai Stormsworn]], the cult marched upon rebuilt [[Leilon]] in a multi-front assault against both town defenders and rival Myrkulite death cultists under [[Ularan Mortus]], culminating in the final flagship dreadnaught battle beneath the storm apparition of Talos.
 
 ---
 

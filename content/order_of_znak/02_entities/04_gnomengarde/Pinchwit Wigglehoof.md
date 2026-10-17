@@ -30,8 +30,8 @@ tags: [npc, order-of-znak, leilon]
 Pinchwit bred a herd of giant goats that provided large quantities of milk and meat. She also sold their goat hair, prized for its warmth and tensile strength.
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Met (Leilon & Phandalin Frontier)
+* **Party Notes:** Gnome goatherd from [[Leilon]] whose giant goat herd trade with [[Elmar Barthen]] at [[Phandalin]] bridged the frontier settlements protected by [[The Order of Znak]].
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Pinchwit Wigglehoof](https://forgottenrealms.fandom.com/wiki/Pinchwit%20Wigglehoof)

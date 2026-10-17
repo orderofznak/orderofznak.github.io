@@ -26,7 +26,8 @@ modules: ["Dragon of Icespire Peak"]
 ---
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Confrontation at Icespire Hold:** Encountered by [[The Order of Znak]] within the cold stone chambers of Icespire Hold. Faced with the Order's overwhelming martial resolve, the Reavers were subdued and forced to abandon their opportunistic plunder.
+* **Encounter Status:** Slain (Icespire Hold Gatehouse & Halls)
+* **Confrontation at Icespire Hold (Level 6):** Encountered by [[The Order of Znak]] within the frozen gatehouse and stone halls of [[Icespire Hold]]. Rejecting the mercenaries' opportunistic schemes, the Order fought [[Brakkis Elspaar]], [[Dobin Noreth]], [[Jabarl]], and [[Runa Vokdottir]] in their trademark uncompromising fashion—deploying newly silvered melee weapons ([[Krageer Stoneface Ogolakanu|Krageer]]'s greataxe, [[Tvyordiy Znak|Tvyordiy]]'s *Qiang*, and [[Rhynok]]'s short sword) alongside [[Myagkiy Znak|Myagkiy]]'s radiant magic to wipe out the entire mercenary band before ascending to the roof to slay [[Cryovain]].
 
 ---
 

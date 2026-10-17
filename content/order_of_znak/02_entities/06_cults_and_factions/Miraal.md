@@ -34,8 +34,8 @@ As a banshee, Miraal was undead and appeared as a spectral, once-beautiful elven
 In life, Miraal was known to **awaken** sea creatures and earn their loyalty. In death, she was bound to the place in which she was murdered, a tunnel-like sea cave, and was unable to travel more than  from either entrance. While she was as hateful as any banshee, her hatred was mostly directed toward her murderer, [[Moesko]]. She remained rational enough to attempt to bargain with adventurers, offering them safe passage in exchange for their promise to kill Moesko and return her conch shell spellcasting focus. However, she would relentlessly attempt to kill any who refused this offer.
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Met & Laid to Rest (Tower of Storms)
+* **Party Notes:** Elven wizard turned **banshee** haunting a cave at the base of the [[Tower of Storms]]. At **Level 3**, [[The Order of Znak]] spoke with Miraal and agreed to recover her stolen spellbook from her skeletal corpse beneath the sunken shipwrecks in the reef below. Upon delivering the spellbook, Miraal departed in peace and rewarded the party with the **+1 Longbow**, which became [[Rhynok]]'s signature weapon and proved decisive against the immune wererats of [[Mountain's Toe Gold Mine]].
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Miraal](https://forgottenrealms.fandom.com/wiki/Miraal)

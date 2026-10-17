@@ -30,8 +30,8 @@ Alfonse Kalazorn was the sheriff of the town of [[Triboar]] until he retired aro
 **Circa** [[1491 DR]], the ranch was attacked by a small band of orcs who had been driven from [[Icespire Hold]] by the white dragon [[Cryovain]]. The orcs freed the pigs and set the barn and the smithy on fire. A few other animals, including the cow Petunia, also escaped. Alfonse and five of his ranch hands tried to defend the ranch but Alfonse was captured and the hands were killed. Only one ranch hand survived and fled on horseback to the village of [[Phandalin]] to get help.
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Met (Rescued Ally)
+* **Party Notes:** Retired sheriff and proprietor of [[Butterskull Ranch]] ("Big Al"). At **Level 3**, [[The Order of Znak]] rode to his burning ranch after spotting his prize cow [[Petunia (cow)|Petunia]] on the Triboar Trail. The party slaughtered the invading band of displaced orcs, freed Big Al from his cellar chains, recovered Petunia, and returned him to [[Phandalin]], earning his prized **Mithral Chain Mail** for Life Cleric [[Myagkiy Znak]].
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Alfonse Kalazorn](https://forgottenrealms.fandom.com/wiki/Alfonse%20Kalazorn)

@@ -30,8 +30,8 @@ Following the appearance of the white dragon [[Cryovain]] in the region, an alli
 Pell was a mute boy who was twelve years old in [[1492 DR]]. He lived in a simply furnished bedroom on the upper level of the stable house.
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Met (Falcon's Hunting Lodge)
+* **Party Notes:** Mute stablehand tending the grounds and rookery at [[Falcon's Hunting Lodge]]. Assisted [[The Order of Znak]] during their **Level 3** stay at the lodge and escaped with [[Gustaf Stellern|Falcon]] and [[Corwin]] to [[Phandalin]] when the [[Anchorites of Talos]] and a giant boar ransacked the palisade.
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Pell](https://forgottenrealms.fandom.com/wiki/Pell)

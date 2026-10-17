@@ -32,8 +32,8 @@ Barthen had a kindly manner.
 Barthen had a good business relationship with Phandalin's Townmaster, [[Harbin Wester]], and helped Harbin and his half-brother, [[Tibor Wester]], to circumvent [[Neverwinter]] taxes by transporting supplies to the latter's [[Tibor Wester's loggers' camp|logging business]].
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Met (Allied Merchant & Quest Giver)
+* **Party Notes:** Proprietor of Barthen's Provisions in [[Phandalin]]. Concerned over disrupted supply lines to the [[Loggers' Camp]], Barthen hired [[The Order of Znak]] at Level 3 to deliver fresh provisions accompanied by the ox [[Vincent (ox)|Vincent]] and the pig, unaware that [[Tibor Wester]] had sealed the payroll inside a trapped crate rigged with a *Poison Spray* mechanism that blasted [[Tvyordiy Znak|Tvyordiy]] and [[Myagkiy Znak|Myagkiy]] when they pried it open on the trail.
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Elmar Barthen](https://forgottenrealms.fandom.com/wiki/Elmina%20Barthen)

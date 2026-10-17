@@ -28,8 +28,8 @@ tags: [npc, order-of-znak]
 Flenz and his fellow anchorites conducted rituals at the Circle of Thunder in order to invoke Talos, to create storms, and to summon [[Gorthok]], a primal spirit known as the "Thunder Boar." These rituals often entailed blood sacrifices of animals or humanoids, followed by dancing around the victim's corpse. During these dances, Flenz would wear a rotted boar's head as a mask.
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Slain (Circle of Thunder)
+* **Party Notes:** Half-orc [[Anchorites of Talos|Anchorite of Talos]] who performed the storm ritual alongside [[Narux]] atop the [[Circle of Thunder]] to summon [[Gorthok]] the Thunder Boar. Slain at **Level 5–6** by [[The Order of Znak]] and centaur ally [[Xanth]] during the tempestuous summit battle amidst lightning bolts, twig blights, and vine blights.
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Flenz](https://forgottenrealms.fandom.com/wiki/Flenz)

@@ -28,8 +28,8 @@ tags: [npc, order-of-znak]
 Quippy was not afraid to defend herself if attacked, but like most inhabitants of Gnomengarde, she was not likely to start a fight, even if she discovered an intruder in her home.
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Met (Gnomengarde Expedition — Level 2)
+* **Party Notes:** Resident of [[Gnomengarde]] encountered during [[The Order of Znak]]'s **Level 2** expedition to track down and slay the shapeshifting **Mimic** that had devoured two gnomes.
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Quippy](https://forgottenrealms.fandom.com/wiki/Quippy)

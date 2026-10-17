@@ -28,8 +28,8 @@ tags: [npc, order-of-znak]
 Yargath was a half-orc, but her appearance left some doubt as to her exact heritage at first glance. Her fingernails were long and sharp, appearing as claws. She kept few furnishings or possessions, save for a **potion of greater healing** that she took with her when out on patrol in the nearby woods. The anchorites put these orcs to work harassing local hunters or patrolling the area around the Circle, and Yargath was known to lead such orc patrols.
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Slain (Custom Wilderness Battlemap en route to Circle of Thunder)
+* **Party Notes:** Half-orc [[Anchorites of Talos|Anchorite of Talos]] warband commander. At **Level 5**, as [[The Order of Znak]] and their centaur companion [[Xanth]] marched from [[Dragon Barrow]] and [[Phandalin]] toward the [[Circle of Thunder]], Peter staged a custom battlemap encounter where the party clashed with Yargath and a contingent of **ten Talosian orcs**. With [[Myagkiy Znak]]'s *Spirit Guardians*, [[Krageer Stoneface Ogolakanu|Krageer]]'s silvered greataxe, [[Rhynok]]'s *Sharpshooter* bow, [[Tvyordiy Znak]]'s *Stunning Strikes*, and Xanth's hooves, the party slaughtered Yargath and all ten orcs before pressing on to slay [[Gorthok]].
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Yargath](https://forgottenrealms.fandom.com/wiki/Yargath)

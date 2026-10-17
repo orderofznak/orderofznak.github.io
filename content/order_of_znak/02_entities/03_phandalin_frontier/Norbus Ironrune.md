@@ -32,8 +32,8 @@ When a group of adventurers came to the excavation site and warned Norbus and Da
 Norbus seemed brusque and acted overly wary. He enjoyed joking around with Dazlyn.
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Met (Employer & Allied Prospector)
+* **Party Notes:** Gruff shield dwarf prospector working with [[Dazlyn Grayshard]] at the [[Temple of Abbathor]]. Aided by [[The Order of Znak]] at **Level 1–2**, who eliminated two ochre jellies inside the ruins and four marauding orcs at the canyon entrance. Together with Dazlyn, Norbus rewarded the party with a pair of **Sending Stones** that served as the Order's long-range communication lifeline across the entire four-campaign saga.
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Norbus Ironrune](https://forgottenrealms.fandom.com/wiki/Norbus%20Ironrune)
