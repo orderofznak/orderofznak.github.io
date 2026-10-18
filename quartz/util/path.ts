@@ -237,16 +237,19 @@ export function transformLink(src: FullSlug, target: string, opts: TransformOpti
     let [targetCanonical, targetAnchor] = splitAnchor(canonicalSlug)
 
     if (opts.strategy === "shortest") {
-      // if the file name is unique, then it's just the filename
+      // if the file name is unique (or has matches across campaigns), resolve to same-campaign match or first match
       const matchingFileNames = opts.allSlugs.filter((slug) => {
         const parts = slug.split("/")
         const fileName = parts.at(-1)
         return targetCanonical === fileName
       })
 
-      // only match, just use it
-      if (matchingFileNames.length === 1) {
-        const targetSlug = matchingFileNames[0]
+      if (matchingFileNames.length >= 1) {
+        const srcTopFolder = src.split("/")[0]
+        const sameCampaignMatch = matchingFileNames.find(
+          (slug) => slug.split("/")[0] === srcTopFolder,
+        )
+        const targetSlug = sameCampaignMatch ?? matchingFileNames[0]
         return (resolveRelative(src, targetSlug) + targetAnchor) as RelativeURL
       }
     }
