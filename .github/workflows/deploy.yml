@@ -41,3 +41,60 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+      - name: Notify Discord (#wiki-automation)
+        if: always()
+        continue-on-error: true
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          JOB_STATUS: ${{ job.status }}
+          ACTOR: ${{ github.actor }}
+          COMMIT_MSG: ${{ github.event.head_commit.message }}
+          COMMIT_URL: ${{ github.event.head_commit.url }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          PAGE_URL: ${{ steps.deployment.outputs.page_url || 'https://orderofznak.github.io' }}
+        run: |
+          if [ -z "$DISCORD_WEBHOOK_URL" ]; then
+            echo "DISCORD_WEBHOOK_URL secret not configured; skipping notification."
+            exit 0
+          fi
+
+          if [ "$JOB_STATUS" = "success" ]; then
+            TITLE="✅ Order of Znak Wiki Published Successfully"
+            COLOR=3066993
+            DESC="The Quartz wiki built and deployed cleanly to GitHub Pages."
+          else
+            TITLE="❌ Order of Znak Wiki Build / Deploy Failed ($JOB_STATUS)"
+            COLOR=15158332
+            DESC="The Quartz wiki pipeline encountered an error. Check the workflow logs below."
+          fi
+
+          COMMIT_FIRST_LINE=$(printf '%s' "${COMMIT_MSG:-Manual workflow dispatch}" | head -n 1)
+
+          PAYLOAD=$(jq -n \
+            --arg username "Order of Znak Wiki Bot" \
+            --arg title "$TITLE" \
+            --arg desc "$DESC" \
+            --argjson color "$COLOR" \
+            --arg actor "$ACTOR" \
+            --arg commit_msg "$COMMIT_FIRST_LINE" \
+            --arg commit_url "${COMMIT_URL:-$RUN_URL}" \
+            --arg run_url "$RUN_URL" \
+            --arg page_url "$PAGE_URL" \
+            '{
+              username: $username,
+              embeds: [{
+                title: $title,
+                description: $desc,
+                url: $page_url,
+                color: $color,
+                fields: [
+                  { name: "Published By", value: $actor, inline: true },
+                  { name: "Status", value: ($color == 3066993 | if . then "SUCCESS" else "FAILED" end), inline: true },
+                  { name: "Commit", value: ("[" + $commit_msg + "](" + $commit_url + ")"), inline: false },
+                  { name: "Links", value: ("[🌐 Live Wiki](" + $page_url + ") • [📜 Build Logs](" + $run_url + ")"), inline: false }
+                ]
+              }]
+            }')
+
+          curl -fsSL -H "Content-Type: application/json" -d "$PAYLOAD" "$DISCORD_WEBHOOK_URL"
+
