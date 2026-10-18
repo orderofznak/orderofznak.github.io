@@ -20,8 +20,8 @@ modules: ["Dragon of Icespire Peak"]
 ---
 
 ## ⚔️ Campaign Interactions & Party Quest
-* **The Outhouse Ambush:** Responding to word of an orc raid on the ranch during Act 1 (*Dragon of Icespire Peak*), [[The Order of Znak]] approached the overrun farmstead and kicked off the assault with a memorable **surprise attack on an orc who had stepped outside to use the outhouse**!
-* **Clearing the Farmhouse & Rescuing Big Al and Petunia:** Storming the two-story ranch house, the champions cut down the remaining marauding **Orcs** ([[Rhynok]]'s Favored Enemy), freed **[[Alfonse Kalazorn|"Big Al" Kalazorn]]** from his cellar captivity, and rescued his beloved prize dairy cow **[[Petunia (cow)|Petunia]]** from the orcs' clutches.
+* **The Outhouse Ambush & Window Scouting:** Responding to word of an orc raid on the ranch during Act 1 (*Dragon of Icespire Peak*), [[The Order of Znak]] approached the overrun farmstead and kicked off the assault with a memorable **surprise attack on an orc who had stepped outside to use the outhouse**, before **[[Rhynok]]** crept up to peek through a farmhouse window and scout the marauders inside!
+* **Defeating 12 Orcs & Rescuing Big Al and Petunia:** Storming the two-story ranch house, the champions **defeated 12 marauding Orcs** ([[Rhynok]]'s Favored Enemy), freed **[[Alfonse Kalazorn|"Big Al" Kalazorn]]** from his cellar captivity, rescued his beloved prize dairy cow **[[Petunia (cow)|Petunia]]**, and took a well-earned long rest at the ranch before Big Al relocated to [[Phandalin]].
 
 ---
 

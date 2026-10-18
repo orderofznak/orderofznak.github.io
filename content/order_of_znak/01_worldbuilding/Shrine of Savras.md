@@ -22,7 +22,7 @@ modules: ["Dragon of Icespire Peak"]
 ## ⚔️ Campaign Interactions & Party Quest
 * **Fierce Battle Alongside [[DonJon Raskin]]:** Linking up with the legendary, Cajun-accented mine overseer **[[DonJon Raskin]]**, [[The Order of Znak]] detoured to the Shrine of Savras. Fighting side-by-side with DonJon (and with [[Rhynok]] now wielding his **+1 Longbow** from the [[Tower of Storms]]), the party clashed with the occupying horde of **Orcs** and **Ogres** in a fierce, scary battle against the hulking behemoths, ultimately slaying the entire warband.
 * **The Divinatory Altar Vision:** Approaching the uncovered stone altar in the central sanctuary, **[[Rhynok]]** and **[[Krageer Stoneface Ogolakanu]]** laid hands upon the ancient stone and experienced Savras's prophetic vision—looking through the eyes of a soaring hawk to behold the white dragon **[[Cryovain]]** slumbering atop the frozen battlements of **[[Icespire Hold]]**.
-* **Heisting the Solid Gold Bell:** Before departing, **[[Krageer Stoneface Ogolakanu]]** and **[[Tvyordiy Znak]]** scaled the ruined belfry tower and pried loose the shrine's **solid gold bell** (worth 2,500 gp)!
+* **Heisting & Selling the Solid Gold Bell (2,500 gp):** Before departing, **[[Krageer Stoneface Ogolakanu]]** and **[[Tvyordiy Znak]]** scaled the ruined belfry tower, pried loose the shrine's **solid gold bell**, and hauled it back to **sell for 2,500 gp**!
 
 ---
 

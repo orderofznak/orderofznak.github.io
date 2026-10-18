@@ -20,8 +20,8 @@ modules: ["Dragon of Icespire Peak"]
 ---
 
 ## ⚔️ Campaign Interactions & Party Quest
-* **First Foray (Pre-Mountain's Toe):** [[The Order of Znak]] made an initial foray to Dragon Barrow prior to [[Mountain's Toe Gold Mine]], encountering the barrow's **Will-o'-Wisps** / **Invisible Stalker**, though the delve was left unfinished—leaving [[Krageer Stoneface Ogolakanu]] without a magic weapon when the party subsequently faced [[Zeleen Varnaster]]'s immune wererats.
-* **Return Post-[[Axeholm]] — Claiming the *Dragon Slayer* Longsword & Enlisting [[Xanth]]:** After clearing [[Axeholm]] at Level 5, the party **returned to Dragon Barrow** to finish the job. Slaying **1 Will-o'-Wisp** in the Adventurers' Sepulcher and defeating the **Invisible Stalker** guardian conjured at the Dragon's Skull sarcophagus, **[[Krageer Stoneface Ogolakanu]]** took possession of Lady Tanamere's glowing ***Dragon Slayer* Longsword** (+1 magic longsword dealing +3d6 bonus slashing damage against dragons). Outside the barrow, the party met and **enlisted the centaur [[Xanth]]** to march with them against the [[Anchorites of Talos]] at the [[Circle of Thunder]]!
+* **Delving the Tomb & Slaying the Invisible Stalker:** After clearing [[Axeholm]] and attuning their newfound relics, [[The Order of Znak]] rode past the [[Shrine of Savras]] and Conyberry (as [[Cryovain]] wheeled overhead) to delve into **Dragon Barrow**. Navigating the trapped earthen tunnels, the party extinguished **1 Will-o'-Wisp** in the Adventurers' Sepulcher and fought and killed the unseen **Invisible Stalker** guarding the Dragon's Skull sarcophagus—allowing **[[Krageer Stoneface Ogolakanu]]** to claim Lady Tanamere's glowing ***Dragon Slayer* Longsword** (+1 magic longsword dealing +3d6 bonus slashing damage against dragons).
+* **Exploring the Cave & Enlisting [[Xanth]]:** After finishing their exploration of the subterranean barrow passages, the party met and **enlisted the centaur [[Xanth]]** outside the mound, marching together into Neverwinter Wood to crush [[Yargath]]'s patrol and the [[Anchorites of Talos]] at the [[Circle of Thunder]]!
 
 ---
 
