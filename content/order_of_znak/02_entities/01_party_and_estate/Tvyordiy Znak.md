@@ -47,9 +47,6 @@ tags: [character-sheet, aarakocra, monk, drunken-master, tvyordiy-znak, order-of
 ![[TZnak_Portrait.png]]
 *Portrait of Tvyordiy Znak (Ъ) — Canonically drawn by young [[Yasmina]] shortly after her rescue from the Night Hag in "Keeping the Faith"*
 
-![[lizardfokl-monk.jpg]]
-*Monk Martial Stance & Lizardfolk Tribe Allies*
-
 ![[Arm-wrestling.png]]
 *Arm Wrestling Contest — Krageer Stoneface Ogolakanu vs. Tvyordiy Znak*
 
