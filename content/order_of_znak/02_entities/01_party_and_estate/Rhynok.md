@@ -45,6 +45,9 @@ tags: [character-sheet, elf, ranger, rogue, gloomstalker, assassin, rhynok, orde
 ![[Rhynok.png]]
 *Rhynok — Wood Elf Gloom Stalker Ranger / Assassin Rogue*
 
+![[Rhynock_Portrait.png]]
+*Portrait of Rhynok — Canonically drawn by young [[Yasmina]] shortly after her rescue from the Night Hag in "Keeping the Faith"*
+
 ---
 
 ## 📊 Character Build, Level Progression & Gear Acquisition Log

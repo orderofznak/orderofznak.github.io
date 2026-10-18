@@ -44,6 +44,9 @@ tags: [character-sheet, aarakocra, monk, drunken-master, tvyordiy-znak, order-of
 ![[TZnak.png]]
 *Tvyordiy Znak (Ъ) — Aarakocra Monk (Way of the Drunken Master)*
 
+![[TZnak_Portrait.png]]
+*Portrait of Tvyordiy Znak (Ъ) — Canonically drawn by young [[Yasmina]] shortly after her rescue from the Night Hag in "Keeping the Faith"*
+
 ![[lizardfokl-monk.jpg]]
 *Monk Martial Stance & Lizardfolk Tribe Allies*
 

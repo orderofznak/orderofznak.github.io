@@ -34,7 +34,7 @@ The centerpiece of the axehead features a sculpted horned fiend evoking the demo
 
 ## ⚔️ Combat Role & Table History
 * **Martial Synergy:** Krageer paired Ultima Exodus with the **Great Weapon Master (GWM)** feat and the Champion Fighter archetype's expanded critical range (19–20), capitalizing on adamantine properties and maximum martial DPR.
-* **Fire Giant Queen Encounter:** Wielded by Krageer after being enlarged by [[Myagkiy Znak]] during the climactic duel inside the dormant volcano in *"Keeping the Faith"*.
+* **Fire Giant Queen Encounter:** Carried by Krageer during the climactic duel inside the dormant volcano in *"Keeping the Faith"*, where he drank [[Puck Caribdas]]'s *Potion of Growth* and was simultaneously *Enlarged* by [[Myagkiy Znak]] ("Double-Enlarge" to Huge size) to wrestle the Fire Giant Queen.
 
 ---
 

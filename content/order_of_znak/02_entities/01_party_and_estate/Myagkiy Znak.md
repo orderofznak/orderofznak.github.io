@@ -34,10 +34,16 @@ tags: [character-sheet, human, cleric, life-domain, myagkiy-znak, order-of-znak]
 
 ### 🐲 [[04 - Act 3 - Sleeping Dragon's Wake|Act 3: Sleeping Dragon's Wake]] & [[05 - Interlude 2 - Keeping the Faith|Interlude 2: "Keeping the Faith"]]
 * **The Deeping Cave Acid Ferry:** In [[Claugiyliamatar]]'s lair, Myagkiy cast *Water Walk* and personally ferried [[Rhynok]]'s *Ring of Water Walking* back and forth across the boiling subterranean acid pools to guide each companion safely across—and poured out restorative healing after Krageer impulsively charged straight through the acid.
-* **Dayne's Plate & Enlarging Krageer in the Volcano:** In *"Keeping the Faith"*, Myagkiy helped rescue young **[[Yasmina]]** from a predatory Night Hag and recovered the stolen **+2 Plate Armor** of Forge Cleric **[[Dayne Beltran]]**, who bestowed the sacred armor upon Myagkiy. In the dormant volcano climax, Myagkiy cast ***Enlarge*** on [[Krageer Stoneface Ogolakanu]], empowering the Goliath to wrestle the **Fire Giant Queen** in the lava!
+* **Dayne's Plate & Double-Enlarging Krageer in the Volcano:** In *"Keeping the Faith"*, Myagkiy helped rescue young **[[Yasmina]]** from a predatory Night Hag and recovered the stolen **+2 Plate Armor** of Forge Cleric **[[Dayne Beltran]]**, who bestowed the sacred armor upon Myagkiy. In the dormant volcano climax, after [[Krageer Stoneface Ogolakanu]] quaffed a ***Potion of Growth*** purchased from [[Puck Caribdas]] in [[Leilon]] (`Medium` &rarr; `Large`), Myagkiy cast ***Enlarge*** on top of it (`Large` &rarr; `Huge`)—stacking both transmutation effects via the Rule of Cool so the Goliath could wrestle the **Huge Fire Giant Queen** eye-to-eye in the lava!
 
 ### ⚡ [[06 - Act 4 - Divine Contention|Act 4: Divine Contention]]
 * **The Bastion of Leilon & The Dreadnaught Deck:** Clad in 24 AC enchanted plate and shield, Myagkiy stood unyielding against the Star Spawn Manglers atop the House of Thalivar, weathered [[Claugiyliamatar]]'s siege of Leilon, and boarded the hurricane-lashed Talosite flagship dreadnaught aboard *[[Twinkle and Icingdeath|Twinkle]]* to vanquish **[[Fheralai Stormsworn]]**, an Air Elemental Myrmidon, and a Nalfeshnee demon.
+
+---
+
+## 🎨 Artwork & Imagery
+![[MZnak_Portrait.png]]
+*Portrait of Myagkiy Znak (Ь) — Canonically drawn by young [[Yasmina]] shortly after her rescue from the Night Hag in "Keeping the Faith"*
 
 ---
 

@@ -30,8 +30,8 @@ Dedicated to the Morninglord, offering solace, healing, and spiritual guidance. 
 ### 3. House of Thalivar
 An ominous, ruined wizard's tower dominating the town center, containing lingering arcane wards and planar hazards. Stationed in study H3 is the short-tempered Rashemi wizard **[[Gallio Elibro]]**, who suffers from exhaustion caused by nightly possession by the **ghost of Thalivar**, beseeching the Order to cleanse the tower's spectral manifestations.
 
-### 4. Aubrey's Peculiarities & The Swords of Leilon
-A quirky antiquities and magic curio shop run by the eccentric **[[Aubrey Silverspun]]**. Unknown to the populace, Aubrey was secretly an ancient **ghost** of the historic **Swords of Leilon**, visible only to the champions of the Order until his shop's destruction in *Divine Contention* revealed his painted portrait among the ancient heroes.
+### 4. Aubrey's Peculiarities, Puck's Apothecary & The Swords of Leilon
+A quirky antiquities and magic curio shop run by the eccentric **[[Aubrey Silverspun]]**. Unknown to the populace, Aubrey was secretly an ancient **ghost** of the historic **Swords of Leilon**, visible only to the champions of the Order until his shop's destruction in *Divine Contention* revealed his painted portrait among the ancient heroes. Nearby, the nervous elven Tymoran acolyte **[[Puck Caribdas]]** peddled alchemical potions—most famously selling **[[Krageer Stoneface Ogolakanu]]** the ***Potion of Growth*** that (stacked with [[Myagkiy Znak]]'s *Enlarge* spell) gave Krageer the Huge stature to wrestle the Fire Giant Queen in *"Keeping the Faith"*, inspiring Krageer's two punny endorsement quotes on Puck's bottle labels.
 
 ### 5. The Order of Znak Headquarters
 The fortified manor and personal residence constructed by [[The Order of Znak]] with Grizzelda's masonry crews. Managed by the unflappable human majordomo **[[Leopold]]**, the estate served as the martial heart of the town, housing the heroes, their adopted wards ([[Smithwell and Burnice|Smithwell and Burnice]], [[Yasmina]]), and lizardfolk exchange allies ([[Graxxoamo]], [[Shriss]]).
@@ -56,10 +56,12 @@ The fortified manor and personal residence constructed by [[The Order of Znak]] 
 * **[[The Order of Znak]]:** Resident protectors and champions who established their permanent fortified base here.
 * **[[Leopold]]:** Human majordomo running the Order's headquarters, trade manifests, and wards care.
 * **[[Smithwell and Burnice]]:** Fisher orphans rescued during the kraken raid and raised at the Order's headquarters.
+* **[[Yasmina]]:** Young ward rescued from a Night Hag in *"Keeping the Faith"*, who drew the canonical portraits of the four champions shortly after arriving at the Leilon estate.
 * **[[Merrygold Brightshine]]:** Amiable halfling priest of Lathander tending the town shrine and temple.
 * **[[Grizzelda Copperwraught]]:** Gruff dwarf master builder ("The Growler") overseeing Leilon's reconstruction.
 * **[[Gallio Elibro]]:** Rashemi wizard studying the House of Thalivar, possessed nightly by Thalivar's ghost.
 * **[[Aubrey Silverspun]]:** Spectral curio merchant of Aubrey's Peculiarities, ancient champion of the Swords of Leilon.
+* **[[Puck Caribdas]]:** Nervous elven acolyte of Tymora and town potion-seller who sold [[Krageer Stoneface Ogolakanu]] his famous *Potion of Growth* (complete with Krageer's punny bottle label endorsements).
 * **[[Hazz Yorrum|Sergeant Hazz Yorrum]]:** Corrupt, cowardly Neverwinter garrison sergeant.
 * **[[Martisha Vinetalker]] & [[Cooragh|Cooragh Struckt]]:** Proprietors of the allied Wayside Inn to the north.
 * **[[Grixxugroaz]]:** Sovereign chieftain of the allied Mere of Dead Men lizardfolk tribe to the south.

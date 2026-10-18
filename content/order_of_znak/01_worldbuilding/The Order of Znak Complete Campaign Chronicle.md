@@ -26,7 +26,7 @@ Each chapter of the saga is preserved in its own dedicated in-universe chronicle
 | **Act 2** | **[[02 - Act 2 - Storm Lord's Wrath\|Act 2: Storm Lord's Wrath]]** | Defending [[Leilon]] from [[Nixoxious]]; adopting orphaned wards [[Smithwell and Burnice\|Smithwell & Burnice]]; building the Order's manor under [[Leopold]] & [[Grizzelda Copperwraught]]; [[The Wayside Inn]] romance with [[Cooragh]]; Mere of Dead Men lizardfolk alliance ([[Matriarch Qolzaz]], [[Grixxugroaz]], & [[Ballad of Qolzaz]]). |
 | **Interlude 1** | **[[03 - Interlude 1 - Shadow's Run\|Interlude 1: "Shadow's Run"]]** | Subterranean expedition into lightless Shadowfell-touched caverns, battling shadow creatures and vanquishing a lethal **Shadow Dragon**. |
 | **Act 3** | **[[04 - Act 3 - Sleeping Dragon's Wake\|Act 3: Sleeping Dragon's Wake]]** | Infiltrating Deeping Cave in Kryptgarden Forest; the acid pool relay; hunting undead warlock [[Viantha Cruelhex]] for [[Claugiyliamatar]]; Ebondeath's ([[Chardansearavitriol]]) possession of Old Gnawbone; extracting the poisoned hoard; bluffing [[Gnawbones\|The Gnawbones]] circle. |
-| **Interlude 2** | **[[05 - Interlude 2 - Keeping the Faith\|Interlude 2: "Keeping the Faith"]]** | Recovering stolen enchanted plate armor for Forge Cleric [[Dayne Beltran]]; slaying a Night Hag and rescuing young [[Yasmina]]; epic volcano climax where [[Myagkiy Znak]] enlarges [[Krageer Stoneface Ogolakanu]] to wrestle the **Fire Giant Queen**. |
+| **Interlude 2** | **[[05 - Interlude 2 - Keeping the Faith\|Interlude 2: "Keeping the Faith"]]** | Recovering stolen enchanted plate armor for Forge Cleric [[Dayne Beltran]]; slaying a Night Hag and rescuing young [[Yasmina]] (who drew the canonical portraits of the four champions); epic volcano climax where [[Krageer Stoneface Ogolakanu]] quaffed [[Puck Caribdas]]'s *Potion of Growth* **and** [[Myagkiy Znak]] cast *Enlarge* ("Double-Enlarge" to Huge size) to wrestle the **Fire Giant Queen**. |
 | **Act 4** | **[[06 - Act 4 - Divine Contention\|Act 4: Divine Contention]]** | [[Dumathoin's Gulch]] wereboar ambush & [[Sister Silvergranite]]; Star Spawn Manglers & [[The Ruinstone]] atop the House of Thalivar; sailing aboard *[[Twinkle and Icingdeath]]* to sway [[Dagult Neverember]] & crush [[Galas Windrage]]'s fleet; [[Claugiyliamatar]]'s siege of [[Leilon]] & [[Aubrey Silverspun]]'s portrait; boarding the Talosite dreadnaught against [[Fheralai Stormsworn]]. |
 | **Epilogue** | **[[07 - Epilogue - Bridge Campaign\|Epilogue: Bridge Campaign]]** | Work-in-progress bridge adventure for the four founding champions prior to their protégés (**[[The Acolytes of Znak Campaign Plan\|The Acolytes of Znak]]**) entering the mists of Barovia. |
 
@@ -39,7 +39,7 @@ Uniting in the frontier boomtown of [[Phandalin]] after an early raid by the whi
 * 👉 **Read the Full Chapter:** **[[01 - Act 1 - Dragon of Icespire Peak|Act 1: Dragon of Icespire Peak]]**
 
 ### 2. [[02 - Act 2 - Storm Lord's Wrath|Act 2: Storm Lord's Wrath]]
-Commissioned to protect the rebuilding settlement of **[[Leilon]]**, the Order arrived in the middle of a Kraken Priest raid led by [[Nixoxious]]—shattering the dark ritual and adopting orphaned ten-year-olds **[[Smithwell and Burnice]]** into the Znak family under the care of their unflappable majordomo **[[Leopold]]**. While building their fortified manor with [[Grizzelda Copperwraught]] and befriending [[Merrygold Brightshine]] and mysterious curio dealer [[Aubrey Silverspun]], [[Krageer Stoneface Ogolakanu]] courted half-orc cook **[[Cooragh]]** over her fiery pork pies at [[The Wayside Inn]], and the party turned a bloody clash with [[Matriarch Qolzaz]] into a lasting peace treaty with lizardfolk sovereign **[[Grixxugroaz]]** (immortalized in the ***[[Ballad of Qolzaz]]***).
+Commissioned to protect the rebuilding settlement of **[[Leilon]]**, the Order arrived in the middle of a Kraken Priest raid led by [[Nixoxious]]—shattering the dark ritual and adopting orphaned ten-year-olds **[[Smithwell and Burnice]]** into the Znak family under the care of their unflappable majordomo **[[Leopold]]**. While building their fortified manor with [[Grizzelda Copperwraught]] and befriending [[Merrygold Brightshine]], nervous elven potion-seller [[Puck Caribdas]], and mysterious curio dealer [[Aubrey Silverspun]], [[Krageer Stoneface Ogolakanu]] courted half-orc cook **[[Cooragh]]** over her fiery pork pies at [[The Wayside Inn]], and the party turned a bloody clash with [[Matriarch Qolzaz]] into a lasting peace treaty with lizardfolk sovereign **[[Grixxugroaz]]** (immortalized in the ***[[Ballad of Qolzaz]]***).
 * 👉 **Read the Full Chapter:** **[[02 - Act 2 - Storm Lord's Wrath|Act 2: Storm Lord's Wrath]]**
 
 ### 3. [[03 - Interlude 1 - Shadow's Run|Interlude 1: "Shadow's Run"]]
@@ -51,7 +51,7 @@ Seeking answers in Kryptgarden Forest, the Order infiltrated **Deeping Cave**—
 * 👉 **Read the Full Chapter:** **[[04 - Act 3 - Sleeping Dragon's Wake|Act 3: Sleeping Dragon's Wake]]**
 
 ### 5. [[05 - Interlude 2 - Keeping the Faith|Interlude 2: "Keeping the Faith"]]
-Answering the call of Forge Cleric **[[Dayne Beltran]]**, the Order hunted down a predatory Night Hag—rescuing young **[[Yasmina]]** and recovering Dayne's stolen +2 Plate Armor for [[Myagkiy Znak]]—before descending into a dormant volcano where Myagkiy cast *Enlarge* on [[Krageer Stoneface Ogolakanu]] so the Goliath could wrestle the **Fire Giant Queen** amidst rivers of molten lava.
+Answering the call of Forge Cleric **[[Dayne Beltran]]**, the Order hunted down a predatory Night Hag—rescuing young **[[Yasmina]]** (who shortly afterward canonically drew expressive portraits of all four champions of the Order) and recovering Dayne's stolen +2 Plate Armor for [[Myagkiy Znak]]—before descending into a dormant volcano where [[Krageer Stoneface Ogolakanu]] drank a ***Potion of Growth*** purchased from **[[Puck Caribdas]]** in [[Leilon]] **and** received ***Enlarge*** from [[Myagkiy Znak]] ("Double-Enlarge" to Huge size) so the Goliath could wrestle the **Fire Giant Queen** amidst rivers of molten lava.
 * 👉 **Read the Full Chapter:** **[[05 - Interlude 2 - Keeping the Faith|Interlude 2: "Keeping the Faith"]]**
 
 ### 6. [[06 - Act 4 - Divine Contention|Act 4: Divine Contention]]
@@ -78,6 +78,23 @@ The upcoming bridge adventure for the four founding champions prior to their gro
 ---
 
 ## 🎨 Campaign Chronicle Gallery
+
+### 🖍️ Young Yasmina's Canonical Portraits of the Order
+*Drawn by young [[Yasmina]] shortly after her rescue from the Night Hag in [[05 - Interlude 2 - Keeping the Faith|Interlude 2: "Keeping the Faith"]]:*
+
+![[Krageer_Portrait.png]]
+*Krageer Stoneface Ogolakanu — Drawn by Young Yasmina*
+
+![[Rhynock_Portrait.png]]
+*Rhynok — Drawn by Young Yasmina*
+
+![[TZnak_Portrait.png]]
+*Tvyordiy Znak (Ъ) — Drawn by Young Yasmina*
+
+![[MZnak_Portrait.png]]
+*Myagkiy Znak (Ь) — Drawn by Young Yasmina*
+
+### 🗺️ Scenes, Battles & Landmarks
 ![[Leilon-overhead.webp]]
 *Overhead Cartographic Survey of Rebuilt Leilon*
 
@@ -85,7 +102,7 @@ The upcoming bridge adventure for the four founding champions prior to their gro
 *Krageer Stoneface Ogolakanu and Cooragh at the Wayside Inn*
 
 ![[krageer-firegiant.png]]
-*Krageer Wrestling the Fire Giant Queen in the Volcano*
+*Krageer Double-Enlarged to Huge Size (Puck's Potion of Growth + Myagkiy's Enlarge) Wrestling the Fire Giant Queen in the Volcano*
 
 ![[firegiant.jpg]]
 *The Volcano Boss Battle — Fire Giant Queen Confrontation*
@@ -117,11 +134,15 @@ Gary is an avid character optimizer who min-maxed Krageer and Rhynok for extreme
 * **Krageer's Double-Fail with *Danger Sense* (Act 1):** At the [[Temple of Abbathor]], right after unlocking *Danger Sense* at Level 2 (granting Advantage on Dexterity saves against traps), Krageer pried at the trapped statue gem and rolled **under 15 on both d20s** against the DC 15 save!
 * **Custom Roll20 Map for [[Yargath]]'s Patrol (Act 1):** En route to the [[Circle of Thunder]], Peter built a custom Roll20 wilderness battlemap where the party and centaur [[Xanth]] ambushed [[Yargath]] and ten Talosian orcs.
 * **Rooftop Ice Mephits with [[Cryovain]] (Act 1 Finale):** To elevate the final *Dragon of Icespire Peak* rooftop boss fight against a Level 6 party armed with a *Dragon Slayer* Longsword, Peter added a pack of **Ice Mephits** alongside [[Cryovain]], while Tvyordiy landed clutch *Stunning Strikes* on the dragon.
+* **The "Rule of Cool" Double-Enlarge (`Medium` &rarr; `Large` &rarr; `Huge` in *"Keeping the Faith"*):** Because a single *Enlarge* effect only bumps a Medium Goliath to Large whereas the **Fire Giant Queen** was **Huge**, the table invoked the **Rule of Cool**: Krageer drank a ***Potion of Growth*** bought from **[[Puck Caribdas]]** in [[Leilon]] (`Medium` &rarr; `Large`) **and** **[[Myagkiy Znak]]** cast ***Enlarge*** on him (`Large` &rarr; `Huge`), stacking both transmutations so Krageer could grapple the Huge Fire Giant Queen eye-to-eye in the volcano!
 * **High-Tier Planar Reinforcements (Act 4):** In the *Divine Contention* finale, Peter reinforced [[Fheralai Stormsworn]] with an Air Elemental Myrmidon and a Nalfeshnee demon.
 
 ### 🍕 Table Running Gags & Homages
 * **DonJon's Cajun Accent:** Voiced by Peter with an exaggerated Louisiana Cajun drawl, improvising endless monologues about wild youth escapades and grievances concerning his ex-wives.
 * **The Wayside Inn Fiery Meat Pies & Tattoos:** Krageer's romance with half-orc head cook [[Cooragh]] Struckt was an ongoing comedy highlight driven by his obsession with her alarmingly well-spiced stews and special fiery pork pies. Whenever asked about the curved dagger tattoos beneath her ears, Cooragh would deadpan that she got them purely to spite her human mother from Luskan as youthful folly.
+* **Puck's *Potion of Growth* & Krageer's Punny Label Endorsements:** After buying a *Potion of Growth* from nervous elven Tymoran acolyte **[[Puck Caribdas]]** in [[Leilon]] and using it in the volcano showdown of *"Keeping the Faith"*, Peter pitched two punny endorsement quotes (right up Krageer's alley) for Krageer to give Puck for his bottle labels:
+  * *"I am a huge fan of Puck's Potion of Growth."* — **Krageer**
+  * *"I didn't care for the taste at first, but I grew to like it."* — **Also Krageer**
 * **[[Ultima Exodus]] Greataxe:** Krageer's signature axe was named after *Ultima III: Exodus*, a shared inside joke between Peter and Gary as lifelong *Ultima* fans.
 * **"Shadow's Run" Retro Homage:** Interlude 1 was named *"Shadow's Run"* by Gary as a deliberate nod to *[[Shadowrun]]*, the classic PC game Peter and Gary played together long ago.
 * **Salvatore Drow Lore & The Twin Ships:** Peter's deep familiarity with R.A. Salvatore's 39 *Legend of Drizzt* audiobooks inspired the portrayal of Jarlaxle Baenre's Bregan D'aerthe privateer ships *[[Twinkle and Icingdeath|Twinkle and Icingdeath]]*. Rhynok pierced the illusory glamour cloaking Captain [[Deloz Montiv]]'s drow crew, forging a friendly surface alliance that culminated in Deloz boarding the dreadnaught alongside the Order.

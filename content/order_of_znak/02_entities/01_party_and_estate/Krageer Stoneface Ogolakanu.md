@@ -37,7 +37,7 @@ tags: [character-sheet, goliath, barbarian, fighter, krageer, order-of-znak]
 
 ### 🐲 [[04 - Act 3 - Sleeping Dragon's Wake|Act 3: Sleeping Dragon's Wake]] & [[05 - Interlude 2 - Keeping the Faith|Interlude 2: "Keeping the Faith"]]
 * **Deeping Cave Acid Charge & The Poisoned Hoard:** In [[Claugiyliamatar]]'s lair, grew impatient waiting for the party's *Water Walk* ring relay and charged straight through the boiling acid pools in a barbarian rage. Later, after Ebondeath possessed the green dragon, Krageer braved the poison-trapped treasure vault first as the "sacrificial lamb" before poison-immune [[Tvyordiy Znak]] extracted the hoard.
-* **Wrestling the Fire Giant Queen:** Inside a dormant volcano during *"Keeping the Faith"*, **[[Myagkiy Znak]]** cast *Enlarge* on Krageer, swelling the Goliath to giant-kin stature so he could grapple and overpower the **Fire Giant Queen** amidst rivers of molten lava!
+* **The "Double-Enlarge" Volcano Grapple vs. The Fire Giant Queen:** Inside a dormant volcano during *"Keeping the Faith"*, a single enlargement effect would only boost a Medium Goliath to Large against the **Huge** Fire Giant Queen. Invoking the Rule of Cool, Krageer quaffed the ***Potion of Growth*** he had purchased in [[Leilon]] from elven Tymoran acolyte **[[Puck Caribdas]]** (`Medium` &rarr; `Large`) **and** **[[Myagkiy Znak]]** cast ***Enlarge*** on top of it (`Large` &rarr; `Huge`)! Swelling to full **Huge** titan stature, Krageer grappled and overpowered the **Fire Giant Queen** eye-to-eye amidst rivers of molten lava—and afterward offered Puck two signature punny endorsements for his potion bottle labels.
 
 ### ⚡ [[06 - Act 4 - Divine Contention|Act 4: Divine Contention]]
 * **Psychic Agony at Thalivar's Beacon:** Battled Far Realm **Star Spawn Manglers** atop the House of Thalivar to claim **[[The Ruinstone]]**, enduring the one form of pain his Bear Totem rage could not dull—mind-rending psychic damage ("brain pain").
@@ -50,6 +50,9 @@ tags: [character-sheet, goliath, barbarian, fighter, krageer, order-of-znak]
 ![[Krageer.png]]
 *Krageer Stoneface Ogolakanu — Goliath Bear Totem Barbarian / Champion Fighter*
 
+![[Krageer_Portrait.png]]
+*Portrait of Krageer Stoneface Ogolakanu — Canonically drawn by young [[Yasmina]] shortly after her rescue from the Night Hag in "Keeping the Faith"*
+
 ![[Ultima_exodus_axe.jpeg]]
 *Ultima Exodus — Krageer's legendary +2 two-handed Greataxe*
 
@@ -57,7 +60,7 @@ tags: [character-sheet, goliath, barbarian, fighter, krageer, order-of-znak]
 *Krageer Stoneface Ogolakanu and Cooragh at the Wayside Inn*
 
 ![[krageer-firegiant.png]]
-*Krageer enlarged by Myagkiy Znak wrestling the Fire Giant Queen in the dormant volcano*
+*Krageer at Huge size (via Puck Caribdas's Potion of Growth + Myagkiy Znak's Enlarge) wrestling the Fire Giant Queen in the dormant volcano*
 
 ![[Arm-wrestling.png]]
 *Arm Wrestling Contest — Krageer Stoneface Ogolakanu vs. Tvyordiy Znak*
@@ -93,6 +96,7 @@ tags: [character-sheet, goliath, barbarian, fighter, krageer, order-of-znak]
 | **Silvered Greataxe** | **[[Phandalin]] Smithy** (Level 6 — Jan 20, 2020, pre-[[Axeholm]]) | Krageer paid to silver his greataxe after the [[Mountain's Toe Gold Mine]] wererat fight, vowing never to be powerless against a foe again. |
 | ***Dread Helm*** | **[[Axeholm]]** (Level 6 — Jan 20, 2020, Castellan's Bedchamber) | Found by Myagkiy's Perception check inside the hidden fireplace vault; grants menacing glowing crimson eyes beneath the steel visor. |
 | ***Dragon Slayer* Longsword** | **[[Dragon Barrow]]** (Level 6 — Feb 8, 2020) | Claimed from Lady Tanamere Alagondar's sarcophagus after slaying the Will-o'-Wisp and Invisible Stalker; +1 Longsword dealing **+3d6 bonus slashing damage against dragons** (used to butcher [[Cryovain]] at [[Icespire Hold]] on May 31, 2020). |
+| ***Potion of Growth*** | **[[Leilon]]** from **[[Puck Caribdas]]** (Pre- / During *"Keeping the Faith"*) | Purchased from elven potion merchant [[Puck Caribdas]]; quaffed and stacked via Rule of Cool with [[Myagkiy Znak]]'s *Enlarge* spell (`Medium` &rarr; `Large` &rarr; `Huge`) so Krageer could wrestle the **Fire Giant Queen** in the volcano! |
 | ***[[Ultima Exodus]]*** | **High-Level Campaign (Acts 2–4)** | Signature legendary **+2 Greataxe** forged from silvered and adamantine metal; cleaves through magical defenses and siege structures. |
 | **Longbow** | **Secondary Ranged Weapon** | Used for ranged exchanges and famously during the naval fleet battle against [[Galas Windrage]]. |
 | **+2 Scale Mail Armor** | **Leilon Trilogy (Acts 2–4)** | Brings Krageer's frontline Armor Class to **18 AC**. |
@@ -103,6 +107,10 @@ tags: [character-sheet, goliath, barbarian, fighter, krageer, order-of-znak]
 ## 💡 Behind the Screen & Table Trivia
 * **Optimization Strategy:** Gary min-maxed Krageer for maximum DPR and survivability, blending Bear Totem universal damage resistance with *Reckless Attack*, *Great Weapon Master* (-5/+10), and Champion Fighter's 19–20 critical threat range.
 * **The *Danger Sense* Double-Fail (DC 15):** At Level 2 inside the [[Temple of Abbathor]], right after unlocking *Danger Sense*, Krageer pried at the trapped gem in the Statue of Abbathor—rolling with Advantage on his DC 15 Dexterity save, yet **rolling under 15 on both d20s**!
+* **The "Rule of Cool" Double-Enlarge (`Medium` &rarr; `Large` &rarr; `Huge`):** During the volcano climax of *"Keeping the Faith"*, a single *Enlarge* effect would only increase a Medium Goliath to Large against the **Huge** Fire Giant Queen. Invoking the Rule of Cool, Peter and Gary stacked **[[Puck Caribdas]]'s *Potion of Growth*** with **[[Myagkiy Znak]]'s *Enlarge* spell**, allowing Krageer to reach true **Huge** size and wrestle the Fire Giant monarch as an equal!
+* **Puck's *Potion of Growth* Label Endorsements:** Because punny dad-jokes were right up Krageer's alley, Peter suggested at the table that Krageer give [[Puck Caribdas]] two official endorsement quotes to print on his potion bottle labels:
+  * *"I am a huge fan of Puck's Potion of Growth." — Krageer*
+  * *"I didn't care for the taste at first, but I grew to like it." — Also Krageer*
 * **Inside Joke — *Ultima Exodus*:** The signature greataxe was named after the classic RPG *Ultima III: Exodus*, an intentional inside joke between Gary and Peter as lifelong fans of the *Ultima* franchise.
 * **Running Table Gag — Wayside Inn Meat Pies:** Krageer's courtship of [[Cooragh]] was an improvised table running gag—his affection for her was driven almost entirely by his obsession with her alarmingly spicy tavern pork pies.
 * **The Accidental "Party Face":** Despite having an abysmal Charisma score of 6 (-2 modifier), Gary frequently volunteered Krageer to act as the party's diplomat. Defying all statistical odds, Krageer rolled remarkably high on Persuasion checks and succeeded a surprising number of times—most notably swaying [[Dagult Neverember]] in Neverwinter.

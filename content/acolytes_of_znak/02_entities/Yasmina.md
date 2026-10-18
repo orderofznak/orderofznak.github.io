@@ -173,8 +173,21 @@ Standard Point Buy (27 points) base array:
 ### The Night Hag's Cauldron (*"Keeping the Faith"*)
 Yasmina was originally discovered as a terrified child captive in the remote lair of a predatory Night Hag during Gary's DM adventure *"Keeping the Faith"*. [[The Order of Znak]] champions—[[Myagkiy Znak]], [[Tvyordiy Znak]], [[Krageer Stoneface Ogolakanu]], and [[Rhynok]]—infiltrated the lair to recover the stolen +2 plate armor of Forge Cleric [[Dayne Beltran]]. Upon vanquishing the hag, they discovered young Yasmina imprisoned in the occult chambers, having miraculously survived weeks of psychic torment and foul rituals.
 
-### Raised in the Hearth of the Order
-Rather than leaving the traumatized child with distant authorities, the Order brought Yasmina back to Leilon, raising her alongside fellow rescuees [[Burnice Znak]] and [[Smithwell Znak]]. Under the compassionate guidance of [[Myagkiy Znak]], she was given sanctuary and religious education, while [[Tvyordiy Znak]] and [[Krageer Stoneface Ogolakanu]] taught her the unyielding discipline of heavy steel and spear combat.
+### Raised in the Hearth of the Order & Young Portrait Artist
+Rather than leaving the traumatized child with distant authorities, the Order brought Yasmina back to Leilon, raising her alongside fellow rescuees [[Burnice Znak]] and [[Smithwell Znak]]. Shortly after her rescue and arrival at the Leilon estate, young Yasmina canonically drew and painted expressive portraits of her four saviors—[[Krageer Stoneface Ogolakanu]], [[Rhynok]], [[Tvyordiy Znak]], and [[Myagkiy Znak]]—preserving an enduring child's-eye tribute to the founding champions before her sketches gave way to her later occult and monster journals. Under the compassionate guidance of [[Myagkiy Znak]], she was given sanctuary and religious education, while [[Tvyordiy Znak]] and [[Krageer Stoneface Ogolakanu]] taught her the unyielding discipline of heavy steel and spear combat.
+
+#### 🖍️ Young Yasmina's Portraits of The Order of Znak
+![[Krageer_Portrait.png]]
+*Krageer Stoneface Ogolakanu — Drawn by Young Yasmina*
+
+![[Rhynock_Portrait.png]]
+*Rhynok — Drawn by Young Yasmina*
+
+![[TZnak_Portrait.png]]
+*Tvyordiy Znak (Ъ) — Drawn by Young Yasmina*
+
+![[MZnak_Portrait.png]]
+*Myagkiy Znak (Ь) — Drawn by Young Yasmina*
 
 ### The Iron Witch of Barovia
 Despite the warm embrace of the Order, the dark indelible marks of the hag's lair never completely faded. Yasmina developed an innate grasp of witchcraft, fey glamour, and fiendish pacts, eventually unlocking pact magic through dark entities she refused to fear. Rejecting the role of a frail victim, she donned full Plate Armor and picked up the spear, declaring that *"evil runs from me."* She keeps a constant record of strange monstrosities in her personal journal, treating knowledge and iron defense as her true weapons against the supernatural. When the second generation ventures into Barovia (*Curse of Strahd*), Yasmina stands alongside her adoptive siblings as a grim, unbreakable bulwark.

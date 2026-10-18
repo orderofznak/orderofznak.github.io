@@ -21,7 +21,7 @@ date: 2026-10-11
 * **[[02 - Act 2 - Storm Lord's Wrath|Act 2: Storm Lord's Wrath]]:** Rebuilding [[Leilon]] HQ (guided by [[Leopold]], [[Grizzelda Copperwraught]], [[Gallio Elibro]]), adopting orphans [[Smithwell and Burnice|Smithwell & Burnice]], [[The Wayside Inn]] alliance ([[Martisha Vinetalker]], [[Cooragh]]), and Mere of Dead Men lizardfolk treaty ([[Matriarch Qolzaz]], [[Grixxugroaz]], [[Ballad of Qolzaz]]).
 * **[[03 - Interlude 1 - Shadow's Run|Interlude 1: "Shadow's Run"]]:** Subterranean cavern crawl battling shadow-warped creatures and vanquishing a lethal Shadow Dragon between *Storm Lord's Wrath* and *Sleeping Dragon's Wake*.
 * **[[04 - Act 3 - Sleeping Dragon's Wake|Act 3: Sleeping Dragon's Wake]]:** Infiltrating Deeping Cave in Kryptgarden Forest, the caustic acid relay, hunting [[Viantha Cruelhex]] for [[Claugiyliamatar]], Ebondeath's ([[Chardansearavitriol]]) possession of Old Gnawbone, extracting the poisoned hoard, and bluffing [[Gnawbones|The Gnawbones]] circle.
-* **[[05 - Interlude 2 - Keeping the Faith|Interlude 2: "Keeping the Faith"]]:** Recovering stolen armor for Forge Cleric [[Dayne Beltran]], rescuing young [[Yasmina]] from a Night Hag, and culminating in the **Volcano Boss Battle** with [[Krageer Stoneface Ogolakanu|Krageer]] enlarged by [[Myagkiy Znak|Myagkiy]] wrestling the Fire Giant Queen!
+* **[[05 - Interlude 2 - Keeping the Faith|Interlude 2: "Keeping the Faith"]]:** Recovering stolen armor for Forge Cleric [[Dayne Beltran]], rescuing young [[Yasmina]] from a Night Hag (who drew the canonical portraits of the four champions), and culminating in the **Volcano Boss Battle** with [[Krageer Stoneface Ogolakanu|Krageer]] "Double-Enlarged" to Huge size (via [[Puck Caribdas]]'s *Potion of Growth* + [[Myagkiy Znak|Myagkiy]]'s *Enlarge*) wrestling the Fire Giant Queen!
 * **[[06 - Act 4 - Divine Contention|Act 4: Divine Contention]]:** [[Dumathoin's Gulch]] wereboar ambush, Star Spawn Manglers & [[The Ruinstone]] atop the House of Thalivar, sailing *[[Twinkle and Icingdeath]]* to Neverwinter & sinking [[Galas Windrage]]'s fleet, [[Claugiyliamatar]]'s siege of [[Leilon]] (revealing [[Aubrey Silverspun]]'s portrait), and boarding the flagship dreadnaught beneath the tempest apparition of **Talos** vs. [[Fheralai Stormsworn]], an Air Elemental Myrmidon, and a Nalfeshnee demon.
 * **[[07 - Epilogue - Bridge Campaign|Epilogue: Bridge Campaign (WIP / On Hold)]]:** Upcoming bridge adventure for the four original champions prior to the mists of Ravenloft.
 
@@ -52,7 +52,7 @@ date: 2026-10-11
 * [[The Order of Znak]] — Central adventuring party and chartered company
 * [[Leopold]] — Human majordomo managing The Order of Znak's fortified estate in Leilon
 * [[Smithwell and Burnice]] — Adopted orphan wards raised at the Leilon headquarters
-* [[Yasmina]] — Young ward rescued from a Night Hag in *"Keeping the Faith"*
+* [[Yasmina]] — Young ward rescued from a Night Hag in *"Keeping the Faith"* (canonical artist of the four Order portraits)
 * [[Dayne Beltran]] — Forge Domain cleric ally whose stolen armor was recovered
 
 ### 🩸 The Second Generation (The Acolytes of Znak)
@@ -63,7 +63,7 @@ date: 2026-10-11
 * [[Yasmina]] — Cleric / Fiend Warlock
 
 ### 🔨 Leilon Rebuilding & Leadership (30 Entities)
-* [[Gallio Elibro]] (Rashemi Wizard), [[Grizzelda Copperwraught]] (Master Builder), [[Merrygold Brightshine]] (Lathander Priest), [[Aubrey Silverspun]] (Curio Merchant / Ghost), [[Hazz Yorrum]] (Guard Sergeant), [[Jack Torver]], [[Alion Malwyn]], [[Valdi Estapaar]], [[Dagult Neverember]], [[Thalivar]], and 20 more Leilon townsfolk & artisans.
+* [[Gallio Elibro]] (Rashemi Wizard), [[Grizzelda Copperwraught]] (Master Builder), [[Merrygold Brightshine]] (Lathander Priest), [[Aubrey Silverspun]] (Curio Merchant / Ghost), [[Puck Caribdas]] (Tymoran Potion Seller & *Potion of Growth* Apothecary), [[Hazz Yorrum]] (Guard Sergeant), [[Jack Torver]], [[Alion Malwyn]], [[Valdi Estapaar]], [[Dagult Neverember]], [[Thalivar]], and 19 more Leilon townsfolk & artisans.
 
 ### ⛏️ Phandalin & Frontier Settlements (20 Entities)
 * [[DonJon Raskin]] (Mountain's Toe Gold Mine), [[Harbin Wester]] (Townmaster), [[Elmar Barthen]], [[Linene Graywind]], [[Toblen Stonehill]], [[Adabra Gwynn]], [[Alfonse Kalazorn]] ("Big Al"), [[Halia Thornton]], [[Dazlyn Grayshard]], [[Norbus Ironrune]], [[Garaele]], [[Tibor Wester]], and frontier miners.
