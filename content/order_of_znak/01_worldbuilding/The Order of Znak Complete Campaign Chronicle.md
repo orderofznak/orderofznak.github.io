@@ -148,6 +148,14 @@ Just as Grigory inspired the party's Cyrillic name, the party's fortified estate
 ### 🇫🇷 Table Pronunciation: "Lee-LON" (The Super-Nasal French Inflection)
 While official Forgotten Realms guides suggest an Anglicized pronunciation ("LAY-lon" or "LEE-lon"), Peter (as DM) and Gary established an enduring, comedic running table tradition: pronouncing the town with an exaggerated French accent as **"Lee-LON"** (phonetically *[li.lɔ̃]*). The first syllable is a crisp, bright *"Lee"*, followed by an aggressively nasal, drawn-out *"-lon"* (reminiscent of the French nasal vowel in *bon* or *pardon*). Whenever the Order arrived from the wilderness, coordinated defense with Sergeant Hazz Yorrum, or checked up on Grizzelda's masonry progress at Aufox Manor, this signature pronunciation immediately signaled the comfort and camaraderie of returning to their adopted hometown.
 
+### 🎙️ The Origin of "C'mon, Listen" (Campaign & Discord Namesake)
+The overarching campaign title and the private Discord server name—**"C'mon, Listen"**—originated as an affectionate workplace running joke between Peter and Gary at work:
+* **"C'mon, c'mon" (Rapid-Fire Persuasion):** Whenever trying to persuade each other on technical architectures, script designs, or work decisions, one would rapidly fire off, *"C'mon, c'mon!"* Over time, this rapid cadence bled into their daily banter, becoming the instinctual verbal preamble spoken before initiating almost any collaborative debate.
+* **"Listen" (The Mock-Authoritative Reality Check):** The *"Listen"* half was invoked whenever jokingly calling the other out, playfully asserting subject-matter authority, or establishing undisputed technical ground—immortalized in classic table exchanges such as:
+  > *"Listen, I've been scripting in bash for years, Gary. I think I know how a for loop works."*
+
+Combined, the two verbal habits naturally coalesced into **"C'mon, Listen"**, serving as their official Discord server title, their D&D Beyond campaign header, and the humorous banner under which the four champions of Znak conquered the Sword Coast.
+
 ### 🎭 Dual-PC Co-Op & Alternating DM Screen
 Rather than playing the expansion trilogy (*Storm Lord's Wrath*, *Sleeping Dragon's Wake*, *Divine Contention* — titled *"C'mon, Listen"* in D&D Beyond) as an uninterrupted block, Peter and Gary ran a 1-on-1 dual-character setup and alternated DM duties:
 * **Peter** ran *Dragon of Icespire Peak* (Levels 1–7) and the three Leilon trilogy modules (*Storm Lord's Wrath*, *Sleeping Dragon's Wake*, and *Divine Contention*). Because Myagkiy and Tvyordiy functioned as DMPCs while Peter was behind the screen, Peter intentionally steered key story spotlights—such as touching the divinatory altar at the [[Shrine of Savras]] or choosing the *+1 Longbow* reward at the [[Tower of Storms]]—directly to Gary's characters.
