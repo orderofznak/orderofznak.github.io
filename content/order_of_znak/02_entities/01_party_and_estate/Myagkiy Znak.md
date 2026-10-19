@@ -28,8 +28,15 @@ tags: [character-sheet, human, cleric, life-domain, myagkiy-znak, order-of-znak]
 * **The Storm of the [[Circle of Thunder]], The *+1 Shield* & [[Woodland Manse]] Cleanup:** Marching into Neverwinter Wood with centaur ally **[[Xanth]]**, Myagkiy unleashed his radiant ***Spirit Guardians*** to shred [[Yargath]]'s ten-orc patrol and the ten twig blights during the epic hilltop clash against **[[Gorthok]] the Thunder Boar**, [[Flenz]], and [[Narux]] at the [[Circle of Thunder]]. Claiming the enchanted ***+1 Shield*** from the anchorite caves as the party's sole shield-bearer, Myagkiy marched back to the [[Woodland Manse]] and maintained his ***Spirit Guardians*** through a fierce five-round courtyard battle against twelve twig blights, five entangling vine blights, and two anchorites ([[Grannoc]]), before helping clear twelve stirges and eight needle blights.
 * **Blessing the Rooftop Clash Against [[Cryovain]]:** Atop the frozen battlements of [[Icespire Hold]], Myagkiy invoked ***Bless*** upon his brothers-in-arms and commanded his floating ***Spiritual Weapon*** to swat down the **four cackling Ice Mephits**, clearing the way for Tvyordiy, Krageer, and Rhynok to stun and slay the white dragon **[[Cryovain]]**.
 
-### ⛈️ [[02 - Act 2 - Storm Lord's Wrath|Act 2: Storm Lord's Wrath]] & [[03 - Interlude 1 - Shadow's Run|Interlude 1: "Shadow's Run"]]
-* **Adoptive Father & Spiritual Hearth of [[Leilon]]:** Served as the compassionate heart of the party during [[Nixoxious]]'s Kraken Priest raid on Leilon, rescuing orphaned ten-year-olds **[[Smithwell and Burnice]]** from the marshes, adopting them into the Znak family under majordomo [[Leopold]], and mentoring young [[Burnice Znak|Burnice]] in sacred devotion.
+### ⛈️ [[02 - Act 2 - Storm Lord's Wrath|Act 2: Storm Lord's Wrath]]
+* **Wayside Deliverance & The Leilon Inundation:** Cast *Turn Undead* and healed stranded commoners spiked to the palisade gates during the siege of [[The Wayside Inn]]. In [[Leilon]], helped shepherd terrified town children to safety before unleashing radiant magic against the Drowned Cult's kraken priest and water elementals.
+* **The Phandalin Ogre Defense & Argus Turn Undead:** Guarded the goat wagons against seven marauding ogres, and in [[Phandalin]] turned the undead vampire spawn [[Argus]] while [[Rhynok]] pinned the master thief [[Veleen]].
+* **The House of Thalivar & The Sacred *Ceremony*:** Consecrated the haunted ruins of the House of Thalivar. When Far Realm **Star Spawn Manglers** ambushed and critically dropped [[Tvyordiy Znak]], Myagkiy cast ***Spare the Dying*** to pull his brother back from death's brink. Following a long rest, he prepared and cast the sacred ***Ceremony*** ritual to lay Thalivar's wandering ghost to eternal rest.
+* **Cellar Execution of Teega:** Re-entering the captured Wayside Inn, Myagkiy weathered the cellar's glyph of warding and channeled a devastating upcast ***Inflict Wounds*** directly into cult leader [[Teega]], incinerating her with necrotic justice while Krageer shattered the Idol of Talos to liberate [[Martisha Vinetalker]].
+* **The Permanent Twin *Banishment* & The Cliffs of Thunder:** Aboard the *Iceflow*, cast ***Calm Emotions*** to pacify mutinous deckhands, and when confronted by Captain [[Kristoffen]], cast ***Banishment*** on both of the traitor's summoned Air Elementals—maintaining unbreakable concentration for the full ten minutes to permanently cast them back to the Elemental Plane of Air. Scaling [[Thunder Cliffs]], cured [[Sovendahl Erkinze]] of his lycanthropic curse and claimed the ***Ring of Warmth*** from the Talosite cave vault.
+
+### 🐲 [[03 - Interlude 1 - Shadow's Run|Interlude 1: "Shadow's Run"]]
+* **Adoptive Father & Spiritual Hearth of [[Leilon]]:** Served as the compassionate heart of the party, rescuing orphaned ten-year-olds **[[Smithwell and Burnice]]** from the marshes, adopting them into the Znak family under majordomo [[Leopold]], and mentoring young [[Burnice Znak|Burnice]] in sacred devotion.
 * **Fellowship with [[Merrygold Brightshine]]:** Forged a close spiritual bond with halfling priestess [[Merrygold Brightshine]] at Leilon's Shrine of Lathander—sharing dawn prayers, feeding [[Grizzelda Copperwraught]]'s town laborers, and anchoring the company with radiant light against the **Shadow Dragon** in *"Shadow's Run"*.
 
 ### 🐲 [[04 - Act 3 - Sleeping Dragon's Wake|Act 3: Sleeping Dragon's Wake]] & [[05 - Interlude 2 - Keeping the Faith|Interlude 2: "Keeping the Faith"]]
@@ -42,6 +49,9 @@ tags: [character-sheet, human, cleric, life-domain, myagkiy-znak, order-of-znak]
 ---
 
 ## 🎨 Artwork & Imagery
+![[myagkiy-znak-heroforge.png]]
+*Myagkiy Znak (Ь) — HeroForge Miniature (3D Color Render)*
+
 ![[MZnak_Portrait.png]]
 *Portrait of Myagkiy Znak (Ь) — Canonically drawn by young [[Yasmina]] shortly after her rescue from the Night Hag in "Keeping the Faith"*
 
@@ -66,7 +76,10 @@ tags: [character-sheet, human, cleric, life-domain, myagkiy-znak, order-of-znak]
 | **Level 5** | Cleric 5 (*Post-First [[Woodland Manse]] Retreat — Dec 8, 2019*) | **3rd-Level Spells:** ***Spirit Guardians*** (15-ft swirling radiant crowd-shredder), *Revivify*, *Mass Healing Word*, *Water Walk*; *Destroy Undead (CR 1/2)*. |
 | **Level 6** | Cleric 6 (*Post-[[Mountain's Toe Gold Mine]] — Jan 19, 2020*) | ***Blessed Healer*** (self-heals whenever casting a healing spell on another creature) & *Channel Divinity* (2/rest). |
 | **Level 7** | Cleric 7 (*End of Act 1 — [[Icespire Hold]], May 31, 2020*) | **4th-Level Spells:** *Banishment*, *Death Ward*, *Freedom of Movement*, *Guardian of Faith*. |
-| **Levels 8–13** | Cleric 8–13 (*Acts 2–4 Leilon Trilogy*) | *Divine Strike* (+1d8 radiant weapon damage), *Supreme Healing* (Level 10+), 5th–7th level Cleric spells, and **Feats:** ***Observant*** & ***Resilient (Constitution)***. |
+| **Level 8** | Cleric 8 (*Act 2: [[02 - Act 2 - Storm Lord's Wrath|Storm Lord's Wrath]] — July 22, 2020*) | **ASI:** **+2 Wisdom** (raising WIS to 20 (+5), Spell Save DC 16); Optional Class Feature: ***Blessed Strikes*** (radiant damage boost to cantrips and weapon attacks). Remained Level 8 through the conclusion of Act 2. |
+| **Interlude 1** | *Level Freeze* (*[[03 - Interlude 1 - Shadow's Run|Shadow's Run]] — Aug 12, 2020*) | **No Level Up:** Milestone advancement held at Level 8 to preserve published encounter balance for Act 3. |
+| **Level 9** | Cleric 9 (*Act 3: [[04 - Act 3 - Sleeping Dragon's Wake|Sleeping Dragon's Wake]]*) | **5th-Level Spells:** *Flame Strike*, *Greater Restoration*, *Mass Cure Wounds*, *Raise Dead*. |
+| **Levels 10–13** | Cleric 10–13 (*Acts 3–4 Leilon Trilogy*) | *Divine Strike* / *Blessed Strikes*, *Supreme Healing* (Level 10+), 6th–7th level spells (*Heroes' Feast*, *Conjure Celestial*), and **Feats:** ***Observant*** & ***Resilient (Constitution)***. |
 
 ### 🎒 Weapons, Armor & Item Acquisition Log
 | Item / Weapon | Where & When Acquired | Mechanical Properties & Campaign Notes |
@@ -76,13 +89,15 @@ tags: [character-sheet, human, cleric, life-domain, myagkiy-znak, order-of-znak]
 | ***Gauntlets of Ogre Power*** | **[[Axeholm]]** (Level 6 — Jan 20, 2020; attuned Feb 2, 2020) | Discovered by Myagkiy's own successful **Perception check** inside the secret fireplace vault; sets **Strength to 19 (+4)**, allowing heavy plate mobility without speed penalty. |
 | ***+1 Shield*** | **[[Circle of Thunder]]** (Level 6 — Anchorite Caves) | Claimed from the caves after slaying [[Gorthok]], [[Flenz]], and [[Narux]] as the party's sole shield-bearer. |
 | **Mithral Chain Mail** | **Mid-Campaign Upgrade** | Worn prior to acquiring Dayne's Plate Armor. |
+| ***Ring of Warmth*** | **[[Thunder Cliffs]]** (Level 8 — July 28, 2020) | Claimed from the Talosite sea cave cache after defeating Gadrille; grants resistance to cold damage and immunity to extreme freezing temperatures. |
 | **Dayne's +2 Plate Armor** | **Interlude 2: *"Keeping the Faith"*** | Recovered from the Night Hag's lair and gifted by Forge Cleric **[[Dayne Beltran]]**; combined with his **+2 Shield** for **24 AC**. |
 | ***Bonecounter* & Light Hammer** | **Leilon Trilogy (Acts 2–4)** | Upgraded signature enchanted mace and backup thrown weapon. |
-| ***Lantern of Revealing*, *Cape of the Mountebank* & *Ring of Warmth*** | **Leilon Trilogy (Acts 2–4)** | Reveals invisible foes (Invisible Stalkers), provides emergency *Dimension Door* teleportation, and grants cold resistance. |
+| ***Lantern of Revealing* & *Cape of the Mountebank*** | **Leilon Trilogy (Acts 2–4)** | Reveals invisible foes (Invisible Stalkers) and provides emergency *Dimension Door* teleportation. |
 
 ---
 
 ## 💡 Behind the Screen & Table Trivia
 * **Player & Dual-PC Dynamics:** Played by Peter as a dual-PC / DMPC alongside Gary's martial champions. While DMing, Peter intentionally kept Myagkiy in a supportive anchor role so Gary's characters held the narrative decision spotlight.
+* **Interlude Level Freeze Policy:** Peter intentionally froze level ups during the homebrew Interludes (*"Shadow's Run"* and *"Keeping the Faith"*) to keep party progression strictly tethered to the published trilogy tiers and prevent out-leveling the adventure module math.
 * **Linguistic Origin (Мягкий знак / Ь):** Named after the Russian Cyrillic "Soft Sign" (Ь) inspired by conversations at work with coworker Grigory. The symbol represents softening, soothing, and modifying harshness—directly reflecting Myagkiy's role as a compassionate healer who tempers the party's ferocious frontline.
 * **Character Sheet Symbolism:** Peter proudly incorporated the Russian Cyrillic symbol **(Ь)** into Myagkiy's official D&D Beyond character sheet title.

@@ -35,8 +35,10 @@ Sovendahl acted cautiously and calculated, in contrast to his reckless superior.
 Sovendahl was responsible for managing the sorting, transportation, and sale of stolen commodities seized from destroyed ships by the cult.
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Cured & Spared (Act 2: *Storm Lord's Wrath*, Chapter 7: "Assault on Thunder Cliffs")
+* **Curse Removal & The Dagger of Venom:** Having slipped into the Thunder Cliffs redoubt without alerting the exterior guards, [[The Order of Znak]] discovered the tormented drow suffering from Talos's divine affliction. Prizing self-preservation above fanatical devotion, Sovendahl surrendered in exchange for salvation. [[Myagkiy Znak]] cured his curse with divine magic; in return, Sovendahl yielded intelligence on Gadrille's inner chambers and handed over a ***Dagger of Venom*** (claimed by [[Rhynok]]). Convinced that their lives were forfeit if they remained, Sovendahl and his contingent of scouts and spies evacuated the cliffs peacefully.
+
+---
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Sovendahl Erkinze](https://forgottenrealms.fandom.com/wiki/Sovendahl%20Erkinze)

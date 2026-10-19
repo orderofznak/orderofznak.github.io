@@ -12,10 +12,13 @@ tags: [character-sheet, goliath, barbarian, fighter, krageer, order-of-znak]
 # 🛡️ Krageer Stoneface Ogolakanu
 
 ## 🛡️ Overview & Character Lore
-* **Personality & Demeanor:** Towering, fearless, and relentlessly loyal to his companions. A mountain-born Goliath warrior who measures worth by martial prowess, honor in battle, and the quality of campfire food.
-* **Background:** Soldier. Forged through rigorous discipline and battlefield camaraderie before finding his true brothers-in-arms in [[The Order of Znak]].
-* **Battlefield Role:** The unstoppable frontline juggernaut of the company—charging headfirst into the fiercest melees, shrugging off elemental and physical punishment through the primal spirit of the Bear Totem, and cleaving foes in two with sweeping two-handed blows.
-* **Tribal Inscription (Chest Tattoo):** Inked across his broad chest with the visage of **[[Matriarch Qolzaz]]**—the lizardfolk matriarch slain in battle and honored out of deep respect after their joint victory against invading undead rot trolls (immortalized in the ***[[Ballad of Qolzaz]]***).
+* **Personality & Demeanor:** A towering, athletic Goliath warrior with a hard, worn countenance. Known as "Stoneface" among the members of the Ogolakanu Clan due to his stoic lack of emotion and minimal social skills. Fearless, immovable, and relentlessly loyal to his companions, measuring worth by martial prowess, honor in battle, and the quality of campfire food.
+* **Background:** Soldier (Ogolakanu Clan). Forged through rigorous mountain discipline and battlefield skirmishes before finding his true brothers-in-arms in [[The Order of Znak]].
+* **Battlefield Role:** The unstoppable frontline juggernaut of the company—charging headfirst into the fiercest melees, shrugging off elemental and physical punishment through the primal spirit of the Bear Totem, and cleaving foes in two with sweeping two-handed blows and *Great Weapon Master* strikes.
+* **Tattoos & Markings:**
+  * **Left Ribcage ("Fallen"):** Inked with the word *"Fallen"* in Giant, below which are etched **69 X's and 1 Lightning Bolt**, keeping a grim, unyielding tally of fallen comrades and storm-shattered foes.
+  * **Right Ribcage ("Qolzaz" & The Rat):** Inked with a small tattoo of what appears to be a dead rat, alongside a crowned bird and the name **"[[Matriarch Qolzaz|Qolzaz]]"**—commemorating the lizardfolk queen slain during the Mere of Dead Men alliance and celebrated in the ***[[Ballad of Qolzaz]]***.
+  * **Right Shoulder, Back, Arm & Leg Tribal Sleeve:** An intricate, expansive tribal design cascading down his right shoulder, across the right side of his back, and extending all the way down his right arm and right leg.
 
 ---
 
@@ -30,10 +33,15 @@ tags: [character-sheet, goliath, barbarian, fighter, krageer, order-of-znak]
 * **The *Dragon Slayer* Blade & The Storm of Neverwinter Wood:** Delving into [[Dragon Barrow]] to overcome a Will-o'-Wisp and the Invisible Stalker, Krageer claimed Lady Tanamere Alagondar's ***Dragon Slayer* Longsword** and enlisted centaur ally **[[Xanth]]**. Together they slaughtered [[Yargath]]'s ten-orc patrol, crushed **[[Gorthok]] the Thunder Boar**, ten twig blights, and the two anchorites ([[Flenz]] and [[Narux]]) at the [[Circle of Thunder]] to satisfy Xanth, and marched back to the [[Woodland Manse]] to wipe out [[Grannoc]], his anchorite cohort, twelve twig blights, five vine blights, twelve stirges, and eight needle blights.
 * **Slaying [[Cryovain]] Atop [[Icespire Hold]]:** After cutting through mountain hobgoblins and the [[Stone-Cold Reavers]], Krageer ascended to the frozen roof of [[Icespire Hold]]. When [[Tvyordiy Znak]] locked [[Cryovain]] in place with a series of stunning blows amidst four cackling Ice Mephits, Krageer roared into a rage and unleashed devastating salvos with his ***Dragon Slayer* Longsword**, felling the white dragon!
 
-### ⛈️ [[02 - Act 2 - Storm Lord's Wrath|Act 2: Storm Lord's Wrath]] & [[03 - Interlude 1 - Shadow's Run|Interlude 1: "Shadow's Run"]]
-* **Savior of [[Leilon]] & Adoptive Father:** Helped shatter [[Nixoxious]]'s Kraken cult raid on Leilon, rescuing and adopting orphaned ten-year-olds **[[Smithwell and Burnice]]** into the Znak household under majordomo [[Leopold]].
-* **Hearth & Romance at [[The Wayside Inn]]:** Courted half-orc head cook **[[Cooragh|Cooragh Struckt]]** at the Wayside Inn, completely won over by her fiery personality and her alarmingly spicy pork pies.
-* **The Lizardfolk Pact & Shadow Dragon:** Slew [[Matriarch Qolzaz]] in the Mere of Dead Men, fought beside sovereign [[Grixxugroaz]] against invading rot trolls, and honored Qolzaz with his iconic chest tattoo before descending into the lightless caverns of *"Shadow's Run"* to slay a **Shadow Dragon**.
+### ⛈️ [[02 - Act 2 - Storm Lord's Wrath|Act 2: Storm Lord's Wrath]]
+* **The Wayside Ambush & Leilon Quayside Defense:** Cleaved through the undead horde beseiging [[The Wayside Inn]], standing vanguard alongside [[Martisha Vinetalker]]'s caravan. In [[Leilon]], helped corral panicked town children away from the marshes before facing the water-steed raid of the Drowned Cult, trading blows with water elementals and berserkers.
+* **The Phandalin Ogre Ambush & Veleen Hunt:** Stood watch over [[Tanor]]'s draft wagons along the foothills, chopping through seven marauding ogres targeting the goat herds. In Phandalin, chased the fleeing master thief [[Veleen]] into [[Rhynok]]'s net snare.
+* **Shattering the Cult at the Wayside Inn:** Returned to the storm-battered Wayside Inn, braving swirling air elemental myrmidons and clearing the courtyard. Breached the cellar, withstood the lightning discharges of the animate **Statue of Talos**, and shattered the stone idol with crushing greataxe blows while freeing Martisha.
+* **Mutiny on the *Iceflow* & Assault on Thunder Cliffs:** Intimidated Captain [[Kristoffen]]'s mutinous crew into dropping their cutlasses alongside Myagkiy's calming magic. At [[Thunder Cliffs]], braved the violent gale winds to smash the giant sea crab threatening the rowboat, executed the traitorous half-dragon Kristoffen, and slaughtered the dual hounds **Tooth and Claw** to dismantle the Talosite coastal redoubt.
+* **Hearth & Romance with [[Cooragh]]:** Courted half-orc head cook [[Cooragh|Cooragh Struckt]] at the Wayside Inn, won over by her iron will and alarmingly spicy pork pies.
+
+### 🐲 [[03 - Interlude 1 - Shadow's Run|Interlude 1: "Shadow's Run"]]
+* **The Lizardfolk Pact & Shadow Dragon:** Fought beside sovereign [[Grixxugroaz]] against invading rot trolls in the Mere of Dead Men, honored the fallen [[Matriarch Qolzaz]] with his ribcage tattoo, and descended into the lightless caverns of *"Shadow's Run"* to slay an ancient **Shadow Dragon**.
 
 ### 🐲 [[04 - Act 3 - Sleeping Dragon's Wake|Act 3: Sleeping Dragon's Wake]] & [[05 - Interlude 2 - Keeping the Faith|Interlude 2: "Keeping the Faith"]]
 * **Deeping Cave Acid Charge & The Poisoned Hoard:** In [[Claugiyliamatar]]'s lair, grew impatient waiting for the party's *Water Walk* ring relay and charged straight through the boiling acid pools in a barbarian rage. Later, after Ebondeath possessed the green dragon, Krageer braved the poison-trapped treasure vault first as the "sacrificial lamb" before poison-immune [[Tvyordiy Znak]] extracted the hoard.
@@ -47,6 +55,9 @@ tags: [character-sheet, goliath, barbarian, fighter, krageer, order-of-znak]
 ---
 
 ## 🎨 Artwork & Imagery
+![[krageer-heroforge.png]]
+*Krageer Stoneface Ogolakanu — HeroForge Miniature (3D Color Render)*
+
 ![[Krageer.png]]
 *Krageer Stoneface Ogolakanu — Goliath Bear Totem Barbarian / Champion Fighter*
 
@@ -86,7 +97,10 @@ tags: [character-sheet, goliath, barbarian, fighter, krageer, order-of-znak]
 | **Level 5** | Barbarian 5 (*Post-First [[Woodland Manse]] Retreat — Dec 8, 2019*) | ***Extra Attack*** (2 attacks per Action) & ***Fast Movement*** (+10 ft speed). |
 | **Level 6** | Barbarian 6 (*Post-[[Mountain's Toe Gold Mine]] — Jan 19, 2020*) | *Aspect of the Beast* (Totem feature) & additional Rage uses. |
 | **Level 7** | Barbarian 7 (*End of Act 1 — [[Icespire Hold]], May 31, 2020*) | ***Feral Instinct*** (advantage on Initiative, cannot be surprised if entering Rage). |
-| **Levels 8–13** | Barbarian 9 / Fighter 4 (*Acts 2–4 Leilon Trilogy*) | *Brutal Critical* (Barbarian 9); multiclassed into **Fighter (Champion)** for *Action Surge*, *Fighting Style*, ***Improved Critical (19–20)***, and the ***Great Weapon Master (GWM)*** feat. |
+| **Level 8** | Barbarian 8 (*Act 2: [[02 - Act 2 - Storm Lord's Wrath|Storm Lord's Wrath]] — July 22, 2020*) | Feat: ***Great Weapon Master (GWM)*** (on a critical hit or when reducing a creature to 0 HP, take one additional melee weapon attack as a bonus action; take a -5 penalty to attack roll to add +10 to damage). Fought as a pure Barbarian through the end of Act 2 without any Fighter features. |
+| **Interlude 1** | *Level Freeze* (*[[03 - Interlude 1 - Shadow's Run|Shadow's Run]] — Aug 12, 2020*) | **No Level Up:** Milestone advancement held at Level 8 to keep party power strictly aligned with official module tiers. |
+| **Level 9** | Barbarian 8 / Fighter 1 (*Act 3: [[04 - Act 3 - Sleeping Dragon's Wake|Sleeping Dragon's Wake]]*) | Multiclass into **Fighter 1**: First appearance of Fighter features (*Second Wind* bonus action self-heal, *Fighting Style: Great Weapon Fighting* rerolling 1s and 2s on two-handed weapon damage). |
+| **Levels 10–13** | Barbarian 9 / Fighter 4 (*Acts 3–4 Leilon Trilogy*) | Multiclass progression: Fighter 2 (*Action Surge*), Fighter 3 (Champion archetype: ***Improved Critical 19–20***), Fighter 4 (ASI: STR +2 to 20), and Barbarian 9 (*Brutal Critical*). |
 
 ### 🎒 Weapons, Armor & Item Acquisition Log
 | Item / Weapon | Where & When Acquired | Mechanical Properties & Campaign Notes |
@@ -107,6 +121,8 @@ tags: [character-sheet, goliath, barbarian, fighter, krageer, order-of-znak]
 ## 💡 Behind the Screen & Table Trivia
 * **Optimization Strategy:** Gary min-maxed Krageer for maximum DPR and survivability, blending Bear Totem universal damage resistance with *Reckless Attack*, *Great Weapon Master* (-5/+10), and Champion Fighter's 19–20 critical threat range.
 * **The *Danger Sense* Double-Fail (DC 15):** At Level 2 inside the [[Temple of Abbathor]], right after unlocking *Danger Sense*, Krageer pried at the trapped gem in the Statue of Abbathor—rolling with Advantage on his DC 15 Dexterity save, yet **rolling under 15 on both d20s**!
+* **Interlude Level Freeze Policy:** Peter intentionally froze level ups during the homebrew Interludes (*"Shadow's Run"* and *"Keeping the Faith"*). Even though the party completed substantial boss battles (such as the Shadow Dragon and Fire Giant Queen), milestone advancement was strictly tethered to the published trilogy acts so the party did not over-level the official adventure encounters.
+* **Fighter Multiclass Timing:** Analysis of the combat logs confirms Krageer fought as a pure Barbarian through the end of *Storm Lord's Wrath* (relying on Bear Totem resistance and *Great Weapon Master*). His Champion Fighter dip (*Second Wind*, *Great Weapon Fighting* rerolls, and *Action Surge*) debuted during *Sleeping Dragon's Wake*.
 * **The "Rule of Cool" Double-Enlarge (`Medium` &rarr; `Large` &rarr; `Huge`):** During the volcano climax of *"Keeping the Faith"*, a single *Enlarge* effect would only increase a Medium Goliath to Large against the **Huge** Fire Giant Queen. Invoking the Rule of Cool, Peter and Gary stacked **[[Puck Caribdas]]'s *Potion of Growth*** with **[[Myagkiy Znak]]'s *Enlarge* spell**, allowing Krageer to reach true **Huge** size and wrestle the Fire Giant monarch as an equal!
 * **Puck's *Potion of Growth* Label Endorsements:** Because punny dad-jokes were right up Krageer's alley, Peter suggested at the table that Krageer give [[Puck Caribdas]] two official endorsement quotes to print on his potion bottle labels:
   * *"I am a huge fan of Puck's Potion of Growth." — Krageer*

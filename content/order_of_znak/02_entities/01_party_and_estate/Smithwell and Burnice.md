@@ -15,9 +15,9 @@ modules: ["Storm Lord's Wrath"]
 
 ## 🛡️ Overview & Lore
 * **Origins in Leilon:** Two 10-year-old village children and inseparable best friends living in the coastal fishing settlement of [[Leilon]] on the Sword Coast during *Storm Lord's Wrath*. Smithwell (boy) and Burnice (girl) were both children of local hardworking fishers.
-* **The Kraken Cult Assault:** Caught in the crossfire when the tiefling Kraken Priest **Nixoxious** and her cultist berserkers stormed the town fishery (*"A Normal Day in Leilon"*). The cultists captured the townsfolk and sacrificed their fisher parents in dark rites to summon destructive water elementals and water weirds. In the terror and confusion of the assault, the two children fled into the surrounding marshlands and went missing.
-* **Rescue by The Order of Znak:** Discovered and rescued from the marshes by the champions of [[The Order of Znak]], who slew the cultists and disrupted the summoning ritual. 
-* **Adoption into the Order:** With both sets of parents slain in the kraken sacrifices, the heroes took the children into their care. The Order formally adopted both orphans as their personal wards, bestowing upon them the honorary surname **Znak** and bringing them to live at the party's newly established Leilon headquarters as adoptive brother and sister.
+* **The Drowned Cult Raid:** As [[The Order of Znak]] conferred with Leilon's civic leaders on the High Road (*"A Normal Day in Leilon"*), raiders of the Drowned Cult appeared: knights bearing three lightning bolts riding horses made of living water and hauling an archer wagon. While the heroes sprinted across town—using dexterity, intimidation, athletics, and persuasion to coax panic-stricken children back from the treacherous marsh edges—tiefling Kraken Priest **[[Nixoxious]]** began sacrificing fishers at the quayside to conjure water elementals and water weirds.
+* **Rescue by The Order of Znak:** The Order broke through the berserkers, severed the summoning circle, and recovered the terrified children from the marsh fringes.
+* **Adoption into the Order & Aufox Manor:** With both sets of fisher parents slain in the kraken sacrifices, the heroes took the children under their wing, bestowing upon them the honorary surname **Znak** and establishing their home at the newly founded **Aufox Manor** in Leilon.
 
 ---
 
@@ -30,10 +30,10 @@ modules: ["Storm Lord's Wrath"]
 
 ---
 
-## 🏡 Childhood at the Headquarters under Leopold
-While the champions ventured out to battle dragons, cults, and primordial threats across the Sword Coast, the children grew up within the fortified walls of the Order's headquarters under the watchful care of human majordomo **[[Leopold]]**:
-* **Leopold's Guidance:** Leopold provided the daily routine, manners, safety, and literacy instruction that gave the traumatized orphans a stable, loving home.
-* **Smithwell's Inspiration:** Captivated by the booming laughter, colossal physical presence, and epic tavern tales of Goliath barbarian [[Krageer Stoneface Ogolakanu]]. Smithwell spent his boyhood imitating Krageer's battle roars and soaking in campfire skaldic songs.
+## 🏡 Childhood at Aufox Manor under Leopold
+While the champions ventured out to battle dragons, cults, and primordial threats across the Sword Coast, the children grew up within the fortified walls of Aufox Manor under the watchful care of human majordomo **[[Leopold]]** (who formally took charge of the household following the subsequent trials of *Shadow's Run*):
+* **Leopold's Guidance:** Leopold provided daily routine, manners, safety, and literacy instruction that gave the traumatized orphans a stable, loving home.
+* **Smithwell's Inspiration:** Captivated by the booming presence, unyielding fortitude, and campfire tales of Goliath barbarian [[Krageer Stoneface Ogolakanu]]. Smithwell spent his boyhood imitating Krageer's battle roars and soaking in campfire skaldic songs.
 * **Burnice's Devotion:** Drawn to the quiet serenity, profound spiritual devotion, and compassionate healing arts of Life Domain cleric [[Myagkiy Znak]]. Burnice watched Myagkiy bind the wounds of the afflicted and conferred with [[Merrygold Brightshine]] at the town shrine, fostering an unyielding conviction to defend the innocent against evil.
 * **Growing Family:** Raised alongside rescued ward **[[Yasmina]]** and cross-species exchange envoys **[[Graxxoamo]]** and **[[Shriss]]**.
 

@@ -33,8 +33,11 @@ Kristoffen, a white dragonborn, was cold, calculated, and solemn.
 Kristoffen routinely cruised the [[Sea of Swords]], hauling goods for merchants as well as passengers. His ship, a galley called **Ice Floe**, was specifically equipped for the frigid seas of the far north.
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Slain in Battle (Act 2: *Storm Lord's Wrath*, Chapter 6–7)
+* **The Mutiny on the *Iceflow*:** Contracted to sail [[The Order of Znak]] to the Talosite redoubt at Thunder Cliffs aboard his galley. During the passage, first mate [[Castisha]] incited a swashbuckler mutiny; [[Myagkiy Znak]] cast ***Calm Emotions*** while Krageer, Rhynok, and Tvyordiy combined intimidation and performance to break the mutineers' nerve and secure the deck.
+* **The Ambush & Execution at Thunder Cliffs:** Inside the coastal caverns, Kristoffen betrayed the party and summoned two bound Air Elementals. Myagkiy cast ***Banishment*** on both elementals, holding concentration for ten full minutes to permanently expel them from the Material Plane, while Krageer, Rhynok, and Tvyordiy converged on the treacherous white dragonborn veteran, felling him where he stood.
+
+---
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Kristoffen](https://forgottenrealms.fandom.com/wiki/Kristoffen)

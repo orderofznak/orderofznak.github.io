@@ -11,7 +11,7 @@ tags: [tabletop, dnd5e, ballad, qolzaz, krageer, order-of-znak, poetry, song]
 
 > [!NOTE]
 > **Performance Note:** Set to be performed by a bard on lute and drums.
-> **Lore Context:** Honors the legendary battle against Matriarch **[[Matriarch Qolzaz]]**, the joint defense against invading undead trolls, and the tattoo etched onto **[[Krageer Stoneface Ogolakanu]]**'s chest in mutual respect. Features **[[Tvyordiy Znak]]** (monk), **[[Rhynok]]** (elf ranger), **[[Myagkiy Znak]]** (life cleric), and Krageer.
+> **Lore Context:** Honors the legendary battle against Matriarch **[[Matriarch Qolzaz]]**, the joint defense against invading undead trolls, and the crowned bird tattoo etched onto **[[Krageer Stoneface Ogolakanu]]**'s right ribcage alongside the name "Qolzaz" in mutual respect. Features **[[Tvyordiy Znak]]** (monk), **[[Rhynok]]** (elf ranger), **[[Myagkiy Znak]]** (life cleric), and Krageer.
 
 ---
 
@@ -120,4 +120,4 @@ And I bear her, in ink, like a god."
 
 ## 💡 Behind the Screen & Trivia
 * **Origins of the Ballad:** Written to immortalize the transition of the Mere of Dead Men lizardfolk tribe from initial foes to steadfast allies of [[The Order of Znak]].
-* **The Chest Tattoo:** Commemorates Gary's in-character decision to have Krageer tattoo Qolzaz's visage across his chest in accordance with Goliath warrior traditions honoring formidable adversaries.
+* **The Ribcage Tattoo:** Commemorates Gary's in-character decision to have Krageer tattoo a crowned bird, a small rat, and the name "Qolzaz" onto his right ribcage in accordance with Goliath warrior traditions honoring formidable adversaries.

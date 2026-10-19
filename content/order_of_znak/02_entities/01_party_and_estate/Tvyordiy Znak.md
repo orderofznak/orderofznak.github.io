@@ -29,8 +29,14 @@ tags: [character-sheet, aarakocra, monk, drunken-master, tvyordiy-znak, order-of
 * **The [[Circle of Thunder]] & [[Woodland Manse]] Vengeance:** Riding into Neverwinter Wood with centaur ally **[[Xanth]]** after clearing [[Dragon Barrow]], Tvyordiy unleashed rapid multi-strike combinations and nerve-locking *Stunning Strikes* to help slaughter [[Yargath]]'s ten-orc patrol, fell **[[Gorthok]] the Thunder Boar**, ten twig blights, and two anchorites ([[Flenz]] and [[Narux]]) at the [[Circle of Thunder]], and wipe out [[Grannoc]], his anchorite cohort, twelve twig blights, five vine blights, twelve stirges, and eight needle blights at the [[Woodland Manse]].
 * **Stunning [[Cryovain]] Atop [[Icespire Hold]]:** After fighting mountain hobgoblins and the [[Stone-Cold Reavers]] with his **Silvered *Qiang***, Tvyordiy ascended to the icy roof of [[Icespire Hold]]. Darting through freezing wind and four Ice Mephits, **Tvyordiy landed a series of clutch *Stunning Strikes* directly on [[Cryovain]]**—locking the white dragon in place on the roof so [[Krageer Stoneface Ogolakanu]] could unload with his *Dragon Slayer* Longsword and [[Rhynok]] could finish the wyrm off!
 
-### ⛈️ [[02 - Act 2 - Storm Lord's Wrath|Act 2: Storm Lord's Wrath]] & [[03 - Interlude 1 - Shadow's Run|Interlude 1: "Shadow's Run"]]
-* **The Mere of Dead Men & Lizardfolk Brotherhood:** Helped rescue and adopt orphaned wards **[[Smithwell and Burnice]]** in [[Leilon]], fought side-by-side with the lizardfolk of the Mere of Dead Men against invading rot trolls to forge the peace pact with [[Grixxugroaz]], helped train lizardfolk envoy **[[Graxxoamo]]** in monastic martial arts, and harried the **Shadow Dragon** through the lightless depths of *"Shadow's Run"*.
+### ⛈️ [[02 - Act 2 - Storm Lord's Wrath|Act 2: Storm Lord's Wrath]]
+* **Wayside Defense & Leilon Quayside:** Intercepted undead besiegers at [[The Wayside Inn]] alongside [[Martisha Vinetalker]]'s caravan, and shielded fleeing children in [[Leilon]] when the Drowned Cult launched their water-steed raid.
+* **The House of Thalivar & Near-Fatal Mangler Ambush:** Investigated Gallio Elvers's nocturnal possessions in the ruined spire. In the shadow-cloaked upper chambers, Tvyordiy took the brunt of a lethal multi-claw ambush from two Far Realm **Star Spawn Manglers**, dropping unconscious before **[[Myagkiy Znak]]** rushed to his side and stabilized him with ***Spare the Dying***.
+* **Mutiny on the *Iceflow* & Swashbuckler Performance:** When Captain [[Kristoffen]]'s crew mutinied off the coast, Tvyordiy diffused the bloodshed through an impromptu martial display and performance, backing down the cutthroat swashbucklers in tandem with Krageer's intimidation and Myagkiy's calming magic.
+* **The Gale of Thunder Cliffs:** During the treacherous rowboat approach to [[Thunder Cliffs]], Tvyordiy braved the hurricane-force coastal winds to dive upon the giant sea crab upending their skiff. Scaling the cliff face, the party lifted [[Sovendahl Erkinze]]'s curse, executed the traitor Kristoffen, defeated wizard [[Gadrille]], and claimed the ***Wand of Magic Missile*** from the Talosite coastal vault.
+
+### 🐲 [[03 - Interlude 1 - Shadow's Run|Interlude 1: "Shadow's Run"]]
+* **The Mere of Dead Men & Lizardfolk Brotherhood:** Fought side-by-side with the lizardfolk of the Mere of Dead Men against invading rot trolls to forge the peace pact with [[Grixxugroaz]], helped train lizardfolk envoy **[[Graxxoamo]]** in monastic martial arts, and harried the **Shadow Dragon** through the lightless depths of *"Shadow's Run"*.
 
 ### 🐲 [[04 - Act 3 - Sleeping Dragon's Wake|Act 3: Sleeping Dragon's Wake]] & [[05 - Interlude 2 - Keeping the Faith|Interlude 2: "Keeping the Faith"]]
 * **Striding Through Claugiyliamatar's Poisoned Hoard:** In Deeping Cave, after Ebondeath possessed [[Claugiyliamatar]] and the party discovered the dragon's treasure hoard trapped behind a *Wall of Force* and choked with lethal green dragon poison gas, Krageer charged in first as the "sacrificial lamb" to test the trap. Once Krageer retreated, Tvyordiy centered his monastic breath—his body and spirit completely impervious to poison—and strolled calmly through the deadly green fumes without taking a scratch, extracting the dragon's entire hoard unharmed!
@@ -41,6 +47,12 @@ tags: [character-sheet, aarakocra, monk, drunken-master, tvyordiy-znak, order-of
 ---
 
 ## 🎨 Artwork & Imagery
+![[tvyordiy-znak-heroforge.png]]
+*Tvyordiy Znak (Ъ) — HeroForge Miniature (3D Color Render)*
+
+![[tvyordiy-cryovain-battle.png]]
+*Tvyordiy Znak stunning Cryovain atop Icespire Hold — 2022 Midjourney tribute render*
+
 ![[TZnak.png]]
 *Tvyordiy Znak (Ъ) — Aarakocra Monk (Way of the Drunken Master)*
 
@@ -71,13 +83,17 @@ tags: [character-sheet, aarakocra, monk, drunken-master, tvyordiy-znak, order-of
 | **Level 5** | Monk 5 (*Post-First [[Woodland Manse]] Retreat — Dec 8, 2019*) | ***Extra Attack*** (2 attacks per Action, up to 4 with *Flurry of Blows*) & ***Stunning Strike*** (CON save or Stunned until end of Tvyordiy's next turn—used to lock down [[Cryovain]]!). |
 | **Level 6** | Monk 6 (*Post-[[Mountain's Toe Gold Mine]] — Jan 19, 2020*) | ***Ki-Empowered Strikes*** (unarmed strikes count as magical) & *Tipsy Sway* (*Leap to Your Feet* & *Redirect Attack*). |
 | **Level 7** | Monk 7 (*End of Act 1 — [[Icespire Hold]], May 31, 2020*) | ***Evasion*** (zero damage on successful DEX saves) & *Stillness of Mind*. |
-| **Levels 8–13** | Monk 8–13 (*Acts 2–4 Leilon Trilogy*) | **Feat:** ***Crusher*** (bludgeoning forced movement & advantage after crits); ***Purity of Body (Level 10)*** (complete immunity to disease and **poison damage / poisoned condition**—used to loot Claugiyliamatar's poisoned hoard!); *Drunkard's Luck* (Level 11); **Wereboar Lycanthropy** (sets STR to 17, hybrid form & tusks). |
+| **Level 8** | Monk 8 (*Act 2: [[02 - Act 2 - Storm Lord's Wrath|Storm Lord's Wrath]] — July 22, 2020*) | **ASI:** **+1 Dexterity / +1 Wisdom** (advancing unarmored defense, Ki save DC, and martial attack precision). Remained Level 8 through the conclusion of Act 2. |
+| **Interlude 1** | *Level Freeze* (*[[03 - Interlude 1 - Shadow's Run|Shadow's Run]] — Aug 12, 2020*) | **No Level Up:** Milestone advancement held at Level 8 to preserve published encounter balance for Act 3. |
+| **Level 9** | Monk 9 (*Act 3: [[04 - Act 3 - Sleeping Dragon's Wake|Sleeping Dragon's Wake]]*) | ***Unarmored Movement Improvement*** (ability to move along vertical surfaces and across liquids without falling during movement). |
+| **Levels 10–13** | Monk 10–13 (*Acts 3–4 Leilon Trilogy*) | **Feat:** ***Crusher*** (bludgeoning forced movement & advantage after crits); ***Purity of Body (Level 10)*** (complete immunity to disease and **poison damage / poisoned condition**—used to loot Claugiyliamatar's poisoned hoard!); *Drunkard's Luck* (Level 11); **Wereboar Lycanthropy** (sets STR to 17, hybrid form & tusks). |
 
 ### 🎒 Weapons, Armor & Item Acquisition Log
 | Item / Weapon | Where & When Acquired | Mechanical Properties & Campaign Notes |
 | :--- | :--- | :--- |
 | **Mundane *Qiang* Spear** | **[[Phandalin]]** (Level 1 Starter Gear) | Standard Monk Spear (1d6/1d8 versatile) flavored as a Chinese ***Qiang*** as an homage to *Oriental Adventures*; unable to hurt immune wererats at [[Mountain's Toe Gold Mine]]. |
 | **Silvered *Qiang* Spear** | **[[Phandalin]] Smithy** (Level 6 — Jan 20, 2020, pre-[[Axeholm]]) | Silvered alongside Krageer's greataxe after [[Mountain's Toe Gold Mine]]; wielded through [[Axeholm]], [[Circle of Thunder]], and [[Icespire Hold]]. |
+| ***Wand of Magic Missile*** | **[[Thunder Cliffs]]** (Level 8 — July 28, 2020) | Claimed from the Talosite coastal cave cache after defeating Gadrille; contains 7 charges to cast *Magic Missile* (up to 6th-level volleys) without requiring spell slots. |
 | **Vicious Quarterstaff +2** | **Leilon Trilogy (Acts 2–4)** | Upgraded signature monk weapon in Tiers 2–3. |
 | ***Sash of the Patient Master*** | **Leilon Trilogy (Acts 2–4)** | Restores 1d4+1 expended Ki points once per day, fueling additional *Stunning Strikes* and *Flurry of Blows*. |
 | ***Goggles of Night*, *Ring of Surtur* & *Circlet of Blasting*** | **Leilon Trilogy (Acts 2–4)** | Grants 60-ft darkvision for subterranean dungeon crawls and ranged *Scorching Ray* utility. |
@@ -86,6 +102,7 @@ tags: [character-sheet, aarakocra, monk, drunken-master, tvyordiy-znak, order-of
 
 ## 💡 Behind the Screen & Table Trivia
 * **Player & Dual-PC Dynamics:** Played by Peter as a dual-PC / DMPC alongside Gary's frontline builds.
+* **Interlude Level Freeze Policy:** Peter intentionally froze level ups during the homebrew Interludes (*"Shadow's Run"* and *"Keeping the Faith"*) to keep party progression strictly tethered to the published trilogy tiers and prevent out-leveling the adventure module math.
 * **Linguistic Origin (Твёрдый знак / Ъ):** Named after the Russian Cyrillic "Hard Sign" (Ъ) inspired by conversations at work with coworker Grigory. The symbol represents firmness, hardness, and unyielding impact—directly reflecting Tvyordiy's stoic temperament, wereboar constitution, and concussive martial strikes.
 * **Oriental Adventures Homage (*Qiang*):** Flavoring Tvyordiy's starting spear as a ***Qiang*** was Peter's deliberate nod to classic 1e/3e *Oriental Adventures* monk weaponry.
 * **Table Roleplay:** Peter voiced Tvyordiy with a deadpan, baritone gravel that became an enduring comedy point whenever interacting with excitable NPCs.

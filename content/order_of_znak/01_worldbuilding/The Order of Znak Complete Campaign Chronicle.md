@@ -94,6 +94,24 @@ The upcoming bridge adventure for the four founding champions prior to their gro
 ![[MZnak_Portrait.png]]
 *Myagkiy Znak (Ь) — Drawn by Young Yasmina*
 
+### ⚔️ Custom HeroForge Miniatures & Historical Battle Art
+*Custom 3D miniature renders designed for the party and shared on July 13, 2020:*
+
+![[krageer-heroforge.png]]
+*Krageer Stoneface Ogolakanu — HeroForge Custom Miniature (Torch & Greataxe)*
+
+![[rhynok-heroforge.png]]
+*Rhynok — HeroForge Custom Miniature (Hooded Longbow Stance & Potion Flask)*
+
+![[myagkiy-znak-heroforge.png]]
+*Myagkiy Znak (Ь) — HeroForge Custom Miniature (Plate Armor, Flanged Mace, Shield & Gauntlets of Ogre Power)*
+
+![[tvyordiy-znak-heroforge.png]]
+*Tvyordiy Znak (Ъ) — HeroForge Custom Miniature (Goggles of Night, Prayer Beads & Qiang Spear Flying Kick)*
+
+![[tvyordiy-cryovain-battle.png]]
+*Tvyordiy Znak Battling Cryovain Atop Icespire Hold — 2022 Early Impressionistic AI Generation*
+
 ### 🗺️ Scenes, Battles & Landmarks
 ![[Leilon-overhead.webp]]
 *Overhead Cartographic Survey of Rebuilt Leilon*
@@ -119,21 +137,30 @@ The upcoming bridge adventure for the four founding champions prior to their gro
 
 ### 🇷🇺 The workplace Connection & Linguistic Origin of "Znak"
 The naming of the party and its core character concepts originated from real-world conversations at a former tech workplace, where Peter and Gary worked with Russian colleague **Grigory**. While exploring Russian Cyrillic language mechanics, Peter and Gary became intrigued by the linguistic concept of **Znak (Знак — sign/mark)**, specifically the alphabet's two silent modifying signs:
-* **Твёрдый знак (Ъ — Tvyordiy Znak / The Hard Sign):** Signifying firmness, hardness, and unyielding impact. This became Peter's high-mobility, wereboar Aarakocra Monk: **[[Tvyordiy Znak]] (Ъ)** (Level 13 Drunken Master Monk; took +2 DEX ASI at Level 4; wielded a spear flavored as a ***Qiang*** as an homage to earlier D&D edition *Oriental Adventures* sourcebooks).
-* **Мягкий знак (Ь — Myagkiy Znak / The Soft Sign):** Signifying softness, soothing, and life-preserving grace. This became Peter's fearless 24 AC battle cleric: **[[Myagkiy Znak]] (Ь)** (Level 13 Variant Human Life Domain Cleric; took +1 CON / +1 WIS ASI at Level 4).
+* **Твёрдый знак (Ъ — Tvyordiy Znak / The Hard Sign):** Signifying firmness, hardness, and unyielding impact. This became Peter's high-mobility, wereboar Aarakocra Monk: **[[Tvyordiy Znak]] (Ъ)** (Level 13 Drunken Master Monk; took +2 DEX ASI at Level 4, +1 DEX / +1 WIS at Level 8; wielded a spear flavored as a ***Qiang*** as an homage to earlier D&D edition *Oriental Adventures* sourcebooks).
+* **Мягкий знак (Ь — Myagkiy Znak / The Soft Sign):** Signifying softness, soothing, and life-preserving grace. This became Peter's fearless 24 AC battle cleric: **[[Myagkiy Znak]] (Ь)** (Level 13 Variant Human Life Domain Cleric; took +1 CON / +1 WIS ASI at Level 4, +2 WIS and *Blessed Strikes* at Level 8).
 
-Alongside Gary's two powerhouses—**[[Krageer Stoneface Ogolakanu]]** (Level 13 Goliath Bear Totem Barbarian / Champion Fighter; took +2 CON ASI at Level 4 and *Great Weapon Master*) and **[[Rhynok]]** (Level 13 Wood Elf Gloom Stalker Ranger / Assassin Rogue; took the *Sharpshooter* feat at Level 4)—the party took the name **The Order of Znak**, with their character sheet names proudly incorporating their Cyrillic symbols **(Ъ)** and **(Ь)**.
+Alongside Gary's two powerhouses—**[[Krageer Stoneface Ogolakanu]]** (Level 13 Goliath Bear Totem Barbarian / Champion Fighter; took +2 CON ASI at Level 4 and *Great Weapon Master* at Level 8) and **[[Rhynok]]** (Level 13 Wood Elf Gloom Stalker Ranger / Assassin Rogue; raised by Uncle Christos with *Heart of Darkness*, took *Sharpshooter* and *Poisoner*)—the party took the name **The Order of Znak**, with their character sheet names proudly incorporating their Cyrillic symbols **(Ъ)** and **(Ь)**.
+
+### 🏰 Aufox Manor & David
+Just as Grigory inspired the party's Cyrillic name, the party's fortified estate and headquarters in [[Leilon]]—**Aufox Manor** and the diplomatic **Aufox-Annex**—was named as a direct tribute to **David**, Peter and Gary's coworker at work (whom Gary had also known prior to workplace).
 
 ### 🎭 Dual-PC Co-Op & Alternating DM Screen
 Rather than playing the expansion trilogy (*Storm Lord's Wrath*, *Sleeping Dragon's Wake*, *Divine Contention* — titled *"C'mon, Listen"* in D&D Beyond) as an uninterrupted block, Peter and Gary ran a 1-on-1 dual-character setup and alternated DM duties:
 * **Peter** ran *Dragon of Icespire Peak* (Levels 1–7) and the three Leilon trilogy modules (*Storm Lord's Wrath*, *Sleeping Dragon's Wake*, and *Divine Contention*). Because Myagkiy and Tvyordiy functioned as DMPCs while Peter was behind the screen, Peter intentionally steered key story spotlights—such as touching the divinatory altar at the [[Shrine of Savras]] or choosing the *+1 Longbow* reward at the [[Tower of Storms]]—directly to Gary's characters.
 * **Gary** interleaved custom homebrew dungeon crawls and boss encounters: Interlude 1 (*"Shadow's Run"*) between Acts 2 and 3, Interlude 2 (*"Keeping the Faith"*) between Acts 3 and 4, and the upcoming *Bridge Campaign*.
+* **Interlude Level Freeze & Pacing Discipline:** To preserve encounter balance and keep party levels strictly aligned with published Wizards of the Coast module math (Levels 7–8 for *Storm Lord's Wrath*, Levels 9–11 for *Sleeping Dragon's Wake*, Levels 11–13 for *Divine Contention*), Peter did not allow level ups during Gary's homebrew Interludes (*"Shadow's Run"* and *"Keeping the Faith"*). The party faced high-stakes encounters—such as the Shadow Dragon and Fire Giant Queen—at their existing levels, keeping milestone progression tethered to the main storyline acts.
+* **Krageer's Fighter Multiclass Timing:** Analysis of the combat logs confirms that throughout *Storm Lord's Wrath* (Act 2), Krageer fought as a pure Barbarian (reaching Level 8 with *Great Weapon Master*). He did not utilize any Fighter features (*Second Wind*, *Great Weapon Fighting* rerolls, or *Action Surge*) in Act 2; his Champion Fighter multiclass debuted during the subsequent trials of *Sleeping Dragon's Wake* (Act 3).
 
 ### ⚔️ DM Encounter Scaling, Custom Maps & Dice Highlights
 Gary is an avid character optimizer who min-maxed Krageer and Rhynok for extreme DPR and survivability. Operating as DM required up-leveling published encounters, building custom battlemaps, and adding extra threats to maintain intense combat stakes:
 * **Krageer's Double-Fail with *Danger Sense* (Act 1):** At the [[Temple of Abbathor]], right after unlocking *Danger Sense* at Level 2 (granting Advantage on Dexterity saves against traps), Krageer pried at the trapped statue gem and rolled **under 15 on both d20s** against the DC 15 save!
 * **Custom Roll20 Map for [[Yargath]]'s Patrol (Act 1):** En route to the [[Circle of Thunder]], Peter built a custom Roll20 wilderness battlemap where the party and centaur [[Xanth]] ambushed [[Yargath]] and ten Talosian orcs.
 * **Rooftop Ice Mephits with [[Cryovain]] (Act 1 Finale):** To elevate the final *Dragon of Icespire Peak* rooftop boss fight against a Level 6 party armed with a *Dragon Slayer* Longsword, Peter added a pack of **Ice Mephits** alongside [[Cryovain]], while Tvyordiy landed clutch *Stunning Strikes* on the dragon.
+* **The Stableyard Rain Debate (Act 2):** During the August 3 assault on the Wayside Inn in *Storm Lord's Wrath*, the players realized the tactical grid featured a stableyard with no ceiling, sparking the hilarious table banter: *"It's raining inside?" / "We are in a stableyard!" / "With no roof?!" / "There was no roof, we could have climbed it!"*
+* **The "Joke-Jab" That Became Canon ([[Matriarch Qolzaz]]):** Peter's July 23, 2020 Discord tease (*"Krageer murdered an elderly lizardwoman ... to keep his rage"*) started as table ribbing over barbarian rage timers before the pair transformed it into Krageer's defining lore anchor, his chest tattoo, and the *Ballad of Qolzaz*.
+* **Rhynok's Net Obsession:** Rhynok's successful netting of Pinchwit's giant goats and his first-round netting of Master Thief Velleen Firecrow in Phandalin (completely foiling Peter's planned sneak-attack backstabs) turned nets into Gary's signature crowd-control weapon, culminating in a future adamantine-threaded net.
+* **Myagkiy's Permanent *Banishment* Lock:** In the battle against Captain Kristoffen on August 10, Myagkiy's double-*Banishment* of the Air Elementals was held unbroken for the full spell duration, turning a temporary exile into permanent planar banishment.
 * **The "Rule of Cool" Double-Enlarge (`Medium` &rarr; `Large` &rarr; `Huge` in *"Keeping the Faith"*):** Because a single *Enlarge* effect only bumps a Medium Goliath to Large whereas the **Fire Giant Queen** was **Huge**, the table invoked the **Rule of Cool**: Krageer drank a ***Potion of Growth*** bought from **[[Puck Caribdas]]** in [[Leilon]] (`Medium` &rarr; `Large`) **and** **[[Myagkiy Znak]]** cast ***Enlarge*** on him (`Large` &rarr; `Huge`), stacking both transmutations so Krageer could grapple the Huge Fire Giant Queen eye-to-eye in the volcano!
 * **High-Tier Planar Reinforcements (Act 4):** In the *Divine Contention* finale, Peter reinforced [[Fheralai Stormsworn]] with an Air Elemental Myrmidon and a Nalfeshnee demon.
 

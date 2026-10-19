@@ -42,7 +42,7 @@ date: 2026-10-11
 
 ---
 
-## 👥 Unified Character & NPC Roster (153 Characters)
+## 👥 Unified Character & NPC Roster (156 Characters)
 
 ### 🏰 The Original Champions & Estate (The Order of Znak)
 * [[Krageer Stoneface Ogolakanu]] — Goliath Barbarian Totem / Champion Fighter *(Played by Gary)*
@@ -71,14 +71,14 @@ date: 2026-10-11
 ### ⚙️ Gnomengarde Inventors (21 Entities)
 * [[Fibblestib Pinebark]] & [[Dabbledob Plasterpatch]] (Chief Inventors), [[Gnerkli|King Gnerkli]] & [[Korboz|King Korboz]] (Kings of Gnomengarde), [[Facktoré]], [[Anverth]], [[Caramip]], [[Dimble]], [[Jabby]], [[Joybell]], [[Nyx]], [[Pinchwit Wigglehoof]], [[Pog]], [[Ulla]], [[Quippy]], and gnome artificers.
 
-### 🐉 Villains, Bosses & Primordial Threats (19 Entities)
-* [[Ularan Mortus]] (High Priest of Myrkul / Mastermind), [[Cryovain]] (Young White Dragon), [[Claugiyliamatar]] ("Old Gnawbone"), [[Chardansearavitriol]] (Ebondeath), [[Fheralai Stormsworn]] (Talos High Priestess), [[Gorthok]] (The Thunder Boar), [[Moesko]], [[Grannoc]], [[Zeleen Varnaster]], [[Vyldara]], [[Daggermaw]], [[Nixoxious]], [[Argus Skeel]], [[Augusta Krul]], [[Emberlost]], [[Gadrille]], and primordial horrors.
+### 🐉 Villains, Bosses & Primordial Threats (20 Entities)
+* [[Ularan Mortus]] (High Priest of Myrkul / Mastermind), [[Cryovain]] (Young White Dragon), [[Claugiyliamatar]] ("Old Gnawbone"), [[Chardansearavitriol]] (Ebondeath), [[Fheralai Stormsworn]] (Talos High Priestess), [[Gorthok]] (The Thunder Boar), [[Moesko]], [[Grannoc]], [[Zeleen Varnaster]], [[Vyldara]], [[Daggermaw]], [[Nixoxious]], [[Argus Skeel]], [[Augusta Krul]], [[Emberlost]], [[Gadrille]], [[Tooth-N-Claw]], and primordial horrors.
 
 ### ⚡ Cults, Pirates & Raiders (33 Entities)
 * [[Anchorites of Talos]], [[Stone-Cold Reavers]], Cult of Myrkul necromancers, and dreadnaught marauders: [[Auntie Unk]], [[Nana Pocktuss]], & [[Granny Muyuk]] (Sea Hag Coven), [[Bindlemint Mincemower]], [[Brakkis Elspaar]], [[Castisha]], [[Dobin Noreth]], [[Drethna]], [[Flenz]], [[Narux]], [[Yargath]], [[Jabarl]], [[Runa Vokdottir]], [[Miraal]], [[Kristoffen]], [[Stands in Tar]], [[Gnawbones|The Gnawbones]], [[Argina Therrow]], [[Delis Venomcauldron]], [[Sajia Hurwi]], [[Zuri Kimyak]], and cultist raiders.
 
-### 🍻 Wayside Inn & High Road Hearth (11 Entities)
-* [[Martisha Vinetalker]] (Proprietor & Former Bandit Captain), [[Cooragh]] (Head Cook & Spicy Meat Pie Virtuoso), [[Corwin]], [[Teega]], [[Tarbin Tul]], [[Syleen Wintermoon]], [[Baatorius]], [[Cray Onderquill]], [[Favora Corehoarder]], [[Gori]], [[Koz]].
+### 🍻 Wayside Inn & High Road Hearth (13 Entities)
+* [[Martisha Vinetalker]] (Proprietor & Former Bandit Captain), [[Cooragh]] (Head Cook & Spicy Meat Pie Virtuoso), [[Corwin]], [[Teega]], [[Tarbin Tul]], [[Syleen Wintermoon]], [[Baatorius]], [[Cray Onderquill]], [[Favora Corehoarder]], [[Gori]], [[Koz]], [[Orson Longfellow]], [[Lars Drumbuckle]].
 
 ### 🐊 Wilderness, Mere of Dead Men & Beasts (10 Entities)
 * [[Grixxugroaz]] (Lizardfolk Sovereign) & [[Matriarch Qolzaz]] (Mere of Dead Men), [[Sister Silvergranite]] (Dwarven Eidolon), [[Slosh]] (Lizardfolk Render), [[Gustaf Stellern]] (Falcon the Hunter), [[Pell]], [[Lhammaruntosz]] (Bronze Dragon Ally), [[Xanth]] (Centaur), and livestock [[Petunia (cow)]] & [[Vincent (ox)]].

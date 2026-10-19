@@ -24,14 +24,23 @@ modules: ["Storm Lord's Wrath", "Sleeping Dragon's Wake", "Divine Contention"]
 ## 👥 Staff & Regulars
 * **Proprietor:** [[Martisha Vinetalker]]
 * **Head Cook:** [[Cooragh|Cooragh Struckt]]
-* **Tavern Staff:** [[Starling Winchet]], [[Lil]], and [[Cray Onderquill]].
-* **Permanent & Frequent Guests:** Bard [[Tarbin Tul]], priestess [[Teega]], [[Corwin]], [[Gori]], [[Koz]], and smith [[Baatorius]].
+* **Tavern Staff & Servants:** [[Cray Onderquill]], [[Lil]], and [[Starling Winchet]].
+* **Permanent & Traveling Patrons:**
+  * **[[Orson Longfellow]] & [[Lars Drumbuckle]]:** Traveling companions—a human traveler and halfling companion—who frequented the common room, sharing tales, ale, and songs with passing sellswords.
+  * **[[Tarbin Tul]]:** Traveling bard whose stirring ballads drew audiences from miles around (later abducted by Talos cultists).
+  * **[[Teega]]:** Resident village blacksmith who secretly spearheaded a subterranean Talos cult cell.
+  * **[[Backes Dun]]:** Shrewd merchant and ex-gladiator secretly serving as a lieutenant to the storm cult.
+  * **[[Emmalou]]:** Courageous tavern girl who helped the Order navigate the besieged inn.
+  * **Patrons:** [[Corwin]], [[Gori]], [[Koz]], [[Syleen Wintermoon]], and smith [[Baatorius]].
 
 ---
 
 ## ⚔️ Campaign Role in *The Order of Znak*
-* **The Cult Siege (Act 2 — *Storm Lord's Wrath*):** The inn was besieged by Talos cultists and undead marauders during a violent thunderstorm. [[The Order of Znak]] intervened, broke the siege, and secured the safety of the staff and patrons.
-* **The Party's Sanctuary & Hearth:** Following the battle, the inn became the favored regional rest stop and unofficial home hearth of the party along the High Road. Goliath barbarian **[[Krageer Stoneface Ogolakanu|Krageer]]** developed a deep infatuation with Cooragh's spicy cooking, sparking an enduring table romance.
+
+### Act 2: Storm Lord's Wrath
+* **The First Relief (The Undead Breach):** En route from Phandalin to Leilon, [[The Order of Znak]] arrived amidst a sudden unnatural tempest to find the inn encircled by zombies and shrieking spectres. The companions broke the siege, secured the courtyard, and met Martisha, head cook Cooragh, and the patrons gathered inside—sharing tankards with [[Orson Longfellow]] and [[Lars Drumbuckle]].
+* **The Second Relief (Storm Cult Liberation):** Returning north under tempest clouds shaped like three swirling lightning bolts, the Order discovered the inn overrun by [[Teega]]'s Talos cultists attempting a ritual to seize control of Sword Coast maritime weather. The party defeated three Air Elemental Myrmidons and courtyard zombies, rescued impaled commoners, breached the barroom to slay Backes Dun, cleared the upstairs with Cray Onderquill, breached the trapped cellar, shattered the animate Statue of Talos, and executed Teega with [[Myagkiy Znak]]'s upcast *Inflict Wounds* to liberate the captive Martisha.
+* **The Party's Hearth & Krageer's Courtship:** Following its liberation, the Wayside Inn became the company's favored roadside refuge. Goliath barbarian **[[Krageer Stoneface Ogolakanu|Krageer]]** courted head cook **[[Cooragh]]**, won over by her unyielding spirit and alarmingly spicy pork pies.
 
 ---
 

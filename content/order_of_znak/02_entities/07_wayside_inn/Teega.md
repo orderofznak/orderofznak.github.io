@@ -32,8 +32,10 @@ Later, the cult of Talos took over the Wayside inn. The guests of the inn were i
 Teega was a burly [[Illuskan]] woman, strong enough to wield a hammer in each hand. She wore a pair of bronze bracers fashioned like three lightning bolts and crafted jewelry in her leisure time. Teega's anvil was shaped like a dolphin.
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Slain in Battle (Act 2: *Storm Lord's Wrath*, Chapter 5: "Return to the Wayside Inn")
+* **The Cellar Ritual & Defeat:** When [[The Order of Znak]] returned to the captured Wayside Inn, they breached the cellar where Teega had bound innkeeper [[Martisha Vinetalker]] and animated a massive Statue of Talos to twist coastal weather. [[Krageer Stoneface Ogolakanu]] endured the statue's lightning discharges to shatter the stone idol, while [[Myagkiy Znak]] brought down the hammer of judgment, incinerating Teega with a lethal upcast ***Inflict Wounds***. Following her death, [[Rhynok]] claimed a ***Ring of Water Walking*** from the chamber.
+
+---
 
 ## 📚 Sources & Canon References
 * **Forgotten Realms Wiki:** [Teega](https://forgottenrealms.fandom.com/wiki/Teega)

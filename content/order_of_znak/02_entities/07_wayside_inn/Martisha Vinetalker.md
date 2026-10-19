@@ -39,6 +39,13 @@ modules: ["Storm Lord's Wrath", "Sleeping Dragon's Wake", "Divine Contention"]
 
 ---
 
+## ⚔️ Campaign Interactions & Party Encounters
+* **Encounter Status:** Rescued Ally (Act 2: *Storm Lord's Wrath*)
+* **The First Relief:** When undead surrounded the Wayside Inn, the Order broke through the barricades. Martisha provided hospitality, introduced the party to the common room regulars, and established an open-door policy for the heroes.
+* **Cellar Captivity & Freedom:** Captured and tied up in the dark cellar during [[Teega]]'s storm cult takeover. When [[The Order of Znak]] breached the lower level, they cut her bonds, and the former bandit captain immediately grabbed a blade to fight alongside the companions against the animated Statue of Talos until Teega was felled by [[Myagkiy Znak]].
+
+---
+
 ## 💡 Behind the Screen & Trivia
 * **Official Adventure Context:** Sourced directly from *Storm Lord's Wrath* (*"Wayside Inn"* encounter), Martisha provides a sharp, morally gray ally whose pragmatic self-interest aligns perfectly with regional frontier survival.
 

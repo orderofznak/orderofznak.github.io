@@ -13,6 +13,10 @@ tags: [character-sheet, elf, ranger, rogue, gloomstalker, assassin, rhynok, orde
 
 ## 🛡️ Overview & Character Lore
 * **Personality & Demeanor:** Silent, watchful, and lethal. Moves through shadowed forest canopies, fetid marshlands, and subterranean caverns without leaving a footprint or a sound.
+* **Upbringing & Sworn Faith:** Raised by his **Uncle Christos** in the vast, untamed swamps of the Forgotten Realms—learning the deadly arts of stealth, silent tracking, swamp navigation, and survival from an early age. Holds deep reverence and high regard for the nature deities **Silvanus** (the Oak Father) and **Mielikki** (Lady of the Forest).
+* **Alignment:** **Neutral Evil** (ruthlessly pragmatic, operating by a cold, self-interested code of survival and lethal efficiency, while fiercely loyal to his comrades in the Order).
+* **Character Feature — *Heart of Darkness*:**
+  > *"Those who look into your eyes can see that you have faced unimaginable horror and that you are no stranger to darkness. Though they might fear you, commoners will extend you every courtesy and do their utmost to help you. Unless you have shown yourself to be a danger to them, they will even take up arms to fight alongside you, should you find yourself facing an enemy alone."*
 * **Background:** Criminal / Smuggler. Master of disguises, covert waterways, and concealed pathways before placing his deadeye marksmanship at the service of [[The Order of Znak]].
 * **Wilderness Mastery & Sworn Quarry:** Born to the tangled boughs of forest and swamp, harboring a lifelong, merciless enmity toward **Orcs** and the **Undead**, and harvesting deadly serpent venoms during quiet days between campaigns.
 
@@ -30,7 +34,9 @@ tags: [character-sheet, elf, ranger, rogue, gloomstalker, assassin, rhynok, orde
 * **Slaying [[Cryovain]] at [[Icespire Hold]]:** Cut down mountain **Hobgoblins** in close quarters with his **Silvered Shortsword**, helped subdue the [[Stone-Cold Reavers]], and drove deadeye arrows from his **+1 Longbow** into a stunned **[[Cryovain]]** atop the frozen roof of [[Icespire Hold]].
 
 ### ⛈️ [[02 - Act 2 - Storm Lord's Wrath|Act 2: Storm Lord's Wrath]] & [[03 - Interlude 1 - Shadow's Run|Interlude 1: "Shadow's Run"]]
-* **Guardian of [[Leilon]] & Stalker of the Deep Dark:** Helped crush [[Nixoxious]]'s Kraken raid and adopt orphaned wards **[[Smithwell and Burnice]]** into the Znak estate, forged the lizardfolk truce in the Mere of Dead Men, and led the party through the pitch-black caverns of *"Shadow's Run"*—using his Gloom Stalker invisibility in darkness to outmaneuver shadow creatures and slay the **Shadow Dragon**.
+* **Pioneering Combat Netting & Foiling Backstabs:** In the wilderness outside Phandalin, Rhynok used weighted hunting nets to round up panicked Giant Goats during a wyvern scare, launching his signature net-fighting mastery. In Phandalin, he netted Master Thief [[Velleen Firecrow]] on round one, completely denying her sneak attack backstabs before tracking her down with an upcast *Hunter's Mark* to recover the secret crystalline lenses (*Eyes of Minute Seeing*).
+* **The Extradimensional Sniper & Swamp Mastery:** Deployed ***Rope Trick*** in the House of Thalivar to snipe Star-Spawn Manglers from safety, and guided the party through the Mere of Dead Men without a single misstep using his swamp Favored Terrain. In the sea approach to Thunder Cliffs, used his newly won ***Ring of Water Walking*** and a sea-air *Rope Trick* to execute the Giant Crab, lifted merchant [[Sovendahl Erkinze]]'s curse to claim his prized ***Dagger of Venom***, and supported the downfall of Captain [[Kristoffen]] and [[Gadrille]].
+* **Shadow Dragon Slayer:** Spearheaded the descent through the Underdark depths of *"Shadow's Run"*, utilizing his Gloom Stalker invisibility in total darkness to outmaneuver shadow aberrations and slay the **Shadow Dragon**.
 
 ### 🐲 [[04 - Act 3 - Sleeping Dragon's Wake|Act 3: Sleeping Dragon's Wake]] & [[05 - Interlude 2 - Keeping the Faith|Interlude 2: "Keeping the Faith"]]
 * **Deeping Cave Acid Relay & Hunt for [[Viantha Cruelhex]]:** Loaned his *Ring of Water Walking* to [[Myagkiy Znak]] to ferry the party safely across the boiling acid pools of [[Claugiyliamatar]]'s lair, ambushed and slew undead warlock [[Viantha Cruelhex]] in Kryptgarden Forest, and supported the volcano showdown against the **Fire Giant Queen** in *"Keeping the Faith"*.
@@ -44,6 +50,9 @@ tags: [character-sheet, elf, ranger, rogue, gloomstalker, assassin, rhynok, orde
 ## 🎨 Artwork & Imagery
 ![[Rhynok.png]]
 *Rhynok — Wood Elf Gloom Stalker Ranger / Assassin Rogue*
+
+![[rhynok-heroforge.png]]
+*HeroForge 3D Miniature Render of Rhynok — Custom Pose with Hood, Longbow & Potion Flask (Shared July 13, 2020)*
 
 ![[Rhynock_Portrait.png]]
 *Portrait of Rhynok — Canonically drawn by young [[Yasmina]] shortly after her rescue from the Night Hag in "Keeping the Faith"*
@@ -63,30 +72,37 @@ tags: [character-sheet, elf, ranger, rogue, gloomstalker, assassin, rhynok, orde
 ### 📈 Level-by-Level Progression
 | Level / Tier | Class & Milestone | Mechanical Features, Subclass, Feats & Spells Taken |
 | :--- | :--- | :--- |
-| **Level 1** | Ranger 1 (*Phandalin Arrival*) | *Favored Enemy (Orcs)*, *Natural Explorer (Forest/Swamp)*. |
+| **Level 1** | Ranger 1 (*Phandalin Arrival*) | *Favored Enemy (Orcs)*, *Natural Explorer (Forest/Swamp)*, *Heart of Darkness*. |
 | **Level 2** | Ranger 2 (*Post-[[Umbrage Hill]]*) | **Fighting Style:** *Archery* (+2 to ranged attack rolls); **Spellcasting:** ***Goodberry*** & ***Hail of Thorns***. |
 | **Level 3** | Ranger 3 (*Post-[[Temple of Abbathor]] — Nov 16, 2019*) | **Subclass:** ***Gloom Stalker Conclave*** (*Dread Ambusher* bonus first-round attack +1d8 damage & +WIS to Initiative; *Umbral Sight* darkvision & invisible to darkvision in darkness; *Disguise Self*). |
 | **Level 4** | Ranger 4 (*Post-[[Butterskull Ranch]] — Nov 27, 2019*) | **Feat:** ***Sharpshooter*** (ignore half/three-quarters cover, no long-range disadvantage, -5 attack / +10 damage power shots). |
 | **Level 5** | Ranger 5 (*Post-First [[Woodland Manse]] Retreat — Dec 8, 2019*) | ***Extra Attack*** (2 attacks per Action; 3 on Round 1 via *Dread Ambusher*) & 2nd-level Ranger spells (***Rope Trick***, *Pass without Trace*). |
 | **Level 6** | Ranger 6 (*Post-[[Mountain's Toe Gold Mine]] — Jan 19, 2020*) | *Favored Enemy (Undead)* & *Natural Explorer* upgrade. |
 | **Level 7** | Ranger 7 (*End of Act 1 — [[Icespire Hold]], May 31, 2020*) | ***Iron Mind*** (proficiency in Wisdom saving throws). |
-| **Levels 8–13** | Ranger 8 / Rogue 5 (*Acts 2–4 Leilon Trilogy*) | **Feat:** ***Poisoner*** (ignores poison resistance, bonus-action poison application); multiclassed into **Rogue (Assassin)** for *Expertise*, *Cunning Action*, *Sneak Attack (3d6)*, ***Assassinate*** (advantage vs. foes who haven't acted + auto-crit on surprised targets), and *Uncanny Dodge*. |
+| **Level 8** | Ranger 8 (*Act 2: [[02 - Act 2 - Storm Lord's Wrath|Storm Lord's Wrath]] — July 22, 2020*) | **Feat:** ***Poisoner*** (ignores poison resistance, bonus action to apply poison, creates potent toxins; table discrepancy note below). Remained Level 8 through the conclusion of Act 2. |
+| **Interlude 1** | *Level Freeze* (*[[03 - Interlude 1 - Shadow's Run|Shadow's Run]] — Aug 12, 2020*) | **No Level Up:** Milestone advancement held at Level 8 to preserve published encounter balance for Act 3. |
+| **Level 9** | Ranger 8 / Rogue 1 (*Act 3: [[04 - Act 3 - Sleeping Dragon's Wake|Sleeping Dragon's Wake]]*) | **Multiclass into Rogue:** *Expertise* (Stealth, Thieves' Tools), *Sneak Attack (1d6)*, *Thieves' Cant*. |
+| **Levels 10–13** | Ranger 8 / Rogue 2–5 (*Acts 3–4 Leilon Trilogy*) | *Cunning Action*, **Rogue Subclass: Assassin** (*Assassinate* advantage vs. creatures that haven't acted + auto-crit on surprised targets), *Sneak Attack (3d6)*, *Uncanny Dodge*. |
 
 ### 🎒 Weapons, Armor & Item Acquisition Log
 | Item / Weapon | Where & When Acquired | Mechanical Properties & Campaign Notes |
 | :--- | :--- | :--- |
 | **Mundane Longbow & Warhammer** | **[[Phandalin]]** (Level 1 Starter Gear) | Standard longbow and warhammer used from [[Umbrage Hill]] through [[Falcon's Hunting Lodge]]. |
-| **+1 Longbow** | **[[Tower of Storms]]** (Awakened Crab) | Retrieved from the sunken wreck of the *Star-Crossed Lover* by the awakened giant crab after the party helped banshee [[Miraal]] (when Peter gave Gary the choice of what *+1 Weapon* it was and who received it). Carried the [[Mountain's Toe Gold Mine]] wererat fight and slew [[Cryovain]]. |
-| **Silvered Shortsword** | **[[Phandalin]] Smithy** (Level 6 — Jan 20, 2020, pre-[[Axeholm]]) | Silvered alongside Krageer's axe and Tvyordiy's *Qiang*; wielded in melee against the mountain hobgoblins and inside [[Icespire Hold]]. |
-| ***Boots of Elvenkind*** | **[[Phandalin]]** from **[[Gustaf Stellern\|Falcon]]** (Level 6 — May 4, 2020) | Offered by Falcon as the party left [[Falcon's Hunting Lodge]] on Dec 4, 2019, and awarded in Phandalin on May 4, 2020 after purging the [[Woodland Manse]]; grants Advantage on Stealth checks to move silently. |
-| ***Cloak of Elvenkind*** | **Subsequent Campaign Quest (Acts 2–4)** | Inspired by his love for the *Boots of Elvenkind*, Rhynok hunted down the matching cloak (imposing Disadvantage on enemy Perception checks to see him). |
-| **+2 Longbow, *Dagger of Venom* & *Scimitar of Speed*** | **Leilon Trilogy (Acts 2–4)** | High-tier magical ranged and melee arsenal. |
-| ***Ring of Water Walking* & *Ring of the Beast Master*** | **Leilon Trilogy (Acts 2–4)** | Used in the Deeping Cave acid pool relay with [[Myagkiy Znak]]. |
-| **+1 Breastplate, *Poisoner's Kit* & *Adamantine Nets*** | **Leilon Trilogy (Acts 2–4)** | Grants 18 AC without stealth disadvantage, rapid venom crafting, and unbreakable target capture. |
+| **+1 Longbow** | **[[Tower of Storms]]** (Awakened Crab) | Retrieved from the sunken wreck of the *Star-Crossed Lover* by the awakened giant crab after the party helped banshee [[Miraal]]; carried the wererat fight and slew [[Cryovain]]. |
+| **Silvered Shortsword** | **[[Phandalin]] Smithy** (Level 6 — Jan 20, 2020, pre-[[Axeholm]]) | Silvered alongside Krageer's axe and Tvyordiy's *Qiang*; wielded in melee against mountain hobgoblins. |
+| ***Boots of Elvenkind*** | **[[Phandalin]]** from **[[Gustaf Stellern\|Falcon]]** (Level 6 — May 4, 2020) | Offered by Falcon at lodge, awarded in Phandalin after Woodland Manse; grants Advantage on Stealth checks to move silently. |
+| ***Eyes of Minute Seeing*** | **[[Phandalin]]** from **[[Velleen Firecrow]]** (Level 7 — July 16, 2020) | Crystalline lenses granting advantage on Investigation checks within 1 foot; used to decode Teega's hidden map to Thunder Cliffs. |
+| ***Ring of Water Walking*** | **[[The Wayside Inn]]** (Level 8 — August 4, 2020) | Looted from the flooded cellar forge after slaying Teega; used in the Giant Crab battle and the Deeping Cave acid relay. |
+| ***Dagger of Venom*** | **[[Thunder Cliffs]]** from **[[Sovendahl Erkinze]]** (Level 8 — August 10, 2020) | +1 magical dagger allowing black venom coating once per day (DC 15 CON or 2d10 poison damage and Poisoned condition). |
+| ***Adamantine Nets*** | **[[Leilon]] / High Road Forge** (Acts 2–4) | Custom-forged adamantine-threaded hunting nets (AC 20, DC 20 Strength burst check) to lock down enemy champions and monsters permanently. |
+| ***Cloak of Elvenkind*** | **Subsequent Campaign Quest (Acts 2–4)** | Hunted down to match his boots (imposes Disadvantage on enemy Perception checks to see him). |
+| **+2 Longbow & *Scimitar of Speed*** | **Leilon Trilogy (Acts 3–4)** | High-tier magical ranged and melee arsenal. |
+| **+1 Breastplate Armor** | **Leilon Trilogy (Acts 2–4)** | Grants 18 AC without stealth disadvantage. |
 
 ---
 
 ## 💡 Behind the Screen & Table Trivia
 * **Optimization Strategy:** Played by Gary. Gary built Rhynok to push 5e's ranged opening-round Nova damage to its mathematical ceiling, combining Gloom Stalker's *Dread Ambusher*, Assassin's *Assassinate*, *Sharpshooter*, and *Poisoner*.
+* **Interlude Level Freeze Policy:** Peter intentionally froze level ups during the homebrew Interludes (*"Shadow's Run"* and *"Keeping the Faith"*) to keep party progression strictly tethered to the published trilogy tiers and prevent out-leveling the adventure module math.
 * **The "Rope Trick" Pocket Sniper:** One of Gary's signature tactical plays was having Rhynok cast *Rope Trick*, climb into the invisible extradimensional space, pull the rope up, and snipe from complete cover.
 * **Downtime Snake Venom Milking:** Between quests, Gary regularly sent Rhynok out into the swamps and foothills to hunt and milk **giant poisonous snakes**, keeping his *Poisoner* vials stocked with fresh natural toxins.
