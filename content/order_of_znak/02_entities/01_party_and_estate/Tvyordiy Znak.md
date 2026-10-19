@@ -94,7 +94,9 @@ tags: [character-sheet, aarakocra, monk, drunken-master, tvyordiy-znak, order-of
 | **Mundane *Qiang* Spear** | **[[Phandalin]]** (Level 1 Starter Gear) | Standard Monk Spear (1d6/1d8 versatile) flavored as a Chinese ***Qiang*** as an homage to *Oriental Adventures*; unable to hurt immune wererats at [[Mountain's Toe Gold Mine]]. |
 | **Silvered *Qiang* Spear** | **[[Phandalin]] Smithy** (Level 6 — Jan 20, 2020, pre-[[Axeholm]]) | Silvered alongside Krageer's greataxe after [[Mountain's Toe Gold Mine]]; wielded through [[Axeholm]], [[Circle of Thunder]], and [[Icespire Hold]]. |
 | ***Wand of Magic Missile*** | **[[Thunder Cliffs]]** (Level 8 — July 28, 2020) | Claimed from the Talosite coastal cave cache after defeating Gadrille; contains 7 charges to cast *Magic Missile* (up to 6th-level volleys) without requiring spell slots. |
-| **Vicious Quarterstaff +2** | **Leilon Trilogy (Acts 2–4)** | Upgraded signature monk weapon in Tiers 2–3. |
+| ***Cloak of Billowing*** | **Sword Coast Adventuring** (Level 8 — Aug 13, 2020) | Wondrous item; bonus action causes cloak to billow dramatically on a phantom breeze; donned during the woodland infiltration of *Shadow's Run*. |
+| ***Messenger Stone*** | **Neverwinter High Road** (Level 8 — Aug 13, 2020) | Gifted to Tvyordiy by servant Liefold to telepathically call Daniel Renault's extraction carriage upon completing *Shadow's Run*. |
+| ***Vicious Quarterstaff*** | **[[03 - Interlude 1 - Shadow's Run|Shadow's Run]]** (Level 8 — Aug 14, 2020) | Discovered inside a locked chest in Room 1 on the first floor of the cult hideout; deals extra bludgeoning damage on a critical natural 20. Replaced the *Qiang* as Tvyordiy's signature monk weapon throughout Acts 3–4 (upgraded to +2 in later tiers). |
 | ***Sash of the Patient Master*** | **Leilon Trilogy (Acts 2–4)** | Restores 1d4+1 expended Ki points once per day, fueling additional *Stunning Strikes* and *Flurry of Blows*. |
 | ***Goggles of Night*, *Ring of Surtur* & *Circlet of Blasting*** | **Leilon Trilogy (Acts 2–4)** | Grants 60-ft darkvision for subterranean dungeon crawls and ranged *Scorching Ray* utility. |
 

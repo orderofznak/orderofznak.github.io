@@ -31,3 +31,8 @@ aliases: ['Leopold', 'Majordomo Leopold', 'Butler Leopold']
   * Young fisher orphans **[[Smithwell and Burnice|Smithwell and Burnice]]** (rescued from the kraken cult in *Storm Lord's Wrath*).
   * Young **[[Yasmina]]** (rescued from the Night Hag in *"Keeping the Faith"*).
 * **Care for the Wards & Envoys:** Watched over young wards **[[Smithwell and Burnice|Smithwell and Burnice]]**, young **[[Yasmina]]**, and welcomed lizardfolk exchange allies **[[Graxxoamo]]** and **[[Shriss]]** at the manor.
+
+---
+
+## 💡 Behind the Screen & Table Trivia
+* **The "Liefold" Candidate Lineage:** In Gary's August 2020 homebrew adventure ***[[03 - Interlude 1 - Shadow's Run|Shadow's Run]]***, the loyal carriage driver and retainers of Waterdhavian noble Daniel Renault who hired the Order were named **Liefold** and **Joffrey**. Given the phonetics and butler archetype, Peter and Gary noted at the table that Liefold may have subsequently transitioned from Renault's service to become the Order's permanent majordomo **Leopold** at Aufox Manor in Leilon (a beloved piece of table canon pending Gary's final confirmation).
