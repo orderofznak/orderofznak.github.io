@@ -27,77 +27,103 @@ Across thirty-two recorded sessions from November 2019 to May 1920, the companio
 
 ```mermaid
 flowchart TD
-    A["Arrival in Phandalin\n(Nov 10-14, 2019)"] --> B["Dwarven Excavation\n(Nov 16-17, 2019)"]
-    B --> C["Umbrage Hill & Butterskull Ranch\n(Nov 19-27, 2019)"]
-    C --> D["Woodland Manse Retreat\n(Dec 7-8, 2019)"]
-    D --> E["Loggers' Camp & Falcon's Lodge\n(Jan 5, 2020)"]
-    E --> F["Tower of Storms & Shrine of Savras\n(Jan 11-12, 2020)"]
-    F --> G["Mountain's Toe & Gnomengarde\n(Jan 18-20, 2020)"]
-    G --> H["Purge of Axeholm\n(Feb 1-2, 2020)"]
-    H --> I["Dragon Barrow & Dragon Slayer Blade\n(Feb 8-9, 2020)"]
-    I --> J["Circle of Thunder & Slaying Gorthok\n(Mar 7 - May 23, 2020)"]
-    J --> K["Climax: Siege of Icespire Hold\n(May 31, 2020)"]
+    A["Campaign Debut & Gnomengarde Mimic\n(Nov 10, 2019)"] --> B["Dwarven Excavation at Temple of Abbathor\n(Nov 16-17, 2019)"]
+    B --> C["Windmill Siege at Umbrage Hill\n(Nov 19-20, 2019)"]
+    C --> D["Butterskull Ranch & Cryovain vs. Manticores\n(Nov 26-27, 2019)"]
+    D --> E["Woodland Manse Retreat\n(Dec 7-8, 2019)"]
+    E --> F["Loggers' Camp & Falcon's Lodge\n(Jan 5, 2020)"]
+    F --> G["Tower of Storms & Shrine of Savras\n(Jan 11-12, 2020)"]
+    G --> H["Mountain's Toe Gold Mine\n(Jan 18-19, 2020)"]
+    H --> I["The Chimney Rappel & Purge of Axeholm\n(Jan 20 - Feb 2, 2020)"]
+    I --> J["Dragon Barrow & Dragon Slayer Blade\n(Feb 8-9, 2020)"]
+    J --> K["Circle of Thunder & Slaying Gorthok\n(Apr 4 - May 23, 2020)"]
+    K --> L["Climax: Siege of Icespire Hold\n(May 31, 2020)"]
 ```
 
 ---
 
 ## ⚔️ The Frontier Chronicles
 
-### 🍺 Chapter 1: Arrival in Phandalin, Frontier Rumors & The White Wyrm's Shadow
-*(November 10 – November 14, 2019)*
+### 🍺 Chapter 1: Arrival in Phandalin & The White Wyrm's Shadow
+*(November 10, 2019)*
 
 In the gray chill of late autumn, four untested sellswords marched along the Triboar Trail into the rough-and-tumble mining boomtown of **[[Phandalin]]**. Each carried the humble equipment of their origins:
-* **[[Krageer Stoneface Ogolakanu]]** hefted a heavy iron greataxe and a quiver of javelins, his weathered Goliath features unreadable.
+* **[[Krageer Stoneface Ogolakanu]]** hefted a heavy iron battleaxe and a quiver of javelins, his weathered Goliath features unreadable.
 * **[[Rhynok]]** moved with the silent, watchful grace of the swamps, carrying a weathered longbow and a balanced warhammer.
 * **[[Myagkiy Znak]]** bore a sturdy oak shield and a silver-headed mace, radiating the compassionate serenity of the Life Domain.
 * **[[Tvyordiy Znak]]** glided lightly on feathered talons, twirling a slender Eastern-style *Qiang* spear.
 
-Over tankards of bitter ale at the **[[Stonehill Inn]]**, innkeeper **[[Toblen Stonehill]]** introduced the newcomers to frontier life. Local miners spoke in hushed tones of ancient dwarven ruins tucked into hidden canyons, of eccentric rock gnome inventors burrowed into cliffside caves at **[[Gnomengarde]]**, and of shipwrecks piling up along the sea cliffs beneath the eerie green lantern of the **[[Tower of Storms]]**.
+Over tankards of bitter ale at the **[[Stonehill Inn]]**, innkeeper **[[Toblen Stonehill]]** introduced the newcomers to frontier life. Fear hung heavy over the settlement: the young white dragon **[[Cryovain]]** had descended upon the peaks, sweeping low over the rooftops in sudden hunting raids that seized livestock and claimed the life of miner **[[Turkos Doomheart]]**. Terrified for the town's survival, Townmaster **[[Harbin Wester]]** barred his manor doors, refusing visitors and sliding frantic, ink-stained bounty notices beneath the threshold. 
 
-Yet fear hung heavy in the air. The terror of **[[Cryovain]]** was made bitterly personal when the white dragon swept low over the rooftops in a sudden raid, seizing cattle and taking the life of miner **[[Turkos Doomheart]]**. Terrified for the town's survival, Townmaster **[[Harbin Wester]]** barred his manor doors, refusing visitors and sliding frantic, ink-stained bounty notices beneath the threshold. The frontier was bleeding, and the four sellswords accepted the call.
+Among the initial notices was an urgent plea to seek out the eccentric rock gnome inventors of **[[Gnomengarde]]** to negotiate for magical or mechanical contraptions capable of repelling the dragon. Accepting the contract, the four sellswords set out southeast along the stream into the Sword Mountain foothills.
 
 ---
 
-### ⛏️ Chapter 2: The Dwarven Excavation & The Gem of Greed
+### ⚙️ Chapter 2: Gnomengarde & The Wine Cellar Mimic
+*(November 10, 2019)*
+
+Following a cascading mountain stream into the misty gorge of **[[Gnomengarde]]**, the Order sought audience with the reclusive rock gnome kingdom. Their arrival was met with instantaneous, frantic chaos: manic inventor **[[Facktoré]]** opened fire from behind a barricade with her steam-driven autoloading heavy crossbow contraption, shooting Rhynok before Krageer bodily rushed the apparatus and restrained the spinning ballista!
+
+Roughing up jittery gnome sentries along the corridors, the party was introduced to chief artificers **[[Fibblestib Pinebark]]** and **[[Dabbledob Plasterpatch]]** (affectionately called *Dabbledop*). The artificers revealed that an insidious shapeshifting predator had crept into the caverns and begun devouring gnomes whole. The killings had driven **[[Korboz|King Korboz]]** mad with terror, prompting the monarch to lock himself and husband **[[Gnerkli|King Gnerkli]]** inside the royal bedchamber.
+
+Enlisting the aid of Dabbledob, the party systematically swept the workshop halls. Utilizing Gary's tactical **10-foot collapsible pole** to poke barrels and suspicious furniture from safe distance, the Order cornered the monster in the royal wine cellar: **a predatory Mimic disguised as a wine barrel**. 
+
+The battle was swift, brutal, and decisive:
+* Krageer Stoneface Ogolakanu went into a berserk frenzy, driving his heavy iron battleaxe into the creature's rubbery mass (*"Yo, Stoneface is a straight up killa"*).
+* Myagkiy and Dabbledob unleashed a lethal barrage of glowing *Magic Missiles* into its core, tearing the monstrosity to shreds before its adhesive flesh could permanently trap their weapons.
+* Slaying the beast alongside Dabbledob earned the companions a shared triumph (splitting 102 XP each).
+
+With royal sanity restored and King Korboz convinced the danger had passed, the grateful gnomish court rewarded the heroes with several ingenious magical curios—including the ***Clockwork Amulet*** and ***Hat of Wizardry***—before the Order marched back to Phandalin.
+
+---
+
+### ⛏️ Chapter 3: The Dwarven Excavation & The Gem of Greed
 *(November 16 – November 17, 2019)*
 
-Marching southwest into a canyon of the Sword Mountains, the companions answered Harbin’s first contract: warning prospectors **[[Dazlyn Grayshard]]** and **[[Norbus Ironrune]]** about the dragon. Upon arriving at the newly unearthed **[[Temple of Abbathor]]**, the dwarves welcomed the armed party but refused to depart until their excavation was secured.
+With Gnomengarde secured, the companions turned southwest into a rugged canyon of the Sword Mountains to fulfill Townmaster Harbin’s second contract: warning dwarven prospectors **[[Dazlyn Grayshard]]** and **[[Norbus Ironrune]]** about Cryovain’s encroaching presence. Upon arriving at the newly unearthed **[[Temple of Abbathor]]**, the dwarves welcomed the armed party but adamantly refused to abandon their claim until the subterranean ruin was cleared of lurking horrors.
 
-Entering the subterranean stone corridors, the Order encountered eerie, creeping horrors: undulating **Ochre Jellies** (*"the corrosive blobs"*) oozing from ceiling cracks. In their first true trial of combat:
-* Myagkiy invoked a blessing of divine fortune and seared the acidic horrors with beams of *Sacred Flame*.
-* Tvyordiy vaulted forward, driving his *Qiang* into the jellies and following with rapid unarmed strikes.
-* Krageer hewed the oozes with his greataxe, learning with alarm that slashing blades divided the creatures into smaller swarms!
-* Rhynok methodically dispatched the splitting jellies with longbow shafts from safe distance.
+Entering the ancient stone halls, the Order encountered undulating **Ochre Jellies** oozing from the crumbling stonework. In a grueling subterranean duel:
+* Myagkiy invoked divine guidance and seared the acidic horrors with beams of *Sacred Flame*.
+* Tvyordiy vaulted forward, driving his *Qiang* into the oozes and following with rapid unarmed strikes.
+* Krageer hewed the beasts with his axe, discovering with alarm that slashing weapons divided the jellies into smaller, swarming horrors!
+* Rhynok methodically picked off the splitting oozes from a safe distance with his longbow.
 
-Clearing the inner sanctuary, the party unearthed a secret altar room housing a stone statue of Abbathor, the dwarven god of greed, with a glowing jewel set into its breast. Tempted by its luster, Krageer pried at the stone. The Goliath’s danger instincts flared an instant before the trap detonated, but he could not twist clear of the explosive fireblast. Soot-stained and humbled, Krageer emerged into the canyon where Dazlyn and Norbus rewarded the party with a pair of attuned ***Sending Stones***—a magical lifeline that would keep the Order linked across their entire legendary saga.
+Clearing the inner sanctuary, the party unearthed a hidden altar room housing a stone statue of Abbathor, the dwarven god of greed, with a glowing jewel set into its breast. Tempted by its luster, Krageer pried at the stone. The Goliath’s danger instincts flared an instant before the trap detonated, but he double-failed his DC 15 Dexterity save (rolling under 15 on both d20s despite *Danger Sense*!) and took the full brunt of the explosive fireblast. Soot-stained and humbled, Krageer emerged into the canyon where Dazlyn and Norbus rewarded the party with a pair of attuned ***Sending Stones***—a magical lifeline that would keep the Order linked across their entire legendary saga.
 
-As they exited the canyon, a marauding warband of mountain orcs charged the defile. Against Rhynok’s sworn hatred of orc-kind and his rapid-fire archery, the raiders were annihilated before they could breach the mouth of the canyon.
+As they exited the canyon, a raiding party of five mountain orcs charged the defile. Against Rhynok’s sworn hatred of orc-kind and the party's disciplined frontline, the raiders were annihilated before they could breach the canyon mouth.
 
 ---
 
-### 🌾 Chapter 3: The Windmill Siege at Umbrage Hill
-*(November 19 – November 27, 2019)*
+### 🌾 Chapter 4: The Windmill Siege at Umbrage Hill
+*(November 19 – November 20, 2019)*
 
 Riding south toward the rolling agrarian meadows of **[[Umbrage Hill]]**, the Order sought out the stubborn midwife and herbalist **[[Adabra Gwynn]]**. Upon approaching the stone windmill, they found the compound under active siege: a ravenous, leathery-winged **Manticore** was clawing at the timber doors, roaring for flesh.
 
-Krageer led the charge with a furious battle cry, hurling javelins into the beast's flanks. The manticore whipped its barbed tail, sending a volley of spikes crashing into the Goliath’s hide. Tvyordiy bounded up the windmill masonry, distracting the predator with spinning spear thrusts, while Myagkiy channeled radiant healing energy to close Krageer's puncture wounds. Rhynok unleashed an enchanted volley of thorns from his longbow, driving the wounded manticore into the sky where it fled over the southern ridges.
+Rolling initiative against the monstrosity, the Order executed a synchronized ranged and aerial assault:
+* Krageer hurled heavy iron javelins into the beast's flanks, trading blows as the manticore whipped its barbed tail.
+* Tvyordiy bounded up the windmill masonry, using his monk discipline to *Deflect Missiles* out of mid-air and strike back with his wushu spear.
+* Rhynok unleashed an enchanted volley of *Hail of Thorns* from his longbow, punching shafts through the beast's wings.
+* Myagkiy channeled radiant healing energy to keep the frontline pristine.
 
-Though Adabra stubbornly refused to evacuate her windmill, she gifted the Order several restorative potions. Days later, as the companions trekked through the foothills, they looked up to witness a chilling spectacle: Cryovain swooped from the clouds, intercepting the wounded manticore in mid-air and tearing the beast to shreds in an effortless display of apex dominance.
+Badly wounded and unable to pierce the Order's coordinated defense, the manticore broke off the siege and fled into the southern crags. Though Adabra stubbornly refused to evacuate her windmill, she gifted the Order several restorative potions of healing.
 
 ---
 
-### 🐄 Chapter 4: The Outhouse Ambush at Butterskull Ranch
-*(November 26, 2019 & January 18, 2020)*
+### 🐄 Chapter 5: Butterskull Ranch & Cryovain vs. Manticores
+*(November 26 – November 27, 2019)*
 
-Reports of smoke rising along the Triboar Trail drew the Order east to **[[Butterskull Ranch]]**. Mountain orcs displaced by Cryovain had ransacked the homestead, capturing retired sheriff **[[Alfonse Kalazorn|"Big Al" Kalazorn]]**.
+Reports of black smoke rising along the Triboar Trail drew the Order east to **[[Butterskull Ranch]]**. Mountain orcs displaced from the high peaks had ransacked the homestead, capturing retired sheriff **[[Alfonse Kalazorn|"Big Al" Kalazorn]]**.
 
-Approaching under cover of twilight, Rhynok crept through the tall rye grass. Spotting a solitary orc guard lingering beside the ranch **outhouse**, the Order executed a silent, synchronized ambush—dropping the guard before an alarm could be raised. Peeking through the farmhouse window, Rhynok counted a dozen heavily armed orcs feasting in the main hall.
+Approaching under cover of twilight, Rhynok crept through the tall rye grass. Spotting a solitary orc guard lingering beside the ranch **outhouse**, the Order executed a silent, synchronized ambush—dropping the sentry before an alarm could be raised. Peeking through the farmhouse window, Rhynok counted a dozen heavily armed orcs feasting in the main hall.
 
 Storming the doorway, the Order engaged in a brutal, room-to-room melee. Krageer raged through the kitchen, shattering timber tables and cleaving through orc warriors; Tvyordiy redirected charging brutes with drunken footwork; Myagkiy held the threshold with divine radiance; and Rhynok picked off raiders attempting to flank from the stairwell. Slaying all twelve orcs, the party descended into the cellar to unchain Big Al Kalazorn. In gratitude, Big Al gave the companions his blessing and begged them to recover his prized runaway prize dairy cow, **[[Petunia (cow)|Petunia]]**, who was coaxed safely back to Phandalin.
 
+**The Apex Dominance Encounter (November 27, 2019):**  
+On the return journey across the foothills, the skies suddenly darkened as a freezing blizzard wind swept down from the mountains. Looking up, the companions witnessed an awe-inspiring, brutal spectacle of draconic apex dominance: **[[Cryovain]] swooped down from the storm clouds upon a pair of hunting Manticores**. In a flurry of glacial frost breath, razor-sharp claws, and snapping jaws, the young white dragon tore into the manticores mid-air—effortlessly ripping the rival predators to shreds before carrying their frozen carcasses back to the high peaks. The chilling display cemented the true scale of the terror haunting the Sword Coast.
+
 ---
 
-### 🌲 Chapter 5: Neverwinter Wood & The Woodland Manse Retreat
+### 🌲 Chapter 6: Neverwinter Wood & The Woodland Manse Retreat
 *(December 7 – December 8, 2019 & March 7, 2020)*
 
 Commissioned to deliver provisions to the **[[Loggers' Camp]]**, the Order rode deep into the primeval shadows of Neverwinter Wood. Guided by Rhynok’s unerring woodcraft, the companions noticed an unnatural boar tracking them from the briars—recognizing the beast as a shapeshifted priest of the **[[Anchorites of Talos]]**.
@@ -111,7 +137,7 @@ In the desperate fighting withdrawal, Krageer fell unconscious twice under a pun
 
 ---
 
-### 🪓 Chapter 6: Ankhegs at Loggers' Camp & Falcon's Hunting Lodge
+### 🪓 Chapter 7: Ankhegs at Loggers' Camp & Falcon's Hunting Lodge
 *(January 5, 2020)*
 
 Rebounding from the Manse, the companions hauled their supply wagon—pulled by the stalwart draft ox **[[Vincent (ox)|Vincent]]**—to the **[[Loggers' Camp]]** on the Neverwinter River. They found the logging camp devastated: desecrated totem poles had lured monstrous, acid-spitting **Ankhegs** from the earth.
@@ -122,7 +148,7 @@ Seeking shelter deeper in the woods, the Order brought a fine bottle of wine to 
 
 ---
 
-### ⚡ Chapter 7: The Sea Cliffs & The Tower of Storms
+### ⚡ Chapter 8: The Sea Cliffs & The Tower of Storms
 *(January 11, 2020)*
 
 Turning west to the jagged sea cliffs of the Sword Coast, the companions investigated the unnatural green light pulsing from the **[[Tower of Storms]]**. On the rocky shore, they encountered an **awakened giant crab**, who warned them of the sea elf banshee **[[Miraal]]** haunting the tidal caves below the lighthouse.
@@ -133,7 +159,7 @@ Storming the lighthouse keep, the Order confronted Moesko at the desecrated alta
 
 ---
 
-### 🔔 Chapter 8: The 2,500 Gold Piece Bell at the Shrine of Savras
+### 🔔 Chapter 9: The 2,500 Gold Piece Bell at the Shrine of Savras
 *(January 12, 2020)*
 
 Escorting frontier patron **[[DonJon Raskin]]** south of ruined Conyberry, the Order reached the ancient stone courtyard of the **[[Shrine of Savras]]**. The holy site had been overrun by a powerful warband of mountain orcs and towering **Ogres**.
@@ -144,7 +170,7 @@ Inside the ruined sanctuary, Rhynok and Krageer touched the uncovered stone alta
 
 ---
 
-### 🐀 Chapter 9: The Wererat Lesson at Mountain's Toe Gold Mine
+### 🐀 Chapter 10: The Wererat Lesson at Mountain's Toe Gold Mine
 *(January 18 – January 19, 2020)*
 
 Escorting DonJon Raskin to oversee **[[Mountain's Toe Gold Mine]]**, the Order discovered the mining complex occupied by the Whiskered Gang, led by wererat boss **[[Zeleen Varnaster]]**. When negotiations broke down and steel was drawn, a shocking revelation struck the frontline:
@@ -159,23 +185,12 @@ Routing the pack, the party drove Zeleen Varnaster from the mine, restored the c
 
 ---
 
-### ⚙️ Chapter 10: Gnomengarde & The Barrel Room Mimic
-*(January 20, 2020)*
-
-Following a cascading mountain stream into the cliffside caverns of **[[Gnomengarde]]**, the Order sought out defensive inventions from the reclusive rock gnome kingdom. Their arrival was met with sudden chaos: manic inventor **[[Facktoré]]** opened fire with her steam-driven autoloading heavy crossbow contraption, shooting Rhynok before Krageer bodily restrained the spinning ballista!
-
-Roughing up gnome sentries along the corridors, the party reached chief artificers **[[Fibblestib Pinebark]]** and **[[Dabbledob Plasterpatch]]**, learning that a shapeshifting monster had begun devouring gnomes, driving **[[Korboz|King Korboz]]** mad with paranoia and causing him to lock himself and husband **[[Gnerkli|King Gnerkli]]** inside the royal bedchamber.
-
-Hunting through the cavern workshops, the Order cornered the monster in the royal wine cellar: **a predatory Mimic disguised as a wine barrel**. Krageer shattered the adhesive monstrosity with silvered steel. With royal sanity restored, the grateful gnome council gifted the heroes several magical curios, including the ***Clockwork Amulet*** and ***Hat of Wizardry***.
-
----
-
 ### 🏰 Chapter 11: The Chimney Rappel & Purge of Axeholm
-*(February 1 – February 2, 2020)*
+*(January 20 – February 2, 2020)*
 
-With the Phandalin Town Council desperate for a fortified evacuation refuge against Cryovain, the Order was tasked with securing the ancient dwarven fortress of **[[Axeholm]]**. Finding the fortress portcullis barred from within, the party scaled the mountain crags to a sheer natural ventilation chimney high above the ramparts.
+With the Phandalin Town Council desperate for a fortified evacuation refuge against Cryovain, the Order was tasked with securing the ancient dwarven fortress of **[[Axeholm]]**. Finding the fortress portcullis barred from within, the party scaled the mountain crags on January 20 to a sheer natural ventilation chimney high above the ramparts.
 
-Under Myagkiy’s prayerful guidance, all four companions rappelled down the soot-blackened flue, dropping into the dark interior in a devastating surprise attack on a nest of giant spiders. From there, the Order conducted a room-by-room purge of the haunted halls: cleansing the West Hall and Smithy of flesh-eating dwarven **Ghouls** and swarms of **Stirges**.
+Under Myagkiy’s prayerful guidance, all four companions rappelled down the soot-blackened flue, dropping into the dark interior in a devastating surprise attack on a nest of seven giant spiders. From there, the Order conducted a methodical, room-by-room purge of the haunted halls across February 1–2: cleansing the West Hall and Smithy of flesh-eating dwarven **Ghouls** and swarms of **Stirges**.
 
 In the upper Haunted Hall, they faced the sorrowful moon elf banshee **[[Vyldara]]**. When the spirit unleashed her soul-chilling *Wail*, the four champions stood like bedrock—not a single member faltering before her shriek—before striking her down with silvered strikes and radiant bursts. Behind a false hearth in the castellan's bedchamber, Myagkiy uncovered and attuned the ***Gauntlets of Ogre Power***, while Krageer donned the menacing ***Dread Helm***, his eyes glowing like crimson embers beneath the steel visor.
 
@@ -227,6 +242,11 @@ Returning down the mountain to Phandalin as celebrated legends of the frontier, 
 ## 💡 Behind the Screen: Campaign Genesis, Mechanics & Table Trivia
 
 ### 🎲 VTT Encounter Scaling & Dice Highlights
+* **November 10, 2019 Campaign Kickoff & Gnomengarde Mimic:** The campaign launched on the morning of November 10, 2019, with Peter (*Sheer Iron Will*) and Gary (*UnixBomber*) creating their Discord server and Roll20 table. Their very first dungeon dive took them to Gnomengarde, where Gary's Stoneface went wild on the barrel mimic (*"Yo stone face is as straight up killa"*). Slaying the beast alongside Dabbledop (*Dabbledob*) earned the party 102 split XP.
+* **The 10-Foot Collapsible Pole & "The Monsters Know What They're Doing":** Gary astutely brought a 10-foot collapsible pole into Gnomengarde to prod suspicious furniture and search for monsters from safe distance. In post-session reflection, Peter consulted Keith Ammann's *The Monsters Know What They're Doing* tactics blog, realizing with amusement that under strict 5e adhesive rules, both Gary's weapons and the collapsible pole should have stuck fast to the mimic's adhesive hide! Peter also realized they had forgotten the Gnomengarde wild magic surge check (a d20 roll whenever casting a spell).
+* **Two Distinct Manticore Encounters (Nov 19 vs. Nov 27):**
+  - **November 19 (Umbrage Hill):** The party fought the lone manticore besieging Adabra Gwynn's stone windmill, surviving its tail spikes before driving it off over the southern crags with *Hail of Thorns* and *Deflect Missiles*.
+  - **November 27 (Cryovain's Mid-Air Dominance):** Returning from Butterskull Ranch, the party looked up to witness Cryovain swooping from the clouds upon a pair of manticores, unleashing his glacial *Cold Breath* (24 bite, 26/18 claws) and tearing them apart in mid-air in front of the party.
 * **Krageer's Double-Fail with *Danger Sense* (Temple of Abbathor):** Right after unlocking *Danger Sense* at Level 2 (granting Advantage on Dexterity saves against traps), Krageer pried the cursed gem from Abbathor's statue and rolled **under 15 on both d20s** against the DC 15 save, taking full explosive fire damage!
 * **The 2,500 GP Bell Heist:** At the Shrine of Savras, Krageer and Tvyordiy rolled high Athletics checks to dislodge the massive solid gold bell from the ruined belfry tower, loading it into a wagon to cash in for a massive 2,500 gold piece bounty.
 * **The Wererat Immunity Panic:** Mountain's Toe Gold Mine served as a brutal tactical wake-up call when the players discovered that non-magical/non-silvered weapons dealt zero damage to wererats, forcing Myagkiy (*Spirit Guardians*) and Rhynok (+1 Longbow) to carry the combat while the party immediately silvered their arsenal in Phandalin.
