@@ -134,6 +134,9 @@ The upcoming bridge adventure for the four founding champions prior to their gro
 ![[Arm-wrestling.png]]
 *Arm Wrestling Contest — Krageer Stoneface Ogolakanu vs. Tvyordiy Znak*
 
+![[tvyordiy_master_leilon_bridge_era.png]]
+*Master Tvyordiy Znak in the Bridge Campaign Era (10+ Years Post-Divine Contention) — Teaching Martial Arts to the Next Generation in Leilon*
+
 ---
 
 ## 💡 Behind the Screen: Campaign Genesis, Mechanics & Table Trivia

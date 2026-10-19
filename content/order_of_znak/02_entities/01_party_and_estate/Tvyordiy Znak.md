@@ -62,6 +62,11 @@ tags: [character-sheet, aarakocra, monk, drunken-master, tvyordiy-znak, order-of
 ![[Arm-wrestling.png]]
 *Arm Wrestling Contest — Krageer Stoneface Ogolakanu vs. Tvyordiy Znak*
 
+![[tvyordiy_master_leilon_bridge_era.png]]
+*Master Tvyordiy Znak in the Bridge Campaign Era (10+ Years Post-Divine Contention) — Teaching Martial Arts in Leilon*
+
+* **The Bridge Era Master (10+ Years Later):** Because Aarakocra have naturally shorter lifespans than their companions (typically living around 30 years), a decade after the conclusion of *Divine Contention* Tvyordiy appears distinctly more wizened, mature, and distinguished than his longer-lived comrades. Donning scholarly wire spectacles and a master's gi, Master Tvyordiy established a martial arts training yard in the cobblestone grounds of Leilon, patient and serene as he drills the next generation of youth—including young humans, elves, a lizardfolk youngling, and stout halflings—in the fundamentals of balance, punches, and discipline. Crossed training spears and staves rest mounted on the stone wall behind him, recalling his legendary days wielding the *Qiang* spear and *Vicious Quarterstaff*.
+
 ---
 
 ## 📊 Character Build, Level Progression & Gear Acquisition Log
