@@ -41,27 +41,33 @@ At a secluded corner table, the party met their confidential contacts: **[[Orson
 
 ---
 
-## 🌊 Chapter 2: The High Road Ambush & A Normal Day in Leilon
+## 🌊 Chapter 2: A Normal Day in Leilon & The Founding of Aufox Manor
 *(July 3 – July 9, 2020)*
 
-Departing at first light, the Order marched north toward Leilon. Along the muddy highway, the weather shifted with unnatural violence. Emerging through the roadside drizzle came a chilling vanguard: armored knights mounted upon supernatural steeds sculpted from living, undulating water, bearing shields emblazoned with three parallel lightning bolts striking downward—the dread sigil of the storm god, Talos. Behind them rumbled a heavy wagon hauled by another water-steed, filled with cultist archers.
+Departing the Wayside Inn at first light, the Order marched north along the High Road toward ruined Leilon. Approaching the muddy frontier crossroads, the companions were hailed by the settlement's nascent rebuilding leadership assembled along the central thoroughfare: gruff dwarven master builder **[[Grizzelda Copperwraught]]** ("The Growler") barking orders at exhausted masonry crews; the gentle, cheerful halfling priestess **[[Merrygold Brightshine]]** extending warm hospitality; brooding Rashemi wizard **[[Gallio Elibro]]** studying the haunted spire of the House of Thalivar; cowardly garrison sergeant **[[Hazz Yorrum]]** complaining about troop shortages; and fisher representative **[[Valdi Estapaar]]** reporting grim disturbances in the coastal waters.
 
-Krageer met the charging aquatic steeds head-on, testing his massive Goliath frame against their supernatural momentum, splintering their lances, and hacking down the Dark Tide Knights with his silvered axe. Tvyordiy vaulted cleanly into the wagon bed, his *Qiang* thrusts and spinning kicks scattering the archers, while Myagkiy summoned radiant guardian spirits and locked the enemy vanguard with paralyzing divine magic. Rhynok silenced the remaining archers from the treeline. Searching the dissolved watery remains, Krageer uncovered proof of Talosite incursions encroaching on the High Road.
-
-Upon reaching the outskirts of ruined Leilon, the party found the nascent town leadership assembled in disarray along the road. Cultist infiltrators had slipped into the settlement, panicking the populace and scattering frightened children toward the treacherous marshes. Fanning out through the rubble, the Order moved with swift precision—relying on silent stalks and gentle coaxing to herd two terrified ten-year-old orphans, **[[Smithwell and Burnice]]**, out of harm’s way.
+Before introductions could conclude, frantic shouts echoed across the settlement. Cultist alarms sent shockwaves through town, scattering terrified local village children toward the treacherous mud flats and tidal marsh canals. Fanning out through the drizzle and ruins, the Order moved with swift, coordinated precision. Drawing on his swamp upbringing, Rhynok tracked footprints through the sodden peat; Tvyordiy bounded across slick timber beams to cut off dangerous drops; Krageer used his booming authority to halt runaway panics; and Myagkiy offered soothing, compassionate words to calm the terrified youth. Working together, the heroes guided several imperiled children to safety behind inner town barricades—most notably retrieving two inseparable ten-year-old village friends, **[[Smithwell and Burnice]]**, whose hardworking parents were down working their daily shift at the coastal fishery.
 
 ```mermaid
 flowchart TD
-    A["Talos Cult Infiltration\n(High Road Ambush)"] --> B["Child Wrangling in the Mud\n(Rescuing Smithwell & Burnice)"]
-    B --> C["Shattering the Kraken Raid\n(Nixoxious & Water Elementals)"]
-    C --> D["Founding of Aufox Manor\n(Estate Deeded to the Order)"]
+    A["Arrival in Leilon & Council Assembly\n(Grizzelda, Merrygold, Gallio, Hazz Yorrum, Valdi)"] --> B["Panic & Child Wrangling in the Mud\n(Rescuing Village Children Smithwell & Burnice)"]
+    B --> C["High Road Perimeter Incursion\n(Dark Tide Knights on Water Steeds & Archer Wagon)"]
+    C --> D["Quayside Fishery Showdown\n(Nixoxious Sacrifices Captives; Parents Slay; Elementals Routed)"]
+    D --> E["Post-Battle Triage & Heartbreaking Discovery\n(Smithwell & Burnice Revealed as Newly Orphaned)"]
+    E --> F["Town Council Gratitude & Aufox Manor Founded\n(The Order Formally Adopts the Children into the Znak Family)"]
 ```
 
-Moments later, the marsh canals erupted. Mutated tiefling Kraken Priest **[[Nixoxious]]** strode forth from the waters, bellowing with the thunderous *Voice of the Kraken* while calling lightning bolts down from the darkening heavens. Raging berserkers surged behind him, butchering townsfolk to empower their dark rituals as towering water elementals and water weirds constricted survivors in suffocating vortexes.
+No sooner were the children secured behind barricades than a thunderous roar shook the High Road perimeter. Charging down the highway came a terrifying vanguard: Dark Tide Knights mounted upon supernatural steeds sculpted from living, undulating water, bearing shields emblazoned with the three-lightning-bolt crest of Talos. Behind them rumbled a heavy timber wagon hauled by another water-steed, bristling with cultist archers pouring volleys into the settlement.
 
-Krageer’s primal danger sense guided him through crackling lightning strikes as he intercepted the berserkers in brutal close combat. Myagkiy anchored the center of town, his radiant aura providing a safe haven for fleeing commoners while his spells stitched grievous wounds. Tvyordiy dove into the swirling vortexes, landing concussive strikes that shattered the elementals' cohesion, while Rhynok singled out Nixoxious with a hunter's curse, driving arrow after arrow into the cult leader until he collapsed into the marsh.
+Krageer met the charging aquatic steeds head-on, bracing his massive Goliath frame against their supernatural momentum, splintering lances, and hacking down the knights with his silvered greataxe. Tvyordiy vaulted cleanly into the wagon bed, his *Qiang* thrusts and spinning kicks scattering the archers into the mud, while Myagkiy summoned radiant guardian spirits and paralyzed the enemy vanguard with divine magic. Rhynok silenced the remaining snipers from the tree line. 
 
-Hailed as the saviors of Leilon, the Order was formally awarded a fortified stone manor by the grateful Town Council. In honor of their esteemed associate, the champions canonically christened their new headquarters **Aufox Manor**, taking young Smithwell and Burnice under their permanent wing.
+Yet the High Road strike was merely a distraction. Horrified screams erupted from the quayside canals where tiefling Kraken Priest **[[Nixoxious]]** had taken captive the local fishers, executing them in blood rituals to empower dark magic and summon towering water elementals and water weirds from the frothing sea. Bellowing with the supernatural *Voice of the Kraken*, Nixoxious called jagged lightning strikes down upon the docks while blood-crazed berserkers butchered the remaining captives.
+
+Rushing to the shoreline, the Order launched into a ferocious counter-assault. Krageer's primal danger sense guided him through crackling lightning strikes as he carved through the berserkers in close-quarters combat. Myagkiy anchored the shoreline, his radiant aura protecting surviving laborers while his spells bound mortal wounds. Tvyordiy dove straight into the swirling elemental vortexes, landing concussive strikes that shattered the water elementals' cohesion, while Rhynok placed a deadly hunter's mark upon Nixoxious, driving black-fletched arrows through the kraken priest until the tiefling collapsed lifeless into the shallows.
+
+When the dust settled and the quayside was secured, the champions assisted in the grim task of triage and accounting for the fallen. Among the slaughtered captive fishers lay the bodies of both sets of Smithwell and Burnice's parents. The heartbreaking realization struck the Order: the two ten-year-old children they had pulled from the mud only an hour earlier had been left completely orphaned, without kin or shelter on the harsh frontier.
+
+Moved by their plight and bound to them by destiny, the heroes stepped forward to shield them. That evening, as the grateful Leilon Town Council hailed the Order as the saviors of the settlement and formally deeded them a fortified stone manor overlooking the coast, the champions canonically christened the estate **Aufox Manor** in honor of their esteemed mentor David—formally adopting young Smithwell and Burnice under their permanent wing as beloved wards of the Order.
 
 ---
 
