@@ -71,7 +71,7 @@ jobs:
           COMMIT_FIRST_LINE=$(printf '%s' "${COMMIT_MSG:-Manual workflow dispatch}" | head -n 1)
 
           PAYLOAD=$(jq -n \
-            --arg username "Order of Znak Wiki Bot" \
+            --arg username "Leopold" \
             --arg title "$TITLE" \
             --arg desc "$DESC" \
             --argjson color "$COLOR" \
