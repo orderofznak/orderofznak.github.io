@@ -68,7 +68,10 @@ tags: [character-sheet, goliath, barbarian, fighter, krageer, order-of-znak]
 *Ultima Exodus — Krageer's legendary +2 two-handed Greataxe*
 
 ![[Krageer-and-cooragh.jpg]]
-*Krageer Stoneface Ogolakanu and Cooragh at the Wayside Inn*
+*Early Romance: Krageer Stoneface Ogolakanu and Cooragh at the Wayside Inn (Act 2)*
+
+![[krageer_cooragh_bridge_era.png]]
+*Krageer and Cooragh in the Bridge Campaign Era (10+ Years Post-Divine Contention) — Years of Familiarity as Adventuring Days Draw to a Close*
 
 ![[krageer-firegiant.png]]
 *Krageer at Huge size (via Puck Caribdas's Potion of Growth + Myagkiy Znak's Enlarge) wrestling the Fire Giant Queen in the dormant volcano*

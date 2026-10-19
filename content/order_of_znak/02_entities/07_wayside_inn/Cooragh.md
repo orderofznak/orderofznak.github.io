@@ -41,7 +41,12 @@ modules: ["Storm Lord's Wrath", "Sleeping Dragon's Wake", "Divine Contention"]
 * An ongoing comedic romance developed between the towering barbarian and the half-orc chef, making the Wayside Inn a regular stop and favored resting sanctuary for [[The Order of Znak]].
 
 ![[Krageer-and-cooragh.jpg]]
-*Krageer Stoneface Ogolakanu and Cooragh Struckt at the Wayside Inn*
+*Early Romance: Krageer Stoneface Ogolakanu and Cooragh Struckt at the Wayside Inn (Act 2)*
+
+* **The Bridge Campaign Era (10+ Years Later):** Over a decade after the conclusion of *Divine Contention*, as the original adventuring days of The Order of Znak were drawing to a close and their adopted wards prepared to carry the torch into Ravenloft, the bond between Krageer and Cooragh had deepened into effortless, weathered familiarity. In the warmth of the hearth and kitchen, with pie crust rolled and flour on her fingers, Cooragh affectionately boops the stoic Goliath's nose—a touching testament to a love forged over ten years of peace, shared laughter, and alarmingly spicy meat pies.
+
+![[krageer_cooragh_bridge_era.png]]
+*Krageer and Cooragh in the Bridge Campaign Era (10+ Years Post-Divine Contention) — Years of Familiarity*
 
 ---
 

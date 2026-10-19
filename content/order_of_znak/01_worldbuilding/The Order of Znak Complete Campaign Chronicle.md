@@ -117,7 +117,10 @@ The upcoming bridge adventure for the four founding champions prior to their gro
 *Overhead Cartographic Survey of Rebuilt Leilon*
 
 ![[Krageer-and-cooragh.jpg]]
-*Krageer Stoneface Ogolakanu and Cooragh at the Wayside Inn*
+*Early Romance: Krageer Stoneface Ogolakanu and Cooragh at the Wayside Inn (Act 2)*
+
+![[krageer_cooragh_bridge_era.png]]
+*Krageer and Cooragh in the Bridge Campaign Era (10+ Years Post-Divine Contention) — Years of Familiarity*
 
 ![[krageer-firegiant.png]]
 *Krageer Double-Enlarged to Huge Size (Puck's Potion of Growth + Myagkiy's Enlarge) Wrestling the Fire Giant Queen in the Volcano*
