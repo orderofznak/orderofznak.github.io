@@ -271,7 +271,8 @@ The champions stood in the presence of the colossal ancient green dragon **[[Cla
 
 #### Return to Leilon & Act 3 Climax
 * Returning triumphantly to Leilon, the Order reported the terrifying revelation to the town council: ancient green dragon Claugiyliamatar was now possessed by the dracolich Ebondeath!
-* With the regional threat escalating to full-scale war, the Order of Znak concluded Act 3 as celebrated frontier champions, advancing toward Level 11 as they prepared for *[[05 - Interlude 2 - Keeping the Faith|Interlude 2: Keeping the Faith]]* and *[[06 - Act 4 - Divine Contention|Act 4: Divine Contention]]*.
+* **Milestone Level 11 Advancement:** With the regional threat escalating to full-scale war, the Order of Znak concluded Act 3 as celebrated frontier champions, officially advancing to **Level 11** (Krageer: Barbarian 10 / Fighter 1; Rhynok: Ranger 8 / Rogue 3; Tvyordiy: Monk 11; Myagkiy: Cleric 11).
+* **Rhynok's Cloak of Elvenkind Commission:** Flushed with dragon gold from Deeping Cave, Rhynok spent downtime and invested 1,500 gold pieces under *Xanathar's Guide to Everything* rules to put out word and hire scouts along the Sword Coast to procure a coveted ***Cloak of Elvenkind***—a search that bore fruit during the downtime leading into *Divine Contention*.
 
 ---
 

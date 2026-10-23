@@ -19,6 +19,8 @@ modules: ["Divine Contention"]
 ---
 
 ## 📜 Overview of the Final Act
+Commencing **one full year after the volcanic trials of [[05 - Interlude 2 - Keeping the Faith|Interlude 2: "Keeping the Faith"]]**, the relative peace of the Sword Coast is shattered as the twin cults of storm and death return with devastating fury. During the year of downtime, **[[Dagult Neverember|Lord Protector Dagult Neverember]]** returned from his political hiatus to heavily finance the fortification and rebuilding of [[Leilon]], while **[[The Order of Znak]]** operated at **Level 11**—fortified by Flanning Teldorer's divine feats, Myagkiy's 24 AC +2 Plate Armor, and **[[Rhynok]]** finally donning his newly delivered ***Cloak of Elvenkind***.
+
 As the twin armies of the storm high priestess **[[Fheralai Stormsworn]]** and the death-priest **[[Ularan Mortus]]** converged upon **[[Leilon]]**, **[[The Order of Znak]]** raced from the haunted canyons of the Sword Mountains to the high seas of the Sword Coast—defending their home from draconic and undead siege before sailing straight into the eye of a divine hurricane to board the flagship dreadnaught of **[[Talos]]**.
 
 ---

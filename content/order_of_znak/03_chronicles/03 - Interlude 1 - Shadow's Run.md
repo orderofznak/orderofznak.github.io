@@ -125,6 +125,8 @@ With the dragon slain and the cult eradicated, the companions rushed to the alta
 Searching the dragon's inner hoard, the heroes claimed their well-earned spoils:
 * The valuable ritual gems: the **1,000 gp Star Ruby** (Blood Stone) and the **5,000 gp Diamond** (Moon Stone).
 * An enchanted ***+1 Light Hammer***, which passed to Myagkiy Znak.
+* The wondrous ***Cape of the Mountebank***, claimed by **[[Myagkiy Znak]]**—granting the heavily armored Life Cleric the invaluable ability to cast ***Dimension Door*** once per day, vanishing and reappearing enveloped in a billowing cloud of harmless brimstone smoke.
+* The enchanted ***Sash of the Patient Master***, a masterwork martial art sash claimed by **[[Tvyordiy Znak]]**—attuning to his spiritual discipline to allow the Drunken Master monk to regenerate **1d4 + 1 expended Ki points** once per day.
 * An intact shirt of **Adamantine Chain Mail**, which Rhynok claimed to bring back to Phandalin's smithy to be reforged into his dream crowd-control weapon: the **Adamantine Net**.
 
 Emerging from the lightless depths into the morning sun, Tvyordiy activated the ***Messenger Stone***. Within hours, Liefold and Joffrey arrived with the carriage, weeping with gratitude upon seeing young Heracio safe and sound. Escorting the child back to Waterdeep to reunite with Daniel Renault, [[The Order of Znak]] stood as celebrated champions across the Sword Coast—ready to face whatever darker storm awaited them next in [[04 - Act 3 - Sleeping Dragon's Wake|Act 3]].
