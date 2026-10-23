@@ -4,29 +4,38 @@ universe: znak
 system: dnd5e
 campaign: order_of_znak
 status: archived
-type: npc
-species: Humanoid
-role: Adventurer / Resident
+type: villain
+species: Human
+role: Chimera Crew Operative & Traitor
 modules: ["Sleeping Dragon's Wake"]
-last_updated: 2026-10-12
-tags: [npc, order-of-znak]
+last_updated: 2026-10-22
+tags: [npc, villain, cultist, chimera-crew, iniarvs-tower, traitor, sleeping-dragons-wake, order-of-znak]
+aliases: ["Niri Bronzecrown", "Niri"]
 ---
 
 # 👤 Niri Bronzecrown
 
 ## 🛡️ Overview & Canon Profile
-* **Species / Heritage:** Humanoid
-* **Role & Occupation:** Adventurer / Resident
-* **Primary Region / Home:** Sword Coast North
-* **Adventure Appearances:** Sleeping Dragon's Wake
+* **Species / Heritage:** Human
+* **Role & Occupation:** Scout / Chimera Crew Infiltrator
+* **Alignment:** Neutral Evil
+* **Primary Region / Home:** [[Mere of Dead Men]] / [[Iniarv's Tower]]
+* **Adventure Appearances:** *Sleeping Dragon's Wake*
+
+---
 
 ## 📜 Canonical Role & Lore
-**Niri Bronzecrown** is a canonical figure appearing in the official D&D 5e adventure arc (Sleeping Dragon's Wake). Residing in the Sword Coast North region, they play a supporting role in the regional events and frontier development along the Sword Coast North.
+**Niri Bronzecrown** was a deceptive scout serving in the chimera crew at [[Iniarv's Tower]] alongside [[Alevene Windcoat]]. Operating under cult commander [[Rega Swarn]], Niri acted as bait in the flooded courtyards of the ruins, feigning helplessness against the swamp's roaming undead to draw unsuspecting investigators into ambush position.
+
+---
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Slain
+* **The Courtyard Ambush (September 24, 2020):** Niri and Alevene cried out for aid as [[The Order of Znak]] approached the ruins, drawing the heroes into combat with a swarm of Greater Zombies.
+* **The Betrayal & Death:** As soon as the zombie threat was neutralized to a single standing undead, Niri and Alevene violently struck at the party's flanks. [[Krageer Stoneface Ogolakanu]], [[Rhynok]], and [[Tvyordiy Znak]] swiftly overwhelmed them, ending their treachery on the stones.
+
+---
 
 ## 📚 Sources & Canon References
-* **Forgotten Realms Wiki:** [Niri Bronzecrown](https://forgottenrealms.fandom.com/wiki/Niri%20Bronzecrown)
-* **Official Adventure Modules:** *Sleeping Dragon's Wake*
+* **Official Adventure Module:** *Sleeping Dragon's Wake* (Quest: "Iniarv's Tower")
+* **Campaign Chronicle:** [[04 - Act 3 - Sleeping Dragon's Wake]]

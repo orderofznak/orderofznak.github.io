@@ -5,7 +5,7 @@ system: dnd5e
 campaign: order_of_znak
 status: archived
 type: location
-last_updated: 2026-10-12
+last_updated: 2026-10-22
 tags: [location, leilon, sword-coast, lords-alliance, worldbuilding, order-of-znak]
 aliases: [Leilon, Town of Leilon, Leilon Settlement, Town of the High Road, "Lee-LON"]
 ---
@@ -33,7 +33,10 @@ An ominous, ruined wizard's tower dominating the town center, containing lingeri
 ### 4. Aubrey's Peculiarities, Puck's Apothecary & The Swords of Leilon
 A quirky antiquities and magic curio shop run by the eccentric **[[Aubrey Silverspun]]**. Unknown to the populace, Aubrey was secretly an ancient **ghost** of the historic **Swords of Leilon**, visible only to the champions of the Order until his shop's destruction in *Divine Contention* revealed his painted portrait among the ancient heroes. Nearby, the nervous elven Tymoran acolyte **[[Puck Caribdas]]** peddled alchemical potions—most famously selling **[[Krageer Stoneface Ogolakanu]]** the ***Potion of Growth*** that (stacked with [[Myagkiy Znak]]'s *Enlarge* spell) gave Krageer the Huge stature to wrestle the Fire Giant Queen in *"Keeping the Faith"*, inspiring Krageer's two punny endorsement quotes on Puck's bottle labels.
 
-### 5. Aufox Manor (The Order of Znak Headquarters)
+### 5. The Umber Hulk's Shell Inn
+A lively town tavern and inn built around the hollowed carapace of an ancient umber hulk, run by friendly, gossip-loving innkeeper **[[Alion Malwyn]]**. Serving as the social nerve center of the settlement, it was here in *Sleeping Dragon's Wake* (September 1, 2020) that Alion shared the defining rumor of the bronze dragon carrying a dolphin in its claws, steering the Order toward the **Bronze Shrine** and [[Lhammaruntosz]].
+
+### 6. Aufox Manor (The Order of Znak Headquarters)
 The fortified stone manor and permanent residence established by [[The Order of Znak]] with Grizzelda's masonry crews, christened **Aufox Manor** in honor of mentor and friend **David**. Following the trials of *Shadow's Run*, the estate came under the daily management of trusted human majordomo **[[Leopold]]**. The manor served as the martial heart of the town, housing the heroes, their adopted wards ([[Smithwell and Burnice|Smithwell and Burnice]], [[Yasmina]]), and visiting lizardfolk exchange allies ([[Graxxoamo]], [[Shriss]]).
 
 ---
@@ -47,7 +50,7 @@ The fortified stone manor and permanent residence established by [[The Order of 
 ## 🗺️ Campaign Significance & Major Sagas
 * **The Kraken Cult Raid (*"A Normal Day in Leilon"*):** Arriving in Leilon to confer with the town leadership on the High Road, the Order was thrust into immediate crisis when cult alarms sounded, scattering local children toward the marsh fringes. Using tracking, athletic leaps, and gentle coaxing, the heroes secured the children—including ten-year-old village friends [[Smithwell and Burnice|Smithwell and Burnice]], whose parents were working at the coastal fishery. Just as the children were safe behind barricades, Dark Tide Knights riding living water steeds and pulling an archer wagon breached the High Road entrance. Repelling the cavalry, the battle escalated to the quayside where tiefling Kraken Priest **[[Nixoxious]]** sacrificed captive fishers to summon water elementals and water weirds. Though the Order crushed the cult, both sets of Smithwell and Burnice's parents were among the casualties, prompting the Order to adopt the newly orphaned children into the Znak family upon being awarded **Aufox Manor**.
 * **The High Road Alliances:** Secured a mutual protection and trade pact with the **Wayside Inn**, trading town goods for livestock and produce from former bandit captain **[[Martisha Vinetalker]]** and spicy cook **[[Cooragh|Cooragh Struckt]]**. Simultaneously established a southern swamp truce with Mere of Dead Men lizardfolk chieftain **[[Grixxugroaz]]**.
-* **Dragon Cult Incursions (*Sleeping Dragon's Wake*):** During Act 3, Leilon served as the frontline defense against dragon cultists and necrotic monstrosities threatening the High Road.
+* **Dragon Cult Incursions (*Sleeping Dragon's Wake*):** During Act 3, Leilon served as the frontline defense against dragon cultists and necrotic monstrosities threatening the High Road, beginning with breaking the sahuagin siege of satellite outpost **[[Leilon Point]]** and tracking threats from the **Umber Hulk's Shell Inn**.
 * **The Primordial Siege (*Divine Contention*):** In Act 4, Leilon faced a multi-front coordinated invasion from Myrkulite death legions and Talosian storm cultists, during which ancient green dragon **Claugiyliamatar** assaulted the town and destroyed Aubrey's Peculiarities, prompting the Order to secure anti-siege munitions from [[Dumathoin's Gulch]] and confront [[Fheralai Stormsworn]] at sea.
 
 ---
@@ -57,6 +60,7 @@ The fortified stone manor and permanent residence established by [[The Order of 
 * **[[Leopold]]:** Human majordomo running the Order's headquarters, trade manifests, and wards care (entering service post-*Shadow's Run*).
 * **[[Smithwell and Burnice]]:** Fisher orphans rescued during the kraken raid and raised at Aufox Manor.
 * **[[Yasmina]]:** Young ward rescued from a Night Hag in *"Keeping the Faith"*, who drew the canonical portraits of the four champions shortly after arriving at the Leilon estate.
+* **[[Alion Malwyn]]:** Friendly, talkative innkeeper of **[[The Umber Hulk's Shell Inn]]**.
 * **[[Merrygold Brightshine]]:** Amiable halfling priest of Lathander tending the town shrine and temple.
 * **[[Grizzelda Copperwraught]]:** Gruff dwarf master builder ("The Growler") overseeing Leilon's reconstruction.
 * **[[Gallio Elibro]]:** Rashemi wizard studying the House of Thalivar, possessed nightly by Thalivar's ghost.

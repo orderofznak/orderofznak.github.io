@@ -4,29 +4,39 @@ universe: znak
 system: dnd5e
 campaign: order_of_znak
 status: archived
-type: npc
-species: Humanoid
-role: Adventurer / Resident
+type: villain
+species: Human
+role: Chimera Crew Operative & Traitor
 modules: ["Sleeping Dragon's Wake"]
-last_updated: 2026-10-12
-tags: [npc, order-of-znak]
+last_updated: 2026-10-22
+tags: [npc, villain, cultist, chimera-crew, iniarvs-tower, traitor, sleeping-dragons-wake, order-of-znak]
+aliases: ["Alevene Windcoat", "Alevene"]
 ---
 
 # 👤 Alevene Windcoat
 
 ## 🛡️ Overview & Canon Profile
-* **Species / Heritage:** Humanoid
-* **Role & Occupation:** Adventurer / Resident
-* **Primary Region / Home:** Sword Coast North
-* **Adventure Appearances:** Sleeping Dragon's Wake
+* **Species / Heritage:** Human
+* **Role & Occupation:** Scout / Chimera Crew Infiltrator
+* **Alignment:** Neutral Evil
+* **Primary Region / Home:** [[Mere of Dead Men]] / [[Iniarv's Tower]]
+* **Adventure Appearances:** *Sleeping Dragon's Wake*
+
+---
 
 ## 📜 Canonical Role & Lore
-**Alevene Windcoat** is a canonical figure appearing in the official D&D 5e adventure arc (Sleeping Dragon's Wake). Residing in the Sword Coast North region, they play a supporting role in the regional events and frontier development along the Sword Coast North.
+**Alevene Windcoat** was an undercover scout and member of the chimera crew garrisoned at [[Iniarv's Tower]] under cult leader [[Rega Swarn]]. Tasked with luring travelers and adventurers into traps, Alevene and her partner [[Niri Bronzecrown]] operated in the ruins' outer courtyard, posing as distressed survivors under attack by the wandering undead.
+
+---
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Slain
+* **The Courtyard Betrayal (September 24, 2020):** When [[The Order of Znak]] entered the courtyard of Iniarv's Tower, they saw Alevene and Niri apparently trapped by a pack of Greater Zombies. The Order charged in to rescue them.
+* **The Treacherous Turn:** The moment the zombie horde was whittled down to a single remaining corpse, Alevene and Niri dropped their innocent guise, drew concealed blades, and attacked the champions from behind!
+* **The Slaying:** Unfazed by the sudden betrayal, the Order swiftly focused their attacks, cutting down Alevene and Niri alongside the last zombie.
+
+---
 
 ## 📚 Sources & Canon References
-* **Forgotten Realms Wiki:** [Alevene Windcoat](https://forgottenrealms.fandom.com/wiki/Alevene%20Windcoat)
-* **Official Adventure Modules:** *Sleeping Dragon's Wake*
+* **Official Adventure Module:** *Sleeping Dragon's Wake* (Quest: "Iniarv's Tower")
+* **Campaign Chronicle:** [[04 - Act 3 - Sleeping Dragon's Wake]]

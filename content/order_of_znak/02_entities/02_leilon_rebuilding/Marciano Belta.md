@@ -5,28 +5,37 @@ system: dnd5e
 campaign: order_of_znak
 status: archived
 type: npc
-species: Humanoid
-role: Adventurer / Resident
+species: Human
+role: Fisher / Sole Survivor of Leilon Point
 modules: ["Sleeping Dragon's Wake"]
-last_updated: 2026-10-12
-tags: [npc, order-of-znak]
+last_updated: 2026-10-22
+tags: [npc, civilian, survivor, fisher, leilon-point, sleeping-dragons-wake, order-of-znak]
+aliases: ["Marciano Belta", "Marciano"]
 ---
 
 # 👤 Marciano Belta
 
 ## 🛡️ Overview & Canon Profile
-* **Species / Heritage:** Humanoid
-* **Role & Occupation:** Adventurer / Resident
-* **Primary Region / Home:** Sword Coast North
-* **Adventure Appearances:** Sleeping Dragon's Wake
+* **Species / Heritage:** Human
+* **Role & Occupation:** Fisher / Sole Survivor of Leilon Point
+* **Primary Region / Home:** [[Leilon Point]], Sword Coast North
+* **Adventure Appearances:** *Sleeping Dragon's Wake*
+
+---
 
 ## 📜 Canonical Role & Lore
-**Marciano Belta** is a canonical figure appearing in the official D&D 5e adventure arc (Sleeping Dragon's Wake). Residing in the Sword Coast North region, they play a supporting role in the regional events and frontier development along the Sword Coast North.
+**Marciano Belta** was a hardworking human fisher stationed at [[Leilon Point]], an outlying coastal fishing settlement supporting the rebuilding of [[Leilon]]. When an amphibious warband of [[Sahuagin]] raided the promontory, Marciano managed to slip away into the dark rafters of the fish-curing storehouse, listening in terror as his fellow villagers were slaughtered or dragged into the caves below.
+
+---
 
 ## ⚔️ Campaign Interactions & Party Encounters
-* **Encounter Status:** Unmet / Met
-* **Party Notes:** Document specific roleplay interactions, negotiations, side quests, or combat outcomes involving The Order of Znak here.
+* **Encounter Status:** Rescued & Secured
+* **Discovery in the Curing Shed (August 28, 2020):** Following surface reconnaissance of the silent village, [[Rhynok]] and [[Myagkiy Znak]] rolled high Persuasion checks to coax Marciano out of his hiding spot behind the racks of salted cod.
+* **The Intelligence:** Trembling with shock, Marciano provided crucial tactical intelligence to [[The Order of Znak]], confirming that the sea devils had dragged all plunder into the subterranean **Salt Caves** below the cliffs.
+* **Escort to Leilon:** After the Order purged the Salt Caves and slew High Priestess [[Gahza]], they escorted Marciano safely back to Leilon, reuniting him with town authorities.
+
+---
 
 ## 📚 Sources & Canon References
-* **Forgotten Realms Wiki:** [Marciano Belta](https://forgottenrealms.fandom.com/wiki/Marciano%20Belta)
-* **Official Adventure Modules:** *Sleeping Dragon's Wake*
+* **Official Adventure Module:** *Sleeping Dragon's Wake* (Quest: "Leilon Point")
+* **Campaign Chronicle:** [[04 - Act 3 - Sleeping Dragon's Wake]]

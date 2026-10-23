@@ -37,8 +37,9 @@ When [[The Order of Znak]] tracked Viantha to her hidden ritual ground in the Kr
 * **Encounter Status:** Slain
 * **Stat Block & Abilities:** **Deathlock Mastermind** (CR 8, Undead spellcaster). Wields dark patron magic, including *Negative Energy Flood*, *Crown of Madness*, and *Arms of Hadar*.
 * **Wand of Bone & Specter Summoning:** Waving her bone wand aloft, Viantha channelled dark necromantic energy to summon shrieking **Specters** from the shadows to overwhelm the Order.
-* **The Slaying:** Despite her summoned horrors and high-tier dark magic, [[The Order of Znak]] swiftly focused their firepower, with [[Rhynok]]'s deadly archery and [[Krageer Stoneface Ogolakanu|Krageer]]'s brutal melee strikes tearing through the undead mastermind and her minions.
-* **The Corpse & Aftermath:** The Order hauled Viantha's corpse back to Deeping Cave to present as proof to Claugiyliamatar. However, delivering her body unwittingly triggered the dark ritual wherein [[Chardansearavitriol|Ebondeath]]'s dracolich spirit possessed the green dragon.
+* **The Woodland Tracking & Wraiths Encounter (December 11, 2020):** While combing the thick fog of Kryptgarden Forest to locate Viantha's ritual site, the Order's initial tracking rolls triggered a deadly random encounter from the Undead Encounters table: a pack of life-draining **Wraiths** (Initiative 23.16) that ambushed the party before being purged by radiant magic and [[Myagkiy Znak]]'s mace *Bonecounter*.
+* **The Clearing Showdown (February 3, 2021):** Locating Viantha's ritual clearing, the Order interrupted her dark chanting. Waving her bone wand, Viantha summoned shrieking **Specters**. Despite her summoned horrors and high-tier dark magic, [[The Order of Znak]] swiftly focused their firepower, with [[Rhynok]]'s deadly archery and [[Krageer Stoneface Ogolakanu|Krageer]]'s brutal melee strikes tearing through the undead mastermind and her minions.
+* **The Bones of Proof & Aftermath:** The Order harvested Viantha's skull and bones to present as proof to Claugiyliamatar. However, delivering the remains to Deeping Cave coincided with the eruption of the planar vortex wherein [[Chardansearavitriol|Ebondeath]]'s dracolich spirit possessed the green dragon.
 
 ---
 
