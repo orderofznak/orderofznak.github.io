@@ -16,7 +16,7 @@ tags: [character-sheet, goliath, barbarian, fighter, krageer, order-of-znak]
 * **Background:** Soldier (Ogolakanu Clan). Forged through rigorous mountain discipline and battlefield skirmishes before finding his true brothers-in-arms in [[The Order of Znak]].
 * **Battlefield Role:** The unstoppable frontline juggernaut of the company—charging headfirst into the fiercest melees, shrugging off elemental and physical punishment through the primal spirit of the Bear Totem, and cleaving foes in two with sweeping two-handed blows and *Great Weapon Master* strikes.
 * **Tattoos & Markings:**
-  * **Left Ribcage ("Fallen"):** Inked with the word *"Fallen"* in Giant, below which are etched **69 X's and 1 Lightning Bolt**, keeping a grim, unyielding tally of fallen comrades and storm-shattered foes.
+  * **Left Ribcage ("Fallen"):** Inked with the word *"Fallen"* in Giant, below which are etched **81 X's and 1 Lightning Bolt**, keeping a grim, unyielding tally of fallen comrades and storm-shattered foes.
   * **Right Ribcage ("Qolzaz" & The Rat):** Inked with a small tattoo of what appears to be a dead rat, alongside a crowned bird and the name **"[[Matriarch Qolzaz|Qolzaz]]"**—commemorating the lizardfolk queen slain during the Mere of Dead Men alliance and celebrated in the ***[[Ballad of Qolzaz]]***.
   * **Right Shoulder, Back, Arm & Leg Tribal Sleeve:** An intricate, expansive tribal design cascading down his right shoulder, across the right side of his back, and extending all the way down his right arm and right leg.
 
