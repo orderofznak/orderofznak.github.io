@@ -79,10 +79,44 @@ Returning to Leilon to refit, the champions stopped by **Aubrey's Peculiarities 
 
 Preparing for the coming storm, Rhynok cast *Locate Animals or Plants* and harvested venom from the surrounding marshlands, brewing fresh batches of Giant Snake poison (`3d6`) into his newly donned belt. The war for the Sword Coast was underway.
 
-### 2. Thalivar's Beacon & [[The Ruinstone]]
-Riding hard back to [[Leilon]], the Order rushed straight to the top of the **House of Thalivar**. Months after the Order had put Thalivar's original haunting to rest in *Storm Lord's Wrath*, wizard **[[Gallio Elibro]]** had successfully rebuilt the planar beacon atop the spire—yet in secret, Gallio had been obsessively hunting for the mythical Netherese artifact known as **[[The Ruinstone]]**. The beacon's renewed activation overcharged dimensional rifts, unleashing a fresh outbreak of Far Realm **Star Spawn Manglers** that plagued the upper tower. The party was summoned not to investigate a ghost, but to help Gallio contain and control the rampaging aberrations before they overran Leilon.
+### 2. Thalivar's Beacon, Ultima Exodus, & [[The Ruinstone]]
 
-In the frantic struggle atop the tower, **[[Krageer Stoneface Ogolakanu]]** discovered once more that the aberrations' mind-rending psychic claws were the one agony his Bear Totem rage could not dull—yet the Goliath gritted his teeth through the "brain pain" and cleaved the horrors apart alongside his brothers-in-arms. Securing **[[The Ruinstone]]** from the dimensional breach, the Order watched as a completely shell-shocked, terrified **[[Gallio Elibro]]** realized the catastrophic scope of his folly, resigned his post on the spot, and packed his bags for Neverwinter.
+#### The Reconstructed Garrison at Leilon (July 31, 2022)
+Returning from Dumathoin's Gulch, the Order arrived at the newly transformed centerpiece of Leilon:
+> *The House of Thalivar is a tall tower at the heart of the town. Recently rebuilt by soldiers, the structure now serves as a garrison for Neverwinter’s soldiery. Ravens circle the tower’s pointed roof and warm lantern light shines from its windows. At its foot, two arched doorways open into the interior.*
+
+Where once stood a haunted, crumbling ruin during the trials of *Storm Lord's Wrath*, the spire was now bustling with garrisoned troops. Yet deep within the high laboratory, the Order discovered wizard **[[Gallio Elibro]]** engaged in reckless arcane experimentation. With Leilon facing an imminent siege from the Cult of Talos and the Cult of Myrkul, Gallio explained that he had successfully rebuilt Thalivar's planar beacon. His stated ambition was to tune the beacon to trap extraplanar creatures and magically bind them into town service as defensive guardians—but he needed seasoned champions to journey into the **Border Ethereal** with him to trap more specimens.
+
+#### Striking the Silver Bell & The Astral Spire (July 31, 2022)
+Gallio gathered the party around the planar apparatus to cast *Etherealness*:
+> *As the silver bell is struck, the world fades away. Grey mist swirls into view and the temperature drops to a soul-chilling cold. Your companions and the tower you just stood in remain visible, but appear translucent and oddly distant. In this strange world, a beam of blue light spills from the planar beacon and sweeps around it in a circle, like a spectral lighthouse. Most mysterious of all, a spiral staircase rises from an archway in the wall that wasn’t present before.*
+
+Gallio immediately cast *Greater Invisibility* upon himself and slipped up the ethereal spiral staircase toward the astral spire. Unknown to the companions, Gallio had not merely sought defensive guardians; he was obsessively pursuing the mythical Netherese artifact known as **[[The Ruinstone]]**, hidden at the pinnacle of the dimensional apparatus!
+
+As sinister shapes began congealing in the mists, catastrophe struck:
+> *Gallio screams from the top of the astral spire. A shockwave washes through the mists, and the spectral light of the planar beacon flickers and dies. Looking back into your own world, you see the trapped monsters awaken and break free from their cells!*
+
+#### Battle Across Two Planes & The Christening of Ultima Exodus (July 31 – August 1, 2022)
+The violent rupture sheared reality across the planar veil, dividing the Order into a frantic two-front struggle:
+- **[[Tvyordiy Znak]]** and **[[Krageer Stoneface Ogolakanu]]** were pinned in the laboratory on the **Material Plane**, surrounded by rampaging aberrations.
+- **[[Myagkiy Znak]]** and **[[Rhynok]]** were stranded across the threshold in the **Ethereal Plane**!
+
+Rolling into combat (`Init: Krageer 19, TZ 18, Rhynok 18, Gallio 17, MZ 14`), four horrifying **Star Spawn Manglers** swarmed the laboratory. The multi-limbed horrors unleashed savage *Flurry of Claws* assaults, making six claw attacks per turn that dealt vicious slashing and psychic damage (`27 attack roll, 26 damage`). While Bear Totem rage blunted physical wounds, the psychic rending bypassed Krageer's defenses entirely. Gritting his teeth through the excruciating "brain pain", the Goliath leaned on *Stone's Endurance* (`9`) and *Second Wind* (`10`) to remain upright.
+
+During *Keeping the Faith*, Krageer had forged a massive, custom two-handed greataxe layered in adamantine and silver, previously recorded on his battle sheet simply as *"Krageer's Great Axe"*. In this desperate struggle atop Thalivar's spire, the weapon reached its legendary maturity. Honoring the 1983 classic RPG *Ultima III: Exodus*—a beloved inside joke between Gary and Peter—Krageer officially christened the devastating blade **[[Ultima Exodus]]**! Wielding the molten-inscribed adamantine greataxe, Krageer cleaved through aberration chitin with pulverizing critical force (`31 to hit, 28 slashing`).
+
+Meanwhile, Rhynok trapped manglers with well-placed *Net* throws and slashed with his *Scimitar of Speed* coated in potent DC 14 poison, Tvyordiy hammered joints with his *Vicious Quarterstaff +2* and stunning flurries, and Myagkiy channeled *Mass Healing Word* and high-tier *Cure Wounds* across the planar divide until all four Far Realm horrors were obliterated.
+
+#### The Warning of The Swords of Leilon & Fortifying the Spire (August 1, 2022)
+With the beacon powered down and the Order reunited on the Material Plane, the dimensional mists parted:
+> *A pair of ghostly figures emerge from the mists: a dark-skinned warrior woman dressed in chainmail, and a red-bearded dwarf carrying a lute. The woman holds up her hand in a sign of peace and speaks in an echoing voice:*
+> *"This is what happens to those who meddle with the ruinstone. Leave it here, lest the people of Leilon suffer its wrath once more!"*
+
+The spirits introduced themselves as heroes of the historic adventuring company, **The Swords of Leilon**: the warrior **Augusta Krul** and the dwarven skald **Ogri Ninebeards**. They revealed that centuries ago, the wizard Thalivar had touched the Ruinstone, breaking his beacon and unleashing trapped monstrosities—and the Swords of Leilon had fought and died holding them back. They warned that evil powers had recently learned of the Ruinstone and were actively conspiring to seize it.
+
+Heeding their warning, the Order secured **[[The Ruinstone]]**—a palm-sized, fiery red crystal capable of rewinding actions at the terrifying cost of reality-erasing backlashes. Augusta Krul and Ogri Ninebeards pledged to remain as vigilant spectral guardians in the spire. The garrison was immediately reinforced: town guards were doubled, and allied **Lizardfolk** warriors were stationed within the tower walls to guard the relic.
+
+Thoroughly terrified and disgraced by the catastrophe his vanity had unleashed, **[[Gallio Elibro]]** and the Order of the Many-Starred Cloaks packed their bags, resigned their commission in Leilon, and fled for Neverwinter. From the tower sanctum, Krageer claimed the **Amulet of the Consuming Summoner**, adding a powerful summoning relic to his arsenal as Leilon prepared for the coming war.
 
 ### 3. Voyage Aboard *[[Twinkle and Icingdeath]]* & The High Seas Fleet Battle
 To secure regular army reinforcements before the cult armies closed the ring around Leilon, the Order embarked aboard the twin caravels ***[[Twinkle and Icingdeath|Twinkle]]*** and ***Icingdeath***, commanded by the dashing Captain **[[Deloz Montiv]]**. Along the voyage, [[Rhynok]]'s sharp elven senses pierced the illusory human glamour projected by *Twinkle*'s enchanted figurehead—revealing that Deloz and his privateers were actually surface-allied **drow of Bregan D'aerthe** sailing in the service of Jarlaxle Baenre.
