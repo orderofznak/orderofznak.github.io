@@ -220,6 +220,11 @@ With *Thunderstrike* sinking into the whitecaps and *Throatcutter* captured, Kra
 
 Terrified of being cleaved in two and fed to the sharks, the broken officers confessed everything: the naval ambush had been personally commanded by the storm high priestess **[[Fheralai Stormsworn]]** and the **Cult of Talos**. The cult had forged an alliance with pirate fleet lords of Luskan to blockade the sea lanes and isolate Leilon from Neverwinter reinforcements—clearing the path for their combined overland armies to march upon the town for the final siege.
 
+#### Scuttling the Prize & A Gift to Bregan D'aerthe (August 24, 2022)
+With the interrogation complete and the reaver officers disarmed in the hold, the companions faced the tactical question of what to do with the battered prize. Rather than burdening their return voyage by towing a heavily damaged Rethnor warship back to Leilon's shallow quayside, the Order graciously turned the captured vessel over to Captain **[[Deloz Montiv]]**, Captain Xalti, and **Bregan D'aerthe** as a gift. 
+
+The drow privateers efficiently stripped the warship of its heavy ballistas, mangonels, and munitions before scuttling the hull into the depths of the Sea of Swords. This gesture of maritime goodwill cemented an ironclad bond between the Order of Znak and Jarlaxle Baenre's mercenary syndicate as trusted sea-brothers!
+
 With the sea lanes secured and the privateers victorious, the Order set sail at full canvas for Leilon to prepare the town for total war.
 
 ### 5. The Siege of [[Leilon]] & The Battle of the Three Armies (August 25 – September 10, 2022)
