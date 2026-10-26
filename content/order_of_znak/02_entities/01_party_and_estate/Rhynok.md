@@ -58,7 +58,19 @@ tags: [character-sheet, elf, ranger, rogue, gloomstalker, assassin, rhynok, orde
 
 ### ⚡ [[06 - Act 4 - Divine Contention|Act 4: Divine Contention]]
 * **The Extradimensional Sniper of [[Dumathoin's Gulch]]:** When spectral sword wraiths swarmed the canyon, Rhynok cast ***Rope Trick***, climbed into the unseen pocket dimension above the battlefield, pulled up the rope, and rained poisoned arrows down with total cover and impunity. Inside the dwarven shrine, he persuaded eidolon **[[Sister Silvergranite]]** to yield the volatile **Gnomengarde grenade** before spearheading the destruction of a lethal **Boneclaw**.
-* **Piercing the Glamour of *[[Twinkle and Icingdeath]]* & Naval Marksman:** Aboard Captain [[Deloz Montiv]]'s caravel *Twinkle*, Rhynok's keen elven senses pierced the illusory human disguise projected by the ship's figurehead—uncovering their friendly Bregan D'aerthe drow allies. On the return voyage from Neverwinter, he picked off Invisible Stalkers and enemy siege crews aboard [[Galas Windrage]]'s warships, and delivered lethal suppressing fire aboard the Talosite flagship dreadnaught against **[[Fheralai Stormsworn]]**.
+* **Piercing the Glamour of *Twinkle* & High Seas Marksmanship:** Aboard Captain [[Deloz Montiv]]'s caravel *Twinkle*, Rhynok's keen elven senses pierced the illusory human disguise projected by the ship's figurehead—uncovering their friendly Bregan D'aerthe drow allies. On the return voyage against Ship Rethnor's warships (*Throatcutter* and *Thunderstrike*), Rhynok eliminated Invisible Stalkers and enemy siege crews with pinpoint archery.
+* **The Siege of Leilon:**
+  - *South Gate Defense:* Sniped from the palisades and cast ***Fear*** into oncoming undead waves, scattering ghasts into Myagkiy's *Spirit Guardians*.
+  - *Quayside Boneclaw Sniper Crits:* Sprinted to the docks and scored devastating critical sniper shots against the Boneclaw pinning Councilor [[Valdi Estapaar]], allowing Krageer to heave the boat free.
+  - *Gnomengarde Grenade & Wand of Wonder:* Atop the House of Thalivar, hurled the volatile Gnomengarde Grenade at corrupted [[Claugiyliamatar]]. Following up with the ***Wand of Wonder***, Rhynok rolled a **14** (becoming stunned, yet completely convinced something magnificent had just occurred!), providing comic distraction while the party drove the dragon off.
+* **The Dragon's Mausoleum & The Adamantine Net:**
+  - Navigated the flooded crypts of Uthtower, casting a preemptive *Rope Trick* to establish an elevated sniper perch before skeletal swarms triggered.
+  - When ancient dracolich **[[Ebondeath]]** possessed [[Tvyordiy Znak]], Rhynok refused to shoot his brother. Instead, Rhynok hurled an **Adamantine Net** (`22, 24 to hit, 26 Athletics`), tangling the possessed monk in indestructible mesh to allow Myagkiy's radiant exorcism.
+* **The Dreadnaught Climax:**
+  - *Snatched by the Roc:* While crossing the tempest, a gargantuan Roc swooped down and seized Rhynok in its talons, hoisting him **thirty feet into the air** (`26 slashing damage, DC 19 escape`). Rhynok broke free, plummeted to the deck, and joined the concentrated 10d6 barrage that drove the beast off.
+  - *Surviving the Shipwreck:* Survived *Twinkle*'s catastrophic destruction in the oceanic tornado, sustained by Myagkiy's *Beacon of Hope* and *Mass Healing Word*.
+  - *Boarding & Deck Defense:* Boarded the dreadnaught, sniped shadowy wraiths, and provided lethal suppressing fire against Air Elemental Myrmidons and demon lord Ub-Vhagga before escaping via *Word of Recall*.
+* **Level 13 Milestone:** Attained **Level 13** (Ranger 8 / Rogue 5), gaining *Uncanny Dodge* and advancing *Sneak Attack* to 3d6. Honored with a heroic stone statue in Leilon's town square.
 
 ---
 
@@ -99,7 +111,8 @@ tags: [character-sheet, elf, ranger, rogue, gloomstalker, assassin, rhynok, orde
 | **Level 9** | Ranger 8 / Rogue 1 (*Act 3 Launch: [[04 - Act 3 - Sleeping Dragon's Wake|Sleeping Dragon's Wake]]*) | **Multiclass into Rogue:** *Expertise* (Stealth, Thieves' Tools), *Sneak Attack (1d6)*, *Thieves' Cant*. |
 | **Level 10** | Ranger 8 / Rogue 2 (*Post-Ghost Ship Milestone — Sept 18, 2020*) | ***Cunning Action*** (Dash, Disengage, or Hide as a Bonus Action on every turn). |
 | **Level 11** | Ranger 8 / Rogue 3 (*SDW Conclusion & [[05 - Interlude 2 - Keeping the Faith|Keeping the Faith]]*) | **Rogue Subclass: Assassin** (*Assassinate* advantage vs creatures that haven't acted & auto-crits on surprised targets; *Sneak Attack (2d6)*). **Bonus Feat (Gond's Blessing):** ***Poisoner*** (bonus-action poison application, ignores poison resistance, using *aidedd.org* poison mechanics). |
-| **Levels 12–13** | Ranger 8 / Rogue 4–5 (*Act 4: [[06 - Act 4 - Divine Contention|Divine Contention]]*) | ASI / Feat, *Sneak Attack (3d6)*, and *Uncanny Dodge*. |
+| **Level 12** | Ranger 8 / Rogue 4 (*Act 4: [[06 - Act 4 - Divine Contention|Divine Contention]]*) | **ASI:** **+2 Dexterity** (or Feat), rounding out combat stats. |
+| **Level 13** | Ranger 8 / Rogue 5 (*Act 4 Climax Milestone — Dec 18, 2022*) | ***Uncanny Dodge*** (reaction to halve incoming attack damage) & ***Sneak Attack (3d6)***. Capped Level 13 build as the premier sniper of the Sword Coast. |
 
 ### 🎒 Weapons, Armor & Item Acquisition Log
 | Item / Weapon                        | Where & When Acquired                                                                           | Mechanical Properties & Campaign Notes                                                                                                                                                                                                                                  |
