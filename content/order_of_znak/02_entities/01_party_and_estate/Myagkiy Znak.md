@@ -52,7 +52,21 @@ tags: [character-sheet, human, cleric, life-domain, myagkiy-znak, order-of-znak]
 * **Dayne's Plate & Double-Enlarging Krageer in the Volcano:** In Neverwinter Wood, Myagkiy helped slay Night Hag [[Balheelsa]] and rescue young [[Yasmina]]. Grateful for the Order's courage, [[Dayne Beltran]] and master smith [[Flanning Teldorer]] rewarded Myagkiy with Dayne's consecrated **+2 Plate Armor** (boosting Myagkiy to **24 AC**). In the Mount Hotenow caldera climax, after [[Krageer Stoneface Ogolakanu]] quaffed a ***Potion of Growth*** from [[Puck Caribdas]] (`Medium` &rarr; `Large`), Myagkiy cast ***Enlarge*** on top of it (`Large` &rarr; `Huge`)—allowing Krageer to wrestle Fire Giant Queen [[Kevlaan the Merciless]] eye-to-eye in the lava!
 
 ### ⚡ [[06 - Act 4 - Divine Contention|Act 4: Divine Contention]]
-* **The Bastion of Leilon & The Dreadnaught Deck:** Clad in 24 AC enchanted plate and shield, Myagkiy stood unyielding against the Star Spawn Manglers atop the House of Thalivar, weathered [[Claugiyliamatar]]'s siege of Leilon, and boarded the hurricane-lashed Talosite flagship dreadnaught aboard *[[Twinkle and Icingdeath|Twinkle]]* to vanquish **[[Fheralai Stormsworn]]**, an Air Elemental Myrmidon, and a Nalfeshnee demon.
+* **Cleansing the Wereboar Curse:** When Tvyordiy was bitten by feral wereboars outside Dumathoin's Gulch, Myagkiy invoked divine grace the very next morning at the Wayside Inn, casting ***Remove Curse*** to cleanse his brother of lycanthropy before they entered the dwarven canyon.
+* **The Siege of Leilon:**
+  - *The South Gate Meatgrinder:* Cast ***Spirit Guardians*** at the gate threshold, creating a 15-foot zone of swirling radiant spirits that shredded waves of ghasts and greater zombies as Krageer and Tvyordiy held the line.
+  - *Guiding Bolt & Frontline Healing:* Supported the frontline in the Town Square and atop the House of Thalivar with critical *Cure Wounds* and radiant offensive spells, forcing Ebondeath to sever his link to Claugiyliamatar.
+* **The Exorcism in the Dragon's Mausoleum:**
+  - Weathered Ebondeath's terrifying **28 Wisdom Save** in the Crypt of First Royals.
+  - Stepped into point-blank range of the possessed Tvyordiy and channeled a searing 4th-level ***Guiding Bolt*** (`26 to hit, 34 radiant damage`) straight into the spirit's spectral core, violently ripping the dracolich out of his brother's body.
+  - Immediately healed Tvyordiy with *Cure Wounds*, allowing the monk to rise from 17 HP and destroy the ghost dragon.
+* **Naval Scrying & The Tempest Miracle:**
+  - Cast multiple 5th-level ***Scrying*** rituals (`DC 17 Wisdom Save`) from Leilon to pierce storm wards and track the coordinates of the Talosite dreadnaught.
+  - *The High-Seas Lifeline:* When *Twinkle* was obliterated by an oceanic tornado, hurling everyone into twenty-foot waves, Myagkiy cast ***Beacon of Hope*** followed by a 4th-level ***Mass Healing Word***. Amplified to absolute maximum (17 HP to each survivor), the divine magic stabilized Captain Deloz, the officers, and 5 drow sailors, saving them from drowning.
+* **The Dreadnaught Climax & Word of Recall:**
+  - Boarded the flagship dreadnaught, providing radiant offense and vital healing against five Wraiths, four Air Elemental Myrmidons, and demon lord Ub-Vhagga the Nalfeshnee.
+  - *The Final Miracle:* As Talos's divine lightning tore the dreadnaught apart and dragged it into the ocean vortex, Myagkiy cast ***Word of Recall***, teleporting the party, Captain Deloz, and the 5 surviving drow safely onto the consecrated stones of Leilon's sanctuary!
+* **Level 13 Milestone:** Attained **Level 13** Life Domain Cleric, gaining access to 7th-level spells (such as *Conjure Celestial* and *Divine Word*). Honored with a stone statue in Leilon's town square and establishing the town's premier temple academy.
 
 ---
 
@@ -89,7 +103,8 @@ tags: [character-sheet, human, cleric, life-domain, myagkiy-znak, order-of-znak]
 | **Level 9** | Cleric 9 (*Act 3: [[04 - Act 3 - Sleeping Dragon's Wake|Sleeping Dragon's Wake]]*) | **5th-Level Spells:** *Flame Strike*, *Greater Restoration*, *Mass Cure Wounds*, *Raise Dead*. |
 | **Level 10** | Cleric 10 (*SDW Post-Ghost Ship*) | ***Divine Intervention*** & *Channel Divinity: Preserve Life* improvement. |
 | **Level 11** | Cleric 11 (*SDW Conclusion & [[05 - Interlude 2 - Keeping the Faith|Keeping the Faith]]*) | **6th-Level Spells:** ***Heroes' Feast***, ***True Seeing***, ***Heal***. Operated at Level 11 through *Keeping the Faith*. |
-| **Levels 12–13** | Cleric 12–13 (*Act 4: [[06 - Act 4 - Divine Contention|Divine Contention]]*) | *Blessed Strikes*, *Supreme Healing*, 7th-level spells (*Conjure Celestial*), and **Feats:** ***Observant*** & ***Resilient (Constitution)***. |
+| **Level 12** | Cleric 12 (*Act 4: [[06 - Act 4 - Divine Contention|Divine Contention]]*) | **ASI:** **+1 Constitution / +1 Wisdom** (or Feat) bringing Constitution to 19 (+4). |
+| **Level 13** | Cleric 13 (*Act 4 Climax Milestone — Dec 18, 2022*) | **7th-Level Spells** (*Conjure Celestial*, *Divine Word*, *Resurrection*, *Symbol*). Supreme master of life and divine preservation across the Sword Coast. |
 
 ### 🎒 Weapons, Armor & Item Acquisition Log
 | Item / Weapon | Where & When Acquired | Mechanical Properties & Campaign Notes |

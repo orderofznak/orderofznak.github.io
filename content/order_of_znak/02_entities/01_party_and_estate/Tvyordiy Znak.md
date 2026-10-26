@@ -52,7 +52,21 @@ tags: [character-sheet, aarakocra, monk, drunken-master, tvyordiy-znak, order-of
 * **Disarming Mt. Hotenow & Stunning Queen Kevlaan:** In the volcanic tunnels of Mount Hotenow, Tvyordiy and Krageer combined acrobatics and brawn under Myagkiy's divine guidance to bypass lethal engineering traps and unlock a trapped chest (4,000 gp, 4 Potions of Greater Healing). In the magma caldera showdown, as a "Double-Enlarged" Krageer grappled Fire Giant Queen [[Kevlaan the Merciless]], Tvyordiy delivered a textbook flurry of *Stunning Strikes*, locking the fire giant monarch in place until Krageer crushed her into the obsidian floor.
 
 ### ⚡ [[06 - Act 4 - Divine Contention|Act 4: Divine Contention]]
-* **The Wereboar Curse of [[Dumathoin's Gulch]]:** Ambushed by feral wereboars at the entrance to [[Dumathoin's Gulch]], Tvyordiy was knocked from his feet and bitten—contracting **wereboar lycanthropy**. Embracing the curse's feral brawn and hybrid tusks, the Aarakocra monk fought with newfound savagery against the House of Thalivar's Star Spawn Manglers, [[Galas Windrage]]'s reaver fleet, [[Claugiyliamatar]]'s siege of Leilon, and high priestess **[[Fheralai Stormsworn]]** aboard the hurricane-lashed Talosite dreadnaught.
+* **The Wereboar Ambush & Curation:** Ambushed by feral wereboars at the entrance to [[Dumathoin's Gulch]], Tvyordiy was knocked to the ground and bitten. However, rather than succumbing to the beast within, Tvyordiy was promptly cured of lycanthropy the very next morning at the Wayside Inn through Myagkiy's ***Remove Curse***, entering the dwarven canyon fully restored.
+* **Thalivar's Beacon & High Seas Boarding:** Leaped across planar rifts atop the House of Thalivar to pummel Star Spawn Manglers. Aboard *Twinkle*, boarded Ship Rethnor's warship *Throatcutter* through gale-force winds, subduing enemy crewmen with non-lethal martial arts.
+* **The Siege of Leilon:**
+  - Held the South Gate threshold alongside Krageer and Myagkiy's *Spirit Guardians*, battering ghasts with rapid quarterstaff strikes.
+  - Sprinted into the Town Square to strike at Claugiyliamatar's hind legs, rolling nimble Dexterity checks to evade necrotic breath and tail sweeps before pursuing the dragon to the tower roof.
+* **Possession & Destruction of Ebondeath:**
+  - *The Octagonal Vault Cliffhanger:* In the Crypt of First Royals in Uthtower, the spectral spirit of ancient dracolich **[[Ebondeath]]** ambushed the party and successfully possessed Tvyordiy's body!
+  - *Restrained in the Adamantine Net:* Infused with dracolich malice, Tvyordiy's body battered against his companions (`25, 28 to hit, Flurry of Blows`) until Rhynok and Krageer snared him in an Adamantine Net.
+  - *The Exorcism & Critical Vengeance:* Dispossessed when Myagkiy blasted Ebondeath with a 34-damage *Guiding Bolt*, Tvyordiy collapsed to the flagstones with only **17 HP remaining**. Rising in righteous fury, Tvyordiy swung his *Vicious Quarterstaff +2*, scoring a monumental **31 critical hit** (`19 bludgeoning`) followed by a **29 critical Unarmed Strike** to shatter the dracolich's spirit forever!
+* **Claiming the Circlet of Blasting & Aerial Duel:**
+  - Attuned to the **[[Circlet of Blasting]]** recovered from Ebondeath's ancient 14,000 gp hoard.
+  - *Stillness of Mind vs. Kata Ironhide:* When Kata Ironhide unleashed her *Dreadful Presence* from atop the Roc, Tvyordiy failed his save (`rolled an 8`), but immediately activated ***Stillness of Mind*** to center his ki and clear the fear!
+  - Fired blazing rays from his new *Circlet of Blasting* (`24, 22 to hit`) into the Roc, contributing to the 44-damage barrage that routed the flyer.
+* **Dreadnaught Climax:** Boarded the flagship dreadnaught, using *Patient Defense* and *Stunning Strike* against Air Elemental Myrmidons and planar horrors before escaping via Myagkiy's *Word of Recall*.
+* **Level 13 Milestone:** Attained **Level 13** Way of the Drunken Master Monk, gaining ***Tongue of the Sun and Moon*** (understanding all spoken languages and being understood by any creature that understands a language). Honored with a stone statue in Leilon's town square.
 
 ---
 
@@ -103,11 +117,13 @@ tags: [character-sheet, aarakocra, monk, drunken-master, tvyordiy-znak, order-of
 | **Level 9** | Monk 9 (*Act 3: [[04 - Act 3 - Sleeping Dragon's Wake|Sleeping Dragon's Wake]]*) | ***Unarmored Movement Improvement*** (ability to move along vertical surfaces and across liquids without falling during movement). |
 | **Level 10** | Monk 10 (*SDW Post-Ghost Ship*) | ***Purity of Body*** (complete immunity to disease and **poison damage / poisoned condition**—used to loot Claugiyliamatar's poisoned hoard!). |
 | **Level 11** | Monk 11 (*SDW Conclusion & [[05 - Interlude 2 - Keeping the Faith|Keeping the Faith]]*) | ***Drunkard's Luck*** (spend 2 Ki points to cancel disadvantage on an attack roll, ability check, or saving throw). Operated at Level 11 through *Keeping the Faith*. |
-| **Levels 12–13** | Monk 12–13 (*Act 4: [[06 - Act 4 - Divine Contention|Divine Contention]]*) | **Feat:** ***Crusher*** (bludgeoning forced movement & advantage after crits); *Tongue of the Sun and Moon*; **Wereboar Lycanthropy** (contracted in Dumathoin's Gulch: sets STR to 17, hybrid form & tusks). |
+| **Level 12** | Monk 12 (*Act 4: [[06 - Act 4 - Divine Contention|Divine Contention]]*) | **ASI:** **+1 Wisdom** (raising WIS to 19 (+4), boosting Unarmored AC to 19 and Ki Save DC). |
+| **Level 13** | Monk 13 (*Act 4 Climax Milestone — Dec 18, 2022*) | ***Tongue of the Sun and Moon*** (speak and understand all languages). Master of ki, serenity, and drunken mobility. |
 
 ### 🎒 Weapons, Armor & Item Acquisition Log
 | Item / Weapon | Where & When Acquired | Mechanical Properties & Campaign Notes |
 | :--- | :--- | :--- |
+| ***[[Circlet of Blasting]]*** | **The Dragon's Mausoleum** (Act 4 Chapter 6 — Oct 29, 2022) | Claimed from Ebondeath's ancient 14,000 gp hoard and attuned immediately; cast *Scorching Ray* (+5 to hit, 2d6 fire per ray) 1/day without expending a spell slot. Fired during the aerial clash against the Roc and Kata Ironhide. |
 | **Mundane *Qiang* Spear** | **[[Phandalin]]** (Level 1 Starter Gear) | Standard Monk Spear (1d6/1d8 versatile) flavored as a Chinese ***Qiang*** as an homage to *Oriental Adventures*; unable to hurt immune wererats at [[Mountain's Toe Gold Mine]]. |
 | **Silvered *Qiang* Spear** | **[[Phandalin]] Smithy** (Level 6 — Jan 20, 2020, pre-[[Axeholm]]) | Silvered alongside Krageer's greataxe after [[Mountain's Toe Gold Mine]]; wielded through [[Axeholm]], [[Circle of Thunder]], and [[Icespire Hold]]. |
 | ***Wand of Magic Missile*** | **[[Thunder Cliffs]]** (Level 8 — July 28, 2020) | Claimed from the Talosite coastal cave cache after defeating Gadrille; contains 7 charges to cast *Magic Missile* (up to 6th-level volleys) without requiring spell slots. |
