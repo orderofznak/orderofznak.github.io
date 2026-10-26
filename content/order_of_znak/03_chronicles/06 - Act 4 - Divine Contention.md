@@ -397,8 +397,111 @@ Recognizing their unmatched prowess, Lord Neverember issued two monumental bount
 
 ---
 
-### 6. The Dragon's Mausoleum & The Possession of Tvyordiy Znak (October 2022)
-*(To be chronicled in the next beat)*
+### 6. The Dragon's Mausoleum & The Possession of Tvyordiy Znak (September 11 – October 29, 2022)
+
+Armed with the **8,000 gp** bounty issued by Lord Neverember, the newly minted Level 12 champions set out to extinguish the dark heart of the Myrkulite death cult. Their target was the subterranean tomb of the ancient dracolich **Chardansearavitriol**, known to legend as **[[Ebondeath]]**. 
+
+#### The Barge Journey into the Mere of Dead Men (September 11, 2022)
+Following precise navigation charts provided by Neverember’s scouts, the companions chartered a heavy, flat-bottomed marsh barge from Leilon’s quayside. Leaving the rebuilding port behind, they poled southward into the rancid, sulfurous waters of the **Mere of Dead Men**—a drowned, treacherous salt marsh choked with sunken willows, grasping quicksand, and shifting necrotic vapors.
+
+#### The Sunken Uthtower & The Latrine Shaft (September 11, 2022)
+Deep within the trackless mire, the party located the site where ancient ruins lay buried beneath fathoms of stagnant water:
+> *Uthtower is buried deep beneath the bog. Using undead as laborers, Ularan Mortus excavated a deep shaft into the mud, shored up with wooden beams. Crude iron rungs were hammered into the walls of this pit, providing access to the entry hall of the catacombs (area E1). On the surface, the entrance looks like nothing more than a timber latrine sitting in the middle of nowhere. The shaft inside descends 120 feet to the catacombs below.*
+
+Scouting the desolate surface perimeter, the party rolled a **DC 18 Investigation check**, discerning that a nearby brackish lake had been violently displaced: thick sheets of mud were splattered high across the reeds, revealing where the gargantuan body of Claugiyliamatar had crash-landed and slithered into the depths during her possession.
+
+#### Area E1: The Entry Hall & The Riddle of Myrkul (September 11, 2022)
+Leaving their barge concealed among the sawgrass, the companions grasped the rusted iron rungs and descended one by one down the vertical, 120-foot mud shaft:
+> *The shaft descends into a worked stone hallway. One end of the hall has collapsed, and the other terminates in a pair of giant ebony doors. A thin layer of mist swirls over the floor and the air is unnaturally cold. As you step onto the flagstones, a voice from nowhere whispers: “Who is dead but cannot die, the Lord of Bones, whose embrace is patient but sure?”*
+
+Recognizing the dark catechism of the Reaper, the companions answered the freezing air with a single solemn name: **"Myrkul."** 
+
+A hollow groan reverberated through the stone, and the massive ebony valves swung slowly inward, unsealing the forgotten catacombs.
+
+---
+
+#### Area E2: The Cultist Camp & The Summoning in the Ritual Room (September 24–25, 2022)
+Breaching the threshold into Area E2, the companions discovered an active subterranean war camp established by Ularan Mortus's cultists. The chamber instantly erupted into a deafening melee:
+- **The Vanguard Clash:** Dark priests shielded by ***Stoneskin***, necromancers, spectral **Ghosts**, and feral **Ghasts** surged forward with *Spiritual Weapons* and necrotic curses.
+- **Round 3 Reinforcements:** Just as the Order shattered the first defensive line, heavy stone doors banged open as a **War Priest** led a reinforcing squad of **Greater Zombies** into the fray, their fists delivering bone-shattering *Empowered Slams* (`26 to hit, bludgeoning + necrotic`).
+- **Krageer's Champion Crits:** Krageer put his new **Champion** training on bloody display. Wielding **[[Ultima Exodus]]**, Krageer cleaved through rotting muscle with thunderous 19–20 critical hits (`18 + Crit: 8, 17 + Crit: 6, 12 + Crit: 11 slashing`), hewing zombie limbs in half before they could land their blows.
+- **Rhynok's Extradimensional Sniper Perch:** Slipping into the shadows, Rhynok cast ***Rope Trick***, climbing up into an invisible, extradimensional haven twenty feet above the flagstones. From this elevated vantage point, Rhynok rained lethal, poison-tipped arrows into the undead commanders (`12 + Crit: 6 Sneak Attack`).
+
+##### The Bone Devil of the Ritual Chamber (September 25, 2022)
+Unbeknownst to the Order, cult fanatics in the adjoining ritual chamber were frantically conducting a dark conjuration. As the last Greater Zombie collapsed in Area E2, the doors burst open to reveal a towering, fiendish monstrosity: a summoned **Bone Devil**!
+- The fiend lunged into the camp with its *Variant Hooked Polearm* (`26 to hit, 17 piercing`) and snapped its barbed tail in a deadly *Sting* (`19 to hit, 14 piercing + 13 poison`). 
+- Towering over the fiend, Krageer absorbed the blow and rolled a stalwart **16 Constitution Save** (`+7`), his Goliath blood completely shrugging off the deadly venom!
+- Pushing into the ritual chamber, the companions cut down the cultists, banished the Bone Devil back to the Nine Hells, and pulped the accompanying **Skeletal Swarms**.
+
+##### Spoils of the Cultist Camp
+Searching the abandoned tents, chests, and ritual altars, the Order recovered:
+- **700 gp** and **35 pp**
+- The magical **Eyes of Minute Seeing**
+- Three sacred spell scrolls: **Scroll of Raise Dead**, **Scroll of Forbiddance**, and **Scroll of Holy Aura**
+
+---
+
+#### Secret Doors, Flooded Crypts, & The 8 Skeletal Swarms (October 9, 2022)
+Pausing amidst the heaps of cultist dead, Krageer quaffed healing potions before systematically searching the damp stonework. Rolling **Investigation**, Krageer discovered a cunningly disguised secret door opening into the deeper, unmapped catacombs.
+
+Wading south through knee-deep, freezing water, the party turned north at a submerged four-way intersection. Echoing through the dripping vaults, the companions picked up the unmistakable dry clattering of bone on stone:
+- Anticipating an ambush, Rhynok preemptively deployed another ***Rope Trick***, establishing an aerial sniper redoubt above the flooded passage.
+- As Krageer took the vanguard, his boots kicked against piles of ancient remains, immediately awakening an ambush of **eight Skeletal Swarms** surging from the waterlogged alcoves!
+- While Rhynok rained broadheads from above, Krageer, Myagkiy, and Tvyordiy smashed through the bony tide, crushing skulls into powder.
+
+#### The Shrine of The Vestige & Destructive Waves (October 9, 2022)
+Pushing northward into the adjoining temple, the companions confronted **The Vestige**—a floating, necrotic manifestation of Myrkul's divine will surrounded by another host of skeletal swarms.
+
+Hovering above the blackened altar, The Vestige detonated multiple catastrophic bursts of ***Destructive Wave*** (`DC 18 Constitution Save, 22 necrotic/radiant damage`). While necrotic thunder shook the cavern, Krageer powered through the shockwave with a towering **25 Constitution Save** (`+7`). Charging through the blast, the companions battered down the altar and scattered the remaining skeletal swarms into inert fragments.
+
+---
+
+#### The Crypt of the First Royals & Ebondeath's Challenge
+Scaling the slippery stone stairs beyond the defiled shrine, the Order emerged into the ancient sepulcher:
+> *Graven steps ascend into a wide, octagonal chamber with a high, vaulted ceiling. The mosaic floor is littered with rubble, and a pool of murky water floods the far side of the chamber. Strange fungi cling to the moist walls.*
+> *To the north, an arched hallway plunges into the dark. As you approach, a hollow voice booms from beyond:*
+> *“Who dares disturb the rest of Chardansearavitriol the Ebondeath?”*
+
+The legend of the ancient wyrm loomed over the party:
+> *Over a thousand years ago, the black dragon Chardansearavitriol, commonly known as Ebondeath, settled in the Mere of Dead Men, making his lair in the ruined citadel of Uthtower. Ebondeath became a dracolich and was worshiped by the Cult of the Dragon until the death god Myrkul’s influence waned across Faerûn and the dragon’s bones turned to dust.*
+
+---
+
+#### The Climax: The Possession of Tvyordiy Znak & The Exorcism (October 23–29, 2022)
+
+##### The October 23 Cliffhanger
+Surging from the northern dark, the colossal spectral phantom of **[[Ebondeath]]** descended upon the octagonal vault. Operating under a modified Ghost Dragon stat block, the ancient dracolich was desperate for a mortal vessel after losing Claugiyliamatar in Leilon. Sweeping across the chamber with supernatural speed, the ghost dragon lunged directly at **[[Tvyordiy Znak]] (Ъ)**, grappling the aarakocra monk and invading his mortal soul in an unholy possession!
+
+The session ended on a harrowing, high-stakes cliffhanger: *The party's own monk brother was possessed by the dracolich!*
+
+##### Top of the Initiative: Restraining Tvyordiy (October 29, 2022)
+Resuming at the top of the initiative order, the companions faced the agonizing tactical challenge of neutralizing their possessed companion without taking his life:
+- **The Adamantine Net & Grappling:** Refusing to strike with lethal force, Rhynok and Krageer closed in. Rolling monster Athletics checks (`Rhynok: 26, 23 Athletics`), Rhynok hurled an **Adamantine Net** (`22, 24 to hit`), tangling the possessed monk in indestructible metallic mesh.
+- **Possessed Monastic Fury:** Infused with the dracolich's ancient malice, Tvyordiy's body fought back with terrifying martial fury. Spinning his *Vicious Quarterstaff +2* (`25, 28 to hit`) and unleashing *Flurry of Blows* (`28 to hit`), the possessed monk battered against the restraints, his innate *Purity of Body* shrugging off minor afflictions.
+- **Divine Confrontation:** Step by step, **[[Myagkiy Znak]]** stepped forward, leveling the skull-cracking mace *Bonecounter* (`29 to hit, 10 bludgeoning + 7 Blessed Strikes`) and calling upon divine radiance. Ebondeath rolled a staggering **28 Wisdom Save (+8)** to hold the host, but Myagkiy followed up by channeling a searing 4th-level ***Guiding Bolt*** (`26 to hit, 34 radiant damage`) straight into the spirit's spectral core!
+
+##### Dispossession, Withering Bite, & Tvyordiy's Vengeance
+The blinding burst of holy radiance violently severed the parasitic link, ripping the ghost dragon out of Tvyordiy's body!
+- Manifesting in the chamber as a furious spectral wraith, Ebondeath snapped out with a deadly ***Withering Bite*** (`26 necrotic damage`).
+- Myagkiy immediately rushed to Tvyordiy's side, casting *Cure Wounds* (`14 healing`).
+- Collapsing to the flagstones with only **17 hit points remaining**, Tvyordiy struggled to his feet, eyes blazing with righteous monk fury.
+- Whirling his *Vicious Quarterstaff +2*, Tvyordiy landed a devastating **31 critical hit** (`19 bludgeoning`) followed by a **29 critical Unarmed Strike**! 
+- Unable to recharge his possession, the phantom dracolich howled in mortal agony as Tvyordiy's ki-infused strikes shattered his spectral form into wisps of harmless marsh fog, destroying **Ebondeath** forever!
+
+---
+
+#### The Dragon's Ancient Hoard & Bounty (October 29, 2022)
+Behind the shattered sarcophagus in the northern crypts, the companions uncovered the untouched, millennium-old dracolich hoard:
+- **14,000 gp** and **1,750 pp** in ancient minted coinage
+- Ten flawless **jet gemstones** (worth 100 gp each)
+- Two **Potions of Supreme Healing**
+- One **Potion of Storm Giant Strength**
+- The **[[Circlet of Blasting]]**, which Tvyordiy immediately placed upon his brow and attuned!
+
+Emerging from the depths of the Mere of Dead Men, the Order returned to Neverwinter to deliver the skull fragments of Ebondeath to Lord Neverember, collecting the full **8,000 gp** contract.
+
+With the Cult of Myrkul utterly destroyed and the dead put to rest, only one final reckoning remained in the Sword Coast: taking to the high seas aboard *Twinkle* to hunt down storm high priestess **[[Fheralai Stormsworn]]** aboard her stolen dreadnaught galleon (**Chapter 7**)!
+
 
 ### 7. Into the Hurricane — The Dreadnaught Climax Against [[Fheralai Stormsworn]]
 To end the tempest threat at its source, the Order called once more upon Captain **[[Deloz Montiv]]** and ***[[Twinkle and Icingdeath|Twinkle]]***, steering straight into a howling, unnatural hurricane to hunt down the Talosite flagship dreadnaught.
