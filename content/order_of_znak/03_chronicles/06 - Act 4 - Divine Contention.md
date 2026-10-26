@@ -503,13 +503,110 @@ Emerging from the depths of the Mere of Dead Men, the Order returned to Neverwin
 With the Cult of Myrkul utterly destroyed and the dead put to rest, only one final reckoning remained in the Sword Coast: taking to the high seas aboard *Twinkle* to hunt down storm high priestess **[[Fheralai Stormsworn]]** aboard her stolen dreadnaught galleon (**Chapter 7**)!
 
 
-### 7. Into the Hurricane — The Dreadnaught Climax Against [[Fheralai Stormsworn]]
-To end the tempest threat at its source, the Order called once more upon Captain **[[Deloz Montiv]]** and ***[[Twinkle and Icingdeath|Twinkle]]***, steering straight into a howling, unnatural hurricane to hunt down the Talosite flagship dreadnaught.
+### 7. Into the Hurricane — The Dreadnaught Climax Against [[Fheralai Stormsworn]] (October 30 – December 18, 2022)
+
+To crush the Talosite threat at its black heart, the Order resolved to hunt down the storm high priestess **[[Fheralai Stormsworn]]** aboard her stolen, bone-and-metal flagship dreadnaught. 
+
+---
+
+#### Pinpointing the Dreadnaught & Voyage into the Eye (October 30, 2022)
+With unnatural, lightning-charged squalls cloaking the Sea of Swords in perpetual gloom, traditional naval pursuit was impossible. Taking to the consecrated circle in Leilon, **[[Myagkiy Znak]]** cast multiple 5th-level ***Scrying*** spells (`DC 17 Wisdom Save`), piercing through layered planar wards and storm winds to lock onto the dreadnaught's coordinates.
+
+Calling upon their staunch privateer brothers of **Bregan D'aerthe**—Captain **[[Deloz Montiv]]** and the crew of ***[[Twinkle and Icingdeath|Twinkle]]***, sailing alongside Captain Xalti aboard ***Icingdeath***—the Order steered their war caravel straight into the teeth of the screaming hurricane.
+
+---
+
+#### Aerial Clash in the Tempest: The Roc & Kata Ironhide (October 30 – November 11, 2022)
+As *Twinkle* ploughed through mountainous waves, black clouds parted above the mainmast. Circling downward with thunderous wingbeats, a gargantuan **Roc** bearing the storm blackguard **Kata Ironhide** swooped from the squall directly at the caravel's deck:
+- **Snatching Rhynok:** The Roc's massive talons plunged toward the rigging, seizing **[[Rhynok]]** and hoisting the ranger **thirty feet into the air** (`26 slashing damage, Grappled, DC 19 escape`).
+- **Kata's Dreadful Presence:** Mounted atop the predator, Kata Ironhide unleashed her terrifying aura, chilling the crew to the bone (`Myagkiy: 19 Wisdom Save`, `Tvyordiy: 8`). Paralyzing terror gripped Tvyordiy Znak, but the aarakocra monk immediately focused his inner ki, activating ***Stillness of Mind*** to instantly dispel the fear!
+- **Deloz's Aerial Duel:** Refusing to let his ally be carried off, Captain Deloz activated his innate drow ***Levitate*** (1/day), drifting thirty feet off the rolling deck to engage the blackguard and monster in mid-air with flashing scimitars.
+- **The Circlet of Blasting:** From the pitching deck below, Tvyordiy leveled his newly claimed **[[Circlet of Blasting]]** (`24, 22 to hit`), unleashing searing rays of scorching fire through the rain.
+- **The 10d6 Barrage:** Coordinating their fire, the Order unleashed a devastating concentrated barrage for **44 damage** (`rolling 10d6`). Severely shredded, the Roc was reduced to a mere **24 hit points**! Screeching in agony, the bloodied beast broke off its attack and fled into the tempest carrying Kata away.
+- *End of Clash Status:* Krageer stood resolute at **90 HP**, and Rhynok at **80 HP**.
+
+---
+
+#### The Oceanic Tornado, Catastrophic Shipwreck, & The Beacon of Hope (November 11, 2022)
+Pushing deeper into the storm's vortex, the winds twisted into a monstrous oceanic waterspout—a churning black tornado grinding the sea into foam:
+- **The Scramble:** Captain Deloz and the crew fought desperately to keep *Twinkle* from capsizing. Multiple Dexterity checks were rolled across the deck, with Myagkiy channeling ***Guidance*** to aid the officers at the helm.
+- **The Shipwreck:** The vortex slammed into *Twinkle*, lifting the caravel into the air and shattering her timber hull in a cataclysmic roar! Every creature aboard took **42 bludgeoning damage** (`rolling 8d10`) and was hurled violently into the freezing, churning brine.
+- **The Tragic Toll:** With common drow sailors possessing only 13 HP, the impact killed the regular deckhands outright—even on successful saves. Only the four members of the Order of Znak, Captain Deloz, his senior officers, and **5 lucky drow sailors** survived the plunge.
+- **Beacon of Hope & Mass Healing Word:** Treading water amidst towering twenty-foot swells, drowning imminent, **[[Myagkiy Znak]]** lifted his holy symbol above the seafoam and cast ***Beacon of Hope***, infusing the drowning survivors with holy warmth. Myagkiy immediately followed with a **4th-level Mass Healing Word**, which *Beacon of Hope* amplified to its **absolute maximum** (restoring 17 HP to each floating survivor). The divine light instantly stabilized Captain Deloz and the surviving drow, saving them from drowning!
+
+---
+
+#### Boarding the Armored Dreadnaught & The Deck Battle (November 20, 2022)
+As the survivors clung to drifting wreckage, a terrifying silhouette emerged from the driving mist:
+> *An armored dreadnaught made from metal and bones ploughs through the fog, driven by banks of bonelike oars. Flames leap from a brazier mounted to its mainmast and its ragged sails are stitched from worn leather. A giant’s skeleton clutching a halberd is lashed to its bow.*
+
+The Order, Captain Deloz, and the 5 surviving drow hauled themselves up the bone-plated hull and seized the blood-soaked main deck:
+- **Wraith Ambush:** Five shadowy **Wraiths** detached from the rigging (`Initiative: 21, 16, 16, 11, 10`), swooping down with draining claws (`19 and 20 necrotic damage`). Simultaneously, the wounded **Roc** dove from the fog to rejoin the defense.
+- **Deck Cleansing:** With Krageer hewing with *[[Ultima Exodus]]*, Rhynok sniping through the rain, and Tvyordiy delivering devastating ki flurries, the party tore through the spectral horrors. Flanked by Deloz's scimitars, the Order slew the remaining wraiths and brought down the Roc on the blood-slick deck timbers.
+
+---
+
+#### Confrontation in the Cabin: The Broken Champion (November 20, 2022)
+Kicking open the doors to the captain's quarters, the companions confronted the dread leader of the storm cult:
+> *Having failed her mission, the champion begs her deity’s forgiveness. Fheralai has no fear of death but is terrified of failing Talos: if the characters enter her cabin, she chooses to drunkenly unload the details of her plight rather than fight them. Did she not honor her god with chaos and ruin? Were her conquests not glorious?*
+
+Reeking of strong spirits and trembling before a crude altar, Fheralai wept openly, terrified of her god's retribution. The party attempted to question her, but sensing treachery and madness, **[[Krageer Stoneface Ogolakanu]]** surged forward. Rolling an uncontested Athletics check, Krageer **grappled Fheralai** (`failed save`), pinning her arms and hauling her bodily out onto the open deck!
+
+---
+
+#### The Manifestation of Talos & The Divine Smite (November 20, 2022)
+As Krageer dragged the weeping priestess before the flaming mainmast brazier, the tempest reached an ear-splitting crescendo:
 
 ![[talos.jpg]]
 *Talos, God of Storms — The Apparition Above the Flagship Dreadnaught*
 
-Beneath a colossal, lightning-wreathed apparition of the storm god **[[Talos]]** towering in the thunderheads above the sea, the four champions and Captain Deloz boarded the massive dreadnaught. Sweeping the storm-swept decks and lower holds in a climactic clash of steel and spell, [[Krageer Stoneface Ogolakanu]] (wielding his legendary greataxe *[[Ultima Exodus]]*), [[Rhynok]], [[Myagkiy Znak]], and [[Tvyordiy Znak]] vanquished high priestess **[[Fheralai Stormsworn]]**, an **Air Elemental Myrmidon**, and a summoned **Nalfeshnee demon**—shattering the storm fleet and cementing the legend of **[[The Order of Znak]]** across the Sword Coast forever.
+> *Bolts of lightning lash from the heavens, sizzling on the surface of the sea. Through the crackling electricity, a giant figure emerges from the churning water: a muscular man wearing half-plate armor and a stitched leather eyepatch.*
+> *“You have failed your lord!” he cries in a voice that shakes the heavens.*
+
+Fheralai dropped to her knees on the deck, sobbing and shouting into the gale, desperately recounting the cities burned and lives sacrificed in his name. But Talos felt only contempt for failure. 
+
+With a deafening thunderclap, a blinding lance of divine lightning descended from the heavens—**smiting Fheralai Stormsworn dead on the spot!**
+
+---
+
+#### The Final Clash: Air Elemental Myrmidons & Ub-Vhagga the Nalfeshnee (December 18, 2022)
+Turning his lone, crackling eye upon the mortal interlopers, the storm god summoned his ultimate fury:
+- **The Vanguard of Storms:** Four towering **Air Elemental Myrmidons** coalesced into howling cyclones of thunder, flanked by the colossal demon lord **Ub-Vhagga the Nalfeshnee**—a grotesque, towering fiend with the body of a monstrous ape and the slobbering head of a boar!
+- **Hull Sabotage:** Below decks, cultist saboteurs and drowning waters began tearing the dreadnaught apart, causing the ship to groan and list sharply.
+- **The Battle for the Deck:** 
+  - Krageer charged into Ub-Vhagga's path, planting his boots on the pitching deck and cleaving through demonic hide with *[[Ultima Exodus]]*.
+  - Rhynok sprinted across the gunwales, burying lethal sneak attack arrows into the demon's bulk.
+  - Tvyordiy danced through the swirling winds, stunning elemental warriors with ki-infused quarterstaff strikes.
+  - Myagkiy poured divine radiance and life-saving heals into his allies.
+  - Searing radiant and martial strikes brought down the demon lord **Ub-Vhagga**, while Captain Deloz leapt into the howling winds to deliver the **decisive killing blow** against the final Air Elemental Myrmidon!
+
+---
+
+#### Escape via Word of Recall & Sinking of the Dreadnaught (December 18, 2022)
+Enraged by the destruction of his servants, the colossal avatar of Talos struck the dreadnaught with catastrophic lightning. Masts toppled, the bone-reinforced hull split in two, and a massive ocean vortex began dragging the flagship into the black abyss.
+
+With water surging waist-deep across the deck, **[[Myagkiy Znak]]** drove his mace into the deck timbers, raised his holy symbol, and cast ***Word of Recall***!
+
+A radiant sphere of golden light engulfed the four champions, Captain Deloz, and the 5 surviving drow privateers. In the beat of a heart, the roaring ocean vanished. 
+
+The companions crashed to their knees onto the dry, peaceful flagstones of their consecrated sanctuary in Leilon—victorious, united, and alive!
+
+---
+
+#### Level 13 Milestone, Triumph, & Epilogue (December 18, 2022)
+
+##### Level 13 Milestone Progression
+With the dual threats of Talos and Myrkul forever vanquished along the Sword Coast, the four heroes attained **Level 13**:
+- **[[Krageer Stoneface Ogolakanu]]:** Advanced to **Fighter 4** (Barbarian 9 / Fighter 4 — Champion Archetype). Utilizing his Ability Score Improvement, Krageer selected **+2 Strength**, reaching titanic physical might.
+- **[[Rhynok]]:** Attained 13th-level ranger/rogue masteries, honing his deadly precision and battlefield cunning.
+- **[[Myagkiy Znak]] (Ь):** Reached 13th-level cleric power, mastering 7th-level divine miracles and commanding the reverence of the Sword Coast.
+- **[[Tvyordiy Znak]] (Ъ):** Attained 13th-level monastic mastery, crowned by his attunement to the *[[Circlet of Blasting]]* and supreme ki manipulation.
+
+##### Glory, Wealth, & The Dawn of Leilon's Golden Age
+- **Royal Recognition:** Lord Dagult Neverember and the Council of Neverwinter paid out the final **8,000 gp** contract for the destruction of the Talosite Dreadnaught.
+- **Honored in Stone:** In the center of Leilon’s rebuilt Town Square, grand statues of **[[The Order of Znak]]** were carved in stone and bronze, ensuring their names would never be forgotten.
+- **Guardians of the Coast:** Flush with vast wealth from Ebondeath's ancient hoard and the Neverwinter bounties, the Order chose not to wander Faerûn as mere mercenaries, but to make Leilon their permanent home. They established their stronghold, invested in city fortifications, and guarded the frontier.
+- **Wards & The Next Generation:** Over the following decade of peace, the Order took in young wards and promising recruits, personally instructing them in martial arts, divine faith, and wilderness survival. These students would grow to become the **Acolytes of Znak**—laying the sacred groundwork for the **Bridge Campaign**!
 
 ---
 
