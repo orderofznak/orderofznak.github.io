@@ -161,19 +161,71 @@ Moved by Myagkiy's moral clarity, the court softened, granting the companions an
 
 Confronted with the undeniable debt he owed the champions who had saved Neverwinter from the Fire Giant Queen, Lord Neverember dropped all courtly pretenses. He **waived the 500 gp fee entirely**, decreeing that Neverwinter soldiers would patrol and defend the High Road **at no cost to Leilon**!
 
-#### The Aerial Ambush of Invisible Stalkers (August 9–10, 2022)
-*Twinkle* embarked south on the return voyage to Leilon under darkening skies. As sudden gale-force squalls whipped the rigging, an unnatural aerial ambush descended upon the ship: four **Invisible Stalkers** materialized out of the tempest (`Init: Stalkers 24, Rhynok 19, Myagkiy 19, TZ 12, Krageer 12`).
-
-Fighting shoulder-to-shoulder with Deloz's drow privateers, the Order repelled the unseen assassins. Rhynok tracked the air currents and carved through the elementals with his venom-coated *Scimitar of Speed* (`critical sneak attacks`), while Krageer swept the wind-blasted deck with his newly christened **[[Ultima Exodus]]** (`31 to hit, 23 damage`). As the final invisible horror dispersed into howling sea spray, the lookout shouted from the crow's nest: black sails were cutting across the horizon—the Talosite reaver fleet under **[[Galas Windrage]]** was closing fast!
-
 > [!NOTE]
 > **💡 Behind the Screen — Virtual Tabletop Innovation:**  
-> During this high-seas chapter, the DM elevated the immersion by deploying **dynamic animated ocean water backgrounds** complete with **moving wave swells and foaming ship wakes**, bringing the maritime clash aboard *Twinkle* to life on the digital tabletop.
+> During this naval saga, the DM elevated the table immersion by deploying **dynamic animated ocean water backgrounds** complete with **moving wave swells and foaming ship wakes**, bringing maritime navigation and combat aboard *Twinkle* to vivid life on the digital tabletop.
 
-### 4. The Siege of [[Leilon]] & The Portrait of [[Aubrey Silverspun]]
+### 4. High Seas Fleet Combat & The Fall of Ship Rethnor (August 10 – August 24, 2022)
+
+#### The Hurricane Squall & All Hands on Deck (August 10, 2022)
+Setting sail south from Neverwinter aboard *Twinkle*, accompanied by *Icingdeath*, the Sea of Swords was suddenly consumed by an unnatural tempest:
+> *Lightning and thunder suddenly crack a dark sky as heavy rain pours from above. Cries of, "Hurricane! All hands on deck!" can be heard throughout the vessel. The sailors need all the help they can get.*
+
+To keep the ship afloat amidst churning forty-foot swells, the Order manned critical crisis stations (DC 15 ability checks):
+- **Securing Cargo & Rigging:** **[[Krageer Stoneface Ogolakanu]]** charged across the pitching deck, rolling a towering **29 Athletics check** (`29 | 29 with advantage`) to single-handedly lash down shifting cargo crates and secure snapping stays before they crushed the crew.
+- **Navigating the Churning Seas:** **[[Rhynok]]** took the helm station with navigator's tools. **[[Myagkiy Znak]]** cast *Guidance* (+3), but blinding rain and gale-force spray obscured the stars and landmarks, throwing off the course calculation (`Rhynok: 7 & 9 Intelligence + 3 Guidance = 10-12, failing DC 15`).
+- **Steering & Crew Morale:** **[[Tvyordiy Znak]]** used his monastic agility to wrestle the bucking ship's wheel through the trough of the waves, while Myagkiy roared impassioned clerical benedictions to steady the panicked sailors.
+
+Having succeeded on more than half the crisis stations, the Order brought *Twinkle* through the squall with minimal damage—absorbing only **22 bludgeoning damage** (halved from the full 44 points)!
+
+#### The Invisible Stalker Assassination Plot (August 10, 2022)
+In the squall's swirling aftermath, Talosite reaver lord **[[Galas Windrage]]** dispatched four summoned **Invisible Stalkers** in a cowardly decapitation strike aimed at assassinating Captain Deloz on *Twinkle* and Captain Xalti on *Icingdeath*.
+
+Yet dispatching invisible assassins against drow proved an utter tactical folly:
+- Surface-allied drow possess innate ***Faerie Fire***, which immediately limned the unseen elementals in glittering, iridescent violet outlines the moment they set foot upon the deck.
+- Aboard *Icingdeath*, Captain Xalti—an accomplished Drow Mage—countered the elementals with sweeping arcane defenses.
+- Aboard *Twinkle*, Captain Deloz shouted the alarm as the deck boards groaned under unseen weight (`Init: Stalkers 24, Rhynok 19, Myagkiy 19, TZ 12, Krageer 12`).
+
+Rallying to defend the helm, Rhynok tracked the flickering distortions, slicing through the air elementals with his venom-coated *Scimitar of Speed* (`critical sneak attacks`). Krageer swept the deck with **[[Ultima Exodus]]**, delivering pulverizing cleaves (`31 to hit, 23 damage`) that shredded the stalkers back into harmless sea mist.
+
+#### Ship Rethnor Revealed & "Direct the Siege Weapons!" (August 10, 2022)
+As the last elemental fell, the unnatural squall abruptly vanished, revealing the true ambush:
+> *The sky becomes clear and sunny as the rain begins to clear, revealing two nearby ships. The smaller vessel, a longship, rows quickly toward you, its crew chanting in prayer. The larger vessel, a warship armed with ballista and catapults, has a large crow painted on its sails. The officers of your vessels cry, "Ship Rethnor! Battle stations!" The ship captain looks at you and says, "Direct the siege weapons!"*
+
+Rolling into naval fleet initiative:
+- ***Twinkle:*** `13.06`
+- **Warship (*Throatcutter*):** `9.04`
+- **Longship (*Thunderstrike*):** `7.06`
+
+#### Siege Engines, Flaming Oil, & The Necklace of Fireballs (August 10–23, 2022)
+Operating under naval warfare rules, the 20 drow sailors on each vessel dedicated their full combat actions to steering, aiming, loading, and firing *Twinkle*'s heavy mangonels and ballistas. 
+
+Directing the battery, the Order unleashed devastating tactical maneuvers:
+- **Tvyordiy's Fiery Artillery:** Remembering the **Necklace of Fireballs** recovered from the Dragon Barrow during *Dragon of Icespire Peak*, Tvyordiy hurled glowing explosive beads across the water into the densely packed crews of *Thunderstrike* and *Throatcutter*. The soft cultist sailors (11 HP each) were engulfed in rolling detonations, failing their Dexterity saves and burning across the rowing benches.
+- **Naval Countermeasures:** Captain Deloz pressed the hidden wheel trigger to release *Twinkle*'s aft pump, igniting a roaring sheet of flaming oil across the wake that scorched pursuing hulls. Meanwhile, the crew spoke the command word **`"Artemis"`**, activating the 8-foot stone Drizzt statue to blast approaching grappling lines with pressurized torrents of water!
+
+#### Closing the Breach: Small-Arms Cross-Deck Fire (August 23–24, 2022)
+As the burning hulls closed to boarding range within thirty yards, heavy siege engines could no longer safely depress their firing angles without shattering friendly rigging. Both sides ceased mangonel bombardment and erupted into a ferocious cross-deck exchange of small-arms fire across the churning gap!
+
+The reavers retaliated from their fighting tops with volleys of light crossbow bolts and thrown daggers. From the swaying rigging of *Twinkle*, **[[Rhynok]]** sniped through the drifting gunsmoke with lethal, poison-tipped longbow arrows (`30, 31 to hit, Sneak Attacks`). Down at the gunwales, **[[Krageer Stoneface Ogolakanu]]** set aside his axe and joyfully traded longbow volleys across the waves (`25, 20, 23 to hit, crits`), bellowing tavern insults while Bregan D'aerthe's privateers answered with disciplined volleys of poisoned hand crossbow bolts.
+
+#### Boarding the Throatcutter & Wrestling the Six Officers (August 24, 2022)
+With the longship *Thunderstrike* crippled and dead in the water, *Twinkle* and *Icingdeath* slammed grappling hooks into the gunwales of the flagship warship *Throatcutter*.
+
+Vaulting across the bloodstained gap into close-quarters melee, Krageer and Tvyordiy were confronted by the warship's six senior officers—the **Captain**, **First Mate**, **Bosun**, **Quartermaster**, **Surgeon**, and **Cook** (each fighting with Bandit Captain stat blocks). Entering a thunderous Bear Totem rage, Krageer engaged in brutal close-quarters grappling, seizing officer after officer with overwhelming Goliath brawn (`18, 17 Athletics checks`). Tvyordiy hammered the officers with stunning flurries of blows while Rhynok picked off reinforcing bandits from the shrouds, systematically breaking the reavers' command structure until the ship surrendered!
+
+#### The Interrogation & Fheralai's Plot (August 24, 2022)
+With *Thunderstrike* sinking into the whitecaps and *Throatcutter* captured, Krageer dragged the surviving reaver officers before the shattered mast. Towering over the bruised captives with his bloodstained greataxe **[[Ultima Exodus]]**, Krageer roared a fearsome interrogation:
+- Rolling an **18 Intimidation check** (`11 | 18 (+2)`), Krageer completely shattered the DC 15 threshold!
+
+Terrified of being cleaved in two and fed to the sharks, the broken officers confessed everything: the naval ambush had been personally commanded by the storm high priestess **[[Fheralai Stormsworn]]** and the **Cult of Talos**. The cult had forged an alliance with pirate fleet lords of Luskan to blockade the sea lanes and isolate Leilon from Neverwinter reinforcements—clearing the path for their combined overland armies to march upon the town for the final siege.
+
+With the sea lanes secured and the privateers victorious, the Order set sail at full canvas for Leilon to prepare the town for total war.
+
+### 5. The Siege of [[Leilon]] & The Portrait of [[Aubrey Silverspun]]
 When the combined fury of the cults broke against [[Leilon]]'s palisades, the possessed green dragon **[[Claugiyliamatar]]** descended upon the town in a cloud of chlorine gas, smashing **Aubrey's Peculiarities** into splinters. After the Order drove the wyrm from the skies and broke the siege, the four champions searched the rubble of their favorite curio shop—discovering that none of the townsfolk knew who "Aubrey" was, and uncovering an ancient, dust-covered oil painting of the historic **Swords of Leilon** that bore the unmistakable smiling face of **[[Aubrey Silverspun]]**, the spectral hero who had watched over them all along.
 
-### 5. Into the Hurricane — The Dreadnaught Climax Against [[Fheralai Stormsworn]]
+### 6. Into the Hurricane — The Dreadnaught Climax Against [[Fheralai Stormsworn]]
 To end the tempest threat at its source, the Order called once more upon Captain **[[Deloz Montiv]]** and ***[[Twinkle and Icingdeath|Twinkle]]***, steering straight into a howling, unnatural hurricane to hunt down the Talosite flagship dreadnaught.
 
 ![[talos.jpg]]
