@@ -385,7 +385,13 @@ The truth was laid bare: Aubrey Silverspun was never an ordinary shopkeeper. He 
 #### The Final Two Bounties
 With the siege broken and the dead buried, Leilon remained gripped by fear. Lord Neverember and the town council realized that so long as the leadership of the two cults survived in their secret redoubts, the town would never be safe. 
 
-Following their triumphant salvation of the settlement, the four companions officially attained **Level 12**—standing at the peak of their mortal power as legendary tier-three heroes of the Sword Coast. Recognizing their unmatched prowess, Lord Neverember issued two monumental bounties of **8,000 gp** each, commissioning the Order of Znak to strike directly at the heart of both hostile powers:
+Following their triumphant salvation of the settlement, the four companions officially attained **Level 12**—standing at the peak of their mortal power as legendary tier-three heroes of the Sword Coast:
+- **[[Tvyordiy Znak]]:** Deepened his monastic contemplation, raising his **Wisdom to 19** to bolster his Unarmored Defense and Ki save DC.
+- **[[Myagkiy Znak]]:** Fortified by divine ordeal, raised his **Constitution to 19** to maximize his health reserves and concentration endurance.
+- **[[Rhynok]]:** Invested his 4th-level Rogue Ability Score Improvement into **Dexterity**, perfecting his lethal marksmanship and stealth.
+- **[[Krageer Stoneface Ogolakanu]]:** Advanced into **Fighter 3** (Barbarian 9 / Fighter 3), selecting **Champion** as his martial archetype—unlocking *Improved Critical* to score devastating critical cleaves on an attack roll of 19 or 20!
+
+Recognizing their unmatched prowess, Lord Neverember issued two monumental bounties of **8,000 gp** each, commissioning the Order of Znak to strike directly at the heart of both hostile powers:
 1. Journey into the treacherous Mere of Dead Men to infiltrate the sunken mausoleum and destroy the ghost dragon **[[Ebondeath]]** once and for all (**Chapter 6**).
 2. Board ***[[Twinkle and Icingdeath|Twinkle]]*** once more to hunt down high priestess **[[Fheralai Stormsworn]]** aboard her flagship storm dreadnaught on the raging high seas (**Chapter 7**).
 
