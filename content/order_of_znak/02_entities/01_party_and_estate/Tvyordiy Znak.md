@@ -7,6 +7,7 @@ status: archived
 type: character
 last_updated: 2026-10-17
 tags: [character-sheet, aarakocra, monk, drunken-master, tvyordiy-znak, order-of-znak, lycanthropy, wereboar]
+aliases: ["Tvyordiy Znak", "Tvyordiy", "TZnak", "Ъ", "Wereboar-diy Znak", "Wearboar-diy Znak"]
 ---
 
 # 🦅 Tvyordiy Znak (Ъ)
@@ -14,6 +15,7 @@ tags: [character-sheet, aarakocra, monk, drunken-master, tvyordiy-znak, order-of
 ## 🛡️ Overview & Character Lore
 * **Personality & Temperament:** Stoic, pragmatic, and remarkably unflappable. Possesses a surprisingly resonant, gravel-deep baritone voice that contrasts sharply with his avian Aarakocra heritage.
 * **Background:** Urchin. Scavenged and survived on city fringes before channeling his aerial agility into Eastern monastic martial mastery.
+* **Table Nicknames:** Famously dubbed **"Wereboar-diy Znak"** (or *"Wearboar-diy Znak"*) by Gary following the wereboar encounter in *Divine Contention*, an enduring running joke at the table.
 * **Battlefield Role:** High-velocity aerial shock trooper—combining natural winged flight, the swaying redirection of the Drunken Master, rapid *Qiang* spear and staff combinations, and nerve-locking *Stunning Strikes* that can halt even a full-grown dragon in its tracks.
 * **The Wereboar's Mark:** Contracted wereboar lycanthropy late in the campaign during the expedition into **[[Dumathoin's Gulch]]**—embracing the curse's feral brawn and hybrid tusks to become an even more concussive, unyielding frontline striker.
 
@@ -141,4 +143,5 @@ tags: [character-sheet, aarakocra, monk, drunken-master, tvyordiy-znak, order-of
 * **Linguistic Origin (Твёрдый знак / Ъ):** Named after the Russian Cyrillic "Hard Sign" (Ъ) inspired by conversations at work with coworker Grigory. The symbol represents firmness, hardness, and unyielding impact—directly reflecting Tvyordiy's stoic temperament, wereboar constitution, and concussive martial strikes.
 * **Oriental Adventures Homage (*Qiang*):** Flavoring Tvyordiy's starting spear as a ***Qiang*** was Peter's deliberate nod to classic 1e/3e *Oriental Adventures* monk weaponry.
 * **Table Roleplay:** Peter voiced Tvyordiy with a deadpan, baritone gravel that became an enduring comedy point whenever interacting with excitable NPCs.
+* **Gary's Table Nickname ("Wereboar-diy Znak"):** Following the infamous wereboar encounter outside Dumathoin's Gulch in *Divine Contention*, Gary affectionately and permanently nicknamed him **"Wereboar-diy Znak"** (or *"Wearboar-diy"*)—an enduring table joke that stuck with the character whenever feral brawn, tusks, or monk agility were discussed.
 * **The Wereboar Lycanthropy Ruling:** While most parties immediately cast *Remove Curse* after the [[Dumathoin's Gulch]] wereboar ambush in *Divine Contention*, Peter and Gary leaned into the mechanical and roleplay chaos of an Aarakocra Drunken Master Monk who gained 17 Strength and hybrid wereboar tusks, perfectly complementing the unyielding "Hard Sign" (Ъ) concept.
