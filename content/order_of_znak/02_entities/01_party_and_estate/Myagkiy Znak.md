@@ -52,7 +52,6 @@ tags: [character-sheet, human, cleric, life-domain, myagkiy-znak, order-of-znak]
 * **Dayne's Plate & Double-Enlarging Krageer in the Volcano:** In Neverwinter Wood, Myagkiy helped slay Night Hag [[Balheelsa]] and rescue young [[Yasmina]]. Grateful for the Order's courage, [[Dayne Beltran]] and master smith [[Flanning Teldorer]] rewarded Myagkiy with Dayne's consecrated **+2 Plate Armor** (boosting Myagkiy to **24 AC**). In the Mount Hotenow caldera climax, after [[Krageer Stoneface Ogolakanu]] quaffed a ***Potion of Growth*** from [[Puck Caribdas]] (`Medium` &rarr; `Large`), Myagkiy cast ***Enlarge*** on top of it (`Large` &rarr; `Huge`)—allowing Krageer to wrestle Fire Giant Queen [[Kevlaan the Merciless]] eye-to-eye in the lava!
 
 ### ⚡ [[06 - Act 4 - Divine Contention|Act 4: Divine Contention]]
-* **Cleansing the Wereboar Curse:** When Tvyordiy was bitten by feral wereboars outside Dumathoin's Gulch, Myagkiy invoked divine grace the very next morning at the Wayside Inn, casting ***Remove Curse*** to cleanse his brother of lycanthropy before they entered the dwarven canyon.
 * **The Siege of Leilon:**
   - *The South Gate Meatgrinder:* Cast ***Spirit Guardians*** at the gate threshold, creating a 15-foot zone of swirling radiant spirits that shredded waves of ghasts and greater zombies as Krageer and Tvyordiy held the line.
   - *Guiding Bolt & Frontline Healing:* Supported the frontline in the Town Square and atop the House of Thalivar with critical *Cure Wounds* and radiant offensive spells, forcing Ebondeath to sever his link to Claugiyliamatar.

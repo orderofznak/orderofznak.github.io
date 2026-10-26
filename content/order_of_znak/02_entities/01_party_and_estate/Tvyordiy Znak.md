@@ -54,7 +54,7 @@ aliases: ["Tvyordiy Znak", "Tvyordiy", "TZnak", "Ъ", "Wereboar-diy Znak", "Wear
 * **Disarming Mt. Hotenow & Stunning Queen Kevlaan:** In the volcanic tunnels of Mount Hotenow, Tvyordiy and Krageer combined acrobatics and brawn under Myagkiy's divine guidance to bypass lethal engineering traps and unlock a trapped chest (4,000 gp, 4 Potions of Greater Healing). In the magma caldera showdown, as a "Double-Enlarged" Krageer grappled Fire Giant Queen [[Kevlaan the Merciless]], Tvyordiy delivered a textbook flurry of *Stunning Strikes*, locking the fire giant monarch in place until Krageer crushed her into the obsidian floor.
 
 ### ⚡ [[06 - Act 4 - Divine Contention|Act 4: Divine Contention]]
-* **The Wereboar Ambush & Curation:** Ambushed by feral wereboars at the entrance to [[Dumathoin's Gulch]], Tvyordiy was knocked to the ground and bitten. However, rather than succumbing to the beast within, Tvyordiy was promptly cured of lycanthropy the very next morning at the Wayside Inn through Myagkiy's ***Remove Curse***, entering the dwarven canyon fully restored.
+* **The Wereboar Curse of [[Dumathoin's Gulch]]:** Ambushed by five feral wereboars at the entrance to [[Dumathoin's Gulch]], Tvyordiy was knocked prone and bitten—contracting **wereboar lycanthropy**. Rather than seeking magical cleansing, the stoic monk embraced the curse's feral brawn, hybrid tusks, and boosted 17 Strength, harmonizing the lycanthropic power with his Drunken Master martial arts across the remainder of the campaign.
 * **Thalivar's Beacon & High Seas Boarding:** Leaped across planar rifts atop the House of Thalivar to pummel Star Spawn Manglers. Aboard *Twinkle*, boarded Ship Rethnor's warship *Throatcutter* through gale-force winds, subduing enemy crewmen with non-lethal martial arts.
 * **The Siege of Leilon:**
   - Held the South Gate threshold alongside Krageer and Myagkiy's *Spirit Guardians*, battering ghasts with rapid quarterstaff strikes.
@@ -119,8 +119,8 @@ aliases: ["Tvyordiy Znak", "Tvyordiy", "TZnak", "Ъ", "Wereboar-diy Znak", "Wear
 | **Level 9** | Monk 9 (*Act 3: [[04 - Act 3 - Sleeping Dragon's Wake|Sleeping Dragon's Wake]]*) | ***Unarmored Movement Improvement*** (ability to move along vertical surfaces and across liquids without falling during movement). |
 | **Level 10** | Monk 10 (*SDW Post-Ghost Ship*) | ***Purity of Body*** (complete immunity to disease and **poison damage / poisoned condition**—used to loot Claugiyliamatar's poisoned hoard!). |
 | **Level 11** | Monk 11 (*SDW Conclusion & [[05 - Interlude 2 - Keeping the Faith|Keeping the Faith]]*) | ***Drunkard's Luck*** (spend 2 Ki points to cancel disadvantage on an attack roll, ability check, or saving throw). Operated at Level 11 through *Keeping the Faith*. |
-| **Level 12** | Monk 12 (*Act 4: [[06 - Act 4 - Divine Contention|Divine Contention]]*) | **ASI:** **+1 Wisdom** (raising WIS to 19 (+4), boosting Unarmored AC to 19 and Ki Save DC). |
-| **Level 13** | Monk 13 (*Act 4 Climax Milestone — Dec 18, 2022*) | ***Tongue of the Sun and Moon*** (speak and understand all languages). Master of ki, serenity, and drunken mobility. |
+| **Level 12** | Monk 12 (*Act 4: [[06 - Act 4 - Divine Contention|Divine Contention]]*) | **ASI:** **+1 Wisdom** (raising WIS to 19 (+4), boosting Unarmored AC to 19 and Ki Save DC). **Wereboar Lycanthropy:** Contracted in Dumathoin's Gulch (boosted STR to 17, granting hybrid form, tusks, and raw savage power). |
+| **Level 13** | Monk 13 (*Act 4 Climax Milestone — Dec 18, 2022*) | ***Tongue of the Sun and Moon*** (speak and understand all languages). Master of ki, serenity, and drunken wereboar mobility. |
 
 ### 🎒 Weapons, Armor & Item Acquisition Log
 | Item / Weapon | Where & When Acquired | Mechanical Properties & Campaign Notes |
