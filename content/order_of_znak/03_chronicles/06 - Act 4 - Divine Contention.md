@@ -118,12 +118,57 @@ Heeding their warning, the Order secured **[[The Ruinstone]]**—a palm-sized, f
 
 Thoroughly terrified and disgraced by the catastrophe his vanity had unleashed, **[[Gallio Elibro]]** and the Order of the Many-Starred Cloaks packed their bags, resigned their commission in Leilon, and fled for Neverwinter. From the tower sanctum, Krageer claimed the **Amulet of the Consuming Summoner**, adding a powerful summoning relic to his arsenal as Leilon prepared for the coming war.
 
-### 3. Voyage Aboard *[[Twinkle and Icingdeath]]* & The High Seas Fleet Battle
-To secure regular army reinforcements before the cult armies closed the ring around Leilon, the Order embarked aboard the twin caravels ***[[Twinkle and Icingdeath|Twinkle]]*** and ***Icingdeath***, commanded by the dashing Captain **[[Deloz Montiv]]**. Along the voyage, [[Rhynok]]'s sharp elven senses pierced the illusory human glamour projected by *Twinkle*'s enchanted figurehead—revealing that Deloz and his privateers were actually surface-allied **drow of Bregan D'aerthe** sailing in the service of Jarlaxle Baenre.
+### 3. Privateers of Bregan D'aerthe & Audience at Castle Never
 
-In the court of Neverwinter, when every other appeal to **[[Dagult Neverember|Lord Protector Dagult Neverember]]** faltered, the gruff, blunt-spoken **[[Krageer Stoneface Ogolakanu]]** stepped forward as the unlikely diplomat of the company—winning over the Lord Protector and securing his pledge of full military aid for Leilon!
+#### The Twin Caravels & The Grinning Ranger (August 2–3, 2022)
+Needing to rally regular army reinforcements from Neverwinter before the cult armies closed the ring around Leilon, the Order followed tavern rumors from innkeeper Alion regarding two mysterious, opulent pleasure vessels anchored offshore whose crews only ventured out at night:
+> *Two magnificent ships are anchored just beyond the marshy shore. Both have long strips of decorative cloth stretched from the tops of their masts down to the railings around their decks. The smaller of the ships is decorated with blue, pink, and purple fabric, and has a massive figurehead shaped like a charging unicorn with a prominent gold horn. A name on the side of this ship reads Twinkle.*
+>
+> *The larger ship is adorned with white and gold fabric, and its figurehead looks like a lavender-eyed drow leaping forward to attack with twin scimitars. An enormous roaring panther head is attached the aft of this ship. The name on its side reads Icingdeath.*
 
-On the return voyage south, the ships first repelled an aerial boarding ambush of **Invisible Stalkers**, and then sighted the black sails of Talosite reaver **[[Galas Windrage]]**, commanding the warship *Throatcutter* and longship *Thunderstrike*. As the vessels traded roaring ballista and mangonel broadsides across the whitecaps, Rhynok sniped enemy officers from the rigging while Krageer—deciding two could play at the archer's game—set aside his greataxe and gleefully traded longbow volleys across the waves until the reaver fleet was sent to the bottom of the sea.
+Boarding the luxurious vessels, the companions discovered remarkable naval enchantments. Near the front of *Icingdeath*'s main deck stood an 8-foot-tall, 4,000-pound stone statue of the legendary drow ranger Drizzt Do'Urden posed with hands on his scimitars and an open, goofy grin. Uttering the command word **`"Artemis"`** animated the statue to move across the deck or fire a crushing, pressurized stream of water from its mouth. Furthermore, a hidden switch on the ship's wheel engaged an aft pump system capable of deploying a wide slick of flammable oil to immolate pursuing vessels.
+
+#### Disguises, Friendly Sparring, & The Poisoned Bolt (August 4, 2022)
+The ships were commanded by two starkly contrasting figures:
+- **Captain Deloz Montiv (*Twinkle*):** Disguised under an illusory glamour as a quiet, calculating male Rashemi weapon merchant. Observant and thorough, Deloz constantly conducted surprise inspections of his crew and checked in on passengers to ensure they were comfortable—and staying out of trouble.
+- **Captain Xalti (*Icingdeath*):** Disguised as an impulsive, confident male Calishite iron merchant who loved showing off his magic and wagering on almost any event.
+
+What began as a friendly exhibition match of unarmed combat between **[[Tvyordiy Znak]]** and **[[Krageer Stoneface Ogolakanu]]** soon became an impromptu sparring duel between Tvyordiy and Captain Deloz (operating with the martial prowess of a Drow Elite Warrior). As fists and parries blurred across *Twinkle*'s deck, Deloz tested the monk with a point-blank hand crossbow bolt coated in sleep-inducing drow poison (`DC 13 Constitution save`). Digging deep into his monastic vitality, Tvyordiy shrugged off the soporific venom with a stout **16 Constitution saving throw**.
+
+Watching the duel from the quarterdeck, **[[Rhynok]]** examined the coated bolt (rolling a **Nature check**). Combining his knowledge of Underdark toxins and elven biology, the Gloom Stalker recognized the unmistakable sheen of drow sleeping venom, instantly seeing through the crew's magical glamours. Confronted with the truth, Deloz and Xalti dropped their human personas, revealing themselves as surface-allied **drow of Bregan D'aerthe**!
+
+The captains admitted their charter: they operated under the direct command of their eccentric patrons in Luskan—**Jarlaxle Baenre** ("One-Eyed Jax") and legendary psionicist **Kimmuriel Oblodra** ("Kim"). Satisfied that the Order were heroes rather than enemies of Bregan D'aerthe, Deloz agreed to ferry the party north to Neverwinter. Meanwhile, the disgraced wizard **[[Gallio Elibro]]** slipped aboard Xalti's *Icingdeath* to flee north toward the Cloaktower.
+
+#### Audience at Castle Never: The Hotenow Debt & Waived Levy (August 4–9, 2022)
+Arriving in the jewel of the north, Captain Deloz escorted the Order through the high corridors of Castle Never:
+> *You stand in the great marble hall of Castle Never, on a red carpet that leads up to a throne. Atop the chair sits a serious man in shining plate armor and blue cloak with gold trim. Lord Dagult Neverember strokes his short, gray beard as he listens to the pleas of the captains to secure the High Road and send troops to Leilon. When they finish, the lord turns toward you.*
+>
+> *"Each of you make your case. Why should I send my troops to Leilon? By all accounts it should be able to defend itself now. I’ve already poured many resources into the town and it has yet to pay anything back."*
+
+Under royal protocol, failing to persuade the crown (DC 13 checks) meant Neverember would refuse aid unless the party paid an exorbitant **500 gp protection fee**. 
+
+The opening appeals went disastrously wrong:
+- Bristling at Neverember's transactional arrogance, **[[Rhynok]]** lashed out with blistering rhetoric—lambasting the Lord Protector for disappearing on a convenient political hiatus while Queen Helve Grall and her fire giant legions inside Mount Hotenow were **preparing to march upon Neverwinter itself** in *Keeping the Faith*! While accurate, his confrontational delivery grated upon the proud lord (**`Rhynok: 3 Intimidation`**).
+- **[[Krageer Stoneface Ogolakanu]]** backed Rhynok, loudly reminding the court that the Order had bled inside the magma chambers to slay the **Fire Giant Queen** and save the capital when the crown was absent, but his bombastic tavern swagger fell flat before the noble court (**`Krageer: 0 Performance`**).
+- **[[Tvyordiy Znak]]** attempted to invoke historical precedent regarding frontier defense pacts, but fumbled the dates (**`Tvyordiy: 1 History`**).
+
+With the court turning icy and the 500 gp levy looming, **[[Myagkiy Znak]]** stepped to the fore. Radiating calm, divine authority, the cleric delivered a magnificent sermon on civic duty, the sacred covenant between a lord and his people, and the impending doom facing the Sword Coast (**`Myagkiy: 20 Persuasion`** — **SUCCESS!**).
+
+Moved by Myagkiy's moral clarity, the court softened, granting the companions an inspired opportunity to rally:
+- Krageer fixed Neverember with imposing Goliath presence, bluntly warning him that if Leilon falls, Neverwinter's southern gate is blown wide open to the storm and death cults (**`Krageer: 19 Intimidation`** — **SUCCESS!**).
+- Tvyordiy recovered his composure, delivering an eloquent and compelling historical allegory of coastal defenses holding against impossible odds (**`Tvyordiy: 18 History`** — **SUCCESS!**).
+- Krageer closed the appeal with unforgettable, plain-spoken Goliath sincerity (**`Krageer: 18 Persuasion`** — **SUCCESS!**).
+
+Confronted with the undeniable debt he owed the champions who had saved Neverwinter from the Fire Giant Queen, Lord Neverember dropped all courtly pretenses. He **waived the 500 gp fee entirely**, decreeing that Neverwinter soldiers would patrol and defend the High Road **at no cost to Leilon**!
+
+#### The Aerial Ambush of Invisible Stalkers (August 9–10, 2022)
+*Twinkle* embarked south on the return voyage to Leilon under darkening skies. As sudden gale-force squalls whipped the rigging, an unnatural aerial ambush descended upon the ship: four **Invisible Stalkers** materialized out of the tempest (`Init: Stalkers 24, Rhynok 19, Myagkiy 19, TZ 12, Krageer 12`).
+
+Fighting shoulder-to-shoulder with Deloz's drow privateers, the Order repelled the unseen assassins. Rhynok tracked the air currents and carved through the elementals with his venom-coated *Scimitar of Speed* (`critical sneak attacks`), while Krageer swept the wind-blasted deck with his newly christened **[[Ultima Exodus]]** (`31 to hit, 23 damage`). As the final invisible horror dispersed into howling sea spray, the lookout shouted from the crow's nest: black sails were cutting across the horizon—the Talosite reaver fleet under **[[Galas Windrage]]** was closing fast!
+
+> [!NOTE]
+> **💡 Behind the Screen — Virtual Tabletop Innovation:**  
+> During this high-seas chapter, the DM elevated the immersion by deploying **dynamic animated ocean water backgrounds** complete with **moving wave swells and foaming ship wakes**, bringing the maritime clash aboard *Twinkle* to life on the digital tabletop.
 
 ### 4. The Siege of [[Leilon]] & The Portrait of [[Aubrey Silverspun]]
 When the combined fury of the cults broke against [[Leilon]]'s palisades, the possessed green dragon **[[Claugiyliamatar]]** descended upon the town in a cloud of chlorine gas, smashing **Aubrey's Peculiarities** into splinters. After the Order drove the wyrm from the skies and broke the siege, the four champions searched the rubble of their favorite curio shop—discovering that none of the townsfolk knew who "Aubrey" was, and uncovering an ancient, dust-covered oil painting of the historic **Swords of Leilon** that bore the unmistakable smiling face of **[[Aubrey Silverspun]]**, the spectral hero who had watched over them all along.
