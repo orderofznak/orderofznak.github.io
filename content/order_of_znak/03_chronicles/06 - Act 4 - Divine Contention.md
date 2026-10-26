@@ -222,10 +222,174 @@ Terrified of being cleaved in two and fed to the sharks, the broken officers con
 
 With the sea lanes secured and the privateers victorious, the Order set sail at full canvas for Leilon to prepare the town for total war.
 
-### 5. The Siege of [[Leilon]] & The Portrait of [[Aubrey Silverspun]]
-When the combined fury of the cults broke against [[Leilon]]'s palisades, the possessed green dragon **[[Claugiyliamatar]]** descended upon the town in a cloud of chlorine gas, smashing **Aubrey's Peculiarities** into splinters. After the Order drove the wyrm from the skies and broke the siege, the four champions searched the rubble of their favorite curio shop—discovering that none of the townsfolk knew who "Aubrey" was, and uncovering an ancient, dust-covered oil painting of the historic **Swords of Leilon** that bore the unmistakable smiling face of **[[Aubrey Silverspun]]**, the spectral hero who had watched over them all along.
+### 5. The Siege of [[Leilon]] & The Battle of the Three Armies (August 25 – September 10, 2022)
 
-### 6. Into the Hurricane — The Dreadnaught Climax Against [[Fheralai Stormsworn]]
+Following the naval triumph over Ship Rethnor, the Order returned to a frontier settlement on high alert. Rather than triggering the climactic siege after only two preparatory quests as suggested in the standard campaign timeline, the party had run the full trilogy gauntlet—securing Gnomengarde's aid at Dumathoin's Gulch, establishing the ethereal beacon atop the Spire of Thalivar, and winning Lord Neverember's naval and military pact at Castle Never. Every scrap of preparation was desperately needed, for two massive invading armies were now converging on Leilon in a catastrophic pincer assault:
+- **The Cult of Talos:** Four hundred strong under storm high priestess **[[Fheralai Stormsworn]]**, comprised of bloodthirsty berserkers, thunder priests, anchorites, elite blackguards, and half-blue dragon gladiators descending from the northern crags.
+- **The Cult of Myrkul:** Eight hundred rotting undead surging out of the southern Mere of Dead Men under dread war priest **[[Ularan Mortus]]**, bolstered by ghasts, ghouls, boneclaws, greater zombies, and their ultimate terror weapon: the ancient green dragon **[[Claugiyliamatar]]** (Old Gnawbone), possessed by the death wraith **[[Ebondeath]]** (the dread "Ebonclaw").
+- **Leilon's Defenders:** Roughly two hundred defenders—local commoner militias, Leilon town guards, seasoned veterans, and a stalwart detachment of Neverwinter guards, mounted knights, and scouts secured by the Order's diplomacy at Castle Never.
+
+---
+
+#### Event 1: Dawn of the Dead at the South Gate (August 25–26, 2022)
+An hour before dawn amidst torrential downpour, the peace of the frontier was shattered:
+> *The night is dark, and torrential rain beats down on the rooftops. An hour before dawn, the bell on the newly erected south gate begins to toll urgently. A cry goes up from the wall as troops dash to man their positions:*
+> *"The dead! The dead are coming!"*
+
+Rushing south through the muddy streets, the companions arrived just as the wooden palisade buckled:
+> *The din of battle echoes from the palisade as you approach. Through the rain, you see allied troops using spears and bows to fend off a horde of ghouls swarming from the darkness. All along the ramparts, burning torches struggle to provide illumination for your forces. As you watch, these pools of light are extinguished one by one as the dead swarm over the walls!*
+
+##### Holding the Breach (The 5-Round Clock)
+Under standard siege conditions, defenders had to survive eight grueling rounds against the endless dead. However, because the Order had secured elite Neverwinter military reinforcements from Lord Neverember, the required survival threshold was reduced to **5 rounds**!
+- **The Swarm Mechanics:** Twelve **Ghasts** immediately surged through the muck, with two additional Ghasts clawing over the timber palisade every subsequent round.
+- **Defensive Deployments:** Militia commoners and guards manned timber barricades, seasoned Veterans and mounted Knights reinforced the flanks, while sharpshooting Scouts rained arrows down into the bog from the twin gate towers.
+
+##### The Order's Tactical Formation
+Plugging the collapsed gateway, the companions formed an unbreakable bulwark:
+- **[[Rhynok]]:** Anchored high in the rear sniper line, coating his *Longbow +2* arrows in serpent venom and casting ***Fear*** to rout advancing ghast packs while picking off rotting champions with devastating sneak attacks.
+- **[[Myagkiy Znak]]:** Planted firmly in the center forward of the open portal, invoking a radiant, swirling maelstrom of ***Spirit Guardians*** that shredded advancing ghouls and zombies into holy dust the moment they crossed the threshold.
+- **[[Krageer Stoneface Ogolakanu]]:** Wading fifteen feet out into the bloody mire before the gate, Krageer entered a thunderous Bear Totem rage, cleaving rotting corpses with massive arcs of **[[Ultima Exodus]]**. Activating his newly claimed ***Amulet of the Consuming Summoner*** (looted from the spire in Chapter 2), Krageer summoned a towering **Minotaur** (`Gore +6, 10 piercing`) that charged into the swamp alongside him, goring and trampling the undead ranks into mulch.
+- **[[Tvyordiy Znak]]:** Guarding the inner gate threshold, Tvyordiy's staff flurries snapped ghast spines in mid-leap, leaving piles of broken undead corpses shattered at his talons.
+
+After five harrowing rounds of bone-crunching combat, the vanguard of Myrkul broke against the South Gate!
+
+---
+
+#### Event 2: The Storm Breaks & The Tactical Choice (August 26, 2022)
+As the last ghast fell at the gateway, a terrified townsfolk splashed through the mud toward the companions:
+> *A man stumbles through the mud, his eyes wide with terror. You recognize him as Jack Torver, the owner of Leilon’s general store.*
+> *“Barbarians at the north gate!” he gasps. “The Storm Lord’s berserkers! I was on my way to warn you when I saw the dead wading out of the marsh. They’re attacking the quayside right now!”*
+
+The party faced a critical tactical dilemma:
+- **North Gate (Event 3: Against the Lightning):** Talos anchorites and storm berserkers battering the northern gates.
+- **The Quayside (Event 4: Back to the Mud):** An amphibious undead force marching silently out of the marsh to butcher the docks.
+
+Knowing the vulnerable civilian fishing fleet and waterfront warehouses were vital to Leilon's survival, the Order made the tactical call: **Sprint for the Quayside!**
+
+---
+
+#### Event 4: Back to the Mud — The Quayside Ambush & Saving Valdi Estapaar (August 26, 2022)
+Slogging westward through the driving squall, the companions arrived at the docks to witness a scene of horror:
+> *Screams echo across the quayside as zombies emerge from the mire! Defenders dash to repel the undead, but they seem unprepared for the surprise attack. As you get closer, you see a large undead figure with long fingers squatting over an upturned rowboat. A woman squirms in the mud underneath, trapped by the weight of the boat. You recognize her as Valdi Estapaar, the fisherwoman who sits on the town council!*
+
+##### Freeing the Councilor & Crushing the Boneclaw
+Ularan Mortus had marched an entire phalanx of waterlogged zombies underwater through the marsh shallows to circumvent the landward palisades:
+- **The Rowboat Trap:** A horrific **Boneclaw** had cornered town councilor and veteran fisherwoman **Valdi Estapaar**, pinning her helpless beneath an overturned fishing hull. Freeing her required an action from characters with a combined Strength of **15 or higher** (or **25 or higher** if the Boneclaw was perched on top). Krageer's colossal Goliath brawn simply hefted the timber hull aside with ease.
+- **The Waterfront Battle:**
+  - Rhynok unloosed precision sniper shots from the piers (`13 + Crit: 7 Piercing, 9 + Crit: 3 Sneak Attack`), punching venom-soaked broadheads through the Boneclaw's ribcage.
+  - The Boneclaw struck back with extended *Piercing Claws* (`24 & 15 Piercing`), attempting to drag Krageer across the slick boards.
+  - Free from the mud, Councilor Valdi drew her veteran longsword and joined the fray (`20 to hit, 9 slashing`), stabbing the monstrosity alongside the Order.
+  - Together, Krageer's greataxe and the party's relentless focus fire shattered the Boneclaw's spine into kindling, while the summoned Minotaur trampled the crawling marsh zombies.
+
+The docks were secured and surviving fishermen rallied around the Order. But in the lull of the water, distant iron bells began tolling frantically from the opposite side of town: **the barbarians of Talos had smashed through the North Gate!**
+
+---
+
+#### Event 6: Rolling Thunder (September 2022)
+With the quayside held, fresh runners brought word of catastrophe in the heart of town:
+> *Word reaches you that the enemy has breached the town square and the defenders are in dire need of aid. As you prepare to respond, you hear war drums beating from just outside town. Suddenly a bolt of lightning blasts a nearby group of soldiers! The drums reach another crescendo, and a second bolt crackles from the clouds to strike the town’s defenders!*
+
+The companions faced another grueling choice:
+1. Hunt down the savage drummers outside town (**Event 8: Thunder Drums**) who were magically calling down lightning strikes onto Leilon's militia.
+2. Or charge directly into the town center where civilians and the garrison were being massacred.
+
+With their summoned **Minotaur** still lumbering alongside them, the Order chose to charge directly into the **Town Square**!
+
+---
+
+#### Event 7: Enter the Dragon — The Shadow Wyrm in the Town Square (September 5–10, 2022)
+Charging into the central plaza, the companions were plunged into complete pandemonium:
+> *Chaos reigns in the town square. On one side, Leilon’s defenders make a valiant stand against the invaders, while on the other, fleeing townsfolk clog the thoroughfare leading out of town. Screams of panic suddenly echo through the crowd. Looking up, you see a huge green dragon swoop out of the storm!*
+
+##### An Unholy Apocalypse
+The town square was a slaughterhouse:
+- Talosite cultists and dark priests clashed in bloody hand-to-hand combat against Leilon guards and Neverwinter knights, while panicking commoners clogged the muddy streets trying to flee.
+- Because the Order had bypassed the war drums outside, jagged lightning bolts repeatedly crashed down from the storm clouds at random, blasting defenders, cultists, and masonry in thunderous collateral explosions.
+- Swooping through the thunderheads came **[[Claugiyliamatar]]**, her ancient emerald scales blackened with necrotic veins from the parasitic possession of the ghost dragon **[[Ebondeath]]**.
+- Washing over the plaza, the dragon's *Frightful Presence* forced guards and cultists to make desperate Wisdom saves against paralyzing terror.
+- Opening her rotting maw, the possessed wyrm unleashed a cataclysmic breath weapon—not the natural poison gas of a green dragon, but a blistering wave of **necrotic chlorine energy** that withered stone walls and dissolved soldiers into smoking ash!
+
+##### Slicing with the Dragon Slayer
+Standing firm against the dragon's terror:
+- Krageer unsheathed his **Dragon Slayer Longsword** (`+3d6 slashing`), leaping into the dragon's path alongside his roaring Minotaur (`Gore +6, 10 piercing`). Krageer's enchanted blade carved deep bloody furrows into draconic hide.
+- Rhynok sniped from the cover of shattered shopfronts (`Longbow +2, 14 Piercing + 10 Sneak Attack`), burying arrows into the beast's wing joints.
+- Ebondeath retaliated with punishing tail sweeps (`35 to hit, 16 + 8 bludgeoning`), battering Krageer and the defenders across the flagstones.
+- Reeling under the savage bite of the Dragon Slayer sword and the Order's unrelenting focus fire, the possessed dragon roared in agonizing fury, broke off from the plaza, and wheeled north toward the high hill of **Thalivar's Tower**!
+
+Bleeding and coughing from necrotic fumes, the companions huddled in the rubble to down a quick round of **healing potions** before sprinting up the hillside in relentless pursuit.
+
+---
+
+#### Event 9: The Roof of the House of Thalivar & The Swords of Leilon (September 10–24, 2022)
+Scaling the steep crag toward the wizard's ancestral mansion:
+> *The green dragon squats on the distant roof of the House of Thalivar. As you draw closer, you see a trio of ghostly warriors locked in combat with the beast!*
+
+The companions immediately recognized the glowing phantoms: they were the legendary **[[Swords of Leilon]]**, whose apparitions had aided the party during the beacon crisis in Chapter 2! Having achieved three major battlefield victories (South Gate, Quayside, and Town Square), the Order arrived just in time to witness the spectral heroes striking at full power:
+> *One of the warriors, a dark-skinned woman dressed in chainmail, swings her sword at the dragon. The beast howls in pain and for a moment, you see the spectral form of another dragon seethe under its skin. The woman glances down at you as she readies her next attack.*
+> *“To arms!” she shouts. “Leilon needs you!”*
+
+Recognizing **Augusta Krul**, the companions vaulted onto the slate roof to stand alongside the ancient champions of Leilon!
+
+##### The Rooftop Climax & Wild Magic Chaos
+The final clash atop the slippery roof was a frenzy of legendary steel and wild magic:
+- **Necrotic Breath (77 Damage):** Ebondeath opened the rooftop engagement with a point-blank blast of necrotic breath, engulfing the roof in dark flames for a staggering **77 points of necrotic damage**!
+- **The Gnomengarde Grenade:** Rhynok whipped out the **Gnomengarde Grenade** recovered from the gnomish inventors in Chapter 1, arming the rune-carved key and hurling it into the dragon's underbelly. The thunderous concussive explosion rocked the mansion's foundation.
+- **The Wand of Wonder (Roll 14):** In the desperate heat of melee, Rhynok drew his **Wand of Wonder** and triggered its chaotic magic—rolling a **14**! The unpredictable wand instantly stunned Rhynok until the start of his next turn, but flooded his mind with euphoric psychic feedback that left him utterly convinced something magnificent and godlike had just taken place!
+- **Breaking the Threshold:** Ebondeath lashed with heavy tail strikes, forcing the party to chug healing potions mid-swing. But as Rhynok recovered from the wand's stun to loose venomous sneak attack arrows, Krageer drove his **Dragon Slayer Longsword** between the dragon's ribs. With that devastating strike, the companions forced the wyrm below the **50 hit point threshold**, shattering the dark magic anchoring the possession!
+
+---
+
+#### The Fall on Aubrey's Shoppe & The Exorcism of Ebondeath (September 24–25, 2022)
+Mortally wounded and convulsing, the gargantuan wyrm lost her footing on the slate roof and crashed down onto the street below:
+> *The dragon has crash-landed on Aubrey’s Peculiarities Shoppe, reducing the building to a pile of broken masonry. Bleeding badly and covered with arrows, the dragon struggles to rise to its feet. As you approach it, the specter of another dragon emerges from its body and flies away to the south, fading from sight! As the spirit leaves its body, the dragon slumps exhausted to the ground.*
+
+##### Krageer's Investigation & The Dragon's Parting Words
+As the spectral, shadowy phantom of **Ebondeath** ripped free from the green dragon's flesh and flew southward toward the Mere of Dead Men, **[[Krageer Stoneface Ogolakanu]]** approached the fallen titan with greataxe drawn, rolling **Investigation** on the groaning beast.
+
+Slowly blinking her emerald eyes, **[[Claugiyliamatar]]** (Old Gnawbone) coughed up pools of black blood as her natural green dragon mind returned. Recognizing that the mortal champions before her had severed the unholy parasitic bond that enslaved her, the great wyrm climbed weakly onto her claws. Before spreading her massive, ragged wings and taking flight north toward her lair in the Kryptgarden Forest, she rumbled in a low hiss that she was **indebted to the Order of Znak** for liberating her mind and body. 
+
+Having sparred with treacherous chromatic dragons before, the companions nodded politely while taking the "debt of gratitude" of an ancient green wyrm with a monumental grain of salt!
+
+---
+
+#### Victory Achieved: The Fall of Ularan Mortus & Statues of the Heroes
+With the dragon driven off and Ebondeath banished from her flesh, the morale of both invading armies collapsed:
+- **The Regular Victory:** Based on the cumulative victory points across the battlefield sectors, the Order achieved a **Regular Victory** for Leilon.
+- **The Death of Ularan Mortus:** Because the party had prioritized the Quayside and Town Square over silencing the storm drums, dread war priest **[[Ularan Mortus]]** was chosen as the enemy general slain during the chaotic street fighting. As allied veterans and Neverwinter knights rallied, Ularan Mortus was cut down, and without his unholy necromantic will, the remaining undead hordes disintegrated into inanimate bone and rot.
+- **The Heroes of Leilon:**
+  > *If the characters survive and save Leilon, they become heroes of the town. The councilors raise statues in the characters’ honor, though they remain fearful of the rising cult activity in the area. In time, Lord Neverember asks the characters to stamp out these threats once and for all by striking at the cults’ headquarters.*
+
+In gratitude for their salvation, the Leilon Town Council commissioned heroic stone statues of **[[Krageer Stoneface Ogolakanu]]**, **[[Rhynok]]**, **[[Myagkiy Znak]]**, and **[[Tvyordiy Znak]]** to be erected in the rebuilt town square, while awarding the party a purse of **2,500 gp**.
+
+---
+
+#### Aubrey's Peculiarities & The Secret of Aubrey Silverspun
+Turning back to the smoking ruins where the dragon had crash-landed, Krageer set about investigating the flattened rubble of their favorite curiosity shop:
+- **Heaving the Masonry:** Rolling an **Athletics check**, Krageer's Goliath brawn shoved aside crushed granite lintels and splintered wooden support beams from the flattened shopfront.
+- **The Investigation Sweep:** Sifting through the shattered display cases and shattered clockwork curios, Krageer's hands uncovered a miracle: an ancient, gilded oil painting preserved completely intact beneath the debris.
+
+Wiping away centuries of dust, the companions stared in stunned realization at the portrait:
+- The canvas depicted the historic **[[Swords of Leilon]]**—the ancient adventuring champions who had defended the town centuries ago.
+- Standing proudly in the painting alongside the chainmailed commander **Augusta Krul** and the bearded dwarf **Ogri Ninebeards** was the familiar, smiling face of **[[Aubrey Silverspun]]** himself!
+- When the party questioned the surviving townsfolk and councilors, none remembered any living merchant named Aubrey ever leasing the storefront. 
+
+The truth was laid bare: Aubrey Silverspun was never an ordinary shopkeeper. He was an immortal spectral guardian of Leilon—an ancient hero who had walked among them in disguise, stocking magical curios, offering vital counsel, and secretly shepherding the Order of Znak to become the new champions worthy of taking up the mantle of the Swords of Leilon!
+
+---
+
+#### The Final Two Bounties
+With the siege broken and the dead buried, Leilon remained gripped by fear. Lord Neverember and the town council realized that so long as the leadership of the two cults survived in their secret redoubts, the town would never be safe. 
+
+Neverember issued two monumental bounties of **8,000 gp** each, commissioning the Order of Znak to strike directly at the heart of both hostile powers:
+1. Journey into the treacherous Mere of Dead Men to infiltrate the sunken mausoleum and destroy the ghost dragon **[[Ebondeath]]** once and for all (**Chapter 6**).
+2. Board ***[[Twinkle and Icingdeath|Twinkle]]*** once more to hunt down high priestess **[[Fheralai Stormsworn]]** aboard her flagship storm dreadnaught on the raging high seas (**Chapter 7**).
+
+---
+
+### 6. The Dragon's Mausoleum & The Possession of Tvyordiy Znak (October 2022)
+*(To be chronicled in the next beat)*
+
+### 7. Into the Hurricane — The Dreadnaught Climax Against [[Fheralai Stormsworn]]
 To end the tempest threat at its source, the Order called once more upon Captain **[[Deloz Montiv]]** and ***[[Twinkle and Icingdeath|Twinkle]]***, steering straight into a howling, unnatural hurricane to hunt down the Talosite flagship dreadnaught.
 
 ![[talos.jpg]]
