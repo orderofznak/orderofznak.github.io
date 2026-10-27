@@ -26,7 +26,7 @@ dates: "June 17, 2022 – July 22, 2022"
 ## 📜 Overview of the Second Interlude
 In the early summer of 2022, following the harrowing revelation of [[Chardansearavitriol|Ebondeath]]'s possession of [[Claugiyliamatar]] in Deeping Cave at the climax of *[[04 - Act 3 - Sleeping Dragon's Wake|Sleeping Dragon's Wake]]*, **[[The Order of Znak]]** answered an urgent, desperate plea from the mountains northeast of Neverwinter.
 
-Stepping behind the Dungeon Master screen for the second time, **Gary** ran a lethal, high-stakes homebrew bridge adventure: **"Keeping the Faith"** (June 17 – July 22, 2022). Stationed at **Level 11** alongside a powerful Level 13 allied forge apprentice, the four champions were summoned to recover the stolen sacred relic of Gond—the legendary **[[Right Hand of Gond]]**—thrusting them into a sprawling investigation of savage serial murders in Neverwinter, a fiendish cavern in the Starmetal Hills harboring ominous breadcrumbs from the dread demiplane of **Barovia**, the rescue of a young girl from the clutches of a child-stealing Night Hag in Neverwinter Wood, and an epic "Double-Enlarge" titan wrestling match inside the molten caldera of Mount Hotenow against Fire Giant Queen **[[Kevlaan the Merciless]]**.
+Stepping behind the Dungeon Master screen for the second time, **Gary** ran a lethal, high-stakes homebrew bridge adventure: **"Keeping the Faith"** (June 17 – July 22, 2022). Stationed at **Level 11** alongside a powerful Level 13 allied forge apprentice, the four champions were summoned to recover the stolen sacred relic of [[Gond]]—the legendary **[[Right Hand of Gond]]**—thrusting them into a sprawling investigation of savage serial murders in Neverwinter, a fiendish cavern in the Starmetal Hills harboring ominous breadcrumbs from the dread demiplane of **Barovia**, the rescue of a young girl from the clutches of a child-stealing Night Hag in Neverwinter Wood, and an epic "Double-Enlarge" titan wrestling match inside the molten caldera of Mount Hotenow against Fire Giant Queen **[[Kevlaan the Merciless]]**.
 
 ```mermaid
 flowchart TD
@@ -150,7 +150,7 @@ Escorting Yasmina safely out of Neverwinter Wood, the Order delivered her to the
 ### 🌋 Chapter 4: Mount Hotenow & The Double-Enlarge Titan Clash
 *(July 5 – July 8, 2022 | Level 11)*
 
-At the **Iron Flagon Inn**, the companions questioned regular patrons regarding the whereabouts of Fire Giant Queen **[[Kevlaan the Merciless]]**. [[Wyndle]], a beloved local tavern patron, provided crucial topographical intelligence, pointing them toward the steaming subterranean caldera of the volcanic peak **Mount Hotenow**. Dayne added vital lore: **Surtur**, the legendary fire giant patron god of smithing, stood as an ancient divine rival to **Gond**, explaining why Queen Kevlaan sought the sacred *[[Right Hand of Gond]]* to forge catastrophic weapons of war.
+At the **Iron Flagon Inn**, the companions questioned regular patrons regarding the whereabouts of Fire Giant Queen **[[Kevlaan the Merciless]]**. [[Wyndle]], a beloved local tavern patron, provided crucial topographical intelligence, pointing them toward the steaming subterranean caldera of the volcanic peak **Mount Hotenow**. Dayne added vital lore: **Surtur**, the legendary fire giant patron god of smithing, stood as an ancient divine rival to **[[Gond]]**, explaining why Queen Kevlaan sought the sacred *[[Right Hand of Gond]]* to forge catastrophic weapons of war.
 
 Departing for Mount Hotenow, the Order descended into the volcanic fissure:
 * **The Trapped Corridors:** Navigating the winding tunnels leading toward the magma belly, Tvyordiy and Krageer—guided by Myagkiy's divine *Guidance*—skirted lethal engineering traps, tripwires, and molten vents. In an extraordinary display of patience and dexterity, the two frontline martials successfully disarmed a deadly trapped chest, extracting **4,000 gp** and **four Potions of Greater Healing**.
@@ -187,15 +187,15 @@ The battle was frantic, brutal, and back-and-forth:
 
 ---
 
-### 🎁 Chapter 5: Gond's Consecration, The Divine Feats, Puck's Endorsements & Yasmina's Art
+### 🎁 Chapter 5: [[Gond]]'s Consecration, The Divine Feats, Puck's Endorsements & Yasmina's Art
 *(July 8 – July 22, 2022 | Level 11)*
 
 Returning triumphantly to the Crags, the Order delivered the sacred *[[Right Hand of Gond]]* back into the hands of the overjoyed Forge Cleric **[[Flanning Teldorer]]**. 
 
-In divine gratitude for saving his faith's greatest relic and liberating his apprentice Dayne, Flanning invoked the highest blessings of Gond:
+In divine gratitude for saving his faith's greatest relic and liberating his apprentice Dayne, Flanning invoked the highest blessings of [[Gond]]:
 1. **Gear Consecration & Identification:** Flanning identified the recovered rings and amulet, fully repaired and honed all party armaments, and upgraded their masterwork implements.
 2. **Dayne's Plate Armor to Myagkiy:** Dayne Beltran ceremonially gifted his masterwork, consecrated **+2 Plate Armor** to Life Cleric **[[Myagkiy Znak]]**. Combined with Myagkiy's +2 shield and *Gauntlets of Ogre Power*, the Life Cleric's armor class surged to an impenetrable **24 AC**!
-3. **Flanning's Four Divine Feats:** Through Gond's divine favor, Flanning conferred an extraordinary spiritual boon—granting each member of the Order a permanent **Bonus Feat**:
+3. **Flanning's Four Divine Feats:** Through [[Gond]]'s divine favor, Flanning conferred an extraordinary spiritual boon—granting each member of the Order a permanent **Bonus Feat**:
    * **[[Tvyordiy Znak]]:** Took ***Crusher***, allowing his bludgeoning quarterstaff strikes and unarmed martial arts to push foes 5 feet and grant whole-party advantage on critical hits.
    * **[[Myagkiy Znak]]:** Took ***Resilient (Constitution)***, mastering concentration saves to ensure his *Spirit Guardians* and *Banishment* spells would never break under frontline assault.
    * **[[Krageer Stoneface Ogolakanu]]:** Took ***Lucky***, representing his uncanny Goliath instinct to twist fatal missteps into triumphant survival.
@@ -245,8 +245,8 @@ During this year of transition, several monumental developments reshaped the Swo
 | :--- | :--- | :--- |
 | **Dayne's +2 Plate Armor** | [[Myagkiy Znak]] | Bestowed by [[Dayne Beltran]] & Flanning; boosts Myagkiy to **24 AC**. |
 | **Ring of Animal Influence** | [[Krageer Stoneface Ogolakanu]] | Discovered in Mount Hotenow caldera corridors. |
-| **[[Right Hand of Gond]]** | [[Flanning Teldorer]] | Reclaimed from Fire Giant Queen Kevlaan; restored to Gond's altar in the Crags. |
-| **Bonus Feats (Crusher, Resilient, Lucky, Poisoner)** | The Order of Znak | Divine gift of Gond conferred by Flanning Teldorer. |
+| **[[Right Hand of Gond]]** | [[Flanning Teldorer]] | Reclaimed from Fire Giant Queen Kevlaan; restored to [[Gond]]'s altar in the Crags. |
+| **Bonus Feats (Crusher, Resilient, Lucky, Poisoner)** | The Order of Znak | Divine gift of [[Gond]] conferred by Flanning Teldorer. |
 | **Cloak of Elvenkind** | [[Rhynok]] | Delivered during the 1-year downtime interim from his 1,500 gp SDW commission. |
 | **Trapped Chest Spoils** | The Order of Znak | 4,000 gp and 4 Potions of Greater Healing disarmed in Mount Hotenow. |
 | **Hag Tin Coffer** | The Order of Znak | 2,500 gp, 5,000 sp, and ruby dust recovered from Balheelsa's hut. |
