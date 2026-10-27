@@ -39,6 +39,9 @@ She boomed with laughter, flicked flour at his nose, and said yes. Then she aske
 
 "The Ram-Lord. He made us. He likes a fair fight and a good wedding. He is not particular about the order."
 
+![[krageer-saga-road-north-1.jpg]]
+*"Is that a question?" "It is a plan." — On the cliffs above the sea*
+
 He had not seen his mountains in more years than he would admit. So they turned north. They passed the Silver Marches and kept climbing into the cold, where the road gave out and the wind took over. Krageer's pace quickened. His shoulders, which Cooragh had assumed were already as straight as they could go, straightened further.
 
 *Game note: Mountain Born meant the thin air and the cold troubled him not at all. Cooragh complained of both loudly and constantly, and kept up.*
@@ -113,6 +116,9 @@ The challenge was set on the old flat stone above the Mamaluko camp, in the last
 - **Round 2.** Pagolu rolled a natural 20 for **29**. Krageer rolled 12 + 10 = **22**. Pagolu won. His arm came down like a falling tree and slammed Krageer's knuckles into the rock hard enough to chip it.
 - **Round 3.** Krageer rolled 15 + 10 = **25**. Pagolu rolled 16 + 9 = **25**. They tied, and the hill went quiet. Krageer stood, rolled his neck, and let the Rage take him. His eyes went flat. Rage grants advantage on Strength checks. For the tie-break he rolled **8 and 17**, keeping 17 for **27**. Pagolu rolled 14 + 9 = **23**. The Ram-Breaker's arm folded slowly onto the stone.
 
+![[krageer-saga-parley.jpg]]
+*Krageer and Pagolu the Ram-Breaker on the old flat stone above the Mamaluko camp*
+
 Pagolu looked at his hand for a long while. Then he laughed, loud and cracked and delighted, and clasped Krageer's forearm. "You are the first to ever make me *work*."
 
 Krageer nodded. "You are second."
@@ -128,6 +134,9 @@ It broke at **Milagove** (Cinder Ford), a shallow crossing at the bottom of a bl
 Krageer did what he knew how to do, and he did it from the front. He took the center of the ford, planted [[Ultima Exodus]] in the gravel, and sang. It was an old Ogolakanu war chant with no real tune, just a drone of hard syllables, but it carried down the whole line. Goliaths from three clans who had never agreed on anything began beating time on their shields. The line stopped cracking and began to move together.
 
 He held the ford for most of a day. At one point he stood in the water against nine raiders, with Cooragh on his left, Extra Attack in her stride and a plain iron greatsword in her hands. She cut down four of them herself. *(Later, back at the [[The Wayside Inn|Wayside Inn]], Krageer would hum that chant over the hearth one evening. A young bard named [[Smithwell Znak]] would say it was the first song that ever made him want to fight.)*
+
+![[krageer-saga-milagove.jpg]]
+*Krageer holds the center of the ford at Milagove, with Cooragh on his left*
 
 When the raiders broke, Krageer did not pursue. He walked across the ford and offered the survivors water. The war was over by the next full moon.
 
@@ -160,6 +169,9 @@ Cooragh set down her ladle.
 "This is not your fight," he said.
 
 "I will tell you which fights are mine." She took his stern face in both hands and held it as if it were bread dough. "I came north with you to be married. I have waited two and a half years for it. I will not be a widow before the cake."
+
+![[krageer-saga-road-north-2.jpg]]
+*"I will tell you which fights are mine." — Cooragh, on the eve of the march*
 
 Nobody remembers what Krageer said next. The Ogolakanu have six versions and all of them end the same way. She went with him.
 
@@ -275,6 +287,9 @@ With his sword hand he struck, from her back, with his arm still locked under he
 
 *[Greatsword: 1d20 = 20. Natural 20. Critical. Savage Attacks: 5d6 (3, 6, 4, 5, 6) = 24, + 3 = 27. Dragon: 109 - 27 = **82**. Second attack: 1d20 (12) + 6 = 18. Hit. 2d6 (3, 4) = 7, + 3 = 10. Dragon: 82 - 10 = **72**.]*
 
+![[krageer-saga-dragon.jpg]]
+*The haul-down — Krageer astride Hrimgarra's neck in Kuvimeno, the Glass Hall, as Cooragh strikes*
+
 *(The Ogolakanu, who retell this part with their whole arms, always stop here to point out one thing. At that moment the dragon had legendary actions left, and she spent none. The clans have argued over why for years. Krageer, riding her neck, had no time to wonder.)*
 
 **Round 4. Hrimgarra.** The dragon thrashed. The ice shook. She wrenched against Krageer's arm with all her weight. It took her entire action.
@@ -338,6 +353,9 @@ The clan chiefs came to the cavern, and Krageer said what the dragon had said. T
 With the dragon dead, the fog drew back, and for the first time in four years the mountain was at peace with all four fires on it. Cooragh did not intend to wait one more season. The wedding was held at the first full moon of that autumn, on the high shoulder of the mountain where Menuka had been wed and her mother before her. It followed the ancient Ogolakanu rite of **Kolipemu** (the Binding of Stones), under the eye of Kavaki the Ram-Lord. The clerics say he made the first goliaths from gems that grew on a bush he kept on the highest peak, and every stone carried up the mountain goes home to its source.
 
 Each partner carries a river stone up the mountain alone and sets it at the cairn. The stones must hold each other, so they are set in a single balance. The Ogolakanu tent-mother, **Ekulu**, called **Warm-Lap**, examined the bride, as is her office, to judge whether she was old enough for daily tasks. Ekulu pronounced her ready. "She has been ready since the day she was born," said Ekulu, who was not wrong.
+
+![[krageer-saga-wedding.jpg]]
+*Kolipemu, the Binding of Stones — two river stones set in a single balance*
 
 The bride is also asked three questions by the elders. *What do you bring? What do you earn? What will you carry?* In the old days a bride's answer could take an hour. Cooragh's took one breath.
 
