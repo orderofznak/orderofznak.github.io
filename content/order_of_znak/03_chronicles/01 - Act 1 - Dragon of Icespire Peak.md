@@ -47,65 +47,183 @@ flowchart TD
 ### 🍺 Chapter 1: Arrival in Phandalin & The White Wyrm's Shadow
 *(November 10, 2019)*
 
-In the gray chill of late autumn, four untested sellswords marched along the Triboar Trail into the rough-and-tumble mining boomtown of **[[Phandalin]]**. Each carried the humble equipment of their origins:
-* **[[Krageer Stoneface Ogolakanu]]** hefted a heavy iron battleaxe and a quiver of javelins, his weathered Goliath features unreadable.
-* **[[Rhynok]]** moved with the silent, watchful grace of the swamps, carrying a weathered longbow and a balanced warhammer.
-* **[[Myagkiy Znak]]** bore a sturdy oak shield and a silver-headed mace, radiating the compassionate serenity of the Life Domain.
-* **[[Tvyordiy Znak]]** glided lightly on feathered talons, twirling a slender Eastern-style *Qiang* spear.
+#### Welcome to Phandalin
+In the gray chill of late autumn in 1492 DR, four untested sellswords marched westward along the rutted Triboar Trail into the rough-and-tumble frontier mining town of **[[Phandalin]]**:
 
-Over tankards of bitter ale at the **[[Stonehill Inn]]**, innkeeper **[[Toblen Stonehill]]** introduced the newcomers to frontier life. Fear hung heavy over the settlement: the young white dragon **[[Cryovain]]** had descended upon the peaks, sweeping low over the rooftops in sudden hunting raids that seized livestock and claimed the life of miner **[[Turkos Doomheart]]**. Terrified for the town's survival, Townmaster **[[Harbin Wester]]** barred his manor doors, refusing visitors and sliding frantic, ink-stained bounty notices beneath the threshold. 
+> *Nestled in the rocky foothills of the snow-capped Sword Mountains is the mining town of Phandalin, which consists of forty or fifty simple log buildings. Crumbling stone ruins surround the newer houses and shops, showing how this must have been a much larger town in centuries past.*
+> *More recently, settlers from the cities of Neverwinter and Waterdeep have begun to resettle the ruins, working the local mines and farmlands. But the recent arrival of a white dragon threatens to ruin everything.*
 
-Among the initial notices was an urgent plea to seek out the eccentric rock gnome inventors of **[[Gnomengarde]]** to negotiate for magical or mechanical contraptions capable of repelling the dragon. Accepting the contract, the four sellswords set out southeast along the stream into the Sword Mountain foothills.
+Each traveler bore the humble starter equipment of their distant homelands:
+* **[[Krageer Stoneface Ogolakanu]]** hefted a heavy iron battleaxe and a quiver of javelins, his weathered Goliath features stoic and unreadable beneath mountain dust.
+* **[[Rhynok]]** moved with the silent, watchful grace of the southern swamps, carrying a seasoned longbow, leather armor, and a balanced warhammer.
+* **[[Myagkiy Znak]]** bore a sturdy oak shield and a silver-headed mace, carrying cooking utensils (`rolling a 19 and 20 check`) and radiating the compassionate serenity of the Life Domain.
+* **[[Tvyordiy Znak]]** glided lightly on feathered talons (`16, 24 talon strikes`), testing his reach with a slender Eastern-style *Qiang* (Two-Handed) wushu spear (`18, 24 attack rolls`).
+
+---
+
+#### The White Dragon's Terror & The Barred Townmaster's Hall
+Fear hung like frost over the muddy streets. Over tankards of bitter stout at the **[[Stonehill Inn]]**, friendly innkeeper **[[Toblen Stonehill]]** introduced the newcomers to the grim reality of the frontier. A young, predatory white dragon known as **[[Cryovain]]** had descended from the northern glaciers of Mount Icespire, claiming the Sword Mountains as his hunting domain. The beast had swept low over Phandalin's rooftops in sudden blinding blizzards, snatching sheep, cattle, and horses from the outlying fields and freezing innocent prospectors solid. Only recently, the dragon had butchered miner **[[Turkos Doomheart]]** in the high crags, leaving the town in a state of sheer panic.
+
+Seeking legitimate mercenary contracts, the four companions marched to the Townmaster's Hall:
+
+> *The townmaster's hall has sturdy stone walls, a pitched wooden roof, and a bell tower at the back. Posted on a bulletin board near the door is a notice written in Common:*
+
+Terrified for his own skin, Townmaster **[[Harbin Wester]]**—a pompous, cowardly bureaucrat—had bolted himself inside his office, refusing all face-to-face visitors. Whenever the companions knocked, Harbin's muffled, squeaking voice wailed through the heavy iron keyhole:
+> *"Go away! There's a dragon about! If you're looking for work, read the notices on the job board outside! Slide proof under the door and I'll slide out your gold!"*
+
+---
+
+#### The Three Starting Job Board Notices
+Tacked to the bulletin board beside the heavy oak door were three handwritten parchment notices sealed with the seal of Phandalin:
+
+> 📜 **Dwarven Excavation Quest:**
+> *"Dwarf prospectors found ancient ruins in the hills southwest of town. Go see if they're all right and warn them about the white dragon. 50 gp reward upon your return."*
+
+> 📜 **Gnomengarde Quest:**
+> *"A clan of reclusive rock gnomes lives in a settlement called Gnomengarde, located in the mountains south of town. The gnomes might have magic items or mechanical contraptions that could help us fight the white dragon. Go negotiate with their kings. 50 gp reward upon your return."*
+
+> 📜 **Umbrage Hill Quest:**
+> *"The midwife of Phandalin, Adabra Gwynn, lives alone in a stone windmill on Umbrage Hill, a few miles south of town. She might not know about the white dragon. Go tell her to pack her things and come to Phandalin for her own safety. 50 gp reward upon your return."*
+
+Conferring over their tactical options, the four sellswords recognized that facing a dragon required arcane power and specialized gear. They chose to march south into the Sword Mountain foothills toward the eccentric inventors of **[[Gnomengarde]]**!
 
 ---
 
 ### ⚙️ Chapter 2: Gnomengarde & The Wine Cellar Mimic
-*(November 10, 2019)*
+*(November 13, 2019)*
 
-Following a cascading mountain stream into the misty gorge of **[[Gnomengarde]]**, the Order sought audience with the reclusive rock gnome kingdom. Their arrival was met with instantaneous, frantic chaos: manic inventor **[[Facktoré]]** opened fire from behind a barricade with her steam-driven autoloading heavy crossbow contraption, shooting Rhynok before Krageer bodily rushed the apparatus and restrained the spinning ballista!
+#### The Misty Falls of Gnomengarde
+Following the winding banks of a cascading stream into a secluded valley of the Sword Mountains, the party navigated dense pine ridges (`Rhynok rolling a 20 Navigation check with his tools`):
 
-Roughing up jittery gnome sentries along the corridors, the party was introduced to chief artificers **[[Fibblestib Pinebark]]** and **[[Dabbledob Plasterpatch]]** (affectionately called *Dabbledop*). The artificers revealed that an insidious shapeshifting predator had crept into the caverns and begun devouring gnomes whole. The killings had driven **[[Korboz|King Korboz]]** mad with terror, prompting the monarch to lock himself and husband **[[Gnerkli|King Gnerkli]]** inside the royal bedchamber.
+> *You follow a stream into the Sword Mountains until you reach a misty, waterfall-filled canyon echoing with strange mechanical grinding and the clatter of gears. Caved into the cliffs are the workshop-homes of Gnomengarde.*
+> *A narrow ledge hugs the cliffside, crossing rope bridges over the rushing stream. Steam and smoke billow from pipes in the rock, and the smell of ozone and sulfur hangs in the air.*
 
-Enlisting the aid of Dabbledob, the party systematically swept the workshop halls. Utilizing Gary's tactical **10-foot collapsible pole** to poke barrels and suspicious furniture from safe distance, the Order cornered the monster in the royal wine cellar: **a predatory Mimic disguised as a wine barrel**. 
+#### The Spinning Crossbow Apparatus & Facktoré
+Their arrival was greeted by immediate, manic mechanical violence! Guarding the northern ledge was eccentric gnome inventor **[[Facktoré]]**, strapped into a bizarre, steam-driven wheeled contraption:
 
-The battle was swift, brutal, and decisive:
-* Krageer Stoneface Ogolakanu went into a berserk frenzy, driving his heavy iron battleaxe into the creature's rubbery mass (*"Yo, Stoneface is a straight up killa"*).
-* Myagkiy and Dabbledob unleashed a lethal barrage of glowing *Magic Missiles* into its core, tearing the monstrosity to shreds before its adhesive flesh could permanently trap their weapons.
-* Slaying the beast alongside Dabbledob earned the companions a shared triumph (splitting 102 XP each).
+> *A gnome with wild black hair and soot-stained goggles sits strapped into a wheeled contraption mounting a heavy crossbow with a drum magazine. As you approach, she screams and cranks a lever:*
+> *“Intruders! Stay back, or I'll perforate you!”*
 
-With royal sanity restored and King Korboz convinced the danger had passed, the grateful gnomish court rewarded the heroes with several ingenious magical curios—including the ***Clockwork Amulet*** and ***Hat of Wizardry***—before the Order marched back to Phandalin.
+Before negotiations could even begin, Facktoré opened fire, the mechanized ballista whirring as it hurled heavy bolts along the ledge! A bolt struck Rhynok before **[[Krageer Stoneface Ogolakanu]]** let out a battle roar, bodily charging across the catwalk. With overwhelming Goliath muscle, Krageer grabbed the spinning gears (`Athletics check`) and wrestled the apparatus to a dead halt, disarming the hysterical inventor without taking her life.
+
+---
+
+#### The Mad King & The Missing Gnomes
+Venturing deeper into the damp, fungus-lit workshops, the companions met chief inventors **[[Fibblestib Pinebark]]** and **[[Dabbledob Plasterpatch]]** (affectionately dubbed *Dabbledop*). The distraught artificers revealed that a horrific crisis had gripped the colony:
+- An unseen shapeshifter had slipped into the caves, mysteriously devouring two gnomes—Orryn and Warryn—whole!
+- Terror had unhinged **[[Korboz|King Korboz]]**, who had convinced himself that his husband, **[[Gnerkli|King Gnerkli]]**, was either possessed or about to be eaten. Korboz had bound Gnerkli to a chair inside the royal bedchamber, locking the heavy iron doors from within and threatening anyone who approached.
+- Calming the hysterical king required careful diplomacy, but the true threat remained loose in the complex.
+
+#### The Barrel Mimic in the Wine Cellar
+Enlisting Dabbledob to guide them, the party systematically swept the workshops and storage caverns. Gary employed his famous tactical innovation: utilizing a **10-foot collapsible pole** to prod barrels, crates, and suspicious furniture from safe reach!
+
+When the pole struck a dusty wine cask in the royal cellar, the wooden barrel suddenly sprouted glistening, multi-eyed pseudopods, gaping maw, and adhesive flesh: **a predatory Mimic disguised as a wine cask!**
+
+Rolling fast into initiative (`Tvyordiy 20.1, Goblins/Allies 11.1`):
+- **Adhesive Flesh & Slime:** The mimic lunged forward with a sticky pseudopod (`grappled DC 13`), attempting to drag Krageer into its toothy maw and coat weapons in adhesive glue.
+- **Stoneface's Berserk Cleave:** Refusing to yield, Krageer flew into a berserk frenzy, slamming his heavy iron axe into the rubbery hide for massive damage (*"Yo, Stoneface is a straight up killa!"*).
+- **Arcane Barrage:** Myagkiy and Dabbledob leveled their staves, hurling glowing darts of *Magic Missile* into the monster's pulsating core.
+- **Flurry of Talons:** Tvyordiy vaulted off the cellar walls, landing concussive unarmed strikes that battered the shapeshifter's flanks.
+- **Victory & XP:** Splitting the creature's core in twain, the companions slew the horror on the stone floor, earning a shared triumph (**102 XP each**).
+
+#### Royal Sanity & The Gnomish Curios
+Witnessing the dead monster, King Korboz wept with relief, unbolted the bedchamber, and released King Gnerkli. In eternal gratitude for saving their colony, the twin monarchs rewarded the Order with four ingenious magical inventions:
+1. ***[[Hat of Wizardry]]*** (worn by the party's arcanists to channel minor cantrips).
+2. ***[[Clockwork Amulet]]*** (a brass pocket-watch gear that guarantees a roll of 10 on an attack roll 1/day).
+3. ***[[Pole of Angling]]*** (a collapsible 10-foot fishing rod that transforms on command).
+4. ***[[Wand of Pyrotechnics]]*** (bursting with blinding flashes and smoke).
+
+Triumphant, the Order marched back to Phandalin, sliding word of the mimic's demise under Harbin Wester's door to collect their first **50 gp** bounty!
 
 ---
 
 ### ⛏️ Chapter 3: The Dwarven Excavation & The Gem of Greed
-*(November 16 – November 17, 2019)*
+*(November 13 – November 17, 2019)*
 
-With Gnomengarde secured, the companions turned southwest into a rugged canyon of the Sword Mountains to fulfill Townmaster Harbin’s second contract: warning dwarven prospectors **[[Dazlyn Grayshard]]** and **[[Norbus Ironrune]]** about Cryovain’s encroaching presence. Upon arriving at the newly unearthed **[[Temple of Abbathor]]**, the dwarves welcomed the armed party but adamantly refused to abandon their claim until the subterranean ruin was cleared of lurking horrors.
+#### The Canyon of the Temple
+With Gnomengarde secure, the companions accepted Harbin's second contract, trekking southwest into a jagged limestone canyon of the Sword Mountains to check on dwarven prospectors:
 
-Entering the ancient stone halls, the Order encountered undulating **Ochre Jellies** oozing from the crumbling stonework. In a grueling subterranean duel:
-* Myagkiy invoked divine guidance and seared the acidic horrors with beams of *Sacred Flame*.
-* Tvyordiy vaulted forward, driving his *Qiang* into the oozes and following with rapid unarmed strikes.
-* Krageer hewed the beasts with his axe, discovering with alarm that slashing weapons divided the jellies into smaller, swarming horrors!
-* Rhynok methodically picked off the splitting oozes from a safe distance with his longbow.
+> *The canyon narrows until you reach a dead end dominated by a sheer cliff face. Carved into the stone at its base is a grand facade flanked by crumbling, square pillars. Flanking the entrance are the partially excavated remains of two massive dwarven statues whose heads have toppled into the dirt.*
+> *Two dwarf prospectors are camped in the canyon outside the entrance, their pickaxes leaning against a pair of battered canvas tents.*
 
-Clearing the inner sanctuary, the party unearthed a hidden altar room housing a stone statue of Abbathor, the dwarven god of greed, with a glowing jewel set into its breast. Tempted by its luster, Krageer pried at the stone. The Goliath’s danger instincts flared an instant before the trap detonated, but he double-failed his DC 15 Dexterity save (rolling under 15 on both d20s despite *Danger Sense*!) and took the full brunt of the explosive fireblast. Soot-stained and humbled, Krageer emerged into the canyon where Dazlyn and Norbus rewarded the party with a pair of attuned ***Sending Stones***—a magical lifeline that would keep the Order linked across their entire legendary saga.
+Camped by the ruins were veteran shield dwarves **[[Dazlyn Grayshard]]** and **[[Norbus Ironrune]]**. The prospectors explained they had spent months unearthing what they believed to be an ancient, long-forgotten dwarven stronghold. However, strange, acidic oozes had recently bubbled up from the subterranean corridors, halting work. While grateful for the party's warning about Cryovain, Dazlyn and Norbus adamantly refused to abandon their excavation until the horrors within were eradicated—offering a handsome reward if the Order cleared the complex.
 
-As they exited the canyon, a raiding party of five mountain orcs charged the defile. Against Rhynok’s sworn hatred of orc-kind and the party's disciplined frontline, the raiders were annihilated before they could breach the canyon mouth.
+---
+
+#### The Oozes of Abbathor & The Splitting Horror
+Igniting torches, the companions crossed the threshold into the subterranean darkness:
+
+> *Rubble and crushed stone choke the stone halls. Thick, translucent slime glistens across the floor and walls, smelling of vinegar and decay.*
+
+As they advanced down the dusty stone corridors, predatory **Ochre Jellies** crept along the ceiling and oozed through ceiling cracks:
+- **Acidic Pseudopods:** The jellies dropped with acidic pseudopods (`2d6+2 bludgeoning + 1d6 acid`), sizzling against Krageer's scale mail and Myagkiy's shield.
+- **The Slashing Split Surprise:** Krageer swung his heavy battleaxe in a thunderous horizontal arc, cleaving an ooze in half—only to watch in horror as the severed halves immediately reformed into **two fully functional, smaller Ochre Jellies!**
+- **Tactical Realignment:** Realizing slashing blades only multiplied their foes, the Order adjusted on the fly:
+  - Myagkiy stepped forward, invoking holy radiance to scour the acidic blobs with searing beams of ***Sacred Flame***.
+  - Tvyordiy drove the blunt shaft of his *Qiang* and delivered concussive bludgeoning kicks to crush the jelly cores.
+  - Rhynok held the rearguard, picking off oozes at distance with targeted piercing arrows from his longbow.
+
+---
+
+#### The Altar of Greed & Krageer's Blunder
+Clearing the eastern crypts, the companions discovered a concealed stone archway leading into the heart of the complex: the defiled **[[Temple of Abbathor]]**, the dwarven deity of greed:
+
+> *At the rear of the excavation is a secret chamber dominated by a stone altar carved with the likeness of a dwarven god whose eyes are hollowed into deep, greedy sockets. Resting on the altar is a fist-sized ruby, pulsing with an alluring crimson glow.*
+
+Gazing upon the magnificent gem, Goliath mercenary Krageer Stoneface Ogolakanu was overcome by mercenary temptation. Reaching out with his gauntlet, Krageer pried the glittering ruby from the stone plinth.
+
+Instantly, ancient dwarven magic flared! A catastrophic collapsing trap detonated, bringing stone slabs and concussive shockwaves crashing down upon the chamber (`DC 15 Dexterity save for half 4d10 damage`). Despite his innate Goliath ***Danger Sense*** granting advantage on Dexterity saves, Krageer rolled two consecutive failures under 15! Smashed by falling masonry and engulfed in flame, the sooty, bruised Goliath tumbled backward out of the chamber, clutching the stone and sheepishly learning a painful lifelong lesson about dwarven greed.
+
+---
+
+#### Mountain Orc Ambush & The Sending Stones Reward
+Battered but victorious, the party emerged from the ruins into the blinding afternoon sun—only to hear guttural war cries echoing down the canyon. A raiding warband of five mountain orcs (`Orc Initiative: 7.12`) had tracked the prospectors' smoke and was charging the defile with greataxes raised!
+
+Fatigued from the dungeon, the Order snapped into formation:
+- Rhynok's hatred of orcs fueled his aim, his longbow burying shafts into charging raiders before they could close distance.
+- Tvyordiy vaulted off boulders, executing aerial talon sweeps and staff sweeps that tripped the vanguard.
+- Krageer channeled his lingering embarrassment from the Abbathor trap into savage barbarian rage, cleaving the orc leader with a brutal blow.
+
+With the orcs routed, Dazlyn and Norbus cheered the Order's heroics. True to their word, the grateful prospectors reached into their chest and gifted the companions their most prized possession: **a pair of attuned [[Sending Stones]]**. This unassuming pair of carved river stones would serve as the Order of Znak's vital communication lifeline across every major campaign milestone and siege over the next four years.
+
+Returning to Phandalin, the Order slid proof of the cleared temple under Harbin's door, collecting their second **50 gp** bounty and advancing to **Level 3**!
 
 ---
 
 ### 🌾 Chapter 4: The Windmill Siege at Umbrage Hill
 *(November 19 – November 20, 2019)*
 
-Riding south toward the rolling agrarian meadows of **[[Umbrage Hill]]**, the Order sought out the stubborn midwife and herbalist **[[Adabra Gwynn]]**. Upon approaching the stone windmill, they found the compound under active siege: a ravenous, leathery-winged **Manticore** was clawing at the timber doors, roaring for flesh.
+#### The Windmill on the Knoll
+Taking up the final contract from Harbin Wester's board, the Order rode south along the rolling foothills toward the agrarian landmark of **[[Umbrage Hill]]**:
 
-Rolling initiative against the monstrosity, the Order executed a synchronized ranged and aerial assault:
-* Krageer hurled heavy iron javelins into the beast's flanks, trading blows as the manticore whipped its barbed tail.
-* Tvyordiy bounded up the windmill masonry, using his monk discipline to *Deflect Missiles* out of mid-air and strike back with his wushu spear.
-* Rhynok unleashed an enchanted volley of *Hail of Thorns* from his longbow, punching shafts through the beast's wings.
-* Myagkiy channeled radiant healing energy to keep the frontline pristine.
+> *Standing atop a grassy knoll is a crumbling stone windmill with its vanes slowly turning in the wind. A small cottage is attached to the tower. Crouched against the heavy door of the windmill, clawing and hissing, is a monstrous creature with the body of a lion, bat wings, and a humanlike face ringed with spikes.*
 
-Badly wounded and unable to pierce the Order's coordinated defense, the manticore broke off the siege and fled into the southern crags. Though Adabra stubbornly refused to evacuate her windmill, she gifted the Order several restorative potions of healing.
+The beast was a ferocious, starving **Manticore**, driven down from its high mountain lair by the freezing frost and territorial dominance of Cryovain. Desperate for warm meat, the predator was battering against the stout oak doors of the windmill, where midwife and herbalist **[[Adabra Gwynn]]** was barricaded inside, screaming for help!
+
+---
+
+#### The Standoff & The Aerial Duel
+Approaching through the tall prairie grass, the Order moved with disciplined stealth (`Rhynok: 24, 26 Stealth; Myagkiy: 19; Tvyordiy: 23; Krageer: 20`).
+
+Spotting the armed party, the manticore hissed, whipping its spined tail and rolling high into combat (`Manticore Initiative: 9.16`):
+- **Rhynok's Dread Ambush:** Striking first from concealment, Rhynok cast ***Hunter's Mark*** and channeled ***Hail of Thorns***, firing a devastating opening salvo (`23, 25 to hit`) that showered the beast in sharp thorns and pierced its leather wings.
+- **Tail Spike Barrage:** Snarling in agony, the manticore whipped its tail, launching three iron-hard spikes toward the party (`17, 18, 16 to hit; 7, 5, 6 piercing damage`).
+- **Deflect Missiles Mastery:** As a deadly spike whistled toward Tvyordiy's throat, the Aarakocra monk demonstrated his newly acquired Level 3 monastic feature: snapping his wrist to activate ***Deflect Missiles*** (`reducing damage by 1d10 + DEX + Monk level`), swatting the missile harmlessly out of mid-air!
+- **Krageer's Javelins & Tvyordiy's Qiang:** Krageer surged forward, planting his boots and hurling heavy iron javelins into the beast's chest (`17, 23 to hit`). Tvyordiy vaulted up the windmill stonework, thrusting his *Qiang* spear (`20, 15 to hit`) into the beast's haunches.
+
+Bleeding profusely from punctured wings and realizing these sellswords were far deadlier than farm cattle, the wounded manticore shrieked in defeat, leaping into the air and limping away into the southern crags.
+
+---
+
+#### The Stubborn Herbalist & Potions of Healing
+With the predator driven off, the companions knocked on the windmill door. Adabra Gwynn cracked the latch, eyes wide with relief. 
+
+Though deeply grateful for her rescue, the eccentric midwife stubbornly refused Harbin Wester's orders to abandon her home:
+> *"Leave my windmill? Go cower in Phandalin with that sniveling coward Harbin? Never! My garden is here, my herbs are here, and the people of this valley need my medicines far more than I need stone walls!"*
+
+Recognizing that no amount of persuasion would budge the determined herbalist, the Order respected her courage. In exchange for saving her life and driving off the manticore, Adabra gifted the party several precious **Potions of Healing**—vital draughts that would restore fallen companions in the desperate battles ahead.
+
+Marching back to Phandalin, the Order reported to Harbin Wester. With all three starting quests fulfilled, the name of **The Order of Znak** began to spread across the Sword Coast frontier as true protectors of the realm!
 
 ---
 
