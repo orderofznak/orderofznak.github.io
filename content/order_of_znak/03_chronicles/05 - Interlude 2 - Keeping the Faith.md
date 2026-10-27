@@ -26,7 +26,7 @@ dates: "June 17, 2022 – July 22, 2022"
 ## 📜 Overview of the Second Interlude
 In the early summer of 2022, following the harrowing revelation of [[Chardansearavitriol|Ebondeath]]'s possession of [[Claugiyliamatar]] in Deeping Cave at the climax of *[[04 - Act 3 - Sleeping Dragon's Wake|Sleeping Dragon's Wake]]*, **[[The Order of Znak]]** answered an urgent, desperate plea from the mountains northeast of Neverwinter.
 
-Stepping behind the Dungeon Master screen for the second time, **Gary** ran a lethal, high-stakes homebrew bridge adventure: **"Keeping the Faith"** (June 17 – July 22, 2022). Stationed at **Level 11** alongside a powerful Level 13 allied forge apprentice, the four champions were summoned to recover the stolen sacred relic of Gond—the legendary **Right Hand of Gond**—thrusting them into a sprawling investigation of savage serial murders in Neverwinter, a fiendish cavern in the Starmetal Hills harboring ominous breadcrumbs from the dread demiplane of **Barovia**, the rescue of a young girl from the clutches of a child-stealing Night Hag in Neverwinter Wood, and an epic "Double-Enlarge" titan wrestling match inside the molten caldera of Mount Hotenow against Fire Giant Queen **[[Kevlaan the Merciless]]**.
+Stepping behind the Dungeon Master screen for the second time, **Gary** ran a lethal, high-stakes homebrew bridge adventure: **"Keeping the Faith"** (June 17 – July 22, 2022). Stationed at **Level 11** alongside a powerful Level 13 allied forge apprentice, the four champions were summoned to recover the stolen sacred relic of Gond—the legendary **[[Right Hand of Gond]]**—thrusting them into a sprawling investigation of savage serial murders in Neverwinter, a fiendish cavern in the Starmetal Hills harboring ominous breadcrumbs from the dread demiplane of **Barovia**, the rescue of a young girl from the clutches of a child-stealing Night Hag in Neverwinter Wood, and an epic "Double-Enlarge" titan wrestling match inside the molten caldera of Mount Hotenow against Fire Giant Queen **[[Kevlaan the Merciless]]**.
 
 ```mermaid
 flowchart TD
@@ -150,7 +150,7 @@ Escorting Yasmina safely out of Neverwinter Wood, the Order delivered her to the
 ### 🌋 Chapter 4: Mount Hotenow & The Double-Enlarge Titan Clash
 *(July 5 – July 8, 2022 | Level 11)*
 
-At the **Iron Flagon Inn**, the companions questioned regular patrons regarding the whereabouts of Fire Giant Queen **[[Kevlaan the Merciless]]**. [[Wyndle]], a beloved local tavern patron, provided crucial topographical intelligence, pointing them toward the steaming subterranean caldera of the volcanic peak **Mount Hotenow**. Dayne added vital lore: **Surtur**, the legendary fire giant patron god of smithing, stood as an ancient divine rival to **Gond**, explaining why Queen Kevlaan sought the sacred *Right Hand of Gond* to forge catastrophic weapons of war.
+At the **Iron Flagon Inn**, the companions questioned regular patrons regarding the whereabouts of Fire Giant Queen **[[Kevlaan the Merciless]]**. [[Wyndle]], a beloved local tavern patron, provided crucial topographical intelligence, pointing them toward the steaming subterranean caldera of the volcanic peak **Mount Hotenow**. Dayne added vital lore: **Surtur**, the legendary fire giant patron god of smithing, stood as an ancient divine rival to **Gond**, explaining why Queen Kevlaan sought the sacred *[[Right Hand of Gond]]* to forge catastrophic weapons of war.
 
 Departing for Mount Hotenow, the Order descended into the volcanic fissure:
 * **The Trapped Corridors:** Navigating the winding tunnels leading toward the magma belly, Tvyordiy and Krageer—guided by Myagkiy's divine *Guidance*—skirted lethal engineering traps, tripwires, and molten vents. In an extraordinary display of patience and dexterity, the two frontline martials successfully disarmed a deadly trapped chest, extracting **4,000 gp** and **four Potions of Greater Healing**.
@@ -164,7 +164,7 @@ Departing for Mount Hotenow, the Order descended into the volcanic fissure:
 *Entrance to Kevlaan's Forge, Mount Hotenow — Battlemap (31×28)*
 
 **The Climax: The Legendary "Double-Enlarge" in the Magma:**  
-Emerging into the colossal caldera, the Order stood amidst churning rivers of glowing molten lava. Dominating the central stone dais was **[[Kevlaan the Merciless]]**, Queen of the Fire Giants, wielding a colossal iron greatsword with the glowing *Right Hand of Gond* mounted beside her forge anvil.
+Emerging into the colossal caldera, the Order stood amidst churning rivers of glowing molten lava. Dominating the central stone dais was **[[Kevlaan the Merciless]]**, Queen of the Fire Giants, wielding a colossal iron greatsword with the glowing *[[Right Hand of Gond]]* mounted beside her forge anvil.
 
 Recognizing that a Huge-sized Fire Giant Queen would easily swat aside any normal combatant, the party executed one of the most celebrated, legendary tactical combos in campaign history—the **"Double-Enlarge"**:
 1. **Puck's Potion:** [[Krageer Stoneface Ogolakanu]] pulled the cork from the ***Potion of Growth*** he had bought in Leilon from nervous elven merchant **[[Puck Caribdas]]**, gulping down the brew to swell from `Medium` to **Large**.
@@ -178,7 +178,7 @@ The battle was frantic, brutal, and back-and-forth:
 * Krageer entered a reckless frenzy, delivering crushing unarmed slams and greataxe hews until the Fire Giant Queen collapsed into the cooled slag!
 
 **Loot Recovered from Kevlaan:**  
-* The sacred **Right Hand of Gond** (The Hammer of Gond) was safely reclaimed!
+* The sacred **[[Right Hand of Gond]]** (The Hammer of Gond) was safely reclaimed!
 * An unknown enchanted ring and an unknown amulet.
 * Kevlaan's reign over Mount Hotenow's giants was completely shattered.
 
@@ -190,7 +190,7 @@ The battle was frantic, brutal, and back-and-forth:
 ### 🎁 Chapter 5: Gond's Consecration, The Divine Feats, Puck's Endorsements & Yasmina's Art
 *(July 8 – July 22, 2022 | Level 11)*
 
-Returning triumphantly to the Crags, the Order delivered the sacred *Right Hand of Gond* back into the hands of the overjoyed Forge Cleric **[[Flanning Teldorer]]**. 
+Returning triumphantly to the Crags, the Order delivered the sacred *[[Right Hand of Gond]]* back into the hands of the overjoyed Forge Cleric **[[Flanning Teldorer]]**. 
 
 In divine gratitude for saving his faith's greatest relic and liberating his apprentice Dayne, Flanning invoked the highest blessings of Gond:
 1. **Gear Consecration & Identification:** Flanning identified the recovered rings and amulet, fully repaired and honed all party armaments, and upgraded their masterwork implements.
@@ -230,7 +230,7 @@ At the conclusion of *Keeping the Faith*, DM Gary formally established the chron
 
 During this year of transition, several monumental developments reshaped the Sword Coast:
 
-1. **The Rout at Neverwinter's Doorstep:** Shortly after Kevlaan's fall, a massive horde of orcs, fire giants, and goblinkin marched toward Neverwinter's gates. However, leaderless and deprived of the mighty masterwork weapons of war that the *Right Hand of Gond* was meant to forge, the monstrous assault crumbled against Neverwinter's defenses, routed with minimal defender casualties.
+1. **The Rout at Neverwinter's Doorstep:** Shortly after Kevlaan's fall, a massive horde of orcs, fire giants, and goblinkin marched toward Neverwinter's gates. However, leaderless and deprived of the mighty masterwork weapons of war that the *[[Right Hand of Gond]]* was meant to forge, the monstrous assault crumbled against Neverwinter's defenses, routed with minimal defender casualties.
 2. **The Return of Lord Dagult Neverember:** These events precipitated the dramatic return of **[[Dagult Neverember|Lord Protector Dagult Neverember]]** from his prolonged political hiatus away from Neverwinter. Focusing his immense wealth on rebuilding Castle Never and heavily garrisoning the city streets against werebears and aberrations, Lord Neverember also personally financed the extensive reconstruction and fortification of **[[Leilon]]**.
 3. **Leopold's Estate Stewardship & Orphan Cross-Training:** The Order formally retained **[[Leopold]]** as the permanent majordomo and steward of Aufox Manor in Leilon. Beyond managing household affairs, Leopold oversaw the blooming talents of the adopted wards (**[[Smithwell and Burnice]]** and **[[Yasmina]]**). All the young wards began daily cross-training in combat and survival under the Order, joined by allied marshland lizardfolk from the Mere of Dead Men who taught them the flora, fauna, and wilderness lore of the wetlands.
 4. **The Gathering Cult Storms:** While the Sword Coast enjoyed temporary peace, the two defeated cults quietly regrouped in the shadows. High priestess **[[Fheralai Stormsworn]]** rebuilt the Cult of Talos following her dreadnaught defeat, while death-priest **[[Ularan Mortus]]** received a massive undead army from Myrkul—setting the stage for a catastrophic clash to seize control of Leilon and the High Road.
