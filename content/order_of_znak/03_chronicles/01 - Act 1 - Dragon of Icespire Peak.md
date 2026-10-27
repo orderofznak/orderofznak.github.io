@@ -230,76 +230,201 @@ Marching back to Phandalin, the Order reported to Harbin Wester. With all three 
 ### 🐄 Chapter 5: Butterskull Ranch & Cryovain vs. Manticores
 *(November 26 – November 27, 2019)*
 
-Reports of black smoke rising along the Triboar Trail drew the Order east to **[[Butterskull Ranch]]**. Mountain orcs displaced from the high peaks had ransacked the homestead, capturing retired sheriff **[[Alfonse Kalazorn|"Big Al" Kalazorn]]**.
+#### The Plundered Ranch on the Triboar Trail
+Trekking eastward across the rolling hills of the Triboar Trail where columns of greasy black smoke stained the horizon, the Order arrived at **[[Butterskull Ranch]]**:
 
-Approaching under cover of twilight, Rhynok crept through the tall rye grass. Spotting a solitary orc guard lingering beside the ranch **outhouse**, the Order executed a silent, synchronized ambush—dropping the sentry before an alarm could be raised. Peeking through the farmhouse window, Rhynok counted a dozen heavily armed orcs feasting in the main hall.
+> *Butterskull Ranch occupies a swath of cleared land in the eastern foothills of the Sword Mountains. The ranch consists of a two-story farmhouse, a barn, a horse pig, a smithy, and a pigsty, all surrounded by a wooden fence.*
+> *As you near the farmhouse, you smell woodsmoke and hear guttural voices speaking the Orc tongue.*
 
-Storming the doorway, the Order engaged in a brutal, room-to-room melee. Krageer raged through the kitchen, shattering timber tables and cleaving through orc warriors; Tvyordiy redirected charging brutes with drunken footwork; Myagkiy held the threshold with divine radiance; and Rhynok picked off raiders attempting to flank from the stairwell. Slaying all twelve orcs, the party descended into the cellar to unchain Big Al Kalazorn. In gratitude, Big Al gave the companions his blessing and begged them to recover his prized runaway prize dairy cow, **[[Petunia (cow)|Petunia]]**, who was coaxed safely back to Phandalin.
+Driven down from the high mountain crags by Cryovain's territorial chill, a brutal raiding party of mountain orcs had ransacked the homestead, slaughtering the livestock, barricading the doors, and taking the ranch owner—retired Phandalin sheriff **[[Alfonse Kalazorn|"Big Al" Kalazorn]]**—hostage in his own cellar.
 
-**The Apex Dominance Encounter (November 27, 2019):**  
-On the return journey across the foothills, the skies suddenly darkened as a freezing blizzard wind swept down from the mountains. Looking up, the companions witnessed an awe-inspiring, brutal spectacle of draconic apex dominance: **[[Cryovain]] swooped down from the storm clouds upon a pair of hunting Manticores**. In a flurry of glacial frost breath, razor-sharp claws, and snapping jaws, the young white dragon tore into the manticores mid-air—effortlessly ripping the rival predators to shreds before carrying their frozen carcasses back to the high peaks. The chilling display cemented the true scale of the terror haunting the Sword Coast.
+---
+
+#### The Outhouse Ambush & Room-to-Room Assault
+Approaching under the cover of twilight, Rhynok crept through the tall rye grass (`Stealth check`). Spotting an inattentive orc sentry lingering outside the wooden **outhouse**, the Order executed a silent, synchronized takedown—dropping the guard before he could sound an alarm.
+
+Peering through the grease-smeared kitchen window, Rhynok counted over a dozen heavily armed orcs feasting and smashing furniture inside. Kicking the heavy farmhouse doors off their hinges, the Order launched a furious room-to-room breach (`Orc Initiatives: 2.12, 16.12, 21.12`):
+- **Close-Quarters Carnage:** Orc raiders hefted heavy greataxes, lunging with feral fury (`Greataxe Orc Attacks: 21, 24, 17, 21, 23 to hit; dealing 10, 7, 12, 14 slashing damage`).
+- **Stoneface's Cleave:** Krageer flew into a raging frenzy, charging through the kitchen and splintering oak dining tables as his battleaxe cleaved through orc armor.
+- **Monastic Redirection:** Tvyordiy danced between charging warriors, redirecting clumsy greataxe swings into doorframes and battering orc ribs with spinning *Qiang* strikes.
+- **Ranged Crossfire & Holy Light:** Rhynok picked off raiders attempting to mount the cellar stairs with point-blank longbow shots, while Myagkiy held the threshold with radiant holy bursts of *Sacred Flame*.
+
+#### Unchaining Big Al & Rescuing Petunia
+Clearing the blood-spattered farmhouse, the companions unbolted the trapdoor and descended into the damp root cellar. Bound to a support post among shattered pickled egg jars was Big Al Kalazorn himself—bruised and furious, but alive.
+
+In tears of gratitude, the burly retired sheriff thanked the heroes. However, before he would celebrate, Big Al made a heartfelt plea: his beloved prize dairy cow, **[[Petunia (cow)|Petunia]]**, had bolted into the nearby foothills during the initial raid. Refusing to leave an innocent beast behind, the Order combed the scrubland until they found the frightened cow huddled in a box canyon, gently coaxing Petunia back to the ranch. Delighted, Big Al rewarded the party with his ancestral suit of **Mithral Chain Mail** and a hefty purse of gold!
+
+---
+
+#### The Apex Dominance Encounter (November 27, 2019)
+On the return journey across the foothills toward Phandalin, the temperature suddenly plummeted thirty degrees. Freezing blizzard winds whipped across the grasses as a monstrous shadow swept over the ground.
+
+Circling high in the gray overcast, two hungry **Manticores** were hunting the lowlands. Suddenly, a deafening, bone-chilling roar tore through the clouds:
+- **Cryovain's Aerial Ambush:** Swooping from the upper stratosphere with terrifying velocity, the young white dragon **[[Cryovain]]** descended upon the flyers!
+- **Savage Butchery:** Breathing a blinding cone of freezing frost that crystallized the air itself, the dragon caught the lead manticore in mid-flight. Sinking six-inch icy talons into its spine and clamping massive jaws around its neck, Cryovain tore the monstrous beast in half in mid-air!
+- **The Terrifying Lesson:** The second manticore shrieked in absolute terror, diving into the tree canopy to flee. Tucking his massive pale wings, Cryovain carried his frozen, mangled prey back toward the snowy heights of Mount Icespire.
+
+Watching from the tree line in stunned silence, the Order witnessed firsthand the catastrophic, raw power of the apex predator they were destined to face. The dragon was not merely a beast—it was a force of nature.
 
 ---
 
 ### 🌲 Chapter 6: Neverwinter Wood & The Woodland Manse Retreat
-*(December 7 – December 8, 2019 & March 7, 2020)*
+*(December 7 – December 8, 2019)*
 
-Commissioned to deliver provisions to the **[[Loggers' Camp]]**, the Order rode deep into the primeval shadows of Neverwinter Wood. Guided by Rhynok’s unerring woodcraft, the companions noticed an unnatural boar tracking them from the briars—recognizing the beast as a shapeshifted priest of the **[[Anchorites of Talos]]**.
+#### The Overgrown Manse of the Woods
+Acting on intelligence gathered from travelers, the Order marched north into the primeval depths of **Neverwinter Wood** to investigate rumors of cultist activity at the **[[Woodland Manse]]**:
 
-Determined to strike at the heart of the storm cult, the party advanced toward the vine-choked **[[Woodland Manse]]**. In an inspired stroke of psychological warfare, **Krageer tattooed a sacred warning in Orcish directly onto the hide of a shaved, one-eyed goat:**
-> *"Take this goat as an offering of sustenance. For if you do not take it and flee from this mansion and cease your worship of false and weak gods then my wrath will come upon thee. My blood spear is unforgiving and though I only have one eye... it sees all. — Gruumsh"*
+> *A dilapidated two-story manse sits surrounded by ancient trees and overgrown brambles. Strange, stick-like figures cling to the outside walls, while boars root through the overgrown vegetable gardens.*
 
-Releasing the goat toward the mansion gates, the omen terrified superstitious orc sentries into breaking ranks! Yet when the Order charged into the central courtyard around the rotting **Gulthias Tree**, they were ensnared in a lethal trap. Half-orc ritualist **[[Grannoc]]** and swarms of needle, twig, and vine blights surrounded the party, while anchorites hurled crackling *Lightning Bolts*.
+The ancient estate, once a peaceful sanctuary, had been conquered by wild **Anchorites of Talos**—fanatical storm-worshiping half-orc shapechangers who had allied with dark forest spirits to spawn hordes of animated twig, needle, and vine blights.
 
-In the desperate fighting withdrawal, Krageer fell unconscious twice under a punishing storm of spines and dark magic. As the Goliath collapsed at the edge of the clearing, winged monk **Tvyordiy Znak** swooped back through the canopy, hoisted the bleeding Goliath into his talons, and carried him through the treetops to safety—a harrowing escape that cemented their unbreakable bond.
+---
+
+#### The Battle of the Courtyard & The Swarming Horde
+As the Order approached the weed-choked courtyard, the silence was shattered by feral squeals:
+- **Anchorite Ambush:** The anchorites charged forth, their hands wreathed in crackling electricity and tipped with jagged iron claw gauntlets (`Clawed Gauntlet Attacks: 19, 20 to hit; 7, 5 slashing damage`).
+- **Thunderwave Detonation:** Chanting to the storm god Talos, an anchorite unleashed a concussive 15-foot blast of thunder (`Thunderwave: DC 14 Constitution save, dealing 11 thunder damage`), blasting the companions back into the mud!
+- **The Blight Swarm:** From every bramble hedge and rooftop eave, dozens upon dozens of razor-sharp Twig Blights and Needle Blights detached from the timbers, raining barrages of wooden thorns and clawing at the party's boots in overwhelming numbers.
+
+#### The Desperate Tactical Retreat & Level 5 Milestone
+Though Krageer and Tvyordiy fought valiantly shoulder-to-shoulder, the sheer volume of animated flora and lightning-slinging anchorites threatened to encircle and drown the party in thorns. Recognizing that stubborn pride would lead to a total party wipe, Gary and Peter executed a disciplined, tactical fighting retreat—burning away the vanguard with torches and retreating into the deep shadows of Neverwinter Wood.
+
+Licking their wounds at a concealed woodland bivouac, the companions reflected on their narrow survival. The brutal crucible tested their limits, advancing the Order to the pivotal power threshold of **Level 5**:
+- **[[Krageer Stoneface Ogolakanu]]:** Gained ***Extra Attack*** (2 attacks per Action) and ***Fast Movement*** (+10 ft speed).
+- **[[Rhynok]]:** Mastered ***Extra Attack*** and gained 2nd-level Ranger spells, adding the game-changing ***Rope Trick*** and *Pass without Trace*.
+- **[[Myagkiy Znak]]:** Unlocked legendary 3rd-level Cleric miracles, gaining the devastating crowd-shredder ***Spirit Guardians***, ***Mass Healing Word***, and ***Revivify***.
+- **[[Tvyordiy Znak]]:** Gained ***Extra Attack*** and his signature battlefield boss-killer: the nerve-shattering ***Stunning Strike***!
+
+Armed with Level 5 power, the Order was no longer a band of green sellswords—they were hardened veterans ready to purge the forest.
 
 ---
 
 ### 🪓 Chapter 7: Ankhegs at Loggers' Camp & Falcon's Hunting Lodge
 *(January 5, 2020)*
 
-Rebounding from the Manse, the companions hauled their supply wagon—pulled by the stalwart draft ox **[[Vincent (ox)|Vincent]]**—to the **[[Loggers' Camp]]** on the Neverwinter River. They found the logging camp devastated: desecrated totem poles had lured monstrous, acid-spitting **Ankhegs** from the earth.
+#### The Desolate River Clearing
+Marching along the southern banks of the River Below deep within Neverwinter Wood, the Order reached the remote timber outpost of **[[Loggers' Camp]]**:
 
-When an enormous ankheg burst through the floorboards of camp manager **[[Tibor Wester]]**'s cabin, the Order charged into the breach. Krageer grappled its mandibles while Myagkiy blinded it with sacred flame and Tvyordiy crushed its chitin with flying kicks. Liberating Tibor, the party guided the survivors to safety.
+> *Loggers' Camp is situated along the south bank of the river. A dozen tents and cabins stand in a clearing surrounded by felled trees and dense forest. Several flat-bottomed barges are moored along the riverbank, but no workers are in sight.*
 
-Seeking shelter deeper in the woods, the Order brought a fine bottle of wine to **[[Falcon's Hunting Lodge]]**, arriving just as Cryovain swooped down in a strafing frost attack. Fighting shoulder-to-shoulder with master huntsman **[[Gustaf Stellern|Falcon the Hunter]]**, the party drove the dragon off. Impressed by their martial prowess, Falcon promised Rhynok a pair of legendary ***Boots of Elvenkind*** if the Order could cleanse the Woodland Manse once and for all.
+The clearing was eerie and deserted. Massive timber logs lay half-lashed on river skiffs, half-eaten bowls of porridge sat rotting on workbenches, and gaping, acid-pitted holes pitted the muddy earth.
+
+---
+
+#### Burrowing Terrors: The Ankheg Ambush
+As the party moved toward the central office cabin, the ground buckled beneath their feet (`Ankheg Initiative: 9.11`):
+- **Chitinous Mandibles:** Chittering violently, giant subterranean monstrosities known as **Ankhegs** erupted from the soil! A massive insectoid beast clamped its barbed mandibles around Krageer's waist (`Bite Attack: 16 to hit, grappled DC 13; dealing 10 slashing + 6 acid damage`), sizzling through armor with corrosive digestive acid.
+- **Sacred Flame & Stunning Strikes:** Reacting with flawless teamwork, Myagkiy invoked divine vengeance, calling down a searing column of radiance (`Sacred Flame: DC 15 Dexterity save; 11 radiant damage`). Tvyordiy bounded across the churned mud, landing a precise ki strike that jarred the beast's nervous system.
+- **Cleaving the Shell:** Krageer flexed his massive Goliath brawn, ripping himself free from the mandibles and delivering two punishing battleaxe chops with his new *Extra Attack*, shattering the ankheg's chitinous carapace.
+
+#### Rescuing Tibor Wester & The River Barge Flight
+Battering down the barricaded door of the camp's main supply cabin, the party discovered Harbin Wester's estranged, pompous brother, **[[Tibor Wester]]**, cowering beneath a stack of heavy woolen blankets. Blubbering with gratitude, Tibor explained that the burrowing monstrosities had devoured several woodcutters before the rest fled into the wilderness.
+
+Escorting the nervous bureaucrat to the riverbank, the companions commandeered a flat-bottomed river barge, navigating downstream through the misty bends of Neverwinter Wood.
+
+#### Sanctuary at Falcon's Hunting Lodge
+Reaching safety, the Order arrived at the fortified wilderness bastion of **[[Falcon's Hunting Lodge]]**:
+
+> *Nestled in a clearing deep within Neverwinter Wood is a sturdy, two-story stone lodge with high timber-reinforced walls and a wooden palisade. A watchtower overlooks the surrounding forest, and a stable stands near the gate.*
+
+Guarding the compound was the grizzled veteran ranger **[[Falcon the Hunter]]**. Welcoming the weary adventurers, Falcon offered warm beds, steaming bowls of savory venison stew, and cold ale. Recognizing the Order's formidable martial spirit, Falcon pledged his lodge as their permanent forward operating base in Neverwinter Wood, providing vital tactical intelligence on the Cult of Talos.
 
 ---
 
 ### ⚡ Chapter 8: The Sea Cliffs & The Tower of Storms
-*(January 11, 2020)*
+*(January 11 – January 12, 2020)*
 
-Turning west to the jagged sea cliffs of the Sword Coast, the companions investigated the unnatural green light pulsing from the **[[Tower of Storms]]**. On the rocky shore, they encountered an **awakened giant crab**, who warned them of the sea elf banshee **[[Miraal]]** haunting the tidal caves below the lighthouse.
+#### The Bleak Headland on the Sea of Swords
+Following rumors of unnatural blue-white lightning lashing the coastline, the Order journeyed west to the wind-scoured sea cliffs overlooking the Sea of Swords:
 
-Entering the cavern, the party spoke with the weeping spirit, learning that half-orc anchorite **[[Moesko]]** had murdered her and stolen her prized conch shell. Scaling the sheer cliffs, several companions momentarily succumbed to the mesmerizing siren song of hunting **Harpies**, nearly stumbling into the ocean surge before breaking the charm and striking the winged predators down.
+> *A lighthouse stands atop a jagged bluff overlooking the crashing waves of the Sea of Swords. A narrow, windswept stone bridge connects the cliff to a sea stack crowned by the stone tower. At the top of the tower, a magical beacon pulses with erratic, blue-white lightning.*
 
-Storming the lighthouse keep, the Order confronted Moesko at the desecrated altar of Talos. Slaying the cultist, they climbed to the storm-lashed pinnacle to **pierce and destroy Moesko's beating, disembodied heart**, lifting the lighthouse curse forever. Returning the conch to Miraal laid her soul to rest, and true to its word, the awakened giant crab scuttled from the surf bearing an enchanted **+1 Longbow**—which passed straight to **Rhynok**.
+The lighthouse—known as the **[[Tower of Storms]]**—had been seized by a renegade anchorite of Talos named **[[Moesko]]**, whose dark necromantic rituals were deliberately luring merchant caravels to shipwreck along the rocky reef.
+
+---
+
+#### The Harpy Nest on the Windswept Bridge
+Crossing the narrow, crumbling stone bridge sixty feet above the surging ocean foam, the party was ambushed by shrieking coastal predators (`Harpy Initiatives: 16.13, 14.13, 4.13`):
+- **Luring Song & Claws:** Three hideous **Harpies** swooped down from the crags, their discordant, bewitching songs echoing across the chasm. The creatures raked with filthy talons (`Claw Attacks: 21, 21 to hit; 5, 4 slashing damage`).
+- **Monastic Precision:** Unshaken by their screeches, Tvyordiy planted his *Qiang* and swept a harpy out of mid-air with an aerial kick.
+- **Gloom Stalker Barrage:** Rhynok notched two arrows in rapid succession, burying black fletchings through the lead harpy's throat and sending the monster plummeting into the churning breakers below.
+
+#### The Lighthouse Spire & Moesko's Excised Heart
+Fighting through the ground floor, the party scaled the spiraling iron staircase into the lighthouse's crowning lantern room. There, surrounded by crackling electrical arcs, stood Moesko—his chest carved open in a gruesome ritual, his bare ribs exposing a hollow, blood-caked cavity!
+
+Pulsating inside the magical lightning lens of the beacon was **Moesko's living, beating heart**, glowing with unholy necromantic power:
+- **Lightning Arc & Claw Strike:** Moesko called down arcing lightning, slashing with his clawed gauntlets.
+- **Shattering the Conduit:** While Krageer and Tvyordiy tackled the undead anchorite, Myagkiy drove his silvered mace straight into the glass lens, smashing the pulsing, excised heart into bloody ash!
+- **The Quenched Beacon:** With his heart destroyed, Moesko dissolved into a pile of lifeless dust with a dying shriek, and the blinding storm beacon was extinguished.
+
+#### The Ghost of Miraes & Sacred Relics
+In the peaceful silence that followed, the sorrowful spectral ghost of a drowned sea elf named **[[Miraes]]** manifested in the lantern room. Weeping with gratitude for the extinguishing of the shipwreck light, Miraes revealed the location of her lost family heirlooms hidden beneath the lighthouse floorboards:
+1. ***[[Staff of Birdcalls]]*** (a wooden quarterstaff capable of producing bird songs).
+2. ***[[Boots of the Winterlands]]*** (enchanted fur boots granting resistance to cold damage and effortless movement across ice and snow—an essential relic for their impending ascent of Mount Icespire!).
 
 ---
 
 ### 🔔 Chapter 9: The 2,500 Gold Piece Bell at the Shrine of Savras
-*(January 12, 2020)*
+*(January 16, 2020)*
 
-Escorting frontier patron **[[DonJon Raskin]]** south of ruined Conyberry, the Order reached the ancient stone courtyard of the **[[Shrine of Savras]]**. The holy site had been overrun by a powerful warband of mountain orcs and towering **Ogres**.
+#### The Ruined Monastery in the Foothills
+Seeking to clear out an entrenched mountain orc encampment reported southeast of Conyberry, the Order advanced upon the **[[Shrine of Savras]]**:
 
-With DonJon cheering them on in his colorful frontier drawl, the Order unleashed their full power. Rhynok's newly acquired +1 longbow picked off orc skirmishers with deadly precision; Krageer went toe-to-toe with the ogres, trading crushing club blows for savage greataxe chops; Myagkiy anchored the center with healing wards; and Tvyordiy swept the courtyard with dazzling martial arts.
+> *Resting atop a rocky knoll in the foothills are the sprawling stone ruins of a monastery, surrounded by a crumbling stone wall. A bell tower rises above the ruins, its copper-domed roof gleaming in the sunlight. Heavily armed orcs and hulking ogres patrol the courtyard and walls.*
 
-Inside the ruined sanctuary, Rhynok and Krageer touched the uncovered stone altar of Savras, receiving a shared prophetic vision: soaring through freezing cloud banks to gaze upon **Cryovain** slumbering atop the battlements of **Icespire Hold**. Before riding out, Krageer and Tvyordiy scaled the crumbling belfry, pried loose the solid gold temple bell, and hauled the massive treasure back to Phandalin to **sell for an astounding 2,500 gold pieces**!
+The ancient sanctuary—once dedicated to Savras, the All-Seeing God of Divination—had been desecrated and turned into a heavily fortified staging camp for dozens of mountain orcs and hulking, club-wielding **Ogres**.
+
+---
+
+#### The Courtyard Purge
+Utilizing the crumbling courtyard walls for cover, the companions launched a coordinated assault:
+- Rhynok ascended an ancient ruined archway, dropping orc sentries with poison-tipped sneak attack arrows.
+- Krageer charged into the central courtyard, his battleaxe cleaving through an ogre's wooden club and bringing the massive brute down in a spray of blood.
+- Myagkiy summoned swirling radiant guardians with ***Spirit Guardians***, turning the courtyard doorway into a meatgrinder that annihilated rushing orc reinforcements.
+- Tvyordiy swept the flanks, stunning brutes and dodging lumbering counterattacks.
+
+#### The Thousand-Pound Golden Fortune
+With the garrison slaughtered, the party explored the ruined monastery. Climbing the rickety timber ladders of the belfry, Gary noticed that beneath centuries of verdigris and grime, the towering church bell was not brass or bronze—**it was cast from solid, unblemished gold!**
+
+Appraising the prize revealed its jaw-dropping worth: an astounding **2,500 gold pieces**!
+
+However, claiming the fortune posed an infamous, hilarious logistical nightmare:
+- The bell weighed well over **one thousand pounds**, dangling forty feet above a crumbling stone floor.
+- Employing ropes, pitons, pulleys, and Krageer's immense Goliath *Powerful Build*, Gary and Peter engineered an elaborate block-and-tackle rigging system.
+- With monster Athletics checks and Myagkiy's *Guidance*, the Order carefully lowered the gargantuan golden artifact without cracking it.
+- Lashed to a makeshift wooden timber travois, the four adventurers triumphantly hauled the thousand-pound bell all the way back to Phandalin, stunning Townmaster Harbin Wester and establishing the Order as legendary problem-solvers across the frontier!
 
 ---
 
 ### 🐀 Chapter 10: The Wererat Lesson at Mountain's Toe Gold Mine
-*(January 18 – January 19, 2020)*
+*(January 18 – January 20, 2020)*
 
-Escorting DonJon Raskin to oversee **[[Mountain's Toe Gold Mine]]**, the Order discovered the mining complex occupied by the Whiskered Gang, led by wererat boss **[[Zeleen Varnaster]]**. When negotiations broke down and steel was drawn, a shocking revelation struck the frontline:
+#### Escorting Don-Jon Raskin
+Following their golden triumph, the Order received a high-priority contract from Townmaster Harbin Wester: escorting newly arrived mining supervisor **[[Don-Jon Raskin]]** to take charge of **[[Mountain's Toe Gold Mine]]**:
 
-Krageer's heavy iron greataxe and Tvyordiy's wooden *Qiang* glanced harmlessly off the lycanthropes' cursed flesh! Immune to non-magical and non-silvered weapons, the wererat pack swarmed the frontline with venomous bites.
+> *The trail leads to a rocky canyon in the foothills, where a wooden guard shack and a row of tool sheds stand outside the dark entrance to a mine. Wooden trestles and iron tracks emerge from the tunnel, carrying empty ore carts.*
 
-The battle turned into an urgent carrying operation:
-* **Rhynok's +1 Longbow** punched clean through the supernatural immunity, pinning wererats to the mine timbers.
-* **Myagkiy Znak** became the decisive frontline engine: summoning swirling radiant hosts of ***Spirit Guardians***, directing his floating ***Spiritual Weapon***, and blasting wererats with *Sacred Flame*.
+Don-Jon Raskin—a boisterous, cigar-smoking man of action (`Don-Jon Initiative: 15.1`)—confidently strode into the canyon. But as the party approached the main tunnel, they discovered the miners had fled: the gold mine had been conquered and occupied by a cunning gang of **Wererats** known as the Whiskers clan!
 
-Routing the pack, the party drove Zeleen Varnaster from the mine, restored the claim to DonJon, and marched straight back to Phandalin with an urgent mandate: every weapon in their arsenal had to be coated in **alchemical silver**.
+---
+
+#### The Immunity Shock: Non-Magical Blades Bounce!
+As negotiations with wererat leader Eleanor Schmidt broke down, combat erupted across the torchlit mine shafts (`Wererat Initiatives: 9.15, 10.15, 14.15`):
+- **The Horrifying Discovery:** Krageer swung his heavy battleaxe with reckless might, landing a crushing hit directly on a wererat's neck—only for the steel blade to **bounce harmlessly off the creature's fur without leaving a single scratch!**
+- **Immunity Shock:** The entire party realized with shock that lycanthropes possessed **complete immunity to bludgeoning, piercing, and slashing damage from nonmagical, nonsilvered weapons!** Neither Krageer's iron axe nor Rhynok's standard hunting arrows could inflict a single point of physical harm!
+- **Holding the Line with Divine Magic & Ki:**
+  - With Krageer and Don-Jon temporarily helpless with mundane weapons, Myagkiy became the party's primary offensive anchor, incinerating the rat-men with beams of radiant ***Sacred Flame*** (`DC 15 Dexterity save, 5 radiant damage`).
+  - Tvyordiy utilized his monk strikes to push, trip, and grapple the wererats, keeping their infectious bites (`DC 11 Constitution save vs. wererat lycanthropy`) away from his companions.
+- **Tunnel Horrors:** Creeping up from the abandoned lower shafts, giant rats and a multi-legged **Carrion Crawler** joined the fray, snapping with paralyzing tentacles (`Tentacles: DC 13 Constitution save vs. paralysis`).
+
+#### The Diplomatic Settlement & Krageer's Vow
+Recognizing an unwinnable war of attrition in the cramped tunnels, the Order leveraged their tactical positioning. Don-Jon and the party negotiated a peaceful resolution with Eleanor Schmidt: the wererats agreed to vacate the gold mine and relocate to the ruins of the recently cleared Shrine of Savras in exchange for peace.
+
+Emerging into the daylight, Krageer Stoneface Ogolakanu looked down at his soot-stained iron battleaxe in grim realization. The mighty Goliath had stood helpless against a pack of giant rats. 
+
+Vowing never again to be powerless against supernatural foes, Krageer marched straight into the Phandalin smithy upon his return, **emptying his coin pouch to permanently plate his battleaxe in gleaming alchemical silver!**
+
+Armed with silvered steel and tested by fire, the Order of Znak set their sights on the legendary dwarven fortress of **[[Axeholm]]**!
 
 ---
 
