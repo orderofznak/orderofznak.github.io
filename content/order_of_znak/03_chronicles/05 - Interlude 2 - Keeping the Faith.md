@@ -6,7 +6,7 @@ campaign: order_of_znak
 status: archived
 type: chronicle
 act: 3.5
-last_updated: 2026-10-23
+last_updated: 2026-10-26
 tags: [tabletop, dnd5e, order-of-znak, chronicle, keeping-the-faith, interlude, archived]
 aliases: ["Interlude 2: Keeping the Faith", "Interlude 2 - Keeping the Faith", "Keeping the Faith", "Keeping the Faith Chronicle"]
 modules: ["Keeping the Faith (Homebrew)"]
@@ -15,6 +15,9 @@ dates: "June 17, 2022 – July 22, 2022"
 ---
 
 # 🔥 Interlude 2: "Keeping the Faith"
+
+![[ktf-splash.jpeg]]
+*The Order of Z'nak — "Keep the Faith" title splash from Gary's table*
 
 > **Chronicle Navigation:** ⬅️ **Previous:** [[04 - Act 3 - Sleeping Dragon's Wake|Act 3: Sleeping Dragon's Wake]] | 🏠 [[The Order of Znak Complete Campaign Chronicle|Campaign Chronicle Hub]] | ➡️ **Next:** [[06 - Act 4 - Divine Contention|Act 4: Divine Contention]]
 
@@ -44,9 +47,18 @@ flowchart TD
 
 While the town council of [[Leilon]] grappled with reports of draconic possession and rising cult movements along the High Road, an urgent missive reached the Order from the craggy, jagged peaks northeast of Neverwinter. 
 
-**[[Flanning Teldorer]]**, a devout Forge Domain cleric dedicated to Gond (the Wonderbringer, Lord of All Smiths), requested an immediate emergency council at his mountain forge in the Crags. His most revered sanctified implement—the legendary **Right Hand of Gond**, an ancient masterwork smithing hammer imbued with divine craft—had been audaciously stolen from his forge. Accompanying the plea was Flanning's talented young forge apprentice, **[[Dayne Beltran]]**, a gifted youth whose blacksmith parents had recognized his innate prodigy at the anvil and sent him at an early age to apprentice under Flanning. Dayne operated as a potent **Level 13** cleric of the Forge Domain.
+**[[Flanning Teldorer]]**, a devout Forge Domain cleric dedicated to [[Gond]] (the Wonderbringer, Lord of All Smiths), requested an immediate emergency council at his mountain forge in the Crags. His most revered sanctified implement—the legendary **[[Right Hand of Gond]]**, an ancient masterwork smithing hammer imbued with divine craft—had been audaciously stolen from his forge. Accompanying the plea was Flanning's talented young forge apprentice, **[[Dayne Beltran]]**, a gifted youth whose blacksmith parents had recognized his innate prodigy at the anvil and sent him at an early age to apprentice under Flanning. Dayne operated as a potent **Level 13** cleric of the Forge Domain.
 
 With the crisis demanding immediate eyes on the ground, **[[Tvyordiy Znak]]** took to the skies on his Aarakocra wings, flying north alone into the Crags to consult directly with Flanning. Meeting the troubled forge master, Tvyordiy learned that the thieving trail led directly toward Neverwinter. The next morning, Tvyordiy and Dayne Beltran set out south to rendezvous with [[Myagkiy Znak]], [[Krageer Stoneface Ogolakanu]], and [[Rhynok]] at the gates of the City of Skilled Hands.
+
+![[ktf-map-sword-coast.jpg]]
+*The Sword Coast — Regional map used at the table for the journey between Leilon, Neverwinter, and the Crags*
+
+![[ktf-map-road.jpeg]]
+*On the Road — Travel battlemap*
+
+![[ktf-map-flannings-forge.jpg]]
+*Flanning's Forge in the Crags — Battlemap (20×20)*
 
 ---
 
@@ -74,6 +86,9 @@ Tracking the trail of dark occult energy through Neverwinter's alleys toward Cas
 
 Initiative erupted in the courtyards. Graag lashed out with savage claws and crushing jaws, but the combined martial fury of four Level 11 champions and Level 13 Dayne proved insurmountable. Krageer raged and traded thunderous blows with the beast, Rhynok drove venomous arrows through the cultists, Tvyordiy swept the henchmen's legs, and Myagkiy battered the lycanthrope with radiant power until Graag fell lifeless to the cobbles. Searching the bodies and the nearby hideout, the champions confirmed that no trace of the stolen hearts remained—corroborating the grisly truth that the hearts had been consumed in dark planar rites.
 
+![[ktf-map-werebear-lair.jpeg]]
+*The Werebear's Lair — Battlemap (18×28)*
+
 ---
 
 ### ⛓️ Chapter 2: The Starmetal Hills Cavern & The Chain Devils
@@ -98,6 +113,9 @@ Unfamiliar with any realm by that name along the Sword Coast or the Great Wheel,
 > *The valley of **Barovia** is the oldest and best known of the Domains of Dread—an isolated demiplane shrouded in perpetual mists, ruled and corrupted by an ancient, omnipresent dark evil.*
 
 Though how and why fiends from this distant dread domain were being summoned into Faerûn remained an unresolved mystery, Gary's deliberate breadcrumbs seeded the cosmological foundation that would one day pull their successors into ***[[The Acolytes of Znak]]***!
+
+![[ktf-map-starmetal-cave.jpg]]
+*The Starmetal Hills Cavern — Battlemap (40×30)*
 
 ---
 
@@ -124,6 +142,9 @@ Ransacking the hut, the Order liberated Yasmina and claimed Balheelsa's sinister
 
 Escorting Yasmina safely out of Neverwinter Wood, the Order delivered her to the safety of the [[Iron Flagon Inn]] on the road toward Leilon, where she would be formally welcomed as an adopted ward of Aufox Manor alongside [[Smithwell and Burnice]].
 
+![[ktf-map-balheelsa-house.jpg]]
+*Balheelsa's Hut in Neverwinter Wood — Battlemap (20×20)*
+
 ---
 
 ### 🌋 Chapter 4: Mount Hotenow & The Double-Enlarge Titan Clash
@@ -135,6 +156,12 @@ Departing for Mount Hotenow, the Order descended into the volcanic fissure:
 * **The Trapped Corridors:** Navigating the winding tunnels leading toward the magma belly, Tvyordiy and Krageer—guided by Myagkiy's divine *Guidance*—skirted lethal engineering traps, tripwires, and molten vents. In an extraordinary display of patience and dexterity, the two frontline martials successfully disarmed a deadly trapped chest, extracting **4,000 gp** and **four Potions of Greater Healing**.
 * **Krageer's Discovery:** Sifting through the volcanic antechamber, Krageer claimed a magical ***Ring of Animal Influence*** bearing an ancient secondary enchantment.
 * The companions took a brief Short Rest to bind their burns and steel their resolve before descending the obsidian stairs into the central magma chamber.
+
+![[ktf-map-iron-flagon-inn.jpg]]
+*The Iron Flagon Inn — Battlemap*
+
+![[ktf-map-kevlaan-forge-entrance.jpg]]
+*Entrance to Kevlaan's Forge, Mount Hotenow — Battlemap (31×28)*
 
 **The Climax: The Legendary "Double-Enlarge" in the Magma:**  
 Emerging into the colossal caldera, the Order stood amidst churning rivers of glowing molten lava. Dominating the central stone dais was **[[Kevlaan the Merciless]]**, Queen of the Fire Giants, wielding a colossal iron greatsword with the glowing *Right Hand of Gond* mounted beside her forge anvil.
@@ -154,6 +181,9 @@ The battle was frantic, brutal, and back-and-forth:
 * The sacred **Right Hand of Gond** (The Hammer of Gond) was safely reclaimed!
 * An unknown enchanted ring and an unknown amulet.
 * Kevlaan's reign over Mount Hotenow's giants was completely shattered.
+
+![[ktf-map-kevlaan-forge.jpg]]
+*Kevlaan's Forge in the Caldera of Mount Hotenow — Battlemap (30×30)*
 
 ---
 
@@ -215,7 +245,7 @@ During this year of transition, several monumental developments reshaped the Swo
 | :--- | :--- | :--- |
 | **Dayne's +2 Plate Armor** | [[Myagkiy Znak]] | Bestowed by [[Dayne Beltran]] & Flanning; boosts Myagkiy to **24 AC**. |
 | **Ring of Animal Influence** | [[Krageer Stoneface Ogolakanu]] | Discovered in Mount Hotenow caldera corridors. |
-| **Right Hand of Gond** | [[Flanning Teldorer]] | Reclaimed from Fire Giant Queen Kevlaan; restored to Gond's altar in the Crags. |
+| **[[Right Hand of Gond]]** | [[Flanning Teldorer]] | Reclaimed from Fire Giant Queen Kevlaan; restored to Gond's altar in the Crags. |
 | **Bonus Feats (Crusher, Resilient, Lucky, Poisoner)** | The Order of Znak | Divine gift of Gond conferred by Flanning Teldorer. |
 | **Cloak of Elvenkind** | [[Rhynok]] | Delivered during the 1-year downtime interim from his 1,500 gp SDW commission. |
 | **Trapped Chest Spoils** | The Order of Znak | 4,000 gp and 4 Potions of Greater Healing disarmed in Mount Hotenow. |
@@ -223,8 +253,22 @@ During this year of transition, several monumental developments reshaped the Swo
 
 ---
 
+## 🎲 Table Tokens
+The tokens Gary used at the table for *Keeping the Faith*:
+
+| ![[token-krageer.png]] | ![[token-rhynok.png]] | ![[token-tvyordiy.png]] | ![[token-myagkiy.png]] |
+| :---: | :---: | :---: | :---: |
+| [[Krageer Stoneface Ogolakanu]] | [[Rhynok]] | [[Tvyordiy Znak]] | [[Myagkiy Znak]] |
+| ![[token-flanning.png]] | ![[token-dayne.png]] | ![[token-leopold.png]] | ![[token-kevlaan.png]] |
+| [[Flanning Teldorer]] | [[Dayne Beltran]] | [[Leopold]] | [[Kevlaan the Merciless]] |
+| ![[token-balheelsa-normal.png]] | ![[token-balheelsa-hag.png]] | | |
+| [[Balheelsa]] (disguised) | [[Balheelsa]] (true form) | | |
+
+---
+
 ## 💡 Behind the Screen: Gary's DM Screen & Table Trivia
 
+* **Original Title:** Gary's title splash for the adventure reads ***"Keep the Faith"***.
 * **Gary's Second DM Arc:** *Keeping the Faith* was the second homebrew adventure Gary wrote and ran for the table, acting as an essential narrative hinge connecting the draconic terror of *Sleeping Dragon's Wake* with the final siege of *Divine Contention*.
 * **The "Double-Enlarge" Rule of Cool:** In official 5e rules, magical effects with the same name do not stack, and *Potion of Growth* explicitly references the *Enlarge* spell. However, Gary and Peter enthusiastically invoked the **Rule of Cool**: because one effect was an alchemical consumable and the other was a divine concentration spell, stacking `Medium` &rarr; `Large` &rarr; `Huge` created an unforgettable, cinematic Goliath-vs-Giant showdown that became one of the campaign's greatest table memories.
 * **Barovia Breadcrumbs for *The Acolytes of Znak*:** The cultist parchment summoning "the fiends of Barovia" and Myagkiy's *Legend Lore* check were intentionally seeded by Gary to establish early continuity with the Ravenloft domain, laying the narrative groundwork for their upcoming campaign *The Acolytes of Znak*.

@@ -6,7 +6,7 @@ campaign: order_of_znak
 status: archived
 type: monster
 species: giant
-last_updated: 2026-10-23
+last_updated: 2026-10-26
 tags: [monster, boss, fire-giant, queen, surtur, kevlaan, mount-hotenow, keeping-the-faith, order-of-znak]
 aliases: ["Kevlaan the Merciless", "Kevlaan", "Queen Kevlaan", "Fire Giant Queen"]
 ---
@@ -15,8 +15,14 @@ aliases: ["Kevlaan the Merciless", "Kevlaan", "Queen Kevlaan", "Fire Giant Queen
 
 ## 🛡️ Overview & Lore
 * **Identity:** The ruthless, towering **Queen of the Fire Giants** who established her molten seat of power deep within the volcanic caldera of **Mount Hotenow**.
-* **Devotee of Surtur:** A fanatical worshiper of **Surtur**, the legendary fire giant patron god of smithing, warfare, and elemental fire. Surtur stands as an ancient divine adversary to **Gond**, the Lord of All Smiths.
-* **The Stolen Relic:** Acquired the sacred relic **The Right Hand of Gond** (The Hammer of Gond) through dark brokers, intending to harness its masterwork divine power to forge catastrophic implements of war and lead a massive giant-and-orc army to crush Neverwinter.
+* **Devotee of Surtur:** A fanatical worshiper of **Surtur**, the legendary fire giant patron god of smithing, warfare, and elemental fire. Surtur stands as an ancient divine adversary to **[[Gond]]**, the Lord of All Smiths.
+* **The Stolen Relic:** Acquired the sacred relic **[[Right Hand of Gond|The Right Hand of Gond]]** (The Hammer of Gond) through dark brokers, intending to harness its masterwork divine power to forge catastrophic implements of war and lead a massive giant-and-orc army to crush Neverwinter.
+
+---
+
+## 🎨 Character Artwork
+![[token-kevlaan.png]]
+*Kevlaan the Merciless — Table token from "Keeping the Faith"*
 
 ---
 

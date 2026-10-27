@@ -6,7 +6,7 @@ campaign: order_of_znak
 status: archived
 type: npc
 species: human
-last_updated: 2026-10-23
+last_updated: 2026-10-26
 tags: [npc, human, majordomo, butler, leilon, order-of-znak, acolytes-of-znak, hq]
 aliases: ['Leopold', 'Majordomo Leopold', 'Butler Leopold']
 ---
@@ -16,6 +16,12 @@ aliases: ['Leopold', 'Majordomo Leopold', 'Butler Leopold']
 ## 🛡️ Overview & Identity
 * **Identity:** Human majordomo, trusted driver, and permanent steward of [[The Order of Znak]]'s fortified headquarters at **Aufox Manor** in [[Leilon]].
 * **Role & Demeanor:** Dignified, highly organized, and unflappable. Leopold represents the steady domestic and intelligence anchor of the Order, ensuring that the chaotic heroes always return from deadly wilderness campaigns to hot baths, clean linens, organized armories, and a well-defended home.
+
+---
+
+## 🎨 Character Artwork
+![[token-leopold.png]]
+*Leopold — Table token from "Keeping the Faith"*
 
 ---
 

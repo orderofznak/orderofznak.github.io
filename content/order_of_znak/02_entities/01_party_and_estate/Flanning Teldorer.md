@@ -5,7 +5,7 @@ system: dnd5e
 campaign: order_of_znak
 status: archived
 type: npc
-last_updated: 2026-10-23
+last_updated: 2026-10-26
 tags: [npc, forge-cleric, gond, flanning-teldorer, keeping-the-faith, order-of-znak]
 aliases: ["Flanning Teldorer", "Flanning Telldorer", "Flanning"]
 ---
@@ -13,10 +13,16 @@ aliases: ["Flanning Teldorer", "Flanning Telldorer", "Flanning"]
 # 🔨 Flanning Teldorer
 
 ## 🛡️ Overview & Lore
-* **Identity:** A venerable, master-smith and high cleric of the **Forge Domain** dedicated to **Gond** (the Wonderbringer, Lord of All Smiths).
+* **Identity:** A venerable, master-smith and high cleric of the **Forge Domain** dedicated to **[[Gond]]** (the Wonderbringer, Lord of All Smiths).
 * **Sanctuary & Forge:** Maintains a secluded, consecrated mountain forge high in **the Crags** northeast of Neverwinter, channeling geothermal vents and sacred rites to craft masterwork weapons and divine reliquaries.
 * **Master & Mentor:** Teacher and mentor to gifted young prodigy **[[Dayne Beltran]]**, guiding the boy's natural smithing brilliance into devout holy service to Gond.
-* **The Sacred Relic:** Keeper of the **Right Hand of Gond** (The Hammer of Gond), an ancient, consecrated smithing artifact capable of forging monumental implements of war.
+* **The Sacred Relic:** Master of Ippen's holy forge and keeper of the **[[Right Hand of Gond]]** (The Hammer of Gond), an ancient, consecrated smithing artifact capable of forging monumental implements of war.
+
+---
+
+## 🎨 Character Artwork
+![[token-flanning.png]]
+*Flanning Teldorer — Table token from "Keeping the Faith"*
 
 ---
 
