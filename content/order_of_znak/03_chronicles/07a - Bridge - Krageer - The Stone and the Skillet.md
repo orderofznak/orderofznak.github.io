@@ -512,7 +512,7 @@ They went south at the first thaw of the fifth spring, a Goliath of the Ogolakan
 > - Skywatchers, dawncallers, lamentors, volok-thea (shunning), no written law, and chieftains holding their seat by proving fitness.
 
 > [!note]- Notes for the DM
-> - **Fighter 6:** The level-up grants an Ability Score Improvement or feat and level-up HP at each Fighter level. The story doesn't narrate any of it; you'll handle it on the sheet.
+> - **Fighter 6:** Krageer took **+2 Constitution** (CON 18) at Fighter 6, finishing at **Level 15** (Barbarian 9 / Fighter 6) with **164 HP**. The duel's numbers use his pre-ASI stats (CON +3).
 > - **Wiki fixes noted along the way:** The Krageer page's progression table (shows Barbarian 10 / Fighter 3 at some levels, and a Great Weapon Master feat at level 8) conflicts with the header (Barbarian 9 / Fighter 4). The wiki also gives Krageer's Potion of Growth as already used, which is why it was removed from the story.
 > - **Cooragh's sheet (confirmed by the DM):** Half-orc Fighter 5, STR 16, CON 14, AC 17, HP 44, iron greatsword, Cook's utensils +5. The story assumes DEX and WIS saves of +1. The marriage and the name Thaluu are canon.
 > - **Not unified with other sources:** The wiki's Bridge-era captions say "10+ years post Divine Contention", and the story keeps its own dating vague. Smithwell's flash-forward is a labeled later reference.

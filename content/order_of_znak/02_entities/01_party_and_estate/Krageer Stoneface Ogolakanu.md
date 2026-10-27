@@ -89,6 +89,7 @@ tags: [character-sheet, goliath, barbarian, fighter, krageer, order-of-znak, bri
 * **Duel with Hrimgarra, the Pale Widow:** In the Glass Hall (Kuvimeno), faced an Adult White Dragon, [[Cryovain]]'s elder clutch-sibling, who had come to answer her kin's death. When she broke her word and took the sky, Krageer used Action Surge to leap onto her neck and **haul her bodily to the ice**, then landed a 47-damage *Dragon Slayer* critical. With Cooragh he brought her to 13 HP, and at her request granted her an honorable death. Her hoard became the clans' common **Peace-Hoard** (Pamolivu).
 * **The Binding of Stones:** Wed Cooragh on the Ogolakanu mountain before witnesses from all four fires, with a three-day feast for four hundred.
 * **The Call South:** After a fourth winter in the high country, answered [[Burnice Znak]]'s summons over the Sending Stone with one word, *"Coming,"* and returned with Cooragh to [[The Wayside Inn]].
+* **Level 15 Milestone:** Advanced to **Fighter 5** after the War of Milagove and **Fighter 6** after the duel with Hrimgarra, reaching **Level 15** (Barbarian 9 / Fighter 6) and taking **+2 Constitution** (CON 18).
 
 ---
 
@@ -121,12 +122,15 @@ tags: [character-sheet, goliath, barbarian, fighter, krageer, order-of-znak, bri
 
 ## 📊 Character Build, Level Progression & Gear Acquisition Log
 
-### 🧬 Final Level 13 Build & Ability Scores
+### 🧬 Current Level 15 Build & Ability Scores (Bridge Era)
 * **Player:** Gary
 * **Race & Background:** Goliath | Soldier
-* **Class Split (Level 13):** Level 9 Barbarian (*Path of the Totem Warrior — Bear Totem*) / Level 4 Fighter (*Champion*)
-* **Ability Scores:** `STR 20 (+5)` | `DEX 13 (+1)` | `CON 16 (+3)` | `INT 10 (+0)` | `WIS 12 (+1)` | `CHA 6 (-2)`
+* **Class Split (Level 15):** Level 9 Barbarian (*Path of the Totem Warrior — Bear Totem*) / Level 6 Fighter (*Champion*)
+* **Ability Scores:** `STR 20 (+5)` | `DEX 13 (+1)` | `CON 18 (+4)` | `INT 10 (+0)` | `WIS 12 (+1)` | `CHA 6 (-2)`
 * **Armor Class (AC):** **18 AC** (+2 Scale Mail Armor)
+* **Hit Points:** **164 HP** | **Hit Dice:** 9d12 + 6d10
+* **Proficiency Bonus:** +5 | **Saving Throws:** STR +10, CON +9
+* **CON-Scaled Features:** *Stone's Endurance* reduces damage by 1d12 + 4; *Second Wind* restores 1d10 + 6 HP.
 
 ### 📈 Level-by-Level Progression
 | Level / Tier | Class & Milestone | Mechanical Features, Subclass & ASIs Taken |
@@ -144,7 +148,9 @@ tags: [character-sheet, goliath, barbarian, fighter, krageer, order-of-znak, bri
 | **Level 10** | Barbarian 9 / Fighter 1 (*Post-Ghost Ship Milestone — Sept 18, 2020*) | Multiclass into **Fighter 1**: Driven by combat discipline gained fighting alongside a focused, high-precision team (Tvyordiy's martial arts, Rhynok's sniper discipline, and Myagkiy's frontline focus). Gained **Fighting Style: Great Weapon Fighting** (rerolling 1s and 2s on Greataxe damage) and ***Second Wind*** (bonus action 1d10+1 self-heal). |
 | **Level 11** | Barbarian 10 / Fighter 1 (*SDW Conclusion & [[05 - Interlude 2 - Keeping the Faith|Keeping the Faith]]*) | Barbarian 10: ***Spirit Walker*** (ritual cast of *Commune with Nature*). **Bonus Feat (Gond's Blessing):** ***Lucky*** (3 luck points per long rest to reroll attack rolls, ability checks, saving throws, or make an enemy reroll). Operated at Level 11 through *Keeping the Faith*. |
 | **Level 12** | Barbarian 9 / Fighter 3 (*Act 4: [[06 - Act 4 - Divine Contention|Divine Contention]]*) | Multiclass progression: Fighter 2 (***Action Surge***), Fighter 3 (Champion archetype: ***Improved Critical 19–20***). |
-| **Level 13** | Barbarian 9 / Fighter 4 (*Act 4 Climax Milestone — Dec 18, 2022*) | **ASI:** **+2 Strength** (maximizing physical power, melee attack bonuses, and Athletics). Capped Level 13 build as the champion of Leilon. |
+| **Level 13** | Barbarian 9 / Fighter 4 (*Act 4 Climax Milestone — Dec 18, 2022*) | **ASI:** **+2 Strength** (maximizing physical power, melee attack bonuses, and Athletics). Level 13 build as the champion of Leilon at the close of Act 4. |
+| **Level 14** | Barbarian 9 / Fighter 5 (*Bridge Saga: War of Milagove — [[07a - Bridge - Krageer - The Stone and the Skillet|The Stone and the Skillet]]*) | Fighter 5 (***Extra Attack***, which does not stack with the Barbarian's Extra Attack). Hard-won command experience leading the united goliath clans at Cinder Ford. |
+| **Level 15** | Barbarian 9 / Fighter 6 (*Bridge Saga: Duel with Hrimgarra — [[07a - Bridge - Krageer - The Stone and the Skillet|The Stone and the Skillet]]*) | **ASI:** **+2 Constitution** (CON 16 → **18**), raising max HP to **164**, CON saves to +9, and *Stone's Endurance* to 1d12 + 4. Earned in the Glass Hall against the Pale Widow. |
 
 ### 🎒 Weapons, Armor & Item Acquisition Log
 | Item / Weapon | Where & When Acquired | Mechanical Properties & Campaign Notes |
