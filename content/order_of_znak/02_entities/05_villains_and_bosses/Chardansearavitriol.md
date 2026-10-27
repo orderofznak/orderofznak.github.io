@@ -18,6 +18,9 @@ aliases: ['Ebondeath']
 ![[Chardansearavitriol.jpg]]
 *Chardansearavitriol — Canonical Profile Illustration*
 
+![[ebondeaths-lair.png]]
+*The Sunken Uthtower Mausoleum of Chardansearavitriol in the Mere of Dead Men*
+
 ## 🛡️ Overview & Canon Profile
 * **Species / Heritage:** Black dragon disembodied dracolich
 * **Role & Occupation:** Adventurer / Resident

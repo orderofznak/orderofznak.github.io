@@ -399,6 +399,9 @@ Recognizing their unmatched prowess, Lord Neverember issued two monumental bount
 
 ### 6. The Dragon's Mausoleum & The Possession of Tvyordiy Znak (September 11 – October 29, 2022)
 
+![[ebondeaths-lair.png]]
+*The Sunken Mausoleum of Ebondeath — Excavated ruins beneath the Mere of Dead Men*
+
 Armed with the **8,000 gp** bounty issued by Lord Neverember, the newly minted Level 12 champions set out to extinguish the dark heart of the Myrkulite death cult. Their target was the subterranean tomb of the ancient dracolich **Chardansearavitriol**, known to legend as **[[Ebondeath]]**. 
 
 #### The Barge Journey into the Mere of Dead Men (September 11, 2022)
