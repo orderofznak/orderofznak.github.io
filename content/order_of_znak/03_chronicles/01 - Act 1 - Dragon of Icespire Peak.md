@@ -431,54 +431,167 @@ Armed with silvered steel and tested by fire, the Order of Znak set their sights
 ### 🏰 Chapter 11: The Chimney Rappel & Purge of Axeholm
 *(January 20 – February 2, 2020)*
 
-With the Phandalin Town Council desperate for a fortified evacuation refuge against Cryovain, the Order was tasked with securing the ancient dwarven fortress of **[[Axeholm]]**. Finding the fortress portcullis barred from within, the party scaled the mountain crags on January 20 to a sheer natural ventilation chimney high above the ramparts.
+#### The Mountain Stronghold of Axeholm
+With Townmaster Harbin Wester and the Phandalin Town Council terrified of Cryovain's raids and seeking a secure, fortified redoubt to evacuate the town's citizens if the dragon attacked, the Order accepted the mission to secure the ancient dwarven fortress of **[[Axeholm]]**:
 
-Under Myagkiy’s prayerful guidance, all four companions rappelled down the soot-blackened flue, dropping into the dark interior in a devastating surprise attack on a nest of seven giant spiders. From there, the Order conducted a methodical, room-by-room purge of the haunted halls across February 1–2: cleansing the West Hall and Smithy of flesh-eating dwarven **Ghouls** and swarms of **Stirges**.
+> *Carved into the face of a craggy mountain is an imposing fortress facade. Two stone portcullises block the tunnel entrance, flanked by murder holes. A defensive rampart and battlements crown the front of the stronghold, while a narrow stone chimney vents from the cliff above.*
 
-In the upper Haunted Hall, they faced the sorrowful moon elf banshee **[[Vyldara]]**. When the spirit unleashed her soul-chilling *Wail*, the four champions stood like bedrock—not a single member faltering before her shriek—before striking her down with silvered strikes and radiant bursts. Behind a false hearth in the castellan's bedchamber, Myagkiy uncovered and attuned the ***Gauntlets of Ogre Power***, while Krageer donned the menacing ***Dread Helm***, his eyes glowing like crimson embers beneath the steel visor.
+Arriving at the fortress on January 20, the companions found the massive stone portcullises barred tight from within. Direct entry through the gauntlet of murder holes was impossible. Scaling the craggy mountain face above the ramparts, Rhynok spotted a narrow natural ventilation chimney venting from the living rock fifty feet above the roofline.
+
+---
+
+#### The Chimney Rappel & Spider Nest (January 20, 2020)
+Under Myagkiy’s prayerful guidance, all four companions secured heavy climbing ropes and rappelled down the soot-blackened flue into the subterranean darkness. 
+
+Dropping silently through the chimney into the upper fortress corridors, the Order launched an immediate surprise assault on a nest of lurking monstrosities (`Giant Spider Initiatives: 14.16, 14.16, 13.16, 11.16, 16.16, 22.16, 6.16`):
+- Seven giant spiders scuttled across web-choked ceilings, spitting sticky webs.
+- Myagkiy called down holy radiance (`Sacred Flame: DC 15 Dexterity save; dealing 12 radiant damage`), burning webs away.
+- Krageer and Tvyordiy hewed through the arachnid vanguard, securing the upper landing as their fortress bridgehead.
+
+#### Room-by-Room Purge: Ghouls & Stirges (February 1 – February 2, 2020)
+Returning to systematically clear the stronghold, the Order methodically purged the dark, echoing halls room by room:
+- **The West Hall & Smithy:** In the lower quarters, swarms of ravenous dwarven **Ghouls** ambushed the party from crumbling burial niches (`Ghoul Initiatives: 22.15, 11.15, 11.15, 4.15, 17.15, 15.15`). The undead snapped with filthy fangs (`Bite Attacks: 13, 11, 12, 9 to hit; dealing 11, 10, 8, 13 piercing damage`), attempting to paralyze the frontline.
+- **Holy Fire & Martial Defense:** Myagkiy turned the tide with radiant spells (`Sacred Flame: DC 15 Dexterity save; 8 radiant damage`), while Krageer's silvered battleaxe and Rhynok's close-range archery butchered the flesh-eaters. Swarms of blood-sucking **Stirges** (`Initiatives: 4.16, 20.16, 8.16, 11.16; Blood Drain Attacks: 12 to hit, 4 piercing`) descended from high vaulted ceilings, only to be swatted out of the air.
+
+#### The Haunted Hall: Vyldara's Wail
+Ascending into the upper Haunted Hall, the air turned freezing cold as a terrifying, sorrowful apparition drifted through the masonry: the moon elf banshee **[[Vyldara]]** (`Banshee Initiative: 5.14`):
+- Mourning the tragic fall of Axeholm, the banshee unleashed her soul-shattering ***Wail***!
+- Drawing upon unshakable resolve, the four companions stood like mountain bedrock—not a single member faltering before her terrifying shriek.
+- Myagkiy channeled divine wrath (`Sacred Flame: DC 15 Dexterity save; 4 radiant damage`), while Krageer and Tvyordiy drove silvered steel and ki strikes into the spirit, dissipating Vyldara into peaceful rest.
+
+#### The Castellan's Secret Vault & The Dread Helm
+Searching the castellan's bedchamber on the upper tier, Myagkiy made a thorough Perception check, discovering a concealed latch inside a false fireplace hearth:
+1. ***[[Gauntlets of Ogre Power]]***: Placed within a velvet-lined iron coffer, these engraved dwarven gauntlets set the wearer's Strength to **19 (+4)**! Myagkiy slipped them onto his hands, transforming the Life Domain cleric into a formidable frontline powerhouse.
+2. ***[[Dread Helm]]***: Claimed by Krageer, this menacing steel visor cast a permanent crimson, hellish glow across the Goliath's eyes (`"Yo, Stoneface looks terrifying!"`).
+
+With the portcullis cranked open and every monster eradicated, Axeholm stood fully secured as a safe dwarven sanctuary for the folk of Phandalin.
 
 ---
 
 ### 🗡️ Chapter 12: Dragon Barrow & The Dragon Slayer Blade
 *(February 8 – February 9, 2020)*
 
-Guided by ancient frontier lore, the Order journeyed past ruined Conyberry to the grassy mounds of **[[Dragon Barrow]]**, tomb of the noble knight Lady Tanamere Alagondar. 
+#### The Grassy Mound of Lady Tanamere
+Seeking a legendary weapon capable of piercing Cryovain's thick dragon scales, the Order marched northwest past the ruined hamlet of Conyberry to the ancient burial site of **[[Dragon Barrow]]**:
 
-Navigating the submerged sarcophagus catacombs, the champions extinguished a predatory Will-o'-Wisp and confronted an unseen **Invisible Stalker** guarding the crypt of the dragon Azdraka. Anticipating the stalker's strikes, Tvyordiy landed stunning spear blows into the rippling air while Krageer cleaved the unseen entity in twain.
+> *A gentle, grassy mound rises from the rolling hills. Embedded in the southern flank of the mound is a heavy stone door sealed with dwarven runes and the carved image of a dragon slayer wielding a glowing longsword.*
 
-In the innermost vault, Krageer lifted the legendary ***Dragon Slayer* Longsword** from Lady Alagondar's sarcophagus—its ancient runes glowing with radiant vengeance against draconic scale. Exiting the mound, the Order forged an alliance with noble centaur **[[Xanth]]**, who pledged his hooves and spear to help them crush the storm cultists of Neverwinter Wood.
+The barrow was the resting place of the legendary hero **Lady Tanamere Alagondar** and her faithful companions, who centuries ago had slain the green dragon Azdraka before perishing of their wounds.
+
+---
+
+#### The Catacombs & The Invisible Stalker (February 8, 2020)
+Unsealing the rune-carved stone door, the companions descended into muddy, partially flooded catacombs:
+- **Will-o'-Wisps in the Dark:** Floating orbs of malevolent light detached from the shadows (`Will-o'-Wisp Initiatives: 25.28, 27.28, 13.28`). The wisps shocked with electrical discharges (`Shock Attacks: 6, 11 to hit; 5, 9 damage`) before winking into invisibility (`Invisibility feature`). Rhynok's keen darkvision and Myagkiy's *Sacred Flame* pinned and destroyed the malevolent entities.
+- **The Guardian of Azdraka's Crypt:** In the chamber housing the bones of the green dragon Azdraka, an unseen elemental horror struck from empty air: an **Invisible Stalker**!
+- The unseen guardian slammed with concussive force (`Slam Attacks: 13, 26, 25 to hit; dealing 8, 19, 12 bludgeoning damage`). Anticipating the disturbance in the air, Tvyordiy bounded forward, landing stunning unarmed blows into the invisible vortex, while Krageer swung his silvered battleaxe in wide cleaves until the wind elemental dissipated into harmless breeze.
+
+#### Claiming the Dragon Slayer Longsword
+Entering the central crypt, the Order reached the stone sarcophagus of Lady Tanamere Alagondar. Prying open the heavy lid with solemn respect, Krageer lifted the ancient warrior's prized relic:
+
+> 🗡️ ***[[Dragon Slayer]] Longsword:***
+> *A masterwork +1 Longsword etched with soaring draconic glyphs along the fuller. Against dragons, the blade pulses with radiant fury, dealing an additional **+3d6 slashing damage** on every strike!*
+
+Resting alongside the blade was a glittering ***Necklace of Fireballs*** (adorned with explosive beads). Armed with the dragon-slaying weapon, the companions had found the key to Cryovain's downfall.
+
+#### Alliance with Xanth the Centaur (February 9, 2020)
+Emerging from the barrow into the sunlit meadow, the Order encountered a patrol of mountain orcs (`Orc Initiatives: 17.12, 19.12, 16.12, 11.12, 6.12`). Galloping into the fray with spear raised was the noble centaur scout **[[Xanth]]** (`Centaur Initiative: 12.14`).
+
+Fighting alongside Xanth's powerful hooves and longbow, the Order annihilated the orc patrol. Xanth warned the heroes that the storm cult of Talos was preparing a catastrophic blood sacrifice deep within Neverwinter Wood to summon a primordial behemoth. Pledging his spear to their cause, Xanth joined the Order to strike at the heart of the storm.
 
 ---
 
 ### ⚡ Chapter 13: Thunder on the Hill: Slaying Gorthok at Circle of Thunder
-*(April 4 – May 23, 2020)*
+*(March 7 – April 4, 2020)*
 
-With the dragon-slaying blade in hand, the Order returned to Neverwinter Wood alongside **[[Xanth]] the Centaur** to settle their blood feud with the storm cultists who had sacked Falcon's Hunting Lodge.
+#### The Storm Megaliths in Neverwinter Wood
+Guided by Xanth, the Order journeyed into the deepest, darkest thickets of Neverwinter Wood toward the dread ritual site of the **[[Circle of Thunder]]**:
 
-Intercepting anchorite warlord **[[Yargath]]** and her patrol of ten Talosian orcs on a custom wilderness battlefield, the Order annihilated the vanguard without suffering a single casualty. Ascending the standing stones atop the **[[Circle of Thunder]]**, the party breached the storm cult's grand ritual amid deafening thunderclaps and driving rain:
-* Cult leaders **[[Flenz]]** and **[[Narux]]** were struck down as they hurled *Lightning Bolts*.
-* Slaying the summoners triggered the arrival of **[[Gorthok]] the Thunder Boar**, a colossal primordial beast with crackling lightning tusks.
-* Krageer met the Thunder Boar's charge head-on, shrugging off lightning jolts in a Bear Totem fury; Tvyordiy battered its knees with concussive strikes; Myagkiy shredded the swarming blights with *Spirit Guardians*; and Rhynok poured deadeye arrows into its flanks.
+> *Standing atop a barren, storm-lashed hill in Neverwinter Wood is a circle of ancient megaliths. Rain lashes the standing stones, and the smell of ozone is thick in the air as wild chanting echoes from within the circle.*
 
-When Gorthok collapsed into the muddy stones, the storm cult of Talos was broken forever across the Sword Coast. In the caves beneath the altar, Myagkiy claimed an enchanted ***+1 Shield***, and Falcon proudly awarded Rhynok his long-awaited ***Boots of Elvenkind***.
+The hilltop was a scene of wild, pagan frenzy: Anchorites of Talos—led by high summoners **[[Flenz]]** and **[[Narux]]**—danced around a central stone altar in pouring rain, chanting to summon the wrath of the Storm God.
+
+---
+
+#### The Battle of the Standing Stones (March 7, 2020)
+Breaching the perimeter alongside Xanth (`Centaur Pike Attack: 9, Hooves: 7; Longbow: 13, 10 to hit`), the Order attacked the cultist vanguard:
+- **Twig Blight Ambush:** Swarms of animated Twig Blights detached from the muddy scrub (`Twig Blight Initiatives: 11.13, 11.13; Claws Attacks: 9, 14, 15, 21 to hit`).
+- **Lightning Bolt Detonation:** Standing atop the altar stones, an Anchorite leveled his clawed gauntlets and unleashed a deafening 100-foot stroke of lightning (`Lightning Bolt: 8d6 lightning damage, DC 14 Dexterity save`)! The bolt blasted through the mud, singeing the heroes' armor.
+- Myagkiy stepped into the storm, calling down divine punishment (`Sacred Flame: DC 15 Dexterity save, 9 radiant damage`), while Rhynok and Krageer cut down Flenz and Narux atop the altar.
+
+#### Summoning Gorthok the Thunder Boar (April 4, 2020)
+With the summoners slain, the ritual reached an uncontrollable climax. The sky turned pitch black, and a colossal bolt of lightning struck the bloody altar stones.
+
+Bursting from the smoking mud was **[[Gorthok]] the Thunder Boar**—a titanic, primordial monstrosity the size of an elephant, with tusks crackling with electrical fury:
+- **Gorthok's Lightning Bolt:** The beast leveled its snout, shooting a concentrated bolt of blue lightning (`Gorthok Lightning Bolt Attack: 6 to hit; DC 15 Dexterity save, dealing 18 lightning damage`)!
+- **Lightning Tusks & Thunder Hooves:** Charging with earth-shattering weight, Gorthok gored with crackling tusks (`Lightning Tusks Attack: 17 to hit; 11 slashing + 4 lightning damage`) and stomped with thunderous hooves (`Thunder Hooves Attack: 14 to hit; 13 bludgeoning + 7 thunder damage`).
+- **Gorthok's Resilience:** The beast shrugged off minor wounds (`Gorthok Constitution check: 14`).
+- **The Coordinated Strike:** 
+  - Krageer planted his boots and met the colossal boar's charge, absorbing thunder shocks in a raging Bear Totem fury.
+  - Tvyordiy bounded across Gorthok's flanks, landing concussive ki strikes that rattled the beast's skull.
+  - Myagkiy cast ***Spirit Guardians*** (`DC 15 Wisdom save, 14 radiant/necrotic damage`), creating a swirling storm of holy spirits that shredded dozens of swarming Twig Blights (`Initiatives: 20.13, 11.13, 10.13, 4.13, 3.13, 19.13`).
+  - Rhynok buried heavy broadhead arrows into Gorthok's eye socket.
+
+With a final, deafening squeal of dying thunder, Gorthok collapsed into the churned mud, dissolving into rain and ozone. The storm cult of Talos was completely broken across the Sword Coast!
+
+Exploring the subterranean caves beneath the ritual altar, Myagkiy claimed an ancient enchanted ***+1 Shield***, while Falcon the Hunter proudly presented Rhynok with the ***Boots of Elvenkind***.
+
+With the forest pacified, only one final reckoning remained: climbing Mount Icespire to slay the dragon.
 
 ---
 
 ### 🐉 Chapter 14: The Climax: The Rooftop Siege of Icespire Hold
-*(May 31, 2020)*
+*(May 23 – May 31, 2020)*
 
-On the final day of May 1920, [[The Order of Znak]] made their ascent into the blizzard-swept heights of the Sword Mountains, climbing the frozen stairs toward **[[Icespire Hold]]**.
+#### Ascending Mount Icespire (May 23, 2020)
+Equipped with Lady Tanamere's ***Dragon Slayer Longsword*** and wearing the cold-resistant ***Boots of the Winterlands***, the Order began their final trek into the frozen heights of the Sword Mountains. 
 
-Cutting down a hobgoblin warband along the icy spurs, the companions breached the keep, swept past the treacherous **[[Stone-Cold Reavers]]**, and ascended the frost-crusted stairs to the open fortress roof. Stepping out into the howling gale, the heroes came face-to-face with **[[Cryovain]]**, perched atop the battlement crags surrounded by a swarm of **four cackling Ice Mephits**:
-* Myagkiy called down a blessing of divine fortune upon his brothers and directed his floating *Spiritual Weapon* to swat the ice mephits out of the air.
-* Cryovain opened his maw and unleashed a devastating torrent of glacial *Cold Breath* across the icy rooftop. Weathering the blast, Krageer and Tvyordiy charged across the slippery stone.
-* **Tvyordiy Znak landed a series of clutch *Stunning Strikes***, driving his silvered *Qiang* into the dragon's pressure points and locking the young white dragon in frozen paralysis!
-* Seizing the opening, **Krageer Stoneface Ogolakanu** roared in a furious Bear Totem rage and brought the ***Dragon Slayer* Longsword** down with crushing, two-handed power strikes—its ancient runes blazing with fury as it bit deep through white scales and cracked bone.
-* Rhynok loosed a final pair of black-shafted arrows from his +1 longbow straight through the dragon's throat.
+Climbing the wind-swept switchbacks through blizzard snowdrifts:
+- The party ambushed a patrol of mercenary Hobgoblins guarding the frozen trail (`Hobgoblin Initiatives: 19.12, 14.12, 3.12`). Myagkiy scoured the guards with holy fire (`Sacred Flame: DC 15 Dexterity save, 11 radiant damage`).
+- Passing through the fortified gateway, swarms of frozen Stirges fluttered from the eaves (`Stirge Initiatives: 23.16, 13.16, 6.16; Blood Drain Attack: 6 to hit, 4 piercing`).
 
-With a final, earth-shaking shudder, **Cryovain** collapsed lifeless across the frozen battlements of Icespire Hold. Act 1 was won.
+Reaching the mountain peak, the ancient stone citadel loomed through the howling gale:
 
-Returning down the mountain to Phandalin as celebrated legends of the frontier, the Order of Znak found their fame carried down the High Road to **Lord Protector Dagult Neverember** in Neverwinter and the **Lords of Waterdeep**—setting the stage for their next great destiny in coastal **[[Leilon]]**.
+> *Icespire Hold is a stone fortress clinging to the frozen, wind-scoured peak of Mount Icespire. Snow drifts against the walls, and icicles hang like daggers from the battlements. A cold wind howls through the arrow slits, and the icy silence is broken only by the distant, chilling roar of a dragon.*
+
+---
+
+#### The Rooftop Siege: Cryovain & The Ice Mephits (May 31, 2020)
+Infiltrating the lower barracks and slipping past the treacherous, cowardly **[[Stone-Cold Reavers]]**, the companions ascended the frost-crusted stone stairs, kicking open the iron doors to the fortress roof.
+
+Stepping onto the open, ice-slick battlements eighty feet above the mountain abyss, the heroes came face-to-face with the terror of Phandalin:
+
+Perched atop the crumbling masonry was **[[Cryovain]]**, the young white dragon (`Young White Dragon Initiative: 8.1`), flanked by four cackling elemental minions—**Ice Mephits** (`Mephit Initiatives: 14.13, 15.13, 16.13, 9.13; Mephit Stealth: 10`):
+- **Glacial Cold Breath:** Rearing back with a deafening screech, Cryovain exhaled a devastating cone of freezing frost across the roof! The mephits joined with chilling gusts (`Frost Breath Attack: 20 to hit; DC 10 Dexterity save for 2d4 cold`).
+- **Myagkiy's Bastion:** Weathering the icy blast with his *Boots of the Winterlands* and 20 AC, Myagkiy planted his holy symbol, casting ***Spirit Guardians*** (`DC 15 Wisdom save, 14 radiant damage`) and summoning his spectral *Spiritual Weapon* to swat the mephits from the sky.
+- **Tvyordiy's Clutch Stunning Strike:** Bounding across the ice with monk grace, Tvyordiy Znak leaped onto Cryovain's frost-crusted snout! Channeling the full reserves of his monastic ki, Tvyordiy drove a concussive unarmed strike straight into the dragon's temple!
+  - Cryovain rolled a **16 Constitution Save**, failing against Tvyordiy's ki save DC!
+  - **The Dragon was Stunned!** Paralyzed upon the icy stones, the mighty white wyrm was rendered completely helpless, unable to take actions or reactions!
+
+#### The Dragon Slayer's Execution
+With Cryovain stunned and reeling, Krageer Stoneface Ogolakanu stepped forward, his eyes blazing with crimson fury beneath the ***Dread Helm***.
+
+Drawing Lady Tanamere's ***Dragon Slayer Longsword***, Krageer unleashed two reckless, two-handed chops with automatic advantage:
+- The ancient runes along the blade flared with blinding, draconic vengeance.
+- The blade cleaved deep through scales, muscle, and sinew, inflicting massive base damage plus the devastating **+3d6 bonus slashing damage against dragons** on every strike!
+- Rhynok notched a heavy broadhead shaft, driving a fatal sneak attack arrow straight through Cryovain's exposed eye.
+
+Thrashing once as his paralysis broke, Cryovain collapsed onto the frozen battlements of Icespire Hold, his lifeblood steaming on the ice—**dead!**
+
+---
+
+#### Triumph & Level 7 Milestone
+The terror of the Sword Mountains was ended. 
+
+Searching the dragon's ice-encrusted rooftop nest, the Order recovered Cryovain's ancient mountain hoard: thousands of minted gold, silver, and copper coins, uncut gemstones, and priceless dwarven relics. 
+
+Returning to Phandalin through cheering crowds of miners, farmers, and townspeople, Townmaster Harbin Wester finally emerged from his barred office to deliver the town's highest honors. With their deeds etched forever into frontier legend, the four sellswords advanced to **Level 7**:
+- **[[Krageer Stoneface Ogolakanu]]:** Attained Barbarian 7, mastering ***Feral Instinct*** (advantage on Initiative, cannot be surprised).
+- **[[Rhynok]]:** Attained Ranger 7, mastering ***Iron Mind*** (proficiency in Wisdom saving throws).
+- **[[Myagkiy Znak]] (Ь):** Attained Cleric 7, unlocking 4th-level spells (*Death Ward*, *Freedom of Movement*, *Guardian of Faith*).
+- **[[Tvyordiy Znak]] (Ъ):** Attained Monk 7, mastering ***Evasion*** (zero damage on successful Dexterity saves) and ***Stillness of Mind***.
+
+United by brotherhood, forged in frost, and tested by monsters, the four companions officially christened their fellowship: **[[The Order of Znak]]**—ready for whatever storms the Sword Coast would bring!
 
 ---
 
