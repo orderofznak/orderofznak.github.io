@@ -13,7 +13,7 @@ aliases: ["The Breath of the Boundless Sky", "The Saga of Tvyordiy in the Boundl
 
 # 🦅 The Breath of the Boundless Sky: The Saga of Tvyordiy Znak
 
-> **Chronicle Navigation:** ⬅️ **Back to:** [[07 - Epilogue - Bridge Campaign|Epilogue: Bridge Campaign]] | 🏠 [[The Order of Znak Complete Campaign Chronicle|Campaign Chronicle Hub]]
+> **Chronicle Navigation:** ⬅️ **Previous:** [[07a - Bridge - Krageer - The Stone and the Skillet|07a: The Stone and the Skillet]] | 🏠 [[The Order of Znak Complete Campaign Chronicle|Campaign Chronicle Hub]] | ⬆️ [[07 - Epilogue - Bridge Campaign|Epilogue Overview]] | ➡️ **Next Generation:** [[The Acolytes of Znak Campaign Plan|The Acolytes of Znak]]
 
 ---
 

@@ -59,10 +59,17 @@ In the climactic war for [[Leilon]], [[Tvyordiy Znak]] contracted and embraced *
 * 👉 **Read the Full Chapter:** **[[06 - Act 4 - Divine Contention|Act 4: Divine Contention]]**
 
 ### 7. [[07 - Epilogue - Bridge Campaign|Epilogue: The Bridge Campaign]]
-The solo chronicles of the founding champions during the ten-year interim between the rebuilding of Leilon and their reunion at the Wayside Inn in 1505 DR, preceding the adventures of their grown protégés (**[[The Acolytes of Znak Campaign Plan|The Acolytes of Znak]]**):
-* 🪨 **[[07a - Bridge - Krageer - The Stone and the Skillet|07a - The Stone and the Skillet]]** — *Krageer Stoneface Ogolakanu & Cooragh.* Uniting the northern Goliath clans and the War of Milagove.
-* 🦅 **[[07b - Bridge - Tvyordiy - The Breath of the Boundless Sky|07b - The Breath of the Boundless Sky]]** — *Master Tvyordiy Znak.* Ascending the Star Mounts, mastering Diamond Soul, and journeying to the Elemental Plane of Air with Yeri.
-* 👉 **Read the Full Overview:** **[[07 - Epilogue - Bridge Campaign|Epilogue: Bridge Campaign Overview]]**
+The solo and paired chronicles of the founding champions during the ten-year interim between the rebuilding of Leilon and their reunion at the Wayside Inn in 1505 DR, preceding the adventures of their grown protégés (**[[The Acolytes of Znak Campaign Plan|The Acolytes of Znak]]**):
+
+#### 🪨 [[07a - Bridge - Krageer - The Stone and the Skillet|7a. The Stone and the Skillet: The Saga of Krageer in the High Country]]
+*Krageer Stoneface Ogolakanu & Cooragh (1500–1504 DR).* Leaving Leilon to return to the cold Ogolakanu high country in the Spine of the World: uniting the four warring Goliath clans, fighting the War of Milagove, slaying the white dragon Hrimgarra the Pale Widow (clutch-sister to Cryovain) in the Glass Hall, and concluding with the sacred Binding of Stones wedding ceremony.
+* 👉 **Read the Full Chapter:** **[[07a - Bridge - Krageer - The Stone and the Skillet|07a - The Stone and the Skillet]]**
+
+#### 🦅 [[07b - Bridge - Tvyordiy - The Breath of the Boundless Sky|7b. The Breath of the Boundless Sky: The Saga of Tvyordiy Znak]]
+*Master Tvyordiy Znak & Yeri (1500–1505 DR).* Answering the dying Auran whisper from the Talosite dreadnaught on the Sea of Swords: departing Leilon on staggered roads, confronting the inner wereboar beast beneath the Grandfather Tree with Elder Kaya, scaling Mount Nimbus with Kenku prodigy Yeri, ascending through the planar conduit to the Elemental Plane of Air, reuniting with elder brother Wing-Captain Deekek and twin sister Klee'errk at the Aerie of the Boundless Whorl, forging the Unbending Talons, surviving the Siege of the Boundless Whorl and shattering the Avatar of Talos, witnessing Yeri's sacrifice into the singularity, attaining the *Timeless Body* (Level 15) milestone, and returning to Toril with four planar disciples to establish the courtyard dojo at Aufox Manor.
+* 👉 **Read the Full Chapter:** **[[07b - Bridge - Tvyordiy - The Breath of the Boundless Sky|07b - The Breath of the Boundless Sky]]**
+
+* 👉 **Read the Epilogue Master Overview:** **[[07 - Epilogue - Bridge Campaign|Epilogue: Bridge Campaign Hub]]**
 
 ---
 
