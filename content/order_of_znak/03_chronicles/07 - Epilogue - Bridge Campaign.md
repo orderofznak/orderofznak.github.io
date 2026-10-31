@@ -23,10 +23,11 @@ Following the defeat of [[Fheralai Stormsworn]] on the Sea of Swords and the res
 ---
 
 ## 🛤️ The Champions' Roads
-In the years after the training of the Acolytes, the four champions scattered, each down their own road, until a call over the Sending Stones drew them back together at [[The Wayside Inn]].
+In the years after the initial five-year training of the Acolytes, the four champions departed Leilon on staggered journeys, entrusting [[Aufox Manor]] to majordomo [[Leopold]] and the grown Acolytes, until a call over the Sending Stones drew them back together at [[The Wayside Inn]] in 1505 DR.
 
 * 🪨 **[[07a - Bridge - Krageer - The Stone and the Skillet|The Stone and the Skillet]]** — *Krageer & Cooragh.* Nearly four winters in the Ogolakanu high country: uniting four warring goliath clans, the War of Milagove, a duel in the Glass Hall with Hrimgarra the Pale Widow (Cryovain's elder clutch-sibling), and the Binding of Stones.
-* *The roads of [[Rhynok]], [[Myagkiy Znak]], and [[Tvyordiy Znak]] are yet to be written.*
+* 🦅 **[[07b - Bridge - Tvyordiy - The Breath of the Boundless Sky|The Breath of the Boundless Sky]]** — *Tvyordiy Znak.* Leaving Leilon in 1500 DR to answer the dying Auran whisper of the dreadnaught's storm myrmidons: ascending the Star Mounts, mastering the inner shadows of Ebondeath and wereboar blood to unlock *Diamond Soul*, crossing into the Elemental Plane of Air, and shattering the Avatar of Talos to achieve *Timeless Body*.
+* *The roads of [[Rhynok]] and [[Myagkiy Znak]] are yet to be written.*
 
 ---
 

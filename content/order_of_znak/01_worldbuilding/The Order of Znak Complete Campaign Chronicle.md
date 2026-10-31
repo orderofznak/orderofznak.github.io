@@ -58,9 +58,11 @@ Answering an urgent plea from Forge Cleric **[[Flanning Teldorer]]** in the Crag
 In the climactic war for [[Leilon]], [[Tvyordiy Znak]] contracted and embraced **wereboar lycanthropy** during the expedition to [[Dumathoin's Gulch]], the party slew Far Realm **Star Spawn Manglers** atop the House of Thalivar to claim **[[The Ruinstone]]**, and Krageer's unlikely diplomacy aboard Captain [[Deloz Montiv]]'s drow caravels *[[Twinkle and Icingdeath]]* won Lord [[Dagult Neverember]]'s full military aid before the Order sank [[Galas Windrage]]'s warships at sea. After repelling [[Claugiyliamatar]]'s siege of Leilon (discovering [[Aubrey Silverspun]]'s true identity in the ancient Swords of Leilon portrait), the Order sailed *Twinkle* into a divine hurricane and boarded the Talosite flagship dreadnaught—defeating **[[Fheralai Stormsworn]]**, an Air Elemental Myrmidon, and a Nalfeshnee demon beneath the towering apparition of **[[Talos]]**.
 * 👉 **Read the Full Chapter:** **[[06 - Act 4 - Divine Contention|Act 4: Divine Contention]]**
 
-### 7. [[07 - Epilogue - Bridge Campaign|Epilogue: Bridge Campaign (WIP / On Hold)]]
-The upcoming bridge adventure for the four founding champions prior to their grown wards and lizardfolk protégés (**[[The Acolytes of Znak Campaign Plan|The Acolytes of Znak]]**) stepping into the mists of Ravenloft.
-* 👉 **Read the Full Chapter:** **[[07 - Epilogue - Bridge Campaign|Epilogue: Bridge Campaign]]**
+### 7. [[07 - Epilogue - Bridge Campaign|Epilogue: The Bridge Campaign]]
+The solo chronicles of the founding champions during the ten-year interim between the rebuilding of Leilon and their reunion at the Wayside Inn in 1505 DR, preceding the adventures of their grown protégés (**[[The Acolytes of Znak Campaign Plan|The Acolytes of Znak]]**):
+* 🪨 **[[07a - Bridge - Krageer - The Stone and the Skillet|07a - The Stone and the Skillet]]** — *Krageer Stoneface Ogolakanu & Cooragh.* Uniting the northern Goliath clans and the War of Milagove.
+* 🦅 **[[07b - Bridge - Tvyordiy - The Breath of the Boundless Sky|07b - The Breath of the Boundless Sky]]** — *Master Tvyordiy Znak.* Ascending the Star Mounts, mastering Diamond Soul, and journeying to the Elemental Plane of Air with Yeri.
+* 👉 **Read the Full Overview:** **[[07 - Epilogue - Bridge Campaign|Epilogue: Bridge Campaign Overview]]**
 
 ---
 
