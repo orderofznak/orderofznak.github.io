@@ -52,7 +52,7 @@ The Spine of the World is a wall of ice, and goliaths wear very little. The Ogol
 
 Pelukanemo was not warm in any other way. The first camp was empty, its cairns toppled. The second held a dozen hunters with arrows nocked. They lowered them when a scarred goliath pulled off his Dread Helm. Its crimson eyes had made them nervous. His face made them stare. "Stoneface," one whispered. "He has come back."
 
-Chieftain **Menuka**, called **Windfist**, of the Ogolakanu, was Krageer's mother's sister. She had raised him, and she was gray now, with one arm in a sling. She did not embrace him. Goliaths do not greet that way. She looked him up and down. She took in the scale mail, the sleeve of tribal ink, the lightning bolt, and the tally of the Fallen running down his ribs.
+Chieftain **[[Menuka]]**, called **Windfist**, of the Ogolakanu, was Krageer's mother's sister. She had raised him, and she was gray now, with one arm in a sling. She did not embrace him. Goliaths do not greet that way. She looked him up and down. She took in the scale mail, the sleeve of tribal ink, the lightning bolt, and the tally of the Fallen running down his ribs.
 
 "Kageleo," she said. "You have written all over yourself. The skywatchers will say you tried to rewrite your fate."
 
@@ -88,7 +88,7 @@ Krageer had never been good at talking. But among goliaths, a person who says ex
 
 He and Cooragh spent the whole of the first winter on the long paths between camps, with Menuka's leave and her token. Under the custom of **Mevalinuko** (the Open-Hand Parley), a goliath who comes unarmed to a rival's fire is owed a hearing. A goliath who comes with a half-orc cook is owed a very strange one.
 
-**The Thekupala** held out longest. Their leader, **Linaku**, called **Flint-Ear**, listened to Krageer's offer with her arms crossed. The offer was peace, shared grazing, and a council before the dragon took everything. When he finished she said, "That was not a speech."
+**The Thekupala** held out longest. Their leader, **[[Linaku]]**, called **Flint-Ear**, listened to Krageer's offer with her arms crossed. The offer was peace, shared grazing, and a council before the dragon took everything. When he finished she said, "That was not a speech."
 
 "No," said Krageer. "It was a fact."
 
@@ -98,7 +98,7 @@ Cooragh took the other half of the diplomacy. She pitched her kitchen in the mid
 
 *[Cook's utensils: 1d20 (16) + 5 = 21 vs. DC 15. A fine pie. The Thekupala elders agreed that anyone who could do that to them could stay.]*
 
-**The Ivonakega** were harder. They were the Ogolakanu's oldest rivals, and their leader, **Kenuvi**, called **Slow-Fox**, was cunning. He would not talk until Krageer talked, and Krageer would not talk until there was something to say. So Kenuvi passed him the flagon, which is how Drink-and-Tell begins. Each drinker takes a swallow of mead and trades a tale. Kenuvi told three, each longer than the last. Krageer drank. At last Kenuvi raised an eyebrow, and Krageer said, "There was a dragon. I killed it."
+**The Ivonakega** were harder. They were the Ogolakanu's oldest rivals, and their leader, **[[Kenuvi]]**, called **Slow-Fox**, was cunning. He would not talk until Krageer talked, and Krageer would not talk until there was something to say. So Kenuvi passed him the flagon, which is how Drink-and-Tell begins. Each drinker takes a swallow of mead and trades a tale. Kenuvi told three, each longer than the last. Krageer drank. At last Kenuvi raised an eyebrow, and Krageer said, "There was a dragon. I killed it."
 
 That was the whole tale. Kenuvi waited for the rest. Krageer sat three more days without adding to it, and Kenuvi watched him the entire time, looking for the lie.
 
@@ -106,7 +106,7 @@ That was the whole tale. Kenuvi waited for the rest. Krageer sat three more days
 
 On the fourth day Kenuvi surrendered his grievance and asked what Krageer wanted. "Your hunters at my aunt's side when the dragon comes," Krageer said. "That is all."
 
-**The Mamaluko** would not listen. Their leader, **Pagolu**, called **the Ram-Breaker**, was a mountain of a goliath. He had earned the name by shoving a rutting ram off a ridge in a game of King of the Hill, and no one had let him forget it. The elders said Kavaki had found it funny. Pagolu cared for nothing but strength. If the Ogolakanu wished to speak for the clans, Krageer would have to prove he could carry them.
+**The Mamaluko** would not listen. Their leader, **[[Pagolu]]**, called **the Ram-Breaker**, was a mountain of a goliath. He had earned the name by shoving a rutting ram off a ridge in a game of King of the Hill, and no one had let him forget it. The elders said Kavaki had found it funny. Pagolu cared for nothing but strength. If the Ogolakanu wished to speak for the clans, Krageer would have to prove he could carry them.
 
 The challenge was set on the old flat stone above the Mamaluko camp, in the last cold weeks of the winter. All three clans came to watch, and bets were made in goats. By custom the contest would be arm against arm, best of three: no tricks, no tools, no weapons. Rage is not a trick; it is a goliath. A woman beside the stone struck a gong. Krageer put his arm on the rock.
 
@@ -152,7 +152,7 @@ The third year was the slow, unglamorous work, and Krageer was worse at it than 
 
 Cooragh kept the kitchen of the Four Fires, and kept the count of the seasons. The Binding of Stones needs a peaceful mountain and witnesses from all four fires, and for two and a half years the mountain had been neither. "I have been engaged," she told a Mamaluko shepherd, "longer than some of your marriages have *lasted*." She could have gone south to wait at the Wayside Inn, and Krageer offered. She would not. She would not leave him to fight alone, and by now the Thekupala followed her ladle nearly as readily as they followed his axe. She had been in the line at Milagove. She was not waiting for a war to end. She was in it.
 
-All the while the frost-fog spread. It crept outward from a single ice-choked valley in the northern heights, a little further each year, and within it nothing lived and nothing moved. The clans took to calling the beast the Pale Widow, because the old shepherds said she keened at night. By the third winter's end, when the thaw revealed how far the white had come, a Mamaluko fur-trader named **Gulemo**, called **Longpack**, came down from the frost giants' halls with news he had not wanted.
+All the while the frost-fog spread. It crept outward from a single ice-choked valley in the northern heights, a little further each year, and within it nothing lived and nothing moved. The clans took to calling the beast the Pale Widow, because the old shepherds said she keened at night. By the third winter's end, when the thaw revealed how far the white had come, a Mamaluko fur-trader named **[[Gulemo]]**, called **Longpack**, came down from the frost giants' halls with news he had not wanted.
 
 A white dragon had been asking the giants about a goliath of the Ogolakanu. The giants knew the tale. The slaying of [[Cryovain]] at [[Icespire Hold]] had traveled far, up to [[Dagult Neverember]] in Neverwinter and the Lords of Waterdeep. The roads had carried it north in the mouths of merchants, and the giants had it from them. They knew of a famous Goliath Barbarian in a crimson-eyed helm with a dragon-killing sword. Any giant who had ever haggled with the Ogolakanu knew the pattern of the tribal sleeve on his right arm, and knew which hollows the clan wintered in, for the Ogolakanu had traded with the giants at the Warm Hollow's gates for generations.
 
@@ -187,7 +187,7 @@ The cavern was a vaulted hall of translucent ice, which the old shepherds called
 
 "I am Krageer."
 
-"I am **Hrimgarra**." The great head swung low. "The humans sing your names in a city by the sea, and the singing climbed the roads to the giants. The giants spoke of a red-eyed helm and a sword that ends my kind, and of a mark on your arm that told me where to look. I was the elder of my clutch. Cryovain was the youngest."
+"I am **[[Hrimgarra]]**." The great head swung low. "The humans sing your names in a city by the sea, and the singing climbed the roads to the giants. The giants spoke of a red-eyed helm and a sword that ends my kind, and of a mark on your arm that told me where to look. I was the elder of my clutch. Cryovain was the youngest."
 
 The cavern went very still. Krageer said nothing, as he always did, and let her speak.
 
@@ -352,7 +352,7 @@ The clan chiefs came to the cavern, and Krageer said what the dragon had said. T
 
 With the dragon dead, the fog drew back, and for the first time in four years the mountain was at peace with all four fires on it. Cooragh did not intend to wait one more season. The wedding was held at the first full moon of that autumn, on the high shoulder of the mountain where Menuka had been wed and her mother before her. It followed the ancient Ogolakanu rite of **Kolipemu** (the Binding of Stones), under the eye of Kavaki the Ram-Lord. The clerics say he made the first goliaths from gems that grew on a bush he kept on the highest peak, and every stone carried up the mountain goes home to its source.
 
-Each partner carries a river stone up the mountain alone and sets it at the cairn. The stones must hold each other, so they are set in a single balance. The Ogolakanu tent-mother, **Ekulu**, called **Warm-Lap**, examined the bride, as is her office, to judge whether she was old enough for daily tasks. Ekulu pronounced her ready. "She has been ready since the day she was born," said Ekulu, who was not wrong.
+Each partner carries a river stone up the mountain alone and sets it at the cairn. The stones must hold each other, so they are set in a single balance. The Ogolakanu tent-mother, **[[Ekulu]]**, called **Warm-Lap**, examined the bride, as is her office, to judge whether she was old enough for daily tasks. Ekulu pronounced her ready. "She has been ready since the day she was born," said Ekulu, who was not wrong.
 
 ![[krageer-saga-wedding.jpg]]
 *Kolipemu, the Binding of Stones — two river stones set in a single balance*
@@ -465,11 +465,11 @@ They went south at the first thaw of the fifth spring, a Goliath of the Ogolakan
 > All items below have been reviewed and ratified as official canon lore by the Dungeon Master.
 >
 > **Characters**
-> - **Menuka "Windfist"**, Ogolakanu chieftain and Krageer's maternal aunt, who raised him.
-> - **Linaku "Flint-Ear"** (Thekupala leader, later voice of the council), **Kenuvi "Slow-Fox"** (Ivonakega leader), and **Pagolu "the Ram-Breaker"** (Mamaluko leader, later war-leader of the Four Fires).
-> - **Ekulu "Warm-Lap"**, Ogolakanu tent-mother. **Gulemo "Longpack"**, Mamaluko fur-trader.
+> - **[[Menuka|Menuka "Windfist"]]**, Ogolakanu chieftain and Krageer's maternal aunt, who raised him.
+> - **[[Linaku|Linaku "Flint-Ear"]]** (Thekupala leader, later voice of the council), **[[Kenuvi|Kenuvi "Slow-Fox"]]** (Ivonakega leader), and **[[Pagolu|Pagolu "the Ram-Breaker"]]** (Mamaluko leader, later war-leader of the Four Fires).
+> - **[[Ekulu|Ekulu "Warm-Lap"]]**, Ogolakanu tent-mother. **[[Gulemo|Gulemo "Longpack"]]**, Mamaluko fur-trader.
 > - The unnamed Thekupala tattooist, the Ivonakega trackers, and the two earth genasi traders.
-> - **Hrimgarra, the Pale Widow**, an Adult White Dragon.
+> - **[[Hrimgarra|Hrimgarra, the Pale Widow]]**, an Adult White Dragon.
 >
 > **Places and groups (Gol-Kaa names with glosses)**
 > - Clans: Ogolakanu (canon), **Mamaluko**, **Ivonakega**, **Thekupala**; the united whole **Mevolukanipa** (the Four Fires).
