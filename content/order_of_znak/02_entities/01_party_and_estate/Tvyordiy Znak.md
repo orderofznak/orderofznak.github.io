@@ -5,8 +5,8 @@ system: dnd5e
 campaign: order_of_znak
 status: archived
 type: character
-last_updated: 2026-10-17
-tags: [character-sheet, aarakocra, monk, drunken-master, tvyordiy-znak, order-of-znak, lycanthropy, wereboar]
+last_updated: 2026-10-31
+tags: [character-sheet, aarakocra, monk, drunken-master, tvyordiy-znak, order-of-znak, lycanthropy, wereboar, bridge-campaign, level-15, timeless-body, diamond-soul]
 aliases: ["Tvyordiy Znak", "Tvyordiy", "TZnak", "Ъ", "Wereboar-diy Znak", "Wearboar-diy Znak"]
 ---
 
@@ -72,6 +72,18 @@ aliases: ["Tvyordiy Znak", "Tvyordiy", "TZnak", "Ъ", "Wereboar-diy Znak", "Wear
 
 ---
 
+### 🦅 [[07b - Bridge - Tvyordiy - The Breath of the Boundless Sky|Bridge Campaign: "The Breath of the Boundless Sky"]]
+* **Departure from Leilon (1500 DR):** Following five winters of rebuilding [[Leilon]] and instructing the young wards at [[Aufox Manor]], Tvyordiy and [[Myagkiy Znak]] heeded divergent callings atop the manor parapets. Recalling the dying Auran whisper of the storm myrmidons on the Sea of Swords, Tvyordiy entrusted the estate keys to majordomo [[Leopold]] and parted with a proverb for young [[Burnice Znak]].
+* **The Evermoor Way & Troll Ambush:** Marching disguised as an elderly human monk via his *Hat of Disguise*, Tvyordiy neutralized an ambush of four river trolls along the Evermoor Way without bloodshed—using his *Vicious Quarterstaff +2*, *Patient Defense*, and *Tongue of the Sun and Moon* to offer sage proverbs and spare their lives.
+* **The High Forest & The Grandfather Tree:** Escorted through ancient Eaerlann by wood elf path-wardens, Tvyordiy visited the sacred ancestral mound of the Tree Ghost Uthgardt. Beneath the colossal roots of the [[Grandfather Tree]], blind shaman [[Elder Kaya]] and huntress [[Athela Orcbane]] diagnosed the lingering necrotic chill of [[Chardansearavitriol|Ebondeath]] and his contracted wereboar curse. Through night-long meditation beside the sacred longfire, Tvyordiy harmonized his avian discipline with the feral beast within.
+* **Ascent of Mount Nimbus & Meeting [[Yeri]]:** Scurrying along the freezing precipices of Mount Bardun in the Star Mounts, Tvyordiy encountered the eccentric Kenku sorcerer **[[Yeri]]**. Trading wits, tea, and philosophical proverbs, Tvyordiy shared his *Potion of Diminution* to navigate a sheer crevasse. Scaling to the hurricane summit of Mount Nimbus, Tvyordiy was struck by primordial planar lightning—purging Ebondeath's frost forever and awakening **Diamond Soul (Monk 14)** with a fly speed of **75 ft**, while Yeri transfigured her kenku curse into four iridescent **Dragonfly Wings** (Level 14 Divine Soul Sorcerer).
+* **The Elemental Plane of Air & Family Reunion (1501 DR):** Passing through the planar portal into the boundless sapphire skies of the Plane of Air, Tvyordiy followed his father's silver heirloom (*Tessera of the Western Gale*) to the **Aerie of the Boundless Whorl**. There, after seventeen years of separation, he was reunited with his elder brother **[[Deekek|Wing-Captain Deekek]]** and surviving clutch-twin sister **[[Klee'errk]]** (*Aial Sun-Catcher*), who had long believed him lost to the lowlands of Toril.
+* **The Courtyard Challenge & The Unbending Talons:** Challenged by the arrogant vanguard fledglings—led by peregrine recruit **[[Kree-uk]]**—who sneered at grounded martial arts, Tvyordiy deflected an 80-mph aerial dive with tranquil mastery. Deeply humbled, Kree-uk and thirty sky-sentinels knelt to learn the grounded discipline of the Hard Sign, mastering the concussive ki shockwaves of *Stunning Strike*.
+* **The Siege of the Boundless Whorl & Singularity Climax (1502 DR):** When the corrupted storm armada of the [[Anchorites of Talos]] laid siege to the Boundless Whorl, Tvyordiy, Klee'errk, Deekek, and Yeri mounted a desperate defense. In the eye of the planar tempest, Tvyordiy unleashed five consecutive *Stunning Strikes* upon the colossal **Avatar of Talos**, enabling Klee'errk to deliver the killing spear-thrust. As the corrupted rift collapsed into an imploding singularity, Yeri channeled a final *Telekinetic Shove* to blast Tvyordiy onto the redoubt gallery before being pulled through the anomaly.
+* **Attaining Timeless Body (Monk 15) & Return to Toril:** Meditating in the high roosts of the Aerie, Tvyordiy unlocked the pinnacle monastic milestone of **Timeless Body (Level 15)**. Joined by his sister Klee'errk and four devoted disciples—[[Kree-uk]], [[Qeerik]], [[Arak-tai]], and [[Sool-arrk]]—Master Tvyordiy returned through the summit gate of Mount Nimbus, noting the crisp mountain air tasted clean, light, and vibrant. Arriving back in Leilon in 1502 DR, they established the open-air courtyard dojo at [[Aufox Manor]], drilling the grown wards in balance and the Way of the Hard Sign until departing in 1505 DR to reunite with his companions at the Wayside Inn.
+
+---
+
 ## 🎨 Artwork & Imagery
 ![[tvyordiy-znak-heroforge.png]]
 *Tvyordiy Znak (Ъ) — HeroForge Miniature (3D Color Render)*
@@ -97,7 +109,7 @@ aliases: ["Tvyordiy Znak", "Tvyordiy", "TZnak", "Ъ", "Wereboar-diy Znak", "Wear
 
 ## 📊 Character Build, Level Progression & Gear Acquisition Log
 
-### 🧬 Final Level 13 Build & Ability Scores
+### 🧬 Final Level 15 Build & Ability Scores
 * **Player:** Peter
 * **Race & Background:** Aarakocra (Wereboar Lycanthrope) | Urchin
 * **Class (Level 13):** Level 13 Monk (*Way of the Drunken Master*, single-classed)

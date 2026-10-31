@@ -13,7 +13,7 @@ aliases: ["The Stone and the Skillet", "The Saga of Krageer in the High Country"
 
 # 🪨 The Stone and the Skillet: The Saga of Krageer in the High Country
 
-> **Chronicle Navigation:** ⬅️ **Back to:** [[07 - Epilogue - Bridge Campaign|Epilogue: Bridge Campaign]] | 🏠 [[The Order of Znak Complete Campaign Chronicle|Campaign Chronicle Hub]]
+> **Chronicle Navigation:** ⬅️ **Previous:** [[06 - Act 4 - Divine Contention|Act 4: Divine Contention]] | 🏠 [[The Order of Znak Complete Campaign Chronicle|Campaign Chronicle Hub]] | ⬆️ [[07 - Epilogue - Bridge Campaign|Epilogue Overview]] | ➡️ **Next:** [[07b - Bridge - Tvyordiy - The Breath of the Boundless Sky|07b: The Breath of the Boundless Sky]]
 
 ---
 
@@ -538,4 +538,4 @@ They went south at the first thaw of the fifth spring, a Goliath of the Ogolakan
 
 ---
 
-> **Chronicle Navigation:** ⬅️ **Back to:** [[07 - Epilogue - Bridge Campaign|Epilogue: Bridge Campaign]] | 🏠 [[The Order of Znak Complete Campaign Chronicle|Campaign Chronicle Hub]]
+> **Chronicle Navigation:** ⬅️ **Previous:** [[06 - Act 4 - Divine Contention|Act 4: Divine Contention]] | 🏠 [[The Order of Znak Complete Campaign Chronicle|Campaign Chronicle Hub]] | ⬆️ [[07 - Epilogue - Bridge Campaign|Epilogue Overview]] | ➡️ **Next:** [[07b - Bridge - Tvyordiy - The Breath of the Boundless Sky|07b: The Breath of the Boundless Sky]]
