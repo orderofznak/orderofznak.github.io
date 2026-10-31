@@ -3,11 +3,11 @@ hobby: tabletop
 universe: znak
 system: dnd5e
 campaign: order_of_znak
-status: wip
+status: active
 type: chronicle
 act: 5
-last_updated: 2026-10-26
-tags: [tabletop, dnd5e, order-of-znak, chronicle, bridge-campaign, epilogue, krageer, cooragh, hrimgarra, wip]
+last_updated: 2026-10-31
+tags: [tabletop, dnd5e, order-of-znak, chronicle, bridge-campaign, epilogue, krageer, cooragh, hrimgarra]
 aliases: ["The Stone and the Skillet", "The Saga of Krageer in the High Country", "Krageer's Bridge Saga"]
 ---
 
@@ -271,7 +271,7 @@ He did not roar. That was the terrible part. He went very quiet, and the Rage th
 
 **Action Surge.** With the first action he *ran* and *jumped*. It was a great stone-footed leap off the broken ice, higher than any man should reach. He landed astride the dragon's neck, and his left arm locked under her jaw. The Dragon Slayer stayed in his right fist. With the second action he made the Attack action. He gave one of the two attacks to something no goliath had a name for.
 
-**House-ruled feat of strength: the haul-down.** *[House ruling for the DM to accept. Normally impossible: a Medium creature cannot grapple a Huge one, so this is not a formal grapple. The DM allows one contested Strength (Athletics) check, in place of one of Krageer's two attacks. Krageer makes it at **disadvantage** because of the size difference: roll two d20s and take the lower.]*
+**House-ruled feat of strength: the haul-down.** *[House ruling ratified by the DM. Normally impossible: a Medium creature cannot grapple a Huge one, so this is not a formal grapple. The DM allows one contested Strength (Athletics) check, in place of one of Krageer's two attacks. Krageer makes it at **disadvantage** because of the size difference: roll two d20s and take the lower.]*
 
 *[Krageer, Athletics at disadvantage: 1d20 (13, 9) take the lower, 9, + 10 = 19. Hrimgarra, Athletics: 1d20 (12) + 6 = 18. **Krageer wins by 1.** He is barely ahead.]*
 
@@ -461,8 +461,8 @@ They went south at the first thaw of the fifth spring, a Goliath of the Ogolakan
 
 * **Between-Campaigns Saga:** Written as a prose account of Krageer's road between the training of the Acolytes and the Bridge Campaign gathering. The bracketed and italic blocks are dice logs and rules notes kept for the table.
 
-> [!info]- New Lore Introduced (for DM review)
-> None of the items below are on the campaign wiki. All are offered for the DM to accept or reject.
+> [!info]- Canonical Lore & DM Rulings Ratified
+> All items below have been reviewed and ratified as official canon lore by the Dungeon Master.
 >
 > **Characters**
 > - **Menuka "Windfist"**, Ogolakanu chieftain and Krageer's maternal aunt, who raised him.
@@ -519,7 +519,7 @@ They went south at the first thaw of the fifth spring, a Goliath of the Ogolakan
 > - The Acolytes hold a paired stone (kept vague). The other champions are away on their own roads and will come "when their roads end". Krageer's reply is "Coming."
 > - Burnice was "new to her training" when Krageer left her.
 >
-> **Rules rulings introduced (for the DM to accept or reject)**
+> **Rules rulings & house rules (DM ratified)**
 > - **The haul-down:** A house-ruled feat. Normally a Medium creature can't grapple a Huge one, so Krageer makes one contested Athletics check at disadvantage in place of an attack, after leaping onto the hovering dragon with Action Surge. If he wins, the dragon is dragged to the ice and can't fly until she escapes. She takes 1d6 fall damage. The Round 4 hold uses the same terms.
 > - Danger Sense used against the Wing Attack; a grounded flier falls 10 ft; Stone's Endurance reduces damage before resistance halves it (17 - 9 = 8, halved to 4); Rage allowed in the arm-wrestle contest.
 >

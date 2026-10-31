@@ -13,7 +13,8 @@ tags: [character-sheet, human, cleric, life-domain, myagkiy-znak, order-of-znak]
 
 ## 🛡️ Overview & Character Lore
 * **Core Philosophy:** Dedicated to the preservation and defense of life at all costs, standing as the compassionate moral center and spiritual anchor of [[The Order of Znak]].
-* **Background:** Hermit. Years of solitary contemplation and prayer gave way to a sacred calling to heal the wounded and shield the Sword Coast from elemental and necromantic cults.
+* **Background & Hermit Discovery:** Hermit. Spent three years of silent prayer in the hollow of a weeping willow along the Dessarin River. In contemplation, he received his **Unique Discovery: The Doctrine of the Twin Signs (Знаки)**—the revelation that creation is balanced by the unyielding boundary (The Hard Sign, Ъ) and restorative mercy (The Soft Sign, Ь). Guided to Waterdeep's Dock Ward, he discovered the young urchin [[Tvyordiy Znak]] in Fishgut Alley, recognizing his counterpart. The two outcasts adopted each other as brothers under the name **Znak**.
+* **The 1500 DR Calling (Remnants of Myrkul):** Following five years of training the second-generation Acolytes in Leilon, Myagkiy departed Aufox Manor on a sacred crusade to hunt down the lingering undead cabals of **[[Myrkul]]**—the dark antithesis of his Life Domain magic—passing estate stewardship to [[Leopold]] (see [[07b - Bridge - Tvyordiy - The Breath of the Boundless Sky|Bridge Chronicle]]).
 * **Battlefield Role:** A fearless heavy battle priest who wades directly into the teeth of the melee clad in gleaming plate and shield—anchoring the frontline beside [[Krageer Stoneface Ogolakanu]] and [[Tvyordiy Znak]] while calling down swirling hosts of radiant *Spirit Guardians* and restorative blessings.
 
 ---

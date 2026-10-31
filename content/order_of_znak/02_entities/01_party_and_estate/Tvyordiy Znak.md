@@ -13,11 +13,38 @@ aliases: ["Tvyordiy Znak", "Tvyordiy", "TZnak", "Ъ", "Wereboar-diy Znak", "Wear
 # 🦅 Tvyordiy Znak (Ъ)
 
 ## 🛡️ Overview & Character Lore
+* **Aarakocra Planar Aging & Lifespan Reconciliation (5e vs. 5.5e / MotM):**
+  - **Natural Elemental Lifespan:** In the pure Elemental Plane of Air, Aarakocra live natural **century-long lifespans (100+ years)**.
+  - **The Lowlands Accelerated Aging Curse:** On Toril, an ambient atmospheric corruption tied to **Talos the Destroyer** accelerates avian metabolic decay by **3.33×**, compressing 100 biological years into roughly 30 calendar years.
+  - **Tvyordiy's Timeline & Timeless Body:**
+    - Born in the Boundless Whorl in **1484 DR**; evacuated as an egg to Toril during a Talosite raid.
+    - Met Myagkiy in **1488 DR at age 4** (physically adult due to accelerated lowlands maturation).
+    - Arrived on the Plane of Air in **1501 DR at age 17** (having burned ~56 biological years, physically appearing like a seasoned master in his mid-50s; kin initially mistook him for his father Harek's ghost).
+    - In **1503 DR at age 18**, Tvyordiy defeats the Avatar of Talos, shattering the atmospheric curse on Toril and harmonizing Aarakocra biology to the natural 1:1 rate across both planes.
+    - Attaining **Timeless Body (Monk 15)** at age 18, Tvyordiy stops suffering the physical frailty of aging. With ~44 natural biological years remaining, he lives out a total lifespan of **~62–65 calendar years**, giving him over **40+ years of vibrant life, mentoring, and adventure** following the Bridge Campaign!
+
 * **Personality & Temperament:** Stoic, pragmatic, and remarkably unflappable. Possesses a surprisingly resonant, gravel-deep baritone voice that contrasts sharply with his avian Aarakocra heritage.
-* **Background:** Urchin. Scavenged and survived on city fringes before channeling his aerial agility into Eastern monastic martial mastery.
+* **Background & Urchin Origins:** Urchin. Orphaned in early fledglinghood, Tvyordiy drifted down the Sword Coast until settling in the grime and shadows of Waterdeep's Dock Ward. He carried only a single physical heirloom from his lost parents: a feather-light metallic coin inscribed with an ancient elemental whorl in **Auran**. Surviving on fish scrapings and back-alley grit, he honed an instinctive, unyielding stubbornness.
+* **The Fellowship of the Twin Signs (Знаки):** In 1488 DR, after a four-year-old Tvyordiy (possessing the rapidly matured physical frame of a young adult due to the lowlands' accelerated aging curse) broke an oar-handle over the jaw of a dock syndicate boss in Fishgut Alley, he encountered hermit [[Myagkiy Znak]]. Sensed a mysterious rhythmic "pulse" resonating between his own chest, the hermit, and a tattered cloth inscribed with the glyphs **Ъ** (The Hard Sign) and **Ь** (The Soft Sign). The two outcasts adopted each other as brothers and took the shared surname **Znak**, vowing to bring balance to a cruel world.
 * **Table Nicknames:** Famously dubbed **"Wereboar-diy Znak"** (or *"Wearboar-diy Znak"*) by Gary following the wereboar encounter in *Divine Contention*, an enduring running joke at the table.
 * **Battlefield Role:** High-velocity aerial shock trooper—combining natural winged flight, the swaying redirection of the Drunken Master, rapid *Qiang* spear and staff combinations, and nerve-locking *Stunning Strikes* that can halt even a full-grown dragon in its tracks.
 * **The Wereboar's Mark:** Contracted wereboar lycanthropy late in the campaign during the expedition into **[[Dumathoin's Gulch]]**—embracing the curse's feral brawn and hybrid tusks to become an even more concussive, unyielding frontline striker.
+
+---
+
+## 📜 Aphorisms & Contemplations of Tvyordiy Znak
+* *"A fish who does not open its mouth gets no tasty worm, but you must beware the hook!"* — Spoken to young [[Burnice Znak]] upon parting at Aufox Manor (1500 DR, [[07b - Bridge - Tvyordiy - The Breath of the Boundless Sky|Bridge Chronicle]]).
+* *"A storm makes trees take deeper roots."* — Comforting the young Acolytes before departing Leilon.
+* *"Leopold, there isn't enough darkness in all the world to snuff out the light of even one candle. So long as one remains to hold true the Znak, all will be well."* — Spoken to majordomo [[Leopold]] while passing the keys to Aufox Manor.
+* *"Greater in battle than the man who would conquer a thousand-thousand men, is he who would conquer just one: himself."* — Closing line in his sealed farewell letter to [[Krageer Stoneface Ogolakanu]] (1500 DR).
+* *"Over every mountain there is a path, although it may not be seen from the valley."* — Closing line in his sealed farewell letter to [[Rhynok]] (1500 DR).
+* *"I am Tvyordiy Znak of the Order of Znak. That is the order of Znak, not the chaos of Znak."* — Proclaimed to the river trolls along the Evermoor Way (1500 DR).
+* *"When you go in search of honey, you must expect to be stung by bees. Begone, I shall not take your life, but these folk may not be so forgiving."* — Spoken in Giant via *Tongue of the Sun and Moon* sparing the surviving trolls on the Evermoor Way (1500 DR).
+* *"Three things cannot hide for long: the Moon, the Sun, and the Truth."* — Spoken to the Wood Elf Path-Wardens of Eaerlann upon removing his Hat of Disguise to reveal his true Aarakocra form (1500 DR).
+* *"Be master of mind rather than mastered by mind. I have kept this beast chained within me through my own years of discipline."* — Spoken in Bothii to the Tree Ghost Uthgardt shaman Kaya at the Grandfather Tree (1500 DR).
+* *"Never measure the height of a mountain until you have reached the top. Then you will see how low it was."* — Spoken to [[Yeri]] upon their first meeting beneath Mount Bardun (1500 DR).
+* *"If a traveler does not meet with one who is his better, or his equal, let him firmly keep to his solitary journey; there is no companionship with a fool."* — Spoken to [[Yeri]] during their duel of proverbs beneath Mount Bardun (1500 DR).
+* *"A closed mind is like a closed book; just a block of wood."* — Communicated via sign language as an apology to [[Yeri]] upon Mount Bardun (1500 DR).
 
 ---
 
@@ -112,9 +139,12 @@ aliases: ["Tvyordiy Znak", "Tvyordiy", "TZnak", "Ъ", "Wereboar-diy Znak", "Wear
 ### 🧬 Final Level 15 Build & Ability Scores
 * **Player:** Peter
 * **Race & Background:** Aarakocra (Wereboar Lycanthrope) | Urchin
-* **Class (Level 13):** Level 13 Monk (*Way of the Drunken Master*, single-classed)
+* **Class (Level 14):** Level 15 Monk (*Way of the Drunken Master*, single-classed) — **Diamond Soul**, **Timeless Body** & Fly Speed **75 ft**
 * **Ability Scores:** `STR 17 (+3)` *(via Wereboar Lycanthropy)* | `DEX 20 (+5)` | `CON 15 (+2)` | `INT 8 (-1)` | `WIS 19 (+4)` | `CHA 8 (-1)`
 * **Armor Class (AC):** **20 AC** (*Unarmored Defense*: 10 + 5 DEX + 4 WIS + 1 item bonus)
+* **Hit Points (HP):** **108 Max HP** (15d8 + 30 Con)
+* **Damage Immunities:** **Bludgeoning, Piercing, and Slashing from Nonmagical Attacks not made with Silvered Weapons** *(Wereboar Lycanthropy)*; **Poison** *(Monk 10: Purity of Body)*
+* **Condition Immunities:** **Poisoned** *(Purity of Body)*, **Disease** *(Purity of Body)*
 
 ### 📈 Level-by-Level Progression
 | Level / Tier | Class & Milestone | Mechanical Features, Subclass & ASIs Taken |
@@ -133,6 +163,8 @@ aliases: ["Tvyordiy Znak", "Tvyordiy", "TZnak", "Ъ", "Wereboar-diy Znak", "Wear
 | **Level 11** | Monk 11 (*SDW Conclusion & [[05 - Interlude 2 - Keeping the Faith|Keeping the Faith]]*) | ***Drunkard's Luck*** (spend 2 Ki points to cancel disadvantage on an attack roll, ability check, or saving throw). Operated at Level 11 through *Keeping the Faith*. |
 | **Level 12** | Monk 12 (*Act 4: [[06 - Act 4 - Divine Contention|Divine Contention]]*) | **ASI:** **+1 Wisdom** (raising WIS to 19 (+4), boosting Unarmored AC to 19 and Ki Save DC). **Wereboar Lycanthropy:** Contracted in Dumathoin's Gulch (boosted STR to 17, granting hybrid form, tusks, and raw savage power). |
 | **Level 13** | Monk 13 (*Act 4 Climax Milestone — Dec 18, 2022*) | ***Tongue of the Sun and Moon*** (speak and understand all languages). Master of ki, serenity, and drunken wereboar mobility. |
+| **Level 14** | Monk 14 (*Star Mounts Summit — 1500 DR*) | ***Diamond Soul*** (proficiency in ALL saving throws; spend 1 Ki to reroll failed saves); ***Unarmored Movement (+25 ft)*** boosting Fly speed to **75 ft**; Ebondeath's necrotic taint permanently cleansed by planar lightning! |
+| **Level 15** | Monk 15 (*Aerie of the Boundless Whorl — 1502 DR*) | ***Timeless Body*** (no frailty of old age, cannot be aged magically, still requires sustenance; biological stabilization across planes); 15 Ki points. |
 
 ### 🎒 Weapons, Armor & Item Acquisition Log
 | Item / Weapon | Where & When Acquired | Mechanical Properties & Campaign Notes |
@@ -146,6 +178,16 @@ aliases: ["Tvyordiy Znak", "Tvyordiy", "TZnak", "Ъ", "Wereboar-diy Znak", "Wear
 | ***Vicious Quarterstaff*** | **[[03 - Interlude 1 - Shadow's Run|Shadow's Run]]** (Level 8 — Aug 14, 2020) | Discovered inside a locked chest in Room 1 on the first floor of the cult hideout; deals extra bludgeoning damage on a critical natural 20. Replaced the *Qiang* as Tvyordiy's signature monk weapon throughout Acts 3–4 (upgraded to +2 in later tiers). |
 | ***Sash of the Patient Master*** | **[[03 - Interlude 1 - Shadow's Run|Shadow's Run]]** (Level 8 — Aug 23, 2020) | Looted from the Shadow Dragon hoard; attunes to monk discipline to restore **1d4 + 1 expended Ki points** once per day, fueling extra *Stunning Strikes* and *Flurry of Blows*. |
 | ***Goggles of Night*, *Ring of Surtur* & *Circlet of Blasting*** | **Leilon Trilogy (Acts 2–4)** | Grants 60-ft darkvision for subterranean dungeon crawls and ranged *Scorching Ray* utility. |
+| ***Bag of Holding*** | **Campaign Hoard (Leilon Trilogy)** | Wondrous item; holds up to 500 lbs / 64 cu. ft. of gear, rations, and coins without encumbrance. |
+| ***Hat of Disguise*** | **Campaign Exploration** | Wondrous item; cast *Disguise Self* at will (DC 13/16) to conceal avian/lycanthrope features in civilized cities. |
+| **Ancestral Auran Coin** | **Childhood Heirloom** | Feather-light metallic token with ancient Auran whorl; last keepsake from his parents. |
+| **Adventuring Supplies & Consumables** | **Personal Kit & Alchemical Stores** | 20 Regular Darts, Collapsible 10-ft Pole, 1× Potion of Stone Giant Strength (STR 23 for 1 hr), ~~1× Potion of Diminution~~ *(consumed by Yeri on Mount Bardun ridge, 1500 DR)*, 1× Potion of Water Breathing, 1× Potion of Healing (`2d4+2`). |
+
+### 💰 Coinage & Wealth (Post-Divine Contention — 1500 DR)
+* **Platinum Pieces (pp):** **825 pp** *(5 pp donated to Yartar river orphanage, 1500 DR)*
+* **Gold Pieces (gp):** **16,000 gp**
+* **Silver Pieces (sp):** **1,500 sp**
+*(Carried safely within his Bag of Holding; total net liquid wealth exceeds 24,450 gp).*
 
 ---
 

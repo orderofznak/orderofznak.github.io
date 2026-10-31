@@ -579,9 +579,9 @@ Turning his lone, crackling eye upon the mortal interlopers, the storm god summo
 - **The Battle for the Deck:** 
   - Krageer charged into Ub-Vhagga's path, planting his boots on the pitching deck and cleaving through demonic hide with *[[Ultima Exodus]]*.
   - Rhynok sprinted across the gunwales, burying lethal sneak attack arrows into the demon's bulk.
-  - Tvyordiy danced through the swirling winds, stunning elemental warriors with ki-infused quarterstaff strikes.
+  - Tvyordiy danced through the swirling winds, stunning elemental warriors with ki-infused quarterstaff strikes. In the deafening gale, as his staff cracked against storm-iron armor, the chained myrmidon hissed directly into Tvyordiy's mind in sibilant **Auran**—a despairing cry of an enslaved planar spirit warning him of Talos's corruption across the Endless Blue.
   - Myagkiy poured divine radiance and life-saving heals into his allies.
-  - Searing radiant and martial strikes brought down the demon lord **Ub-Vhagga**, while Captain Deloz leapt into the howling winds to deliver the **decisive killing blow** against the final Air Elemental Myrmidon!
+  - Searing radiant and martial strikes brought down the demon lord **Ub-Vhagga**, while Captain Deloz leapt into the howling winds to deliver the **decisive killing blow** against the final Air Elemental Myrmidon—whose dying whispered breath in Auran (*"...remember"*) would linger in Tvyordiy's mind for years to come.
 
 ---
 
