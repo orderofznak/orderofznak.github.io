@@ -19,7 +19,7 @@ modules: ["Divine Contention"]
 ---
 
 ## 📜 Overview of the Final Act
-Commencing **one full year after the volcanic trials of [[05 - Interlude 2 - Keeping the Faith|Interlude 2: "Keeping the Faith"]]**, the relative peace of the Sword Coast is shattered as the twin cults of storm and death return with devastating fury. During the year of downtime, **[[Dagult Neverember|Lord Protector Dagult Neverember]]** returned from his political hiatus to heavily finance the fortification and rebuilding of [[Leilon]], while **[[The Order of Znak]]** operated at **Level 11**—fortified by Flanning Teldorer's divine feats, Myagkiy's 24 AC +2 Plate Armor, and **[[Rhynok]]** finally donning his newly delivered ***Cloak of Elvenkind***.
+Commencing in **Flamerule 1495 DR**—**one full year after the volcanic trials of [[05 - Interlude 2 - Keeping the Faith|Interlude 2: "Keeping the Faith"]]** (*Table Play: July 24 – December 18, 2022*)—the relative peace of the Sword Coast is shattered as the twin cults of storm and death return with devastating fury. During the year of downtime, **[[Dagult Neverember|Lord Protector Dagult Neverember]]** returned from his political hiatus to heavily finance the fortification and rebuilding of [[Leilon]], while **[[The Order of Znak]]** operated at **Level 11**—fortified by Flanning Teldorer's divine feats, Myagkiy's 24 AC +2 Plate Armor, and **[[Rhynok]]** finally donning his newly delivered ***Cloak of Elvenkind***.
 
 As the twin armies of the storm high priestess **[[Fheralai Stormsworn]]** and the death-priest **[[Ularan Mortus]]** converged upon **[[Leilon]]**, **[[The Order of Znak]]** raced from the haunted canyons of the Sword Mountains to the high seas of the Sword Coast—defending their home from draconic and undead siege before sailing straight into the eye of a divine hurricane to board the flagship dreadnaught of **[[Talos]]**.
 
@@ -27,21 +27,21 @@ As the twin armies of the storm high priestess **[[Fheralai Stormsworn]]** and t
 
 ## ⚔️ The Final Campaign
 
-### 1. The Perils of [[Dumathoin's Gulch]] & The Wereboar's Bite
+### 1. The Perils of [[Dumathoin\'s Gulch]] & The Wereboar\'s Bite (Flamerule 1495 DR)
 
-#### The Trail of Senseless Slaughter & The Chipmunk Witness (July 24, 2022)
+#### The Trail of Senseless Slaughter & The Chipmunk Witness (*Table Session: July 24, 2022*)
 Setting out into the crags of the Sword Mountains toward **[[Dumathoin's Gulch]]** to retrieve a cache of experimental Gnomengarde anti-siege munitions needed to defend [[Leilon]], the Order came upon a gruesome scene within five miles of the defile. The tranquil mountain woods were shattered by evidence of indiscriminate carnage: forest beasts—some as large as deer and others as small as mountain hares—lay butchered across the needle-strewn floor. 
 
 **[[Krageer Stoneface Ogolakanu]]** inspected the carcasses (rolling a **20 Investigation** check), observing that every animal had been cleanly cut down by sharp swords. None were eaten, harvested, or skinned; they had been slaughtered brutally and senselessly without cause. Scanning the canopy with razor-sharp elven senses, **[[Rhynok]]** spotted a lone survivor (rolling a **28 Perception** check): a terrified chipmunk trembling upon a high branch above the gore. Extending a morsel of travel rations, Rhynok cast ***Animal Friendship*** (DC 13 Wisdom save). Soothed by the ranger's magic, the chipmunk chattered frantically, revealing that several skeletal creatures wielding gleaming blades had butchered the animals before marching directly toward the gulch.
 
-#### Bindlemint's Warning & The Wereboar Ambush (July 24, 2022)
+#### Bindlemint's Warning & The Wereboar Ambush (*Table Session: July 24, 2022*)
 Moments later, the party heard a sudden, thrashing commotion in the woods as something hurried toward them. Gnome inventor **Bindlemint Mincemower** burst through the thick brambles. Her clothes were torn, her face was bloodied by cuts, and she was terrified to the point of exhaustion. She had only enough energy to gasp a single panicked word—*"Beasts!"*—before collapsing unconscious at their boots.
 
 Crashing through the pines right behind her came five snarling **Wereboars**, hunting the fleeing gnome. Rolling high initiative (`Tvyordiy 25, Rhynok 25, Myagkiy 18, Krageer 16`), Rhynok marked a target with *Hunter's Mark* and unleashed a deadly *Dread Ambusher* longbow barrage (`30 to hit`), while Krageer charged into the fray with his great axe. In the furious close-quarters melee, a hulking wereboar slammed its tusks directly into **[[Tvyordiy Znak]]** (`21 attack roll`). Knocked prone (failing his DC 12 Strength save with a `5`) and failing his Constitution saving throw (`10`), the Aarakocra monk was infected with **wereboar lycanthropy**. Rather than despairing or seeking immediate magical cleansing, the stoic Way of the Drunken Master monk resolved to harmonize the beast's feral brawn and hybrid tusks with his monastic ki discipline.
 
 Once the lycanthropes were slain, [[Myagkiy Znak]] tended to Bindlemint with a 2nd-level *Cure Wounds* (`13 HP`). Her injuries were mostly superficial cuts and exhaustion. Once revived, she explained that she had been racing toward Leilon when the wereboars caught her scent. She carried urgent, dire news: Dumathoin's Gulch had been ambushed earlier that morning by horrific creatures that *"stank of death."* Bindlemint suspected the monsters were hunting for the experimental **Gnomengarde grenade**, but she hadn't lingered to ascertain their full intent—fleeing in sheer terror and presuming her two gnomish colleagues were already dead.
 
-#### Descent into Dumathoin's Gulch: Fibblestip & Dabbledop (July 24–26, 2022)
+#### Descent into Dumathoin's Gulch: Fibblestip & Dabbledop (*Table Sessions: July 24–26, 2022*)
 Leaving Bindlemint safely behind the lines, the companions advanced into the rocky gorge:
 > *A fast-moving stream crashes down the gulch. Tiers of rock ascend some seventy feet to the clifftop above, and two stone pillars, fifty feet above the gulch floor, are connected by a stone arch that spans the middle of the gulch. A crumpled gnome figure rests in the center of the arch.*
 >
@@ -49,14 +49,14 @@ Leaving Bindlemint safely behind the lines, the companions advanced into the roc
 
 The two figures were none other than their old eccentric inventor friends from Gnomengarde: **Fibblestip** lay unconscious fifty feet overhead on the high stone arch, while **Dabbledop** was paralyzed with terror against the carved moonstone dwarf at the rear ledge.
 
-#### The Specters of the Defile & The Extradimensional Perch (July 26, 2022)
+#### The Specters of the Defile & The Extradimensional Perch (*Table Session: July 26, 2022*)
 As the Order moved to reach the tinkerers, the chill of undeath gripped the canyon. A vanguard of spectral warriors—a **Sword Wraith Commander** and several **Sword Wraith Warriors**—manifested from the mist, drawing phantom greatswords. Bolstered by supernatural *Turning Defiance*, the wraiths held firm against Myagkiy's divine rebuke.
 
 Seeing the choke point below, [[Rhynok]] cast ***Rope Trick***, anchoring a length of rope into an invisible extradimensional pocket twenty feet above the canyon floor. Climbing up and hauling the rope inside, Rhynok gained total immune cover—peering through the unseen window to rain deadly poisoned shafts into the wraith ranks with complete impunity. Down on the rocks, Krageer cleaved through spectral plate with devastating great axe strikes (`31 crit`), while Tvyordiy cracked ghostly forms with his *Vicious Quarterstaff +2*. 
 
 Suddenly, the dwarven shrine reacted: the massive **Sacred Statue** of Dumathoin awakened, animated by the sacred eidolon of **[[Sister Silvergranite]]** (`Init 11`). Its towering stone fists pulverized the undead with colossal slams (`42 to 44 bludgeoning damage`).
 
-#### The Boneclaw Ambush, The 6th-Level Grace, & Favora's Platoon (July 27, 2022)
+#### The Boneclaw Ambush, The 6th-Level Grace, & Favora's Platoon (*Table Session: July 27, 2022*)
 With the initial wraiths crushed, Myagkiy recited ancient dwarven rites (rolling a **23 Religion** check) while Rhynok called out with respectful diplomacy (rolling a **20 Persuasion** check). Recognizing the Order's reverence for Dumathoin and their desperate quest to defend Leilon, Sister Silvergranite held her massive fists and agreed to yield the gnomish ordnance.
 
 Before the covenant could be settled, the shadows at the canyon's edge twisted violently as a terrifying, nine-foot-tall **Boneclaw** ambushed the party (`Init: Boneclaw 19, Eidolon 16`). Lunging with elongated, scythe-like talons (`ATTACK: 27`), it impaled Krageer, dragging the raging Goliath ten feet into its clutches (`27 piercing damage`) and pinning him tight. 
@@ -67,7 +67,7 @@ To keep their frontline juggernaut from collapsing, [[Myagkiy Znak]] unleashed o
 
 Just as the fiend crumbled to dust, a concealed side passage opened and an armed **platoon of gnomes** came charging out into the gulch, ready to defend their kin! At their head was **Favora Corehoarder**, a brave cleric of Garl Glittergold renowned for putting herself in danger to save others. Though breathless and ready for war, Favora and her platoon stopped in awe, seeing that the Order of Znak had already wiped out every horror in the defile. With great joy, Favora and her squad tended to the unconscious Fibblestip and petrified Dabbledop, safely bundling the relieved inventors together ("gnomes in a box").
 
-#### Munitions Secured & The Looming Shadow (July 28, 2022)
+#### Munitions Secured & The Looming Shadow (*Table Session: July 28, 2022*)
 From the grateful Gnomengarde inventors and Sister Silvergranite's vault, the Order secured a game-changing arsenal for the defense of Leilon:
 - **The Gnomengarde Grenade:** Entrusted to Rhynok, this volatile prototype was packed with unpredictable wild magic that triggered fire bursts (`28 damage`), thunder waves (`28 damage`), and three simultaneous *Wand of Wonder* surges (*slow* and twin *lightning bolts*) upon detonation.
 - **The Dragon Slayer Longsword:** Awarded to Krageer, a magic `+1 longsword` specifically forged to pierce dragon scales (`+3d6` slashing against dragons).
@@ -81,13 +81,13 @@ Preparing for the coming storm, Rhynok cast *Locate Animals or Plants* and harve
 
 ### 2. Thalivar's Beacon, Ultima Exodus, & [[The Ruinstone]]
 
-#### The Reconstructed Garrison at Leilon (July 31, 2022)
+#### The Reconstructed Garrison at Leilon (*Table Session: July 31, 2022*)
 Returning from Dumathoin's Gulch, the Order arrived at the newly transformed centerpiece of Leilon:
 > *The House of Thalivar is a tall tower at the heart of the town. Recently rebuilt by soldiers, the structure now serves as a garrison for Neverwinter’s soldiery. Ravens circle the tower’s pointed roof and warm lantern light shines from its windows. At its foot, two arched doorways open into the interior.*
 
 Where once stood a haunted, crumbling ruin during the trials of *Storm Lord's Wrath*, the spire was now bustling with garrisoned troops. Yet deep within the high laboratory, the Order discovered wizard **[[Gallio Elibro]]** engaged in reckless arcane experimentation. With Leilon facing an imminent siege from the Cult of Talos and the Cult of Myrkul, Gallio explained that he had successfully rebuilt Thalivar's planar beacon. His stated ambition was to tune the beacon to trap extraplanar creatures and magically bind them into town service as defensive guardians—but he needed seasoned champions to journey into the **Border Ethereal** with him to trap more specimens.
 
-#### Striking the Silver Bell & The Astral Spire (July 31, 2022)
+#### Striking the Silver Bell & The Astral Spire (*Table Session: July 31, 2022*)
 Gallio gathered the party around the planar apparatus to cast *Etherealness*:
 > *As the silver bell is struck, the world fades away. Grey mist swirls into view and the temperature drops to a soul-chilling cold. Your companions and the tower you just stood in remain visible, but appear translucent and oddly distant. In this strange world, a beam of blue light spills from the planar beacon and sweeps around it in a circle, like a spectral lighthouse. Most mysterious of all, a spiral staircase rises from an archway in the wall that wasn’t present before.*
 
@@ -96,7 +96,7 @@ Gallio immediately cast *Greater Invisibility* upon himself and slipped up the e
 As sinister shapes began congealing in the mists, catastrophe struck:
 > *Gallio screams from the top of the astral spire. A shockwave washes through the mists, and the spectral light of the planar beacon flickers and dies. Looking back into your own world, you see the trapped monsters awaken and break free from their cells!*
 
-#### Battle Across Two Planes & The Christening of Ultima Exodus (July 31 – August 1, 2022)
+#### Battle Across Two Planes & The Christening of Ultima Exodus (*Table Sessions: July 31 – August 1, 2022*)
 The violent rupture sheared reality across the planar veil, dividing the Order into a frantic two-front struggle:
 - **[[Tvyordiy Znak]]** and **[[Krageer Stoneface Ogolakanu]]** were pinned in the laboratory on the **Material Plane**, surrounded by rampaging aberrations.
 - **[[Myagkiy Znak]]** and **[[Rhynok]]** were stranded across the threshold in the **Ethereal Plane**!
@@ -107,7 +107,7 @@ During *Keeping the Faith*, Krageer had forged a massive, custom two-handed grea
 
 Meanwhile, Rhynok trapped manglers with well-placed *Net* throws and slashed with his *Scimitar of Speed* coated in potent DC 14 poison, Tvyordiy hammered joints with his *Vicious Quarterstaff +2* and stunning flurries, and Myagkiy channeled *Mass Healing Word* and high-tier *Cure Wounds* across the planar divide until all four Far Realm horrors were obliterated.
 
-#### The Warning of The Swords of Leilon & Fortifying the Spire (August 1, 2022)
+#### The Warning of The Swords of Leilon & Fortifying the Spire (*Table Session: August 1, 2022*)
 With the beacon powered down and the Order reunited on the Material Plane, the dimensional mists parted:
 > *A pair of ghostly figures emerge from the mists: a dark-skinned warrior woman dressed in chainmail, and a red-bearded dwarf carrying a lute. The woman holds up her hand in a sign of peace and speaks in an echoing voice:*
 > *"This is what happens to those who meddle with the ruinstone. Leave it here, lest the people of Leilon suffer its wrath once more!"*
@@ -120,7 +120,7 @@ Thoroughly terrified and disgraced by the catastrophe his vanity had unleashed, 
 
 ### 3. Privateers of Bregan D'aerthe & Audience at Castle Never
 
-#### The Twin Caravels & The Grinning Ranger (August 2–3, 2022)
+#### The Twin Caravels & The Grinning Ranger (*Table Sessions: August 2–3, 2022*)
 Needing to rally regular army reinforcements from Neverwinter before the cult armies closed the ring around Leilon, the Order followed tavern rumors from innkeeper Alion regarding two mysterious, opulent pleasure vessels anchored offshore whose crews only ventured out at night:
 > *Two magnificent ships are anchored just beyond the marshy shore. Both have long strips of decorative cloth stretched from the tops of their masts down to the railings around their decks. The smaller of the ships is decorated with blue, pink, and purple fabric, and has a massive figurehead shaped like a charging unicorn with a prominent gold horn. A name on the side of this ship reads Twinkle.*
 >
@@ -128,7 +128,7 @@ Needing to rally regular army reinforcements from Neverwinter before the cult ar
 
 Boarding the luxurious vessels, the companions discovered remarkable naval enchantments. Near the front of *Icingdeath*'s main deck stood an 8-foot-tall, 4,000-pound stone statue of the legendary drow ranger Drizzt Do'Urden posed with hands on his scimitars and an open, goofy grin. Uttering the command word **`"Artemis"`** animated the statue to move across the deck or fire a crushing, pressurized stream of water from its mouth. Furthermore, a hidden switch on the ship's wheel engaged an aft pump system capable of deploying a wide slick of flammable oil to immolate pursuing vessels.
 
-#### Disguises, Friendly Sparring, & The Poisoned Bolt (August 4, 2022)
+#### Disguises, Friendly Sparring, & The Poisoned Bolt (*Table Session: August 4, 2022*)
 The ships were commanded by two starkly contrasting figures:
 - **Captain Deloz Montiv (*Twinkle*):** Disguised under an illusory glamour as a quiet, calculating male Rashemi weapon merchant. Observant and thorough, Deloz constantly conducted surprise inspections of his crew and checked in on passengers to ensure they were comfortable—and staying out of trouble.
 - **Captain Xalti (*Icingdeath*):** Disguised as an impulsive, confident male Calishite iron merchant who loved showing off his magic and wagering on almost any event.
@@ -139,7 +139,7 @@ Watching the duel from the quarterdeck, **[[Rhynok]]** examined the coated bolt 
 
 The captains admitted their charter: they operated under the direct command of their eccentric patrons in Luskan—**Jarlaxle Baenre** ("One-Eyed Jax") and legendary psionicist **Kimmuriel Oblodra** ("Kim"). Satisfied that the Order were heroes rather than enemies of Bregan D'aerthe, Deloz agreed to ferry the party north to Neverwinter. Meanwhile, the disgraced wizard **[[Gallio Elibro]]** slipped aboard Xalti's *Icingdeath* to flee north toward the Cloaktower.
 
-#### Audience at Castle Never: The Hotenow Debt & Waived Levy (August 4–9, 2022)
+#### Audience at Castle Never: The Hotenow Debt & Waived Levy (*Table Sessions: August 4–9, 2022*)
 Arriving in the jewel of the north, Captain Deloz escorted the Order through the high corridors of Castle Never:
 > *You stand in the great marble hall of Castle Never, on a red carpet that leads up to a throne. Atop the chair sits a serious man in shining plate armor and blue cloak with gold trim. Lord Dagult Neverember strokes his short, gray beard as he listens to the pleas of the captains to secure the High Road and send troops to Leilon. When they finish, the lord turns toward you.*
 >
@@ -167,7 +167,7 @@ Confronted with the undeniable debt he owed the champions who had saved Neverwin
 
 ### 4. High Seas Fleet Combat & The Fall of Ship Rethnor (August 10 – August 24, 2022)
 
-#### The Hurricane Squall & All Hands on Deck (August 10, 2022)
+#### The Hurricane Squall & All Hands on Deck (*Table Session: August 10, 2022*)
 Setting sail south from Neverwinter aboard *Twinkle*, accompanied by *Icingdeath*, the Sea of Swords was suddenly consumed by an unnatural tempest:
 > *Lightning and thunder suddenly crack a dark sky as heavy rain pours from above. Cries of, "Hurricane! All hands on deck!" can be heard throughout the vessel. The sailors need all the help they can get.*
 
@@ -178,7 +178,7 @@ To keep the ship afloat amidst churning forty-foot swells, the Order manned crit
 
 Having succeeded on more than half the crisis stations, the Order brought *Twinkle* through the squall with minimal damage—absorbing only **22 bludgeoning damage** (halved from the full 44 points)!
 
-#### The Invisible Stalker Assassination Plot (August 10, 2022)
+#### The Invisible Stalker Assassination Plot (*Table Session: August 10, 2022*)
 In the squall's swirling aftermath, Talosite reaver lord **[[Galas Windrage]]** dispatched four summoned **Invisible Stalkers** in a cowardly decapitation strike aimed at assassinating Captain Deloz on *Twinkle* and Captain Xalti on *Icingdeath*.
 
 Yet dispatching invisible assassins against drow proved an utter tactical folly:
@@ -188,7 +188,7 @@ Yet dispatching invisible assassins against drow proved an utter tactical folly:
 
 Rallying to defend the helm, Rhynok tracked the flickering distortions, slicing through the air elementals with his venom-coated *Scimitar of Speed* (`critical sneak attacks`). Krageer swept the deck with **[[Ultima Exodus]]**, delivering pulverizing cleaves (`31 to hit, 23 damage`) that shredded the stalkers back into harmless sea mist.
 
-#### Ship Rethnor Revealed & "Direct the Siege Weapons!" (August 10, 2022)
+#### Ship Rethnor Revealed & "Direct the Siege Weapons!" (*Table Session: August 10, 2022*)
 As the last elemental fell, the unnatural squall abruptly vanished, revealing the true ambush:
 > *The sky becomes clear and sunny as the rain begins to clear, revealing two nearby ships. The smaller vessel, a longship, rows quickly toward you, its crew chanting in prayer. The larger vessel, a warship armed with ballista and catapults, has a large crow painted on its sails. The officers of your vessels cry, "Ship Rethnor! Battle stations!" The ship captain looks at you and says, "Direct the siege weapons!"*
 
@@ -197,30 +197,30 @@ Rolling into naval fleet initiative:
 - **Warship (*Throatcutter*):** `9.04`
 - **Longship (*Thunderstrike*):** `7.06`
 
-#### Siege Engines, Flaming Oil, & The Necklace of Fireballs (August 10–23, 2022)
+#### Siege Engines, Flaming Oil, & The Necklace of Fireballs (*Table Sessions: August 10–23, 2022*)
 Operating under naval warfare rules, the 20 drow sailors on each vessel dedicated their full combat actions to steering, aiming, loading, and firing *Twinkle*'s heavy mangonels and ballistas. 
 
 Directing the battery, the Order unleashed devastating tactical maneuvers:
 - **Tvyordiy's Fiery Artillery:** Remembering the **Necklace of Fireballs** recovered from the Dragon Barrow during *Dragon of Icespire Peak*, Tvyordiy hurled glowing explosive beads across the water into the densely packed crews of *Thunderstrike* and *Throatcutter*. The soft cultist sailors (11 HP each) were engulfed in rolling detonations, failing their Dexterity saves and burning across the rowing benches.
 - **Naval Countermeasures:** Captain Deloz pressed the hidden wheel trigger to release *Twinkle*'s aft pump, igniting a roaring sheet of flaming oil across the wake that scorched pursuing hulls. Meanwhile, the crew spoke the command word **`"Artemis"`**, activating the 8-foot stone Drizzt statue to blast approaching grappling lines with pressurized torrents of water!
 
-#### Closing the Breach: Small-Arms Cross-Deck Fire (August 23–24, 2022)
+#### Closing the Breach: Small-Arms Cross-Deck Fire (*Table Sessions: August 23–24, 2022*)
 As the burning hulls closed to boarding range within thirty yards, heavy siege engines could no longer safely depress their firing angles without shattering friendly rigging. Both sides ceased mangonel bombardment and erupted into a ferocious cross-deck exchange of small-arms fire across the churning gap!
 
 The reavers retaliated from their fighting tops with volleys of light crossbow bolts and thrown daggers. From the swaying rigging of *Twinkle*, **[[Rhynok]]** sniped through the drifting gunsmoke with lethal, poison-tipped longbow arrows (`30, 31 to hit, Sneak Attacks`). Down at the gunwales, **[[Krageer Stoneface Ogolakanu]]** set aside his axe and joyfully traded longbow volleys across the waves (`25, 20, 23 to hit, crits`), bellowing tavern insults while Bregan D'aerthe's privateers answered with disciplined volleys of poisoned hand crossbow bolts.
 
-#### Boarding the Throatcutter & Wrestling the Six Officers (August 24, 2022)
+#### Boarding the Throatcutter & Wrestling the Six Officers (*Table Session: August 24, 2022*)
 With the longship *Thunderstrike* crippled and dead in the water, *Twinkle* and *Icingdeath* slammed grappling hooks into the gunwales of the flagship warship *Throatcutter*.
 
 Vaulting across the bloodstained gap into close-quarters melee, Krageer and Tvyordiy were confronted by the warship's six senior officers—the **Captain**, **First Mate**, **Bosun**, **Quartermaster**, **Surgeon**, and **Cook** (each fighting with Bandit Captain stat blocks). Entering a thunderous Bear Totem rage, Krageer engaged in brutal close-quarters grappling, seizing officer after officer with overwhelming Goliath brawn (`18, 17 Athletics checks`). Tvyordiy hammered the officers with stunning flurries of blows while Rhynok picked off reinforcing bandits from the shrouds, systematically breaking the reavers' command structure until the ship surrendered!
 
-#### The Interrogation & Fheralai's Plot (August 24, 2022)
+#### The Interrogation & Fheralai's Plot (*Table Session: August 24, 2022*)
 With *Thunderstrike* sinking into the whitecaps and *Throatcutter* captured, Krageer dragged the surviving reaver officers before the shattered mast. Towering over the bruised captives with his bloodstained greataxe **[[Ultima Exodus]]**, Krageer roared a fearsome interrogation:
 - Rolling an **18 Intimidation check** (`11 | 18 (+2)`), Krageer completely shattered the DC 15 threshold!
 
 Terrified of being cleaved in two and fed to the sharks, the broken officers confessed everything: the naval ambush had been personally commanded by the storm high priestess **[[Fheralai Stormsworn]]** and the **Cult of Talos**. The cult had forged an alliance with pirate fleet lords of Luskan to blockade the sea lanes and isolate Leilon from Neverwinter reinforcements—clearing the path for their combined overland armies to march upon the town for the final siege.
 
-#### Scuttling the Prize & A Gift to Bregan D'aerthe (August 24, 2022)
+#### Scuttling the Prize & A Gift to Bregan D'aerthe (*Table Session: August 24, 2022*)
 With the interrogation complete and the reaver officers disarmed in the hold, the companions faced the tactical question of what to do with the battered prize. Rather than burdening their return voyage by towing a heavily damaged Rethnor warship back to Leilon's shallow quayside, the Order graciously turned the captured vessel over to Captain **[[Deloz Montiv]]**, Captain Xalti, and **Bregan D'aerthe** as a gift. 
 
 The drow privateers efficiently stripped the warship of its heavy ballistas, mangonels, and munitions before scuttling the hull into the depths of the Sea of Swords. This gesture of maritime goodwill cemented an ironclad bond between the Order of Znak and Jarlaxle Baenre's mercenary syndicate as trusted sea-brothers!
@@ -236,7 +236,7 @@ Following the naval triumph over Ship Rethnor, the Order returned to a frontier 
 
 ---
 
-#### Event 1: Dawn of the Dead at the South Gate (August 25–26, 2022)
+#### Event 1: Dawn of the Dead at the South Gate (*Table Sessions: August 25–26, 2022*)
 An hour before dawn amidst torrential downpour, the peace of the frontier was shattered:
 > *The night is dark, and torrential rain beats down on the rooftops. An hour before dawn, the bell on the newly erected south gate begins to toll urgently. A cry goes up from the wall as troops dash to man their positions:*
 > *"The dead! The dead are coming!"*
@@ -260,7 +260,7 @@ After five harrowing rounds of bone-crunching combat, the vanguard of Myrkul bro
 
 ---
 
-#### Event 2: The Storm Breaks & The Tactical Choice (August 26, 2022)
+#### Event 2: The Storm Breaks & The Tactical Choice (*Table Session: August 26, 2022*)
 As the last ghast fell at the gateway, a terrified townsfolk splashed through the mud toward the companions:
 > *A man stumbles through the mud, his eyes wide with terror. You recognize him as Jack Torver, the owner of Leilon’s general store.*
 > *“Barbarians at the north gate!” he gasps. “The Storm Lord’s berserkers! I was on my way to warn you when I saw the dead wading out of the marsh. They’re attacking the quayside right now!”*
@@ -273,7 +273,7 @@ Knowing the vulnerable civilian fishing fleet and waterfront warehouses were vit
 
 ---
 
-#### Event 4: Back to the Mud — The Quayside Ambush & Saving Valdi Estapaar (August 26, 2022)
+#### Event 4: Back to the Mud — The Quayside Ambush & Saving Valdi Estapaar (*Table Session: August 26, 2022*)
 Slogging westward through the driving squall, the companions arrived at the docks to witness a scene of horror:
 > *Screams echo across the quayside as zombies emerge from the mire! Defenders dash to repel the undead, but they seem unprepared for the surprise attack. As you get closer, you see a large undead figure with long fingers squatting over an upturned rowboat. A woman squirms in the mud underneath, trapped by the weight of the boat. You recognize her as Valdi Estapaar, the fisherwoman who sits on the town council!*
 
@@ -302,7 +302,7 @@ With their summoned **Minotaur** still lumbering alongside them, the Order chose
 
 ---
 
-#### Event 7: Enter the Dragon — The Shadow Wyrm in the Town Square (September 5–10, 2022)
+#### Event 7: Enter the Dragon — The Shadow Wyrm in the Town Square (*Table Sessions: September 5–10, 2022*)
 Charging into the central plaza, the companions were plunged into complete pandemonium:
 > *Chaos reigns in the town square. On one side, Leilon’s defenders make a valiant stand against the invaders, while on the other, fleeing townsfolk clog the thoroughfare leading out of town. Screams of panic suddenly echo through the crowd. Looking up, you see a huge green dragon swoop out of the storm!*
 
@@ -325,7 +325,7 @@ Bleeding and coughing from necrotic fumes, the companions huddled in the rubble 
 
 ---
 
-#### Event 9: The Roof of the House of Thalivar & The Swords of Leilon (September 10–24, 2022)
+#### Event 9: The Roof of the House of Thalivar & The Swords of Leilon (*Table Sessions: September 10–24, 2022*)
 Scaling the steep crag toward the wizard's ancestral mansion:
 > *The green dragon squats on the distant roof of the House of Thalivar. As you draw closer, you see a trio of ghostly warriors locked in combat with the beast!*
 
@@ -344,7 +344,7 @@ The final clash atop the slippery roof was a frenzy of legendary steel and wild 
 
 ---
 
-#### The Fall on Aubrey's Shoppe & The Exorcism of Ebondeath (September 24–25, 2022)
+#### The Fall on Aubrey's Shoppe & The Exorcism of Ebondeath (*Table Sessions: September 24–25, 2022*)
 Mortally wounded and convulsing, the gargantuan wyrm lost her footing on the slate roof and crashed down onto the street below:
 > *The dragon has crash-landed on Aubrey’s Peculiarities Shoppe, reducing the building to a pile of broken masonry. Bleeding badly and covered with arrows, the dragon struggles to rise to its feet. As you approach it, the specter of another dragon emerges from its body and flies away to the south, fading from sight! As the spirit leaves its body, the dragon slumps exhausted to the ground.*
 
@@ -404,16 +404,16 @@ Recognizing their unmatched prowess, Lord Neverember issued two monumental bount
 
 Armed with the **8,000 gp** bounty issued by Lord Neverember, the newly minted Level 12 champions set out to extinguish the dark heart of the Myrkulite death cult. Their target was the subterranean tomb of the ancient dracolich **Chardansearavitriol**, known to legend as **[[Ebondeath]]**. 
 
-#### The Barge Journey into the Mere of Dead Men (September 11, 2022)
+#### The Barge Journey into the Mere of Dead Men (*Table Session: September 11, 2022*)
 Following precise navigation charts provided by Neverember’s scouts, the companions chartered a heavy, flat-bottomed marsh barge from Leilon’s quayside. Leaving the rebuilding port behind, they poled southward into the rancid, sulfurous waters of the **Mere of Dead Men**—a drowned, treacherous salt marsh choked with sunken willows, grasping quicksand, and shifting necrotic vapors.
 
-#### The Sunken Uthtower & The Latrine Shaft (September 11, 2022)
+#### The Sunken Uthtower & The Latrine Shaft (*Table Session: September 11, 2022*)
 Deep within the trackless mire, the party located the site where ancient ruins lay buried beneath fathoms of stagnant water:
 > *Uthtower is buried deep beneath the bog. Using undead as laborers, Ularan Mortus excavated a deep shaft into the mud, shored up with wooden beams. Crude iron rungs were hammered into the walls of this pit, providing access to the entry hall of the catacombs (area E1). On the surface, the entrance looks like nothing more than a timber latrine sitting in the middle of nowhere. The shaft inside descends 120 feet to the catacombs below.*
 
 Scouting the desolate surface perimeter, the party rolled a **DC 18 Investigation check**, discerning that a nearby brackish lake had been violently displaced: thick sheets of mud were splattered high across the reeds, revealing where the gargantuan body of Claugiyliamatar had crash-landed and slithered into the depths during her possession.
 
-#### Area E1: The Entry Hall & The Riddle of Myrkul (September 11, 2022)
+#### Area E1: The Entry Hall & The Riddle of Myrkul (*Table Session: September 11, 2022*)
 Leaving their barge concealed among the sawgrass, the companions grasped the rusted iron rungs and descended one by one down the vertical, 120-foot mud shaft:
 > *The shaft descends into a worked stone hallway. One end of the hall has collapsed, and the other terminates in a pair of giant ebony doors. A thin layer of mist swirls over the floor and the air is unnaturally cold. As you step onto the flagstones, a voice from nowhere whispers: “Who is dead but cannot die, the Lord of Bones, whose embrace is patient but sure?”*
 
@@ -423,14 +423,14 @@ A hollow groan reverberated through the stone, and the massive ebony valves swun
 
 ---
 
-#### Area E2: The Cultist Camp & The Summoning in the Ritual Room (September 24–25, 2022)
+#### Area E2: The Cultist Camp & The Summoning in the Ritual Room (*Table Sessions: September 24–25, 2022*)
 Breaching the threshold into Area E2, the companions discovered an active subterranean war camp established by Ularan Mortus's cultists. The chamber instantly erupted into a deafening melee:
 - **The Vanguard Clash:** Dark priests shielded by ***Stoneskin***, necromancers, spectral **Ghosts**, and feral **Ghasts** surged forward with *Spiritual Weapons* and necrotic curses.
 - **Round 3 Reinforcements:** Just as the Order shattered the first defensive line, heavy stone doors banged open as a **War Priest** led a reinforcing squad of **Greater Zombies** into the fray, their fists delivering bone-shattering *Empowered Slams* (`26 to hit, bludgeoning + necrotic`).
 - **Krageer's Champion Crits:** Krageer put his new **Champion** training on bloody display. Wielding **[[Ultima Exodus]]**, Krageer cleaved through rotting muscle with thunderous 19–20 critical hits (`18 + Crit: 8, 17 + Crit: 6, 12 + Crit: 11 slashing`), hewing zombie limbs in half before they could land their blows.
 - **Rhynok's Extradimensional Sniper Perch:** Slipping into the shadows, Rhynok cast ***Rope Trick***, climbing up into an invisible, extradimensional haven twenty feet above the flagstones. From this elevated vantage point, Rhynok rained lethal, poison-tipped arrows into the undead commanders (`12 + Crit: 6 Sneak Attack`).
 
-##### The Bone Devil of the Ritual Chamber (September 25, 2022)
+##### The Bone Devil of the Ritual Chamber (*Table Session: September 25, 2022*)
 Unbeknownst to the Order, cult fanatics in the adjoining ritual chamber were frantically conducting a dark conjuration. As the last Greater Zombie collapsed in Area E2, the doors burst open to reveal a towering, fiendish monstrosity: a summoned **Bone Devil**!
 - The fiend lunged into the camp with its *Variant Hooked Polearm* (`26 to hit, 17 piercing`) and snapped its barbed tail in a deadly *Sting* (`19 to hit, 14 piercing + 13 poison`). 
 - Towering over the fiend, Krageer absorbed the blow and rolled a stalwart **16 Constitution Save** (`+7`), his Goliath blood completely shrugging off the deadly venom!
@@ -444,7 +444,7 @@ Searching the abandoned tents, chests, and ritual altars, the Order recovered:
 
 ---
 
-#### Secret Doors, Flooded Crypts, & The 8 Skeletal Swarms (October 9, 2022)
+#### Secret Doors, Flooded Crypts, & The 8 Skeletal Swarms (*Table Session: October 9, 2022*)
 Pausing amidst the heaps of cultist dead, Krageer quaffed healing potions before systematically searching the damp stonework. Rolling **Investigation**, Krageer discovered a cunningly disguised secret door opening into the deeper, unmapped catacombs.
 
 Wading south through knee-deep, freezing water, the party turned north at a submerged four-way intersection. Echoing through the dripping vaults, the companions picked up the unmistakable dry clattering of bone on stone:
@@ -452,7 +452,7 @@ Wading south through knee-deep, freezing water, the party turned north at a subm
 - As Krageer took the vanguard, his boots kicked against piles of ancient remains, immediately awakening an ambush of **eight Skeletal Swarms** surging from the waterlogged alcoves!
 - While Rhynok rained broadheads from above, Krageer, Myagkiy, and Tvyordiy smashed through the bony tide, crushing skulls into powder.
 
-#### The Shrine of The Vestige & Destructive Waves (October 9, 2022)
+#### The Shrine of The Vestige & Destructive Waves (*Table Session: October 9, 2022*)
 Pushing northward into the adjoining temple, the companions confronted **The Vestige**—a floating, necrotic manifestation of Myrkul's divine will surrounded by another host of skeletal swarms.
 
 Hovering above the blackened altar, The Vestige detonated multiple catastrophic bursts of ***Destructive Wave*** (`DC 18 Constitution Save, 22 necrotic/radiant damage`). While necrotic thunder shook the cavern, Krageer powered through the shockwave with a towering **25 Constitution Save** (`+7`). Charging through the blast, the companions battered down the altar and scattered the remaining skeletal swarms into inert fragments.
@@ -470,14 +470,14 @@ The legend of the ancient wyrm loomed over the party:
 
 ---
 
-#### The Climax: The Possession of Tvyordiy Znak & The Exorcism (October 23–29, 2022)
+#### The Climax: The Possession of Tvyordiy Znak & The Exorcism (*Table Sessions: October 23–29, 2022*)
 
 ##### The October 23 Cliffhanger
 Surging from the northern dark, the colossal spectral phantom of **[[Ebondeath]]** descended upon the octagonal vault. Operating under a modified Ghost Dragon stat block, the ancient dracolich was desperate for a mortal vessel after losing Claugiyliamatar in Leilon. Sweeping across the chamber with supernatural speed, the ghost dragon lunged directly at **[[Tvyordiy Znak]] (Ъ)**, grappling the aarakocra monk and invading his mortal soul in an unholy possession!
 
 The session ended on a harrowing, high-stakes cliffhanger: *The party's own monk brother was possessed by the dracolich!*
 
-##### Top of the Initiative: Restraining Tvyordiy (October 29, 2022)
+##### Top of the Initiative: Restraining Tvyordiy (*Table Session: October 29, 2022*)
 Resuming at the top of the initiative order, the companions faced the agonizing tactical challenge of neutralizing their possessed companion without taking his life:
 - **The Adamantine Net & Grappling:** Refusing to strike with lethal force, Rhynok and Krageer closed in. Rolling monster Athletics checks (`Rhynok: 26, 23 Athletics`), Rhynok hurled an **Adamantine Net** (`22, 24 to hit`), tangling the possessed monk in indestructible metallic mesh.
 - **Possessed Monastic Fury:** Infused with the dracolich's ancient malice, Tvyordiy's body fought back with terrifying martial fury. Spinning his *Vicious Quarterstaff +2* (`25, 28 to hit`) and unleashing *Flurry of Blows* (`28 to hit`), the possessed monk battered against the restraints, his innate *Purity of Body* shrugging off minor afflictions.
@@ -493,7 +493,7 @@ The blinding burst of holy radiance violently severed the parasitic link, rippin
 
 ---
 
-#### The Dragon's Ancient Hoard & Bounty (October 29, 2022)
+#### The Dragon's Ancient Hoard & Bounty (*Table Session: October 29, 2022*)
 Behind the shattered sarcophagus in the northern crypts, the companions uncovered the untouched, millennium-old dracolich hoard:
 - **14,000 gp** and **1,750 pp** in ancient minted coinage
 - Ten flawless **jet gemstones** (worth 100 gp each)
@@ -512,14 +512,14 @@ To crush the Talosite threat at its black heart, the Order resolved to hunt down
 
 ---
 
-#### Pinpointing the Dreadnaught & Voyage into the Eye (October 30, 2022)
+#### Pinpointing the Dreadnaught & Voyage into the Eye (*Table Session: October 30, 2022*)
 With unnatural, lightning-charged squalls cloaking the Sea of Swords in perpetual gloom, traditional naval pursuit was impossible. Taking to the consecrated circle in Leilon, **[[Myagkiy Znak]]** cast multiple 5th-level ***Scrying*** spells (`DC 17 Wisdom Save`), piercing through layered planar wards and storm winds to lock onto the dreadnaught's coordinates.
 
 Calling upon their staunch privateer brothers of **Bregan D'aerthe**—Captain **[[Deloz Montiv]]** and the crew of ***[[Twinkle and Icingdeath|Twinkle]]***, sailing alongside Captain Xalti aboard ***Icingdeath***—the Order steered their war caravel straight into the teeth of the screaming hurricane.
 
 ---
 
-#### Aerial Clash in the Tempest: The Roc & Kata Ironhide (October 30 – November 11, 2022)
+#### Aerial Clash in the Tempest: The Roc & Kata Ironhide (*Table Sessions: October 30 – November 11, 2022*)
 As *Twinkle* ploughed through mountainous waves, black clouds parted above the mainmast. Circling downward with thunderous wingbeats, a gargantuan **Roc** bearing the storm blackguard **Kata Ironhide** swooped from the squall directly at the caravel's deck:
 - **Snatching Rhynok:** The Roc's massive talons plunged toward the rigging, seizing **[[Rhynok]]** and hoisting the ranger **thirty feet into the air** (`26 slashing damage, Grappled, DC 19 escape`).
 - **Kata's Dreadful Presence:** Mounted atop the predator, Kata Ironhide unleashed her terrifying aura, chilling the crew to the bone (`Myagkiy: 19 Wisdom Save`, `Tvyordiy: 8`). Paralyzing terror gripped Tvyordiy Znak, but the aarakocra monk immediately focused his inner ki, activating ***Stillness of Mind*** to instantly dispel the fear!
@@ -530,7 +530,7 @@ As *Twinkle* ploughed through mountainous waves, black clouds parted above the m
 
 ---
 
-#### The Oceanic Tornado, Catastrophic Shipwreck, & The Beacon of Hope (November 11, 2022)
+#### The Oceanic Tornado, Catastrophic Shipwreck, & The Beacon of Hope (*Table Session: November 11, 2022*)
 Pushing deeper into the storm's vortex, the winds twisted into a monstrous oceanic waterspout—a churning black tornado grinding the sea into foam:
 - **The Scramble:** Captain Deloz and the crew fought desperately to keep *Twinkle* from capsizing. Multiple Dexterity checks were rolled across the deck, with Myagkiy channeling ***Guidance*** to aid the officers at the helm.
 - **The Shipwreck:** The vortex slammed into *Twinkle*, lifting the caravel into the air and shattering her timber hull in a cataclysmic roar! Every creature aboard took **42 bludgeoning damage** (`rolling 8d10`) and was hurled violently into the freezing, churning brine.
@@ -539,7 +539,7 @@ Pushing deeper into the storm's vortex, the winds twisted into a monstrous ocean
 
 ---
 
-#### Boarding the Armored Dreadnaught & The Deck Battle (November 20, 2022)
+#### Boarding the Armored Dreadnaught & The Deck Battle (*Table Session: November 20, 2022*)
 As the survivors clung to drifting wreckage, a terrifying silhouette emerged from the driving mist:
 > *An armored dreadnaught made from metal and bones ploughs through the fog, driven by banks of bonelike oars. Flames leap from a brazier mounted to its mainmast and its ragged sails are stitched from worn leather. A giant’s skeleton clutching a halberd is lashed to its bow.*
 
@@ -549,7 +549,7 @@ The Order, Captain Deloz, and the 5 surviving drow hauled themselves up the bone
 
 ---
 
-#### Confrontation in the Cabin: The Broken Champion (November 20, 2022)
+#### Confrontation in the Cabin: The Broken Champion (*Table Session: November 20, 2022*)
 Kicking open the doors to the captain's quarters, the companions confronted the dread leader of the storm cult:
 > *Having failed her mission, the champion begs her deity’s forgiveness. Fheralai has no fear of death but is terrified of failing Talos: if the characters enter her cabin, she chooses to drunkenly unload the details of her plight rather than fight them. Did she not honor her god with chaos and ruin? Were her conquests not glorious?*
 
@@ -557,7 +557,7 @@ Reeking of strong spirits and trembling before a crude altar, Fheralai wept open
 
 ---
 
-#### The Manifestation of Talos & The Divine Smite (November 20, 2022)
+#### The Manifestation of Talos & The Divine Smite (*Table Session: November 20, 2022*)
 As Krageer dragged the weeping priestess before the flaming mainmast brazier, the tempest reached an ear-splitting crescendo:
 
 ![[talos.jpg]]
@@ -572,7 +572,7 @@ With a deafening thunderclap, a blinding lance of divine lightning descended fro
 
 ---
 
-#### The Final Clash: Air Elemental Myrmidons & Ub-Vhagga the Nalfeshnee (December 18, 2022)
+#### The Final Clash: Air Elemental Myrmidons & Ub-Vhagga the Nalfeshnee (*Table Session: December 18, 2022*)
 Turning his lone, crackling eye upon the mortal interlopers, the storm god summoned his ultimate fury:
 - **The Vanguard of Storms:** Four towering **Air Elemental Myrmidons** coalesced into howling cyclones of thunder, flanked by the colossal demon lord **Ub-Vhagga the Nalfeshnee**—a grotesque, towering fiend with the body of a monstrous ape and the slobbering head of a boar!
 - **Hull Sabotage:** Below decks, cultist saboteurs and drowning waters began tearing the dreadnaught apart, causing the ship to groan and list sharply.
@@ -585,7 +585,7 @@ Turning his lone, crackling eye upon the mortal interlopers, the storm god summo
 
 ---
 
-#### Escape via Word of Recall & Sinking of the Dreadnaught (December 18, 2022)
+#### Escape via Word of Recall & Sinking of the Dreadnaught (*Table Session: December 18, 2022*)
 Enraged by the destruction of his servants, the colossal avatar of Talos struck the dreadnaught with catastrophic lightning. Masts toppled, the bone-reinforced hull split in two, and a massive ocean vortex began dragging the flagship into the black abyss.
 
 With water surging waist-deep across the deck, **[[Myagkiy Znak]]** drove his mace into the deck timbers, raised his holy symbol, and cast ***Word of Recall***!
@@ -596,7 +596,7 @@ The companions crashed to their knees onto the dry, peaceful flagstones of their
 
 ---
 
-#### Level 13 Milestone, Triumph, & Epilogue (December 18, 2022)
+#### Level 13 Milestone, Triumph, & Epilogue (*Table Session: December 18, 2022*)
 
 ##### Level 13 Milestone Progression
 With the dual threats of Talos and Myrkul forever vanquished along the Sword Coast, the four heroes attained **Level 13**:

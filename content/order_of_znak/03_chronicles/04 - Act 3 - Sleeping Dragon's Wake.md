@@ -19,7 +19,7 @@ modules: ["Sleeping Dragon's Wake"]
 ---
 
 ## 📜 Overview of the Third Act
-Following their return to [[Leilon]] from the lightless depths of *[[03 - Interlude 1 - Shadow's Run|Shadow's Run]]*, **[[The Order of Znak]]** entered the third great chapter of the Sword Coast saga: ***Sleeping Dragon's Wake*** (running from August 28, 2020 to February 26, 2021). 
+Following their return to [[Leilon]] from the lightless depths of *[[03 - Interlude 1 - Shadow's Run|Shadow's Run]]*, **[[The Order of Znak]]** entered the third great chapter of the Sword Coast saga: ***Sleeping Dragon's Wake*** (spanning from **Eleint 1493 DR** to **Alturiak 1494 DR**; *Table Play: August 28, 2020 – February 26, 2021*). 
 
 As the storm worshipers of **[[Talos]]** regrouped along the waves, an ancient, shadowy second threat rose from the mire: **[[Ularan Mortus]]**, High Priest of **Myrkul**, and his necromantic allies sought an ancient dragon vessel to house the malevolent dracolich spirit of **[[Chardansearavitriol]]** ("Ebondeath"). Caught between competing apocalyptic cults, the four champions defended Leilon and its outlying settlements place-by-place:
 * Breaking an amphibious sahuagin siege within the **Salt Caves** of **[[Leilon Point]]**
@@ -44,7 +44,7 @@ flowchart TD
 ## ⚔️ The Chronicles of Sleeping Dragon's Wake
 
 ### 🏘️ Chapter 1: The Return to Leilon & Town Rounds
-*(August 28 & September 1, 2020 | Level 9)*
+*Eleasis – Eleint 1493 DR | Table Sessions: August 28 & September 1, 2020 | Level 9*
 
 Returning from Waterdeep and the northern woodlands after rescuing young Heracio Renault and slaying the Shadow Dragon in *Shadow's Run*, the Order returned to their home at **[[Leilon|Aufox Manor]]**. The settlement was bustling with Grizzelda's stonecutters, but uneasy rumors drifted through the seaside air.
 
@@ -59,7 +59,7 @@ Taking time to resupply and inspect the town:
 ---
 
 ### 🌊 Chapter 2: The Salt Caves of Leilon Point
-*(August 28 – September 1, 2020 | Level 9)*
+*Eleasis – Eleint 1493 DR | Table Sessions: August 28 – September 1, 2020 | Level 9*
 
 Ten miles northwest of Leilon, the rugged coastal promontory of **[[Leilon Point]]** stood eerily silent beneath heavy ocean fog. Arriving at the village, the Order began a methodical tactical reconnaissance of the surface:
 * **Surface Reconnaissance:**
@@ -74,7 +74,7 @@ flowchart LR
     S3 --> S4["S4: The Ritual Cavern\n(Flooded Pool, Giant Skeletal Shark,\nNo Altar/Captives, Speak with Animals Fail,\n5th-Level Spirit Guardians Disintegration)"]
 ```
 
-#### S1: The Entrance Cavern & The Glyph Detonation (August 28)
+#### S1: The Entrance Cavern & The Glyph Detonation (*Table Session: August 28, 2020*)
 Descending into the dripping limestone entrance of the Salt Caves (S1):
 * Krageer moved forward to examine dead sahuagin and human bodies strewn across the cave floor, accidentally triggering a hidden **Glyph of Warding**.
 * The magical glyph detonated with a thunderous roar (`5d8` explosive blast; party rolling Dexterity saves).
@@ -82,14 +82,14 @@ Descending into the dripping limestone entrance of the Salt Caves (S1):
 * Combat exploded in S1: Rhynok deployed his newly forged **Adamantine Net** (`27 to-hit`) to restrain charging warriors; Krageer carved into the blademasters with his Adamantine Greataxe; Myagkiy anchored the center with *Spirit Guardians*; and Tvyordiy shattered enemy bones with his *Vicious Quarterstaff*.
 * In the tidal cave pool, a swarm of **baby sharks** (mechanically using the swarm of quippers stat block) thrashed in the blood-tinted water; the party wisely left the young sharks completely untouched.
 
-#### S3: The Training Cavern & The Boulder Cache (August 31)
+#### S3: The Training Cavern & The Boulder Cache (*Table Session: August 31, 2020*)
 Pushing deeper through the rocky tunnels into the sahuagin training cavern:
 * The Order ambushed a squad of regular sahuagin warriors and an elite blademaster.
 * Striking from the shadows with Gloom Stalker invisibility, Rhynok drove his ***Dagger of Venom*** into the blademaster with a devastating natural 20 critical hit (`29 to-hit`, 10 piercing + 16 poison damage), dropping the sea devil instantly.
 * Krageer and Tvyordiy swept the remaining warriors. Following combat, Krageer rolled a **22 Investigation check**, spotting a concealed hollow behind a massive subterranean rock.
 * Rolling an **Athletics check with Advantage**, Krageer roared and heaved the heavy boulder aside, uncovering the sahuagin's hidden treasure cache before the party took a short rest to bandage wounds.
 
-#### S4: The Ritual Cavern & The Giant Skeletal Shark (September 1)
+#### S4: The Ritual Cavern & The Giant Skeletal Shark (*Table Session: September 1, 2020*)
 Breaching the lowest chamber (S4), the champions entered a vast, flooded subterranean cavern with deep ocean water surging beneath stone ledges. In accordance with table events: **there was no altar and there were no captives**—only a dark ritual pool attended by fanatical priestesses and an enormous, animated **Giant Skeletal Shark** thrashing beneath the water.
 * **Krageer's Interspecies Dialogue:** Spotting the undead monster circling in the pool, Krageer cast ***Speak with Animals*** attempting to reason with, intimidate, or interrogate the colossal creature—only to discover that a mindless undead shark composed purely of animated necromantic bones has absolutely nothing to say.
 * **Brute Force Assault:** Resigning to violence, Krageer rolled a **28 Athletics check** to close the distance, bounding into the shallows to carve into the ribcage of the skeletal leviathan with devastating Adamantine Greataxe crits (`15 + 8 slashing`).
@@ -100,24 +100,24 @@ Breaching the lowest chamber (S4), the champions entered a vast, flooded subterr
 ---
 
 ### ⛵ Chapter 3: The Ghost Ship / Talosite Dreadnaught (*The Relentless*)
-*(September 4 – September 18, 2020 | Level 9 &rarr; Level 10 Milestone)*
+*Eleint 1493 DR | Table Sessions: September 4 – September 18, 2020 | Level 9 &rarr; Level 10 Milestone*
 
 Returning to Leilon, the council alerted the Order to a mysterious, storm-damaged warship grounded upon the rocky reefs near the Tower of Storms: *The Relentless*, a vessel commanded by storm cultists of Talos.
 
-#### Covert Approach & Undetected Boarding (September 4)
+#### Covert Approach & Undetected Boarding (*Table Session: September 4, 2020*)
 * Approaching the mist-shrouded reefs, the party coordinated a group stealth check (Tvyordiy 18, Rhynok 31 & 27, Krageer 18 & 17).
 * Rhynok cast ***Pass without Trace***, cloaking the entire party in unnatural shadows and silence.
 * Krageer cast *Speak with Animals* (Animal Handling 19) to observe local coastal sea gulls.
 * Slipping up the ship's beached hull completely undetected, the Order boarded the main deck without raising an alarm.
 
-#### Upper Deck Storm Battle (September 13)
+#### Upper Deck Storm Battle (*Table Session: September 13, 2020*)
 * Emerging onto the weather deck, the party engaged the Anchorites of Talos guarding the twin mangonels, boulder loading chains, and the round iron shield steering wheel.
 * The cultists unleashed devastating bursts of ***Lightning Bolt*** and ***Thunderwave*** across the deck, forcing rapid Dexterity saves (Myagkiy 13/17, Krageer 9/13, Rhynok 12, Tvyordiy 26/24).
 * Rhynok took the full brunt of a lightning strike and dropped to 0 HP, rolling a **12 on his Death Saving Throw** before Tvyordiy rushed across the planks and administered a *Potion of Greater Healing* (restoring 15 HP).
 * Myagkiy cast ***Mass Cure Wounds*** (restoring 21 HP via Disciple of Life), stabilizing the frontline.
 * Krageer carved down the remaining cultists with his Adamantine Greataxe. After securing the upper deck, the party barricaded the hold hatch and took **Short Rest #1** to spend hit dice.
 
-#### Lower Decks: Skeletal Minotaurs & Gol Badwind (September 15)
+#### Lower Decks: Skeletal Minotaurs & Gol Badwind (*Table Session: September 15, 2020*)
 * Descending through the 20-foot vertical cargo shaft into the 3rd lower deck, the Order was ambushed by four colossal **Minotaur Skeletons** wielding massive greataxes (`26` and `25` slashing damage) and gore attacks.
 * Mid-battle, First Mate **[[Gol Badwind]]** entered the initiative order (12), sniping from the gloom with his shortbow.
 * Myagkiy cast ***Mass Healing Word*** to sustain the battered party while they licked their wounds.
@@ -125,13 +125,13 @@ Returning to Leilon, the council alerted the Order to a mysterious, storm-damage
 * Myagkiy followed with a 2nd-level *Guiding Bolt* (`19 to-hit`, 12 radiant), setting up Krageer for brutal Adamantine Greataxe crits (`27 to-hit`, 26 damage; `27 to-hit`, 14 damage) and Tvyordiy's natural 20 critical quarterstaff strike (`29 to-hit`, 18 damage), slaying Gol Badwind.
 * **Gol's Quarters Loot:** Searching Gol's private cabin, Krageer discovered and claimed the ***Alchemy Jug***.
 
-#### Crew's Quarters & Animated Hammocks (September 17)
+#### Crew's Quarters & Animated Hammocks (*Table Session: September 17, 2020*)
 * Pushing into the crew's quarters, the party was attacked by animated hammocks (mechanically using the *Rug of Smothering* statblock).
 * While lacking high durability, one hammock wrapped around Myagkiy, smothering the cleric (failing a DC Strength save with a 9).
 * Krageer shredded the animated canvas with back-to-back Greataxe crits (`27`, `27`) while Myagkiy rolled a **20 Strength save** to rip himself free.
 * Taking **Short Rest #2** in the cleared quarters, the champions drank potions of greater healing and spent hit dice.
 
-#### Captain's Cabin: Showdown with Fheralai Stormsworn (September 18)
+#### Captain's Cabin: Showdown with Fheralai Stormsworn (*Table Session: September 18, 2020*)
 * Breaching the final sanctum, the Order confronted High Priestess **[[Fheralai Stormsworn]]**.
 * Tvyordiy lunged across the cabin with his *Vicious Quarterstaff*, striking twice (`25` and `22`) before landing a natural 20 critical unarmed strike (`29 to-hit`), successfully **stunning** Fheralai on the second strike.
 * Myagkiy capitalized instantly with an upcast 3rd-level ***Guiding Bolt*** (`22 to-hit`, 21 radiant damage).
@@ -143,7 +143,7 @@ Returning to Leilon, the council alerted the Order to a mysterious, storm-damage
 * **Rescue of Tarbin Tul:** The party discovered and liberated the captive traveling bard **[[Tarbin Tul]]**, unbinding his chains.
 * **The Ship's Death Knight Soul:** The champions communed with the lingering spectral presence / Death Knight soul bound to *The Relentless*. Extracting Tarbin Tul severed the dark curse anchoring the ship to the mortal shoals; the ghostly warship glided silently off the rocks and sailed out into the mists of the Sea of Swords.
 
-#### 🌟 The Level 10 Milestone Advancement (September 18, 2020)
+#### 🌟 The Level 10 Milestone Advancement (*Table Session: September 18, 2020*)
 Completing Leilon Point and the Ghost Ship fulfilled the official module 2-quest milestone requirement, advancing the Order of Znak to **Level 10**:
 * **[[Tvyordiy Znak]]:** Reached **Monk 10**, unlocking ***Purity of Body***—granting complete immunity to disease, poison damage, and the poisoned condition (a feature destined to prove vital in Deeping Cave).
 * **[[Rhynok]]:** Advanced to **Ranger 8 / Rogue 2**, gaining ***Cunning Action*** (Dash, Disengage, or Hide as a Bonus Action on each turn).
@@ -153,26 +153,26 @@ Completing Leilon Point and the Ghost Ship fulfilled the official module 2-quest
 ---
 
 ### 🏰 Chapter 4: Iniarv's Tower in the Mere of Dead Men
-*(September 21 – October 15, 2020 | Level 10)*
+*Eleint – Marpenoth 1493 DR | Table Sessions: September 21 – October 15, 2020 | Level 10*
 
-#### Downtime & The Cloak of Elvenkind Commission (September 21)
+#### Downtime & The Cloak of Elvenkind Commission (*Table Session: September 21, 2020*)
 Back in Leilon, Rhynok leveraged the *Xanathar's Guide to Everything* magic item search rules, paying **1,500 gp** to commission wilderness contacts and scouts to hunt down a ***Cloak of Elvenkind*** (establishing a 3-week scouting timeframe). Rhynok also officially integrated a **Rapier** into his frontline loadout for reliable melee finesse Sneak Attacks. Meanwhile, Puck restocked potions of growth, and two new urgent assignments appeared on the board: Iniarv's Tower and the Bronze Shrine.
 
-#### Courtyard Skirmish & The Traitorous Chimera Crew (September 24)
+#### Courtyard Skirmish & The Traitorous Chimera Crew (*Table Session: September 24, 2020*)
 Marching south into the sodden marshes of the Mere of Dead Men to secure supply roads against bandits and undead nesting in the ruins of Iniarv's Tower:
 * Entering the muddy outer courtyard, the Order encountered loose **Greater Zombies** and rushed to the defense of two seemingly helpless women trapped against the masonry: **[[Alevene Windcoat]]** and **[[Niri Bronzecrown]]**.
 * **The Sudden Betrayal:** The instant the zombie pack was whittled down to a single standing corpse, Alevene and Niri violently drew weapons and turned on the party! Caught in their treachery, the champions swiftly executed both cultists alongside the final zombie.
 
-#### Battlement Shootout & Chimera Ashbreath (October 1 – 10)
+#### Battlement Shootout & Chimera Ashbreath (*Table Sessions: October 1–10, 2020*)
 * **Failed Wall Deception:** Myagkiy, Rhynok, and Krageer shouted up to the cult scouts garrisoned on the battlements, attempting to bluff and convince them they were friendly reinforcements. The deception failed, and archers opened fire with heavy arrow volleys.
 * **Assaulting the Heights:** Rhynok took cover to return deadly sniper fire with his +1 Longbow. Tvyordiy and Krageer charged across the open yard. Using his unarmored speed, Tvyordiy scaled the 80-foot tower masonry directly, taking on the scouts atop the ramparts in close-quarters melee while Krageer held the courtyard below.
 * **Aerial Assault by Ashbreath & Rega Swarn:** Cult commander **[[Rega Swarn]]** and her fearsome three-headed Chimera **[[Ashbreath]]** dove into the fight! Ashbreath unleashed a blistering 15-foot cone of *Fire Breath* across the stone (Tvyordiy rolling a 23 Dex save, Krageer 7/10).
 * **Tvyordiy Down & Divine Restoration:** Tvyordiy was battered down to 0 HP during the clash on the walls, but Myagkiy restored him with divine healing magic. As additional Greater Zombies flooded the courtyard, Myagkiy upcast a 5th-level ***Spirit Guardians*** (dealing 24, 21, 23 radiant damage), vaporizing the Chimera and disintegrating the undead. The party took **Short Rest #1** in the courtyard.
 
-#### Second Floor Raven Swarms (October 13)
+#### Second Floor Raven Swarms (*Table Session: October 13, 2020*)
 Breaching the main tower entrance and ascending to the second floor, the champions were attacked by swarms of ravens roosting in the dark vaulted shadows. The party swept through them with flurry strikes and hammer blows.
 
-#### Roof Collapse & Krageer's Double 11s (October 15)
+#### Roof Collapse & Krageer's Double 11s (*Table Session: October 15, 2020*)
 Investigating the crumbling upper floor of the tower:
 * Krageer stepped onto a structurally compromised, decayed section of the stone roof.
 * The ceiling gave way with a catastrophic roar, plunging Krageer through the floor into a lower chamber packed with zombies!
@@ -185,15 +185,15 @@ Investigating the crumbling upper floor of the tower:
 ---
 
 ### ⚡ Chapter 5: The Bronze Shrine & Visions of Bahamut
-*(October 28 – November 5, 2020 | Level 10)*
+*Marpenoth – Uktar 1493 DR | Table Sessions: October 28 – November 5, 2020 | Level 10*
 
-#### Coastal Trek & The Orc Warband Ambush (October 28)
+#### Coastal Trek & The Orc Warband Ambush (*Table Session: October 28, 2020*)
 Marching north along the high sea cliffs toward the cliffside sanctuary:
 * An **Orc warband** armed with greataxes attempted an ambush on the narrow trail.
 * Rhynok capitalized on his *Favored Enemy (Orcs)*, raining deadly sniper fire with his +1 Longbow (`31 to-hit`, 16 damage sneak attack).
 * Tvyordiy executed rapid quarterstaff combos (`24`, `25`, `22`), Krageer cleaved with an Adamantine Greataxe crit (`28 to-hit`, 24 damage), and Myagkiy channeled *Inflict Wounds* (21 necrotic). The orc ambushers were utterly wiped out.
 
-#### The Bronze Shrine & Scaly Eye Parley (November 5)
+#### The Bronze Shrine & Scaly Eye Parley (*Table Session: November 5, 2020*)
 * Reaching the dramatic cliff-carved temple sculpted in the likeness of a colossal bronze dragon overlooking the Sea of Swords, the party was met by the dragon's faithful **Scaly Eye** guards.
 * The Order negotiated peaceful entrance (Myagkiy 21 Persuasion, Rhynok 18, Krageer 12).
 * Inside the sanctuary, they encountered the bronze matriarch **[[Lhammaruntosz]]** ("The Claws of the Coast"), who was thrashing in creeping madness and hostility.
@@ -215,15 +215,15 @@ Marching north along the high sea cliffs toward the cliffside sanctuary:
 ---
 
 ### 🌲 Chapter 6: Overland Clash & Deeping Cave Infiltration
-*(November 13 – November 17, 2020 | Level 10)*
+*Uktar 1493 DR | Table Sessions: November 13 – November 17, 2020 | Level 10*
 
-#### Overland Battle vs Karanor the Flameskull (November 13)
+#### Overland Battle vs Karanor the Flameskull (*Table Session: November 13, 2020*)
 Approaching the borders of Kryptgarden Forest on the overland world map:
 * The Order was ambushed by an undead vanguard dispatched by **[[Ularan Mortus]]** to breach the green dragon's lair.
 * The champions confronted **[[Karanor]]**, an undead Flameskull wreathed in emerald fire leading a pack of ravenous Ghouls.
 * The party made short work of the ghouls and blasted Karanor's floating skull to cinders (with Karanor destined to rejuvenate an hour later without holy water or dispel magic).
 
-#### Northern Cavern Infiltration & Phase Spiders (November 13 – 17)
+#### Northern Cavern Infiltration & Phase Spiders (*Table Sessions: November 13–17, 2020*)
 * Delving beneath Kryptgarden Forest through the northern entrance of Deeping Cave, the Order hacked through grasping **Assassin Vines** and fended off shifting **Phase Spiders** (Myagkiy crushing arachnids with ***Bonecounter***).
 * Deep within the cavern, the party discovered ancient statues, including an effigy of **Laeral Silverhand**.
 
@@ -235,16 +235,16 @@ Approaching the borders of Kryptgarden Forest on the overland world map:
 ---
 
 ### 💀 Chapter 7: Audience with Claugiyliamatar & Slaying Viantha
-*(December 11, 2020 – February 3, 2021 | Level 10)*
+*Nightal – Alturiak 1494 DR | Table Sessions: December 11, 2020 – February 3, 2021 | Level 10*
 
 #### Audience with Old Gnawbone
 The champions stood in the presence of the colossal ancient green dragon **[[Claugiyliamatar]]** within her grand cavern lair. Old Gnawbone demanded the destruction of **[[Viantha Cruelhex]]**, an undead Deathlock Mastermind under Ularan Mortus who was defiling her forest with necromancy.
 
-#### The Wraiths Random Encounter (December 11)
+#### The Wraiths Random Encounter (*Table Session: December 11, 2020*)
 * Combing the fog of Kryptgarden Forest for the warlock's lair, initial tracking checks failed, triggering a deadly random encounter from the Undead Encounters table.
 * A pack of life-draining **Wraiths** (Initiative 23.16) ambushed the party in the woods, attacking with *Life Drain* before being purged by radiant power and *Bonecounter*.
 
-#### Slaying Viantha Cruelhex & Specters (February 3)
+#### Slaying Viantha Cruelhex & Specters (*Table Session: February 3, 2021*)
 * Tracking Viantha Cruelhex to a secluded forest clearing, the Order interrupted her dark chanting.
 * Waving her bone wand, Viantha summoned shrieking **Specters**. Rhynok’s archery and Krageer’s greataxe shredded the minions and cut down the Deathlock Mastermind.
 * The champions harvested Viantha's skull and bones as proof of the kill for the green dragon.
@@ -252,20 +252,20 @@ The champions stood in the presence of the colossal ancient green dragon **[[Cla
 ---
 
 ### 👑 Chapter 8: Ebondeath's Possession & The Poisoned Hoard
-*(February 11 – February 26, 2021 | Level 10 &rarr; Level 11)*
+*Alturiak 1494 DR | Table Sessions: February 11 – February 26, 2021 | Level 10 &rarr; Level 11*
 
-#### Ebondeath's Possession & The Sword Wraiths (February 11)
+#### Ebondeath's Possession & The Sword Wraiths (*Table Session: February 11, 2021*)
 * Returning to Deeping Cave to deliver Viantha's bones, a planar vortex erupted across the cavern!
 * The incorporeal dracolich spirit of **[[Chardansearavitriol]]** ("Ebondeath") lunged from the gloom and possessed Claugiyliamatar's colossal physical body!
 * Ancient **Sword Wraiths** led by a **Sword Wraith Commander** materialized with two-handed longswords. Myagkiy battered spectral warriors with *Bonecounter* while Tvyordiy and Krageer shattered the commander's vanguard.
 
-#### The Poisoned Hoard & Purity of Body (February 19)
+#### The Poisoned Hoard & Purity of Body (*Table Session: February 19, 2021*)
 * Locating the dragon's secret hoard behind an invisible *Wall of Force* flooded with lethal green poison gas (*"When the seven are united, the wall falls and the gold flows"*):
 * Krageer acted as the "sacrificial lamb," plunging in to trigger the initial trap burst before scrambling back out to be healed.
 * Having attained **Level 10**, **[[Tvyordiy Znak]]** centered his ki: his Monk 10 feature ***Purity of Body*** granted complete immunity to poison damage and the poisoned condition!
 * Tvyordiy casually strolled through the billowing clouds of lethal green gas without taking a single point of damage, methodically looting and extracting the entire dragon's hoard.
 
-#### Bluffing The Gnawbones (February 26)
+#### Bluffing The Gnawbones (*Table Session: February 26, 2021*)
 * Emerging from Deeping Cave laden with treasure, the Order was confronted by the fanatical druid circle **[[Gnawbones|The Gnawbones]]** (Argina Therrow, Delis Venomcauldron, Saija Hurwi, Zuri Kimyak).
 * Keeping their nerve, the Order coolly bluffed the druids into believing they were acting as Claugiyliamatar's chosen mortal envoys. Intimidated and deceived, the druids permitted them to leave Kryptgarden Forest unhindered.
 

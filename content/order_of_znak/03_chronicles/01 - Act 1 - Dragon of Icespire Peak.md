@@ -23,7 +23,7 @@ When the young white dragon **[[Cryovain]]** descended upon the jagged, snow-cap
 
 Answering the desperate call for sellswords in the frontier boomtown of **[[Phandalin]]**, four disparate travelers—**[[Krageer Stoneface Ogolakanu]]**, **[[Rhynok]]**, **[[Myagkiy Znak]]**, and **[[Tvyordiy Znak]]**—forged the unbreakable fellowship that would canonically become **[[The Order of Znak]]**.
 
-Across thirty-two recorded sessions from November 2019 to May 1920, the companions forged their martial legends: delving into cursed dwarven ruins, braving vine-choked forests, outsmarting wererats, claiming ancient blades, and ultimately scaling the highest frozen peak of the Sword Mountains to slay the white dragon upon his rooftop throne.
+Spanning from the chill of **Uktar 1492 DR** to the spring thaw of **Mirtul 1493 DR** (tracked across thirty-two real-world table sessions from November 2019 to May 2020), the companions forged their martial legends: delving into cursed dwarven ruins, braving vine-choked forests, outsmarting wererats, claiming ancient blades, and ultimately scaling the highest frozen peak of the Sword Mountains to slay the white dragon upon his rooftop throne.
 
 ```mermaid
 flowchart TD
@@ -45,7 +45,7 @@ flowchart TD
 ## ⚔️ The Frontier Chronicles
 
 ### 🍺 Chapter 1: Arrival in Phandalin & The White Wyrm's Shadow
-*(November 10, 2019)*
+*Uktar 1492 DR | Table Session: November 10, 2019*
 
 In the gray chill of late autumn, four untested sellswords marched along the Triboar Trail into the rough-and-tumble mining boomtown of **[[Phandalin]]**. Each carried the humble equipment of their origins:
 * **[[Krageer Stoneface Ogolakanu]]** hefted a heavy iron battleaxe and a quiver of javelins, his weathered Goliath features unreadable.
@@ -60,7 +60,7 @@ Among the initial notices was an urgent plea to seek out the eccentric rock gnom
 ---
 
 ### ⚙️ Chapter 2: Gnomengarde & The Wine Cellar Mimic
-*(November 10, 2019)*
+*Uktar 1492 DR | Table Session: November 10, 2019*
 
 Following a cascading mountain stream into the misty gorge of **[[Gnomengarde]]**, the Order sought audience with the reclusive rock gnome kingdom. Their arrival was met with instantaneous, frantic chaos: manic inventor **[[Facktoré]]** opened fire from behind a barricade with her steam-driven autoloading heavy crossbow contraption, shooting Rhynok before Krageer bodily rushed the apparatus and restrained the spinning ballista!
 
@@ -78,7 +78,7 @@ With royal sanity restored and King Korboz convinced the danger had passed, the 
 ---
 
 ### ⛏️ Chapter 3: The Dwarven Excavation & The Gem of Greed
-*(November 16 – November 17, 2019)*
+*Uktar 1492 DR | Table Sessions: November 16–17, 2019*
 
 With Gnomengarde secured, the companions turned southwest into a rugged canyon of the Sword Mountains to fulfill Townmaster Harbin’s second contract: warning dwarven prospectors **[[Dazlyn Grayshard]]** and **[[Norbus Ironrune]]** about Cryovain’s encroaching presence. Upon arriving at the newly unearthed **[[Temple of Abbathor]]**, the dwarves welcomed the armed party but adamantly refused to abandon their claim until the subterranean ruin was cleared of lurking horrors.
 
@@ -95,7 +95,7 @@ As they exited the canyon, a raiding party of five mountain orcs charged the def
 ---
 
 ### 🌾 Chapter 4: The Windmill Siege at Umbrage Hill
-*(November 19 – November 20, 2019)*
+*Uktar 1492 DR | Table Sessions: November 19–20, 2019*
 
 Riding south toward the rolling agrarian meadows of **[[Umbrage Hill]]**, the Order sought out the stubborn midwife and herbalist **[[Adabra Gwynn]]**. Upon approaching the stone windmill, they found the compound under active siege: a ravenous, leathery-winged **Manticore** was clawing at the timber doors, roaring for flesh.
 
@@ -110,7 +110,7 @@ Badly wounded and unable to pierce the Order's coordinated defense, the manticor
 ---
 
 ### 🐄 Chapter 5: Butterskull Ranch & Cryovain vs. Manticores
-*(November 26 – November 27, 2019)*
+*Uktar 1492 DR | Table Sessions: November 26–27, 2019*
 
 Reports of black smoke rising along the Triboar Trail drew the Order east to **[[Butterskull Ranch]]**. Mountain orcs displaced from the high peaks had ransacked the homestead, capturing retired sheriff **[[Alfonse Kalazorn|"Big Al" Kalazorn]]**.
 
@@ -118,13 +118,13 @@ Approaching under cover of twilight, Rhynok crept through the tall rye grass. Sp
 
 Storming the doorway, the Order engaged in a brutal, room-to-room melee. Krageer raged through the kitchen, shattering timber tables and cleaving through orc warriors; Tvyordiy redirected charging brutes with drunken footwork; Myagkiy held the threshold with divine radiance; and Rhynok picked off raiders attempting to flank from the stairwell. Slaying all twelve orcs, the party descended into the cellar to unchain Big Al Kalazorn. In gratitude, Big Al gave the companions his blessing and begged them to recover his prized runaway prize dairy cow, **[[Petunia (cow)|Petunia]]**, who was coaxed safely back to Phandalin.
 
-**The Apex Dominance Encounter (November 27, 2019):**  
+**The Apex Dominance Encounter (Uktar 1492 DR | Table Session: November 27, 2019):**  
 On the return journey across the foothills, the skies suddenly darkened as a freezing blizzard wind swept down from the mountains. Looking up, the companions witnessed an awe-inspiring, brutal spectacle of draconic apex dominance: **[[Cryovain]] swooped down from the storm clouds upon a pair of hunting Manticores**. In a flurry of glacial frost breath, razor-sharp claws, and snapping jaws, the young white dragon tore into the manticores mid-air—effortlessly ripping the rival predators to shreds before carrying their frozen carcasses back to the high peaks. The chilling display cemented the true scale of the terror haunting the Sword Coast.
 
 ---
 
 ### 🌲 Chapter 6: Neverwinter Wood & The Woodland Manse Retreat
-*(December 7 – December 8, 2019 & March 7, 2020)*
+*Nightal 1492 DR & Ches 1493 DR | Table Sessions: December 7–8, 2019 & March 7, 2020*
 
 Commissioned to deliver provisions to the **[[Loggers' Camp]]**, the Order rode deep into the primeval shadows of Neverwinter Wood. Guided by Rhynok’s unerring woodcraft, the companions noticed an unnatural boar tracking them from the briars—recognizing the beast as a shapeshifted priest of the **[[Anchorites of Talos]]**.
 
@@ -138,7 +138,7 @@ In the desperate fighting withdrawal, Krageer fell unconscious twice under a pun
 ---
 
 ### 🪓 Chapter 7: Ankhegs at Loggers' Camp & Falcon's Hunting Lodge
-*(January 5, 2020)*
+*Hammer 1493 DR | Table Session: January 5, 2020*
 
 Rebounding from the Manse, the companions hauled their supply wagon—pulled by the stalwart draft ox **[[Vincent (ox)|Vincent]]**—to the **[[Loggers' Camp]]** on the Neverwinter River. They found the logging camp devastated: desecrated totem poles had lured monstrous, acid-spitting **Ankhegs** from the earth.
 
@@ -149,7 +149,7 @@ Seeking shelter deeper in the woods, the Order brought a fine bottle of wine to 
 ---
 
 ### ⚡ Chapter 8: The Sea Cliffs & The Tower of Storms
-*(January 11, 2020)*
+*Hammer 1493 DR | Table Session: January 11, 2020*
 
 Turning west to the jagged sea cliffs of the Sword Coast, the companions investigated the unnatural green light pulsing from the **[[Tower of Storms]]**. On the rocky shore, they encountered an **awakened giant crab**, who warned them of the sea elf banshee **[[Miraal]]** haunting the tidal caves below the lighthouse.
 
@@ -160,7 +160,7 @@ Storming the lighthouse keep, the Order confronted Moesko at the desecrated alta
 ---
 
 ### 🔔 Chapter 9: The 2,500 Gold Piece Bell at the Shrine of Savras
-*(January 12, 2020)*
+*Hammer 1493 DR | Table Session: January 12, 2020*
 
 Escorting frontier patron **[[DonJon Raskin]]** south of ruined Conyberry, the Order reached the ancient stone courtyard of the **[[Shrine of Savras]]**. The holy site had been overrun by a powerful warband of mountain orcs and towering **Ogres**.
 
@@ -171,7 +171,7 @@ Inside the ruined sanctuary, Rhynok and Krageer touched the uncovered stone alta
 ---
 
 ### 🐀 Chapter 10: The Wererat Lesson at Mountain's Toe Gold Mine
-*(January 18 – January 19, 2020)*
+*Hammer 1493 DR | Table Sessions: January 18–19, 2020*
 
 Escorting DonJon Raskin to oversee **[[Mountain's Toe Gold Mine]]**, the Order discovered the mining complex occupied by the Whiskered Gang, led by wererat boss **[[Zeleen Varnaster]]**. When negotiations broke down and steel was drawn, a shocking revelation struck the frontline:
 
@@ -186,18 +186,18 @@ Routing the pack, the party drove Zeleen Varnaster from the mine, restored the c
 ---
 
 ### 🏰 Chapter 11: The Chimney Rappel & Purge of Axeholm
-*(January 20 – February 2, 2020)*
+*Hammer – Alturiak 1493 DR | Table Sessions: January 20 – February 2, 2020*
 
-With the Phandalin Town Council desperate for a fortified evacuation refuge against Cryovain, the Order was tasked with securing the ancient dwarven fortress of **[[Axeholm]]**. Finding the fortress portcullis barred from within, the party scaled the mountain crags on January 20 to a sheer natural ventilation chimney high above the ramparts.
+With the Phandalin Town Council desperate for a fortified evacuation refuge against Cryovain, the Order was tasked with securing the ancient dwarven fortress of **[[Axeholm]]**. Finding the fortress portcullis barred from within, the party scaled the mountain crags in Hammer 1493 DR (*Table Session: January 20, 2020*) to a sheer natural ventilation chimney high above the ramparts.
 
-Under Myagkiy’s prayerful guidance, all four companions rappelled down the soot-blackened flue, dropping into the dark interior in a devastating surprise attack on a nest of seven giant spiders. From there, the Order conducted a methodical, room-by-room purge of the haunted halls across February 1–2: cleansing the West Hall and Smithy of flesh-eating dwarven **Ghouls** and swarms of **Stirges**.
+Under Myagkiy’s prayerful guidance, all four companions rappelled down the soot-blackened flue, dropping into the dark interior in a devastating surprise attack on a nest of seven giant spiders. From there, the Order conducted a methodical, room-by-room purge of the haunted halls in Alturiak 1493 DR (*Table Sessions: February 1–2, 2020*): cleansing the West Hall and Smithy of flesh-eating dwarven **Ghouls** and swarms of **Stirges**.
 
 In the upper Haunted Hall, they faced the sorrowful moon elf banshee **[[Vyldara]]**. When the spirit unleashed her soul-chilling *Wail*, the four champions stood like bedrock—not a single member faltering before her shriek—before striking her down with silvered strikes and radiant bursts. Behind a false hearth in the castellan's bedchamber, Myagkiy uncovered and attuned the ***Gauntlets of Ogre Power***, while Krageer donned the menacing ***Dread Helm***, his eyes glowing like crimson embers beneath the steel visor.
 
 ---
 
 ### 🗡️ Chapter 12: Dragon Barrow & The Dragon Slayer Blade
-*(February 8 – February 9, 2020)*
+*Alturiak 1493 DR | Table Sessions: February 8–9, 2020*
 
 Guided by ancient frontier lore, the Order journeyed past ruined Conyberry to the grassy mounds of **[[Dragon Barrow]]**, tomb of the noble knight Lady Tanamere Alagondar. 
 
@@ -208,7 +208,7 @@ In the innermost vault, Krageer lifted the legendary ***Dragon Slayer* Longsword
 ---
 
 ### ⚡ Chapter 13: Thunder on the Hill: Slaying Gorthok at Circle of Thunder
-*(April 4 – May 23, 2020)*
+*Ches – Tarsakh 1493 DR | Table Sessions: April 4 – May 23, 2020*
 
 With the dragon-slaying blade in hand, the Order returned to Neverwinter Wood alongside **[[Xanth]] the Centaur** to settle their blood feud with the storm cultists who had sacked Falcon's Hunting Lodge.
 
@@ -222,9 +222,9 @@ When Gorthok collapsed into the muddy stones, the storm cult of Talos was broken
 ---
 
 ### 🐉 Chapter 14: The Climax: The Rooftop Siege of Icespire Hold
-*(May 31, 2020)*
+*Mirtul 1493 DR | Table Session: May 31, 2020*
 
-On the final day of May 1920, [[The Order of Znak]] made their ascent into the blizzard-swept heights of the Sword Mountains, climbing the frozen stairs toward **[[Icespire Hold]]**.
+In Mirtul 1493 DR (*Table Session: May 31, 2020*), [[The Order of Znak]] made their ascent into the blizzard-swept heights of the Sword Mountains, climbing the frozen stairs toward **[[Icespire Hold]]**.
 
 Cutting down a hobgoblin warband along the icy spurs, the companions breached the keep, swept past the treacherous **[[Stone-Cold Reavers]]**, and ascended the frost-crusted stairs to the open fortress roof. Stepping out into the howling gale, the heroes came face-to-face with **[[Cryovain]]**, perched atop the battlement crags surrounded by a swarm of **four cackling Ice Mephits**:
 * Myagkiy called down a blessing of divine fortune upon his brothers and directed his floating *Spiritual Weapon* to swat the ice mephits out of the air.

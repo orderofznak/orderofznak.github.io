@@ -24,7 +24,7 @@ dates: "June 17, 2022 – July 22, 2022"
 ---
 
 ## 📜 Overview of the Second Interlude
-In the early summer of 2022, following the harrowing revelation of [[Chardansearavitriol|Ebondeath]]'s possession of [[Claugiyliamatar]] in Deeping Cave at the climax of *[[04 - Act 3 - Sleeping Dragon's Wake|Sleeping Dragon's Wake]]*, **[[The Order of Znak]]** answered an urgent, desperate plea from the mountains northeast of Neverwinter.
+In the summer of **1494 DR** (spanning **Kythorn to Flamerule 1494 DR**; *Table Play: June 17 – July 22, 2022*), following the harrowing revelation of [[Chardansearavitriol|Ebondeath]]'s possession of [[Claugiyliamatar]] in Deeping Cave at the climax of *[[04 - Act 3 - Sleeping Dragon's Wake|Sleeping Dragon's Wake]]*, **[[The Order of Znak]]** answered an urgent, desperate plea from the mountains northeast of Neverwinter.
 
 Stepping behind the Dungeon Master screen for the second time, **Gary** ran a lethal, high-stakes homebrew bridge adventure: **"Keeping the Faith"** (June 17 – July 22, 2022). Stationed at **Level 11** alongside a powerful Level 13 allied forge apprentice, the four champions were summoned to recover the stolen sacred relic of [[Gond]]—the legendary **[[Right Hand of Gond]]**—thrusting them into a sprawling investigation of savage serial murders in Neverwinter, a fiendish cavern in the Starmetal Hills harboring ominous breadcrumbs from the dread demiplane of **Barovia**, the rescue of a young girl from the clutches of a child-stealing Night Hag in Neverwinter Wood, and an epic "Double-Enlarge" titan wrestling match inside the molten caldera of Mount Hotenow against Fire Giant Queen **[[Kevlaan the Merciless]]**.
 
@@ -43,7 +43,7 @@ flowchart TD
 ## ⚔️ The Keeping the Faith Chronicles
 
 ### 🔨 Prologue: The Cry from the Crags
-*(June 17 – June 18, 2022 | Level 11)*
+*Kythorn 1494 DR | Table Sessions: June 17 – June 18, 2022 | Level 11*
 
 While the town council of [[Leilon]] grappled with reports of draconic possession and rising cult movements along the High Road, an urgent missive reached the Order from the craggy, jagged peaks northeast of Neverwinter. 
 
@@ -63,7 +63,7 @@ With the crisis demanding immediate eyes on the ground, **[[Tvyordiy Znak]]** to
 ---
 
 ### 🩸 Chapter 1: The Blood of Neverwinter & Graag the Werebear
-*(June 18 – June 23, 2022 | Level 11)*
+*Kythorn 1494 DR | Table Sessions: June 18 – June 23, 2022 | Level 11*
 
 Entering Neverwinter, the Order discovered the jewel of the North paralyzed by horror. Over recent nights, a gruesome series of synchronized murders had left mutilated corpses strewn across the city:
 * **Sleeping Dragon Bridge:** A solitary noblewoman slain.
@@ -92,7 +92,7 @@ Initiative erupted in the courtyards. Graag lashed out with savage claws and cru
 ---
 
 ### ⛓️ Chapter 2: The Starmetal Hills Cavern & The Chain Devils
-*(June 24 – July 1, 2022 | Level 11)*
+*Kythorn – Flamerule 1494 DR | Table Sessions: June 24 – July 1, 2022 | Level 11*
 
 Following the defeat of Graag, [[Dayne Beltran]] channeled divine guidance and revealed that the stolen **Heartstone** linked to the cult's planar activity had been transported eastward into the jagged crags of the **Starmetal Hills**.
 
@@ -120,7 +120,7 @@ Though how and why fiends from this distant dread domain were being summoned int
 ---
 
 ### 👵 Chapter 3: The Night Hag Balheelsa & Rescuing Yasmina
-*(July 4 – July 5, 2022 | Level 11)*
+*Flamerule 1494 DR | Table Sessions: July 4 – July 5, 2022 | Level 11*
 
 Following the trail of the Heartstone and interrogating the broken cultist survivors, Dayne learned that the mastermind coordinating the lower planar trades was a sinister Night Hag named **[[Balheelsa]]** (Balheeza / Balhelsa), who operated from a wretched, moss-draped hovel secluded in the deep shadows of **Neverwinter Wood**. Furthermore, Dayne recalled that the stolen hammer itself had already been traded upward to **[[Kevlaan the Merciless]]**, Queen of the Fire Giants.
 
@@ -148,7 +148,7 @@ Escorting Yasmina safely out of Neverwinter Wood, the Order delivered her to the
 ---
 
 ### 🌋 Chapter 4: Mount Hotenow & The Double-Enlarge Titan Clash
-*(July 5 – July 8, 2022 | Level 11)*
+*Flamerule 1494 DR | Table Sessions: July 5 – July 8, 2022 | Level 11*
 
 At the **Iron Flagon Inn**, the companions questioned regular patrons regarding the whereabouts of Fire Giant Queen **[[Kevlaan the Merciless]]**. [[Wyndle]], a beloved local tavern patron, provided crucial topographical intelligence, pointing them toward the steaming subterranean caldera of the volcanic peak **Mount Hotenow**. Dayne added vital lore: **Surtur**, the legendary fire giant patron god of smithing, stood as an ancient divine rival to **[[Gond]]**, explaining why Queen Kevlaan sought the sacred *[[Right Hand of Gond]]* to forge catastrophic weapons of war.
 
@@ -188,7 +188,7 @@ The battle was frantic, brutal, and back-and-forth:
 ---
 
 ### 🎁 Chapter 5: [[Gond]]'s Consecration, The Divine Feats, Puck's Endorsements & Yasmina's Art
-*(July 8 – July 22, 2022 | Level 11)*
+*Flamerule 1494 DR | Table Sessions: July 8 – July 22, 2022 | Level 11*
 
 Returning triumphantly to the Crags, the Order delivered the sacred *[[Right Hand of Gond]]* back into the hands of the overjoyed Forge Cleric **[[Flanning Teldorer]]**. 
 
@@ -224,7 +224,7 @@ Following her safe arrival in Leilon and installation at Aufox Manor, young **[[
 ---
 
 ### ⏳ Chapter 6: The One-Year Prelude to Act 4 (*Divine Contention*)
-*(July 22, 2022 | Downtime Interim)*
+*Flamerule 1494 DR | Table Session: July 22, 2022*
 
 At the conclusion of *Keeping the Faith*, DM Gary formally established the chronological bridge to the final published adventure: **Act 4 (*Divine Contention*) begins exactly one full year after the events of *Keeping the Faith*.**
 

@@ -20,7 +20,7 @@ dm: "Gary"
 ---
 
 ## 📜 Overview of the First Interlude
-In August 2020, following the defense of [[Leilon]] and the elimination of the kraken priest [[Nixoxious]] in *[[02 - Act 2 - Storm Lord's Wrath|Storm Lord's Wrath]]*, **[[The Order of Znak]]** took a brief hiatus from regional rebuilding to answer an urgent, high-stakes personal commission from the southern metropolis of Waterdeep.
+In late **Eleasis 1493 DR** (Highsun; *Table Play: August 2020*), following the defense of [[Leilon]] and the elimination of the kraken priest [[Nixoxious]] in *[[02 - Act 2 - Storm Lord's Wrath|Storm Lord's Wrath]]*, **[[The Order of Znak]]** took a brief hiatus from regional rebuilding to answer an urgent, high-stakes personal commission from the southern metropolis of Waterdeep.
 
 Stepping behind the Dungeon Master's screen for the very first time in the campaign, **Gary** crafted and ran a lethal, subterranean homebrew mystery: **"Shadow's Run"**. When noble patron **Daniel Renault** suffered the brutal murder of his wife and the abduction of his young child **Heracio**, his loyal household servants sought out the celebrated champions of the Sword Coast. 
 
@@ -39,7 +39,7 @@ flowchart TD
 ## ⚔️ The Shadow's Run Chronicles
 
 ### 🐎 Chapter 1: The Waterdeep Carriage, Owlbear Ambush & The Renault Mission
-*(August 11 – August 12, 2020)*
+*Eleasis 1493 DR | Table Sessions: August 11 – August 12, 2020*
 
 In the late summer haze, an ornate private carriage bearing the livery of **Daniel Renault**, an influential aristocrat of Waterdeep, arrived in Neverwinter bearing two trusted household servants: **Liefold** and **Joffrey**. Desperate and exhausted, the retainers sought out [[The Order of Znak]] with a tragic plea for aid.
 
@@ -57,7 +57,7 @@ Securing the carriage and binding minor wounds, the companions stood at the edge
 ---
 
 ### 🌲 Chapter 2: The 15-Mile Woodland Trek & Infiltrating the First Layer
-*(August 13, 2020)*
+*Eleasis 1493 DR | Table Session: August 13, 2020*
 
 Leaving Liefold and Joffrey stationed with the carriage in a concealed woodland clearing, the Order set off on foot—navigating fifteen grueling miles into dense, uncharted old-growth forest. Guided by Rhynok’s unerring Gloom Stalker tracking instincts, the companions skirted natural deadfalls and thorn thickets before coming upon the cult's hidden stronghold: a weathered stone estate nestled deep within the tree-choked valley.
 
@@ -69,11 +69,11 @@ Approaching the threshold, Tvyordiy humorously flared his enchanted ***Cloak of 
 ---
 
 ### 🗝️ Chapter 3: The Secret Tunnels, The Vicious Quarterstaff & The Three Stones
-*(August 14 – August 20, 2020)*
+*Eleasis 1493 DR | Table Sessions: August 14 – August 20, 2020*
 
 Descending into the lightless subterranean depths beneath the estate, the Order discovered a sprawling complex of damp flagstones, secret doors, and ancient ceremonial chambers where the veil between the Material Plane and the Shadowfell had worn perilously thin.
 
-Clearing Room 1 on August 14, Rhynok and Tvyordiy detected a hidden compartment behind a masonry bookcase. Forcing open a locked iron chest, Tvyordiy reached inside to discover an exquisitely balanced, rune-carved weapon: the ***Vicious Quarterstaff***. Testing its weight, the winged monk spun the staff in a fluid Drunken Master flourish, feeling the wood thrum with lethal impact on critical strikes. Setting aside his starting spear, the *Vicious Quarterstaff* became Tvyordiy’s signature melee weapon.
+Clearing Room 1, Rhynok and Tvyordiy detected a hidden compartment behind a masonry bookcase. Forcing open a locked iron chest, Tvyordiy reached inside to discover an exquisitely balanced, rune-carved weapon: the ***Vicious Quarterstaff***. Testing its weight, the winged monk spun the staff in a fluid Drunken Master flourish, feeling the wood thrum with lethal impact on critical strikes. Setting aside his starting spear, the *Vicious Quarterstaff* became Tvyordiy’s signature melee weapon.
 
 Traversing the secret tunnels connecting Room 1 and Room 2 over the following days, the dungeon tested the companions' stamina:
 * Wandering shadowy horrors and cultist skirmishers harried the party through narrow corridors, forcing Krageer and Rhynok to burn through four hit dice each to staunch their bleeding.
@@ -87,7 +87,7 @@ With three of the four keys in their possession, the Order pressed deeper into t
 ---
 
 ### 🐉 Chapter 4: The Dragon Door Puzzle & The Fanatic Vanguard
-*(August 21, 2020)*
+*Eleasis 1493 DR | Table Session: August 21, 2020*
 
 Deep in the subterranean lower complex, the tunnel terminated at a massive, circular archway carved from polished black basalt: **The Dragon Door**. Dominating the barrier was an imposing relief of an ancient dragon with hollow recesses carved into its anatomy.
 
@@ -106,7 +106,7 @@ Initiative flared in an instant. Krageer surged into the room with a roar, Rhyno
 ---
 
 ### 💀 Chapter 5: Boss Battle: Slaying the Shadow Dragon & Rescuing Heracio
-*(August 23, 2020)*
+*Eleasis 1493 DR | Table Session: August 23, 2020*
 
 Stepping beyond the shattered vanguard, the air temperature plummeted below freezing. Emerging into a colossal subterranean cavern bathed in dim, ethereal gloom, the Order beheld the true master of the cult: a colossal, terrifying **Shadow Dragon**, its translucent ebony scales absorbing the very torchlight and its eyes burning with malevolent hunger. 
 
