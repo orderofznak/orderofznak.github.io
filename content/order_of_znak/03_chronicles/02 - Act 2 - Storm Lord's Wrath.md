@@ -20,7 +20,7 @@ Seeking trusted operatives who held no official allegiance to Neverwinter’s th
 ---
 
 ## 🍷 Chapter 1: The Gathering Tempest at the Wayside Inn
-*(June 13 – June 21, 2020)*
+*Kythorn 1493 DR | Table Sessions: June 13 – June 21, 2020*
 
 Commissioned under sealed orders from Waterdeep, the Order traveled south down the High Road toward **[[The Wayside Inn]]**, a fortified coaching hospice standing sentinel between the Mere of Dead Men and the coastal wilderness. They arrived under a heavy, sunless sky only to find the inn encircled by the walking dead.
 
@@ -42,7 +42,7 @@ At a secluded corner table, the party met their confidential contacts: **[[Orson
 ---
 
 ## 🌊 Chapter 2: A Normal Day in Leilon & The Founding of Aufox Manor
-*(July 3 – July 9, 2020)*
+*Flamerule 1493 DR | Table Sessions: July 3 – July 9, 2020*
 
 Departing the Wayside Inn at first light, the Order marched north along the High Road toward ruined Leilon. Approaching the muddy frontier crossroads, the companions were hailed by the settlement's nascent rebuilding leadership assembled along the central thoroughfare: gruff dwarven master builder **[[Grizzelda Copperwraught]]** ("The Growler") barking orders at exhausted masonry crews; the gentle, cheerful halfling priestess **[[Merrygold Brightshine]]** extending warm hospitality; brooding Rashemi wizard **[[Gallio Elibro]]** studying the haunted spire of the House of Thalivar; cowardly garrison sergeant **[[Hazz Yorrum]]** complaining about troop shortages; and fisher representative **[[Valdi Estapaar]]** reporting grim disturbances in the coastal waters.
 
@@ -72,7 +72,7 @@ Moved by their plight and bound to them by destiny, the heroes stepped forward t
 ---
 
 ## 🐐 Chapter 3: Aid from Phandalin & The Triple-Sided Shadow
-*(July 10 – July 17, 2020)*
+*Flamerule 1493 DR | Table Sessions: July 10 – July 17, 2020*
 
 With Leilon’s immediate defenses stabilized, the Town Council requested the Order escort eccentric gnome goatherd **[[Pinchwit Wigglehoof]]** and her valuable herd of **Giant Goats** east to Phandalin.
 
@@ -99,7 +99,7 @@ Searching Velleen's remains, Rhynok claimed a pair of exquisite crystalline lens
 ---
 
 ## 👻 Chapter 4: The House of Thalivar & Laying the Ghost to Rest
-*(July 17 – July 22, 2020)*
+*Flamerule 1493 DR | Table Sessions: July 17 – July 22, 2020*
 
 Returning along the Triboar Trail, the champions swatted aside an ambush of blood-drinking stirges before marching back into Leilon. There, council members alerted the party to a chilling crisis: wizard **[[Gallio Elibro]]** was suffering from violent fugue states, trances, and supernatural sleepwalking, drawn repeatedly toward the crumbling ruins of the **House of Thalivar**.
 
@@ -121,7 +121,7 @@ Recognizing that Thalivar's tortured soul anchored the rift, Myagkiy took a long
 ---
 
 ## 🐊 Chapter 5: The Snail Carts of the Mere & The Ballad of Qolzaz
-*(July 22 – July 26, 2020)*
+*Flamerule 1493 DR | Table Sessions: July 22 – July 26, 2020*
 
 Shortly after sanctifying the tower, Town Marshal **[[Breltora]]** delivered urgent word: a Neverwintan soldier patrol led by **Private Vesper** had disappeared into the trackless bogs of the **Mere of Dead Men**.
 
@@ -147,7 +147,7 @@ With the trolls destroyed, the Order liberated Private Vesper and his soldiers. 
 ---
 
 ## ⚡ Chapter 6: Foul Weather at Wayside & The Doom of Teega
-*(July 26 – August 4, 2020)*
+*Flamerule – Eleasis 1493 DR | Table Sessions: July 26 – August 4, 2020*
 
 Returning to Aufox Manor, the champions enjoyed only brief respite before the heavens darkened once more. Gazing south from the parapets, they observed unnatural, tempestuous thunderheads swirling in the unmistakable shape of **three parallel lightning bolts** directly above [[The Wayside Inn]].
 
@@ -173,7 +173,7 @@ Searching the chamber, Rhynok claimed the ***Ring of Water Walking***. Examining
 ---
 
 ## 🌊 Chapter 7: The Thunder Cliffs Finale
-*(August 5 – August 11, 2020)*
+*Eleasis 1493 DR | Table Sessions: August 5 – August 11, 2020*
 
 Determined to decapitate the Cult of Talos, the Order chartered the coastal galley *Iceflow* and sailed north from Leilon into heavy coastal fog.
 
@@ -201,7 +201,7 @@ Pressing into the final sanctuary, the Order confronted arch-evoker **[[Gadrille
 
 Surfronting the surviving cult spies and scouts, Krageer and Myagkiy delivered an ultimatum of surrender. Realizing their leaders were dead and their elemental masters banished, the spies laid down their arms and fled into the crags.
 
-Gathering within the innermost treasury on **August 11, 2020**, the Order of Znak claimed their hard-won spoils:
+Gathering within the innermost treasury in the waning days of **Eleasis 1493 DR** (*Table Session: August 11, 2020*), the Order of Znak claimed their hard-won spoils:
 - **880 gold pieces** in mint coinage.
 - A **pulsing crimson draught** (*Potion of Superior Healing*).
 - A **spiraled wand with a bright blue tip** (the ***Wand of Magic Missile***, claimed by **[[Tvyordiy Znak]]**, who famously tested its force salvos).
