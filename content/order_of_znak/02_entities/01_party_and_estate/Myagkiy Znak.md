@@ -71,6 +71,16 @@ tags: [character-sheet, human, cleric, life-domain, myagkiy-znak, order-of-znak]
 ---
 
 ## 🎨 Artwork & Imagery
+
+![[myigkiy-portrait-full.jpeg]]
+*Myagkiy Znak (Ь) — Full Adventuring Portrait in Consecrated Plate with the Sunburst Medallion of Life*
+
+![[myigkiy-portrait.jpeg]]
+*Myagkiy Znak (Ь) — Close-Up Study: The Contemplative Hermit of the Soft Sign with Hair Tied Back*
+
+![[myagkiy_hermit_prelude.jpg]]
+*Myagkiy Znak (Ь) — The Hermit of the Dessarin (Circa 1485–1488 DR): Passing a flock of sheep in quiet prayer along the river valleys prior to receiving the revelation of the Twin Signs*
+
 ![[myagkiy-znak-heroforge.png]]
 *Myagkiy Znak (Ь) — HeroForge Miniature (3D Color Render)*
 

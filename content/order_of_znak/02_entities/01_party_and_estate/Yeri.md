@@ -8,9 +8,9 @@ type: character
 species: kenku
 class: sorcerer
 subclass: divine-soul
-level: 15
-last_updated: 2026-10-31
-tags: [character-sheet, kenku, sorcerer, divine-soul, yeri, shadowfell, bridge-campaign, ally, strahd-hook]
+level: 14
+last_updated: 2026-11-15
+tags: [character-sheet, kenku, sorcerer, divine-soul, yeri, shadowfell, bridge-campaign, ally]
 aliases: ["Yeri", "Yeri (Ы)", "Ы", "The Third Sign"]
 ---
 
@@ -33,13 +33,13 @@ aliases: ["Yeri", "Yeri (Ы)", "Ы", "The Third Sign"]
 
 ---
 
-## 📊 Character Build & Mechanics (Level 15 Milestone)
+## 📊 Character Build & Mechanics (Level 14 Milestone)
 
 ### 🧬 Ability Scores & Core Stats
 * **Player / DM Companion:** Peter (Character build on D&D Beyond)
 * **Race:** Kenku (Size: Small)
-* **Class:** Level 15 **Divine Soul** Sorcerer (Divine Origin: Neutrality) — **Otherworldly Wings** (Gossamer Dragonfly Wings, Permanent Fly Speed 30 ft)
-* **Hit Points:** 92 HP (15d6 + 30)
+* **Class:** Level 14 **Divine Soul** Sorcerer (Divine Origin: Neutrality) — **Otherworldly Wings** (Gossamer Dragonfly Wings, Permanent Fly Speed 30 ft)
+* **Hit Points:** 86 HP (14d6 + 28)
 * **Armor Class (AC):** 12 (10 + DEX mod 2)
 * **Ability Scores:**
   * **STR:** `8 (-1)`
@@ -50,7 +50,7 @@ aliases: ["Yeri", "Yeri (Ы)", "Ы", "The Third Sign"]
   * **CHA:** `20 (+5)`
 
 ### ⚡ Metamagic & Feats
-* **Sorcery Points:** **15 Max Sorcery Points** (Level 15 Sorcerer pool).
+* **Sorcery Points:** **14 Max Sorcery Points** (Level 14 Sorcerer pool).
 * **Level 14 Milestone — Otherworldly Wings (*XGtE* p. 50):** 
   - Having absorbed the celestial Eaerlanni Starlight Crystal atop Mount Nimbus in 1500 DR, Yeri shattered the Kenku racial curse of flightlessness. 
   - Because her Divine Soul affinity is **Neutrality**, her spectral manifestation takes the form of four shimmering, iridescent, gossamer **Dragonfly Wings** refracting prismatic solar and twilight starlight. 
@@ -74,7 +74,6 @@ aliases: ["Yeri", "Yeri (Ы)", "Ы", "The Third Sign"]
 * **5th Level:** *Mass Cure Wounds.*
 * **6th Level:** *Disintegrate, Heal.*
 * **7th Level:** *Teleport.*
-* **8th Level:** *Demiplane.*
 
 ### 🎒 Equipment & Magic Items (Level 13)
 * ***+1 Staff:*** Arcane spellcasting focus and quarterstaff (+1 to attack and damage rolls).
@@ -84,32 +83,3 @@ aliases: ["Yeri", "Yeri (Ы)", "Ы", "The Third Sign"]
 * **Consumables & Mundane Gear:** 3× *Potions of Healing* (`2d4 + 2`), leather-bound journal and ink-quill (for recording aphorisms), courier's satchel, sturdy traveling robes, and warm cloak.
 * **Arrival in the Material Plane:** Transported from the Shadowfell through the ancient rune portal of **Ы**.
 * **The Star Mounts Expedition (1500 DR):** Traveled through the High Forest seeking the legendary Eaerlanni crystals of the Star Mounts. Encountered [[Tvyordiy Znak]] in the mountain foothills, teaming up with the veteran Aarakocra monk during the ascent of Mount Nimbus (chronicled in [[07b - Bridge - Tvyordiy - The Breath of the Boundless Sky|Bridge Chronicle: Chapter 2]]).
-
----
-
-## 🚪 Post-Chronicle Lore & Campaign Hook: The Demiplane Egress into Barovia
-
-### The Singularity of the Boundless Whorl (1502 DR)
-During the climactic battle against the Avatar of Talos atop the floating bastions of the Plane of Air, Yeri unleashed her 6th-level *Disintegrate* and 5th-level *Guiding Bolt*, shattering the herald's defenses. When the dying titan's planar conduit collapsed into an inescapable, roaring singularity, Yeri chose to stand her ground. Using her final Sorcery Points, she funneled a *Telekinetic Shove* to launch Master Tvyordiy thirty yards across the void to the safety of the stone redoubt, accepting her fate as the violet storm-claws pulled her small frame into the crushing vortex.
-
-### Level 15 Milestone: The Secret of the Demiplane
-Swallowed into the chaotic, extraplanar folds of the imploding conduit, Yeri did not perish. In the crucible of the void, her divine spark and unbending will reached peak harmonization, elevating her to **Level 15 Sorcerer** and unlocking an 8th-level spell slot. 
-
-Refusing to surrender to the dark, she mastered the 8th-level spell ***Demiplane*** (*PHB* p. 231). 
-
-By casting *Demiplane* from deep inside an unstable extradimensional space, Yeri created a clean, anchored threshold. The rules of planar geometry allow a caster who opens a demiplane from within another extradimensional anomaly to forge an egress leading to an exit entirely disconnected from where they entered—effectively leapfrogging the collapsing singularity without needing a *Plane Shift* tuning fork.
-
-### The Domain of Dread (*Curse of Strahd* Campaign Hook)
-When Yeri pushed open the heavy wooden door of her demiplane to escape back to the multiverse, she did not emerge under the sunlit skies of Toril or the boundless thermals of the Plane of Air. 
-
-The shadowy threshold opened directly into the choking, perpetual fog of the Svalich Woods—deep within the **Domain of Dread: Barovia**.
-
-> [!CAUTION] The Mists of Ravenloft & Planar Alterations
-> Under the laws of the **Dark Powers of Ravenloft** (*Curse of Strahd*, "Alterations to Magic"):
-> * No spell—not even *Wish*—allows a creature to leave Barovia. 
-> * Spells that summon or access extradimensional spaces (like *Demiplane*) function normally, but any doorway opened from within Barovia simply connects back into Barovia or within the demiplane itself. The exit is permanently trapped within the valley.
-
-### Current Multiversal Status
-* **Location:** The Valley of Barovia (Ravenloft).
-* **Condition:** Trapped, isolated, but very much alive.
-* **Role in Barovia:** A 15th-level Divine Soul Kenku sorceress gliding through the gloomy pine canopies on iridescent dragonfly wings, armed with her *Shadowfell Shard*, her snappy aphorisms, and an uncanny ability to mimic the howling of wolves and the organ music of Castle Ravenloft with terrifying precision. Strahd von Zarovich has found an unexpected, elusive, and profoundly annoying new guest in his domain.
