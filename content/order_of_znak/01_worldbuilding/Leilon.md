@@ -36,14 +36,35 @@ A quirky antiquities and magic curio shop run by the eccentric **[[Aubrey Silver
 ### 5. The Umber Hulk's Shell Inn
 A lively town tavern and inn built around the hollowed carapace of an ancient umber hulk, run by friendly, gossip-loving innkeeper **[[Alion Malwyn]]**. Serving as the social nerve center of the settlement, it was here in *Sleeping Dragon's Wake* (September 1, 2020) that Alion shared the defining rumor of the bronze dragon carrying a dolphin in its claws, steering the Order toward the **Bronze Shrine** and [[Lhammaruntosz]].
 
-### 6. Aufox Manor (The Order of Znak Headquarters)
-The fortified stone manor and permanent residence established by [[The Order of Znak]] with Grizzelda's masonry crews, christened **Aufox Manor** in honor of mentor and friend **David**. Following the trials of *Shadow's Run*, the estate came under the daily management of trusted human majordomo **[[Leopold]]**. The manor served as the martial heart of the town, housing the heroes, their adopted wards ([[Smithwell and Burnice|Smithwell and Burnice]], [[Yasmina]]), and visiting lizardfolk exchange allies ([[Graxxoamo]], [[Shriss]]).
+### 6. Aufox Manor & Annex (The Order of Znak Headquarters)
+The fortified timber-and-stone estate and permanent headquarters of [[The Order of Znak]] constructed with Grizzelda's masonry crews, christened **Aufox Manor** in honor of mentor and friend **David**. Managed by trusted human majordomo **[[Leopold]]**, the estate houses the heroes, their adopted wards ([[Smithwell and Burnice|Smithwell and Burnice]], [[Yasmina]]), and visiting lizardfolk allies ([[Graxxoamo]], [[Shriss]]).
+* **Triangular Architecture:** Built with a distinctive **triangular footprint**, a steep **wooden shake roof** (warm cedar/pine tones rather than civic slate), and a **single prominent stone chimney** rising on the southern pitch. Situated just north of Leilon's northeastern wagon entrance (taking the place of the building originally indicated by the Knight's Goblet Inn pointer, with the inn relocated deeper into town).
+* **The Annex & Dojo:** Accompanied by the two-story timber **Aufox Annex** to the northeast (acolyte quarters) and the post-and-rail fenced gravel **courtyard dojo** behind the manor, where [[Tvyordiy Znak]] trained the acolytes and planar Aarakocra disciples (see [[Aufox Manor]]).
+* **Wards:** Protected by Sector Delta of the [[Leilon Defense Grid & Abjuration Wards]] (*Forbiddance* and *Symbol* threshold glyphs).
+
+### 7. The Temple of the Twin Signs (Temple of the Gods)
+A radiant 120-foot square divine sanctuary manifested via the 7th-level *Temple of the Gods* spell by cleric **[[Myagkiy Znak]]**, situated on the grassy knoll north of Aufox Manor along the northern timber palisade (partially obscured from the south by the elevation of the House of Thalivar).
+![[temple_of_the_twin_signs.jpg]]
+*The Temple of the Twin Signs — Seamless Unmortared White Marble Portico Engraved with the Cyrillic Glyphs Ъ and Ь in Gold Leaf*
+* **Architecture & Divinity:** Crafted from seamless, unmortared white marble with classical fluted columns, golden Cyrillic glyphs (**Ъ** and **Ь**) above the architrave, twin burning bronze braziers, and stained-glass clerestory windows glowing with dawn light. Dedicated jointly to Gond, Lathander, and the doctrine of the Signs.
+* **Sanctuary Wards:** Permanently consecrated under *Hallow* (daylight illumination, courage aura, impervious to non-magical destruction, fiends and undead barred).
+
+### 8. The Leilon Cemetery & Cemetery Hill
+The newly established, stone-walled municipal graveyard situated on the flat meadow immediately outside the northwest gate, directly south of **Cemetery Hill**.
+* **Hallowed Rest:** Warded under a permanent *Hallow* field anchored by Myagkiy Znak to guarantee that any humanoid interred within can never be raised as undead or desecrated by swamp ghouls.
 
 ---
 
 ## 🎨 Cartography & Aerial Survey
+
+![[leilon_town_map_player.jpg]]
+*Player Tactical Map: High-Resolution Overhead Battlemap of Reconstructed Leilon (circa 1500 DR) showing Aufox Manor (triangular with wooden roof), Aufox Annex, Courtyard Dojo, The Temple of the Twin Signs along the northern palisade, and the Walled Cemetery south of Cemetery Hill*
+
+![[leilon_town_map_dm_wards.jpg]]
+*Tactical DM Overlay: The Reconstructed Town of Leilon with Abjuration Grid, Forbiddance Sectors (golden-amber), Hallow Consecrations (celestial silver), and Symbol Ward Stones (cyan glyphs) — see [[Leilon Defense Grid & Abjuration Wards]]*
+
 ![[Leilon-overhead.webp]]
-*Overhead Cartographic Survey of Rebuilt Leilon*
+*Historical Pre-War Cartographic Survey of Leilon (1492 DR)*
 
 ---
 
