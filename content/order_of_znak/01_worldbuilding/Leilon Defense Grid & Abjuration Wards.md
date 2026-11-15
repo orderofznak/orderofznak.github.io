@@ -42,7 +42,7 @@ By systematically dedicating high-level spell slots, liquid party wealth (~4,500
   1. **Sector Alpha (The High Road Gates & Northern Palisade):** Encloses the primary overland entrance, wagon checkpoints, and eastern approach.
   2. **Sector Beta (The Fishery & Quayside Docks):** Covers the tidal basin, marsh quays, and fish-processing shacks, preventing aquatic undead or kraken cult infiltrators.
   3. **Sector Gamma (Town Square & House of Thalivar Perimeter):** Envelops the central markets, town hall, and the surrounding radius of Thalivar's haunted tower.
-  4. **Sector Delta (Aufox Manor Estate & The Temple Meadow):** Protects the Order’s headquarters, the Annex, the training dojo, and the sacred knoll.
+  4. **Sector Delta (Aufox Manor Estate, The Temple Meadow & Subterranean Bedrock Vault):** Protects the Order’s headquarters, the Annex, the training dojo, the sacred knoll, and extends thirty feet down into the bedrock to completely encase the doorless 15×15×10 ft treasury vault (preventing ethereal, planar, or teleportation bypass into the Order's riches).
 * **Planar & Teleportation Denial:**
   - Creatures cannot enter the warded area by means of teleportation (*Misty Step*, *Dimension Door*, *Teleport*, *Word of Recall*) or using interplanar portals (e.g., *Gate*, *Plane Shift*, or ethereal travel).
   - Any attempt to magically teleport into the grid instantly fails, stranding the caster at their origin.

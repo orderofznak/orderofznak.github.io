@@ -50,6 +50,13 @@ aliases: ["Aufox Manor", "Aufox Estate", "The Manor", "Aufox-Annex", "The Znak E
 * Furnished with hardwood sparring pell posts, straw archery targets, and weapon racks holding practice staffs, shields, and wooden blades.
 * From 1502 to 1505 DR, Master Tvyordiy convened dawn katas here, refining the unarmed techniques of the Acolytes and his Aarakocra disciples beneath the shadow of the northern palisade.
 
+### 4. The Subterranean Bedrock Vault
+* **Dimensions & Excavation:** Situated fifteen feet directly beneath the great stone hearth of the main manor, this hidden **15 ft × 15 ft × 10 ft** subterranean vault was excavated from solid coastal granite bedrock. Created and reinforced by [[Myagkiy Znak]] through repeated castings of ***Stone Shape***, its floor, walls, and ceiling form a seamless, unmortared monolithic stone cube.
+* **Doorless Architecture:** Under normal circumstances, there is **no physical entrance**, staircase, ladder, hatch, or connecting tunnel. To all physical inspection, tapping, or mundane excavation, the ground beneath the manor floor is impenetrable, solid bedrock.
+* **Passage Protocol:** Entry and exit are accessible solely via the 3rd-level divine spell ***Meld into Stone*** (*PHB* p. 259), allowing a cleric or druid to step directly into the solid rock of the hearth floor and emerge inside the sealed vault. In an extreme crisis, *Stone Shape* can temporarily reshape a passage.
+* **Planar & Teleportation Immunity:** Because the vault lies within the subterranean vertical envelope of **Forbiddance Sector Delta**, magical entry via *Misty Step*, *Dimension Door*, *Teleport*, *Gaseous Form*, or *Etherealness* is strictly barred; any attempt fails automatically, and hostile fiends or undead take 5d10 radiant damage upon entry.
+* **Treasury Holdings:** Secured inside iron-banded dwarven chests are the Order’s accumulated wealth, hundreds of platinum trade ingots, liquid coinage, diamond caches for emergency resurrection (*Revivify*, *Raise Dead*), rare incense for *Legend Lore*, dragon spoils from the Sword Mountains, and ancestral ledgers.
+
 ---
 
 ## ⚡ Wards & Defensive Enchantments
