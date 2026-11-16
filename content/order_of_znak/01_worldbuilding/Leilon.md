@@ -57,14 +57,11 @@ The newly established, stone-walled municipal graveyard situated on the flat mea
 
 ## 🎨 Cartography & Aerial Survey
 
-![[leilon_town_map_player.jpg]]
-*Player Tactical Map: High-Resolution Overhead Battlemap of Reconstructed Leilon (circa 1500 DR) showing Aufox Manor (triangular with wooden roof), Aufox Annex, Courtyard Dojo, The Temple of the Twin Signs along the northern palisade, and the Walled Cemetery south of Cemetery Hill*
-
-![[leilon_town_map_dm_wards.jpg]]
-*Tactical DM Overlay: The Reconstructed Town of Leilon with Abjuration Grid, Forbiddance Sectors (golden-amber), Hallow Consecrations (celestial silver), and Symbol Ward Stones (cyan glyphs) — see [[Leilon Defense Grid & Abjuration Wards]]*
-
 ![[Leilon-overhead.webp]]
-*Historical Pre-War Cartographic Survey of Leilon (1492 DR)*
+*Overhead Cartographic Survey of Rebuilt Leilon (1492–1500 DR)*
+
+> [!NOTE] Tactical Battlemap Cartography
+> Custom high-resolution player and DM tactical town battlemaps—illustrating the exact spatial layouts of Aufox Manor, the Aufox Annex, the courtyard dojo, the Temple of the Twin Signs along the northern palisade, the Cemetery Hill graveyard, and the town-wide abjuration defense grid—are being authored by the DM for tabletop play.
 
 ---
 

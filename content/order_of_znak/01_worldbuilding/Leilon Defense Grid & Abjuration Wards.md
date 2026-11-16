@@ -26,11 +26,11 @@ By systematically dedicating high-level spell slots, liquid party wealth (~4,500
 
 ## 🎨 Tactical Cartography & Defense Maps
 
-![[leilon_town_map_dm_wards.jpg]]
-*Tactical DM Overlay: The Reconstructed Town of Leilon with Abjuration Grid, Forbiddance Sectors, Hallow Zones, and Symbol Ward Stones (1500 DR)*
+![[Leilon-overhead.webp]]
+*Overhead Cartographic Reference for the Town of Leilon (1500 DR)*
 
-![[leilon_town_map_player.jpg]]
-*Player Tactical Map: Overhead View of Reconstructed Leilon showing Aufox Manor, Aufox Annex, Courtyard Dojo, The Temple of the Twin Signs, and Cemetery Hill Graveyard*
+> [!NOTE] Tactical Abjuration Grid Map
+> Custom tactical DM overlay battlemaps detailing the precise coordinates of the Forbiddance sectors, Hallow zones, and Symbol ward stones are being authored by the DM for tabletop play. See the technical registry below for complete spell mechanics, areas of effect, and trigger parameters.
 
 ---
 
