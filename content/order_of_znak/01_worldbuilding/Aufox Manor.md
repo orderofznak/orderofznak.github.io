@@ -20,7 +20,7 @@ aliases: ["Aufox Manor", "Aufox Estate", "The Manor", "Aufox-Annex", "The Znak E
 * **Dedication & Name:** Named as a heartfelt tribute to workplace coworker, mentor, and friend **David**.
 * **Household & Inhabitants:**
   - **Majordomo:** Managed by trusted human estate steward **[[Leopold]]**.
-  - **Adopted Wards & Acolytes:** Raised the orphaned village children **[[Burnice Znak]]** and **[[Smithwell Znak|Smithwell]]**, along with young lizardfolk monk **[[Yasmina]]**.
+  - **Adopted Wards & Acolytes:** Raised the orphaned village children **[[Burnice Znak]]** and **[[Smithwell Znak|Smithwell]]**, along with rescued ward **[[Yasmina]]**.
   - **Planar Dojo (1502–1505 DR):** Following his return from the Plane of Air, **[[Tvyordiy Znak]]** and his sister **[[Klee'errk]]** established the gravel courtyard dojo of the Hard Sign, training the grown acolytes alongside four planar Aarakocra disciples: **[[Kree-uk]]**, **[[Qeerik]]**, **[[Arak-tai]]**, and **[[Sool-arrk]]** (chronicled in [[07b - Bridge - Tvyordiy - The Breath of the Boundless Sky|Bridge Chronicle: Chapter 6]]).
   - **Library:** Contains the sealed journals of the champions, ancestral heirlooms, and [[Yeri]]'s leather-bound notebook of proverbs inscribed with the three Cyrillic signs: $\mathbf{Ъ \quad Ы \quad Ь}$.
 
