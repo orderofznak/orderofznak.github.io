@@ -435,21 +435,89 @@ Because Myagkiy possessed precise coordinates from Claugiyliamatar and approache
 
 * **Death-Snipers (Init 16):**
   * *Wight 1 (1 HP, Left Pine Bough):* Clinging with blackened bone claws to the pine branch, it draws its longbow with trembling hands, firing at the glowing Celestial Avenger (Advantage from *Guiding Bolt*):
-    * *Attack Roll:* Rolled `9 + 4 = 13` with Advantage vs AC 16 (**Miss!**). The arrow goes wide, vanishing into the canopy.
-  * *Wight 2 (45 HP, Right Pine Bough):* Looses two rapid arrows at the Celestial Avenger:
+    * *Attack Roll:* Rolled `9 + 4 = 13` with Advantage vs AC 16 (**Miss!**). The arrow goes wide, vanishing into the dark canopy.
+  * *Wight 2 (45 HP, Right Pine Bough):* Looses two rapid poison arrows at the Celestial Avenger:
     * *Arrow 1:* Rolled `5 + 4 = 9` vs AC 16 (**Miss!**).
     * *Arrow 2:* Rolled `10 + 4 = 14` vs AC 16 (**Miss!**). Both shafts ricochet off the angel's celestial armor.
 
 * **Crypt Ghoul 4 (Init 13):**
-  * The lone surviving ghoul (22 HP) shrieks in frenzy, lunging forward with its paralyzed claws to slash at Myagkiy in melee (AC 24):
-    * *Attack Roll:* Rolled `19 + 4 = 23` vs AC 24 (**Miss!**). Its jagged talons scrape across Dayne's +2 plate with a shower of screeching sparks, completely deflected!
+  * The lone surviving ghoul (22 HP) shrieks in animalistic frenzy, lunging forward with its paralyzed claws to slash at Myagkiy in melee (AC 24):
+    * *Attack Roll:* Rolled `19 + 4 = 23` vs AC 24 (**Miss!**). Its jagged talons scrape across Dayne's +2 plate with a screech of sparks, completely deflected!
 
 * **Myagkiy Znak & Celestial Avenger (Init 9):**
   * *Regenerate:* Holy restorative light pulses through Myagkiy at the start of his turn, granting **+1 HP** (Myagkiy rises to **104 / 115 HP**).
-  * **Current Tactical State:**
-    * **Ghoul 4 (22 HP):** Right in melee reach (5 ft) with Myagkiy!
-    * **Spiritual Weapon:** Hovering right beside Myagkiy and Ghoul 4.
-    * **Wight 1 (1 HP):** Clinging to the left pine tree across the stream.
-    * **Wight 2 (45 HP):** In the right pine tree across the stream.
-    * **Malakor (62 HP):** 25 feet away behind the weeping menhir, his floating rusted scythe hovering 15 feet out in the stream.
-    * **Celestial Avenger:** Hovering 40 feet up at **27 / 50 HP**.
+  * *Myagkiy (Action — Bonecounter + Blessed Strikes):* Stepping firmly into the mud, Myagkiy brings ***Bonecounter*** down upon **Ghoul 4** in a sweeping, two-handed strike:
+    * *Attack Roll:* Rolled `13 + 10 = 23` vs AC 12 (Hit!).
+    * *Damage:* **16 total damage** (`1d6+5` base 9 magical bludgeoning + `1d8` ***Blessed Strikes*** 7 radiant)! The blow shatters the ghoul's jaw and collarbone, knocking it flat into the muck (reduced to 6 HP).
+  * *Spiritual Weapon (Bonus Action):* The hovering warhammer of force plunges downward to finish the creature:
+    * *Attack Roll:* Rolled `19 + 10 = 29` vs AC 12 (Hit!).
+    * *Damage:* **10 force damage** (`1d8 + 5`)! The hammer pulverizes the creature's chest into black mire (**Ghoul 4 Obliterated — All 4 Crypt Ghouls are Destroyed!**).
+  * *Celestial Avenger (Turn):* Hovering 40 feet above the stream, the golden angel splits its bowfire across the eastern pine trees:
+    * *Attack 1 (Wight 1 in left boughs):* From its high vertical angle negating low branch cover, looses a shaft of pure starlight (`15` vs base AC 14):
+      * *Damage:* **18 radiant damage**! Searing celestial fire engulfs the creature, burning it to white ash that drifts down into the water (**Wight 1 Destroyed!**).
+    * *Attack 2 (Wight 2 in right boughs, AC 16 with cover):* Rolled `18 + 10 = 28` (Hit!).
+      * *Damage:* **20 radiant damage** (`2d6+7 + 1d10`)! The radiant arrow pins Wight 2 through the shoulder, scorching its dead flesh (Wight 2 reduced to **25 / 45 HP**).
+
+* **Malakor the Bone-Carver (Init 2):**
+  * Trapped alone on the eastern bank, Malakor unleashes a desperate, screaming curse to Myrkul:
+  * *Spiritual Weapon (Rusted Scythe of Myrkul — Bonus Action):* Directs the scythe to slash at Myagkiy across the water:
+    * *Attack Roll:* Rolled `6 + 7 = 13` vs **AC 24** (**Miss!**). Deflected effortlessly by Dayne's +2 shield.
+  * *Action (Blight — 4th-Level Spell):* Thrusts his bone flail forward, unleashing a wave of withering necrotic decay:
+    * *Myagkiy Constitution Save (DC 15):* With **Resilient (Constitution)** (`CON 19 (+4)` + `PB (+5)` = **`+9` to CON Saves**), Myagkiy rolls `17 + 9 = 26` vs DC 15 — **CRITICAL SUCCESS!**
+    * *Damage:* Takes half damage = **15 necrotic damage** (Myagkiy reduced from 104 to **89 / 115 HP**).
+    * *Concentration Check (Summon Celestial):* DC 10 (half of 15). With `+9` modifier, Myagkiy rolls `16 + 9 = 25` vs DC 10 — **CRITICAL SUCCESS!** Concentration on the Celestial Avenger is completely unbroken!
+
+---
+
+#### ⚔️ Round 4: The Cleansing Pillar & Malakor's Surrender
+
+* **Wight 2 (Init 16):**
+  * Smoking and scorched (25 HP), Wight 2 draws its longbow, preparing to fire from the pine bough.
+
+* **Myagkiy Znak & Celestial Avenger (Init 9):**
+  * *Regenerate & Disciple of Life:* At the start of his turn, holy healing surges through Myagkiy's body:
+    * *Healing Audit (Jeremy Crawford Sage Advice):* Under *Disciple of Life*, each instance of healing from a 1st+ level spell adds `2 + spell level`. *Regenerate* triggers a new instance of healing each turn, restoring `1 HP + (2 + 7) =` **10 HP per 6-second round**!
+    * *Round 4 Tick:* Myagkiy heals **+10 HP** (rising from 89 to **99 / 115 HP**).
+  * *Action (Myagkiy — Flame Strike, 5th-Level Spell):*
+    * Raising his gauntlet toward the eastern bank, Myagkiy calls down divine retribution. Centering the spell precisely between the base of the pine tree and the weeping menhir, he manifests a roaring, 10-foot-radius, 40-foot-high vertical cylinder of solar fire:
+    * *Damage:* `4d6` fire + `4d6` radiant = **27 total damage** (8 fire + 19 radiant; Half: 13).
+    * *Wight 2 DEX Save (DC 18):* Rolled `10 + 2 = 12` vs DC 18 (Failure!). Takes the full **27 damage** &rarr; **Wight 2 is instantly incinerated to ash in the burning pine branches!**
+    * *Malakor DEX Save (DC 18):* Rolled `18 + 0 = 18` vs DC 18 (Exact Success!). Takes half damage = **13 damage** (Malakor reduced from 62 to **49 / 84 HP**).
+  * *Celestial Avenger (Turn):*
+    * Seeing Wight 2 reduced to falling cinders, the golden angel redirects its *Radiant Bow* entirely onto Malakor:
+    * *Arrow 1:* Rolled `18 + 10 = 28` vs AC 16 (Hit!). Deals **18 radiant damage** (Malakor reduced to **31 / 84 HP**).
+    * *Arrow 2:* Rolled `20 + 10 = 30` vs AC 16 (Hit!). Deals **20 radiant damage** (Malakor reduced to **11 / 84 HP**).
+  * *Spiritual Weapon (Bonus Action):*
+    * The glowing warhammer flies across the stream ford and slams into Malakor's chest:
+    * *Attack Roll:* Rolled `9 + 10 = 19` vs AC 16 (Hit!). Deals **9 force damage**!
+    * **Malakor drops to 2 / 84 HP!**
+
+* **Combat Concludes:**
+  * Every ghoul and wight in the ambush has been eradicated.
+  * Malakor's bone flail and iron skull symbol drop from his blistered hands, clattering against the wet cobblestones. The cult war priest collapses to his knees in the mud beside the scorched weeping menhir, raising his trembling, burned hands in utter terror:
+  * > *"Mercy... servant of the sun... spare me! Do not burn what little marrow remains in my bones!"*
+
+---
+
+### 🕊️ Scene 5: The Interrogation of Malakor at Weeping Stone Crossing
+
+*(Interactive Roleplay & Interrogation — Myagkiy Znak Level 13 Life Cleric)*  
+*Location: Eastern Bank of Weeping Stone Crossing | Overcast dusk, smell of ozone and burning pine*
+
+In the eighteen seconds following Malakor's surrender, the full miraculous power of the Life Domain manifested upon the battlefield.
+
+Under the continuous restorative pulse of ***Regenerate*** amplified by ***Disciple of Life*** (+10 HP per 6-second round):
+* *Round 5 (6 seconds):* Restores +10 HP &rarr; **109 / 115 HP**. The black withering on Myagkiy's arm from the *Blight* recedes into smooth, unblemished skin.
+* *Round 6 (12 seconds):* Restores +6 HP &rarr; **115 / 115 HP (Full Maximum Health Restored!)**. The puncture wound in his shoulder from Wight 2's arrow closes completely, leaving not even a scar.
+
+Myagkiy stepped across the shallow, blood-tinged water of the cobblestone ford. His boots landed heavily upon the eastern bank, Dayne's +2 plate gleaming untarnished in the twilight, his consecrated mace ***Bonecounter*** resting loosely in his right gauntlet. 
+
+High above, the golden-winged **Celestial Avenger** circled at forty feet, scanning the eastern tree-line on vigilant overwatch, its *Radiant Bow* nocked and ready to loose against any unseen reinforcement.
+
+Two inches before Malakor’s face, Myagkiy’s ***Spiritual Weapon*** hovered motionless—the glowing warhammer of divine force humming with crackling solar energy, poised to crush the cultist’s skull instantly at the slightest hostile twitch.
+
+Kneeling in the muck beneath the weeping menhir, his iron skull mask split in two and revealing a terrified, ash-smeared face, Malakor shivered violently:
+
+> *"I yield... by the Lord of Bones, I yield! You are no mere hedge-priest... you are an inquisitor of the Dawn!*
+> 
+> *Ask what you will! Take the bone-case from my belt... take the route-map! Only spare my soul from the pyre!"*
