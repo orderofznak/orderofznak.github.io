@@ -545,7 +545,17 @@ Fumbling at his rusted belt with blistered, shaking fingers, Malakor unhitched a
 > 
 > *I was only ordered to guard the crossing... to slaughter any who rode from Leilon! That is all I know... I swear it upon the hollow skull of Myrkul!"*
 
-Myagkiy reached down with his left gauntlet, picking up the bone cylinder. He popped the wax seal and unrolled the yellowed vellum parchment, confirming the angular Netherese runes, the trail markers of the Greypeak passes, and the coordinates across the southern dunes of Anauroch.
+Myagkiy reached down with his left gauntlet, picking up the lead-lined bone cylinder. Wary of the treacherous arts of the Lord of Bones, he drew the ***Wand of Magic Detection*** from his belt, pointing its polished tip across the bone casing and the rolled vellum scroll within:
+
+> **Mechanical Resolution: Magical & Trap Scrutiny of the Bone Cylinder**
+> * ***Wand of Magic Detection* (Expending 1 Charge):** The lead lining had blocked passive divination while sealed, but once unhitched, the wand's aura sweep revealed:
+>   * *No Active Explosive Glyphs:* Zero abjuration or evocation traps, confirming no *Glyphs of Warding* or death-curses were primed to detonate upon opening.
+>   * *Faint Transmutation & Divination Inks:* The ink used by the Netherese cartographers was ground from ancient lapis lazuli and silver dust, retaining a faint, centuries-old preservation enchantment that prevented fading under the desert sun.
+>   * *Faint Necromancy:* The cylinder itself was carved from a human femur consecrated to Myrkul, bearing a dull necrotic chill.
+> * ***Find Traps* (2nd-Level Spell — Prepared at First Long Rest):** At his very next long rest before setting out on the road, Myagkiy memorized and cast ***Find Traps***, focusing the divine sensor directly upon the bone tube, its cap mechanism, and the rolled parchment. The spell searched specifically for concealed mechanical traps (spring-loaded poisoned needles, razor locks, contact toxins, or sudden deadfalls).
+>   * *Divine Result:* **No traps detected.** The spell confirmed with absolute divine certainty that the cylinder was an authentic, mundane courier dispatch case crafted for mortal cult messengers, completely safe to handle and carry.
+
+Satisfied that the artifact was free of treachery, Myagkiy confirmed the angular Netherese runes, the trail markers of the Greypeak passes, and the coordinates across the southern dunes of Anauroch.
 
 Looking back to the trembling war priest, Myagkiy spoke with serene, unshakeable authority:
 
@@ -592,7 +602,7 @@ This path diverged completely from his brother [[Tvyordiy Znak]]'s solitary nort
 
 #### 🛡️ The Daily Travel & Masonry Loadout
 Throughout the 750-mile journey, Myagkiy attuned his spellcraft to travel, sustenance, environmental mastery, and pastoral construction:
-* **Subsistence & Health:** ***Create or Destroy Water***, ***Purify Food and Drink***, and ***Create Food and Water*** ensured he never competed with local wildlife or drained frontier larders. ***Aid*** and ***Lesser Restoration*** were cast daily upon sick herders and fevered children.
+* **Subsistence, Vigilance & Health:** ***Create or Destroy Water***, ***Purify Food and Drink***, and ***Create Food and Water*** ensured he never competed with local wildlife or drained frontier larders. ***Aid***, ***Lesser Restoration***, and ***Find Traps*** (2nd level) were kept ready to detect hidden ambuscades or trapped ruins. ***Motivational Speech*** (3rd level) was prepared daily to steel the hearts of traveling companions and frontier folk.
 * **Pastoral Masonry (*Stone Shape*):** Channeling the sacred craft of Gond and the architectural memory of Aufox Manor, Myagkiy used *Stone Shape* to repair cracked stone cottages, carve sturdy stone storm-shelters for sheep herders along the windy riverbanks, and reshape washed-out stone bridge piers for isolated hamlets.
 * **Alpine Repose (*Meld into Stone*):** While traversing predator-haunted river canyons, Myagkiy stepped directly into solid granite bedrock to take short rests and meditate in total, undetectable safety, completely imperceptible to passing brigands or beasts.
 * **Environmental Immunity:** Wielding his attuned ***Ring of Warmth***, Myagkiy was physiologically immune to extreme sub-zero cold. When early blizzards began howling down from the mountains, he cast ***Freedom of Movement***, striding across knee-deep snowdrifts and frozen bogs without suffering the slightest reduction in his steady pastoral pace.
@@ -610,7 +620,8 @@ In the high mountain foothills near the frontier outpost of **Parnast**, Myagkiy
 * Each morning at dawn, Myagkiy channeled his single 7th-level spell slot to cast ***Temple of the Gods***.
 * Outside the snowbound timber settlements, an immense, magnificent sanctuary of gleaming white marble and polished cedar materialized from the earth (120 feet on each side).
 * The temple was naturally heated to spring-like warmth, illuminated by radiant solar lanterns, immune to scrying, and shielded by divine wards that blocked fiends and undead from crossing the threshold.
-* Here, Myagkiy harbored stranded trappers, local mountain families, and wood-cutters. He fed the community with *Create Food and Water*, healed frostbite and winter lung-rot, and conducted daily services under the Doctrine of the Twin Signs—teaching that winter is creation's necessary Hard Sign (Ъ), and the coming spring its enduring Soft Sign (Ь).
+* Here, Myagkiy harbored stranded trappers, local mountain families, and wood-cutters. He fed the community with *Create Food and Water* and healed frostbite and winter lung-rot.
+* **The Pastoral Voice (*Motivational Speech*):** Each evening beneath the soaring marble dome, Myagkiy channeled ***Motivational Speech*** (3rd-level spell, 1 hour duration) to deliver impassioned, comforting sermons. Touching the silver Soft Sign upon his chest, his voice resonated with tranquil power, granting up to five chosen community leaders at a time **5 temporary hit points**, **Advantage on Wisdom saving throws** against winter despair and cabin madness, and a divine ward ensuring that if reduced to 0 HP by cold or beast, they would drop to **1 HP instead**. He taught that winter is creation's necessary Hard Sign (Ъ), and the coming spring its enduring Soft Sign (Ь).
 
 #### 🪙 The Economy of the Soft Sign
 * **Crafting Holy Symbols:** Using his smithing tools in the warmth of the temple, Myagkiy carved and cast **5 gp holy symbols of the Twin Signs**—silver sunbursts embossed with the Cyrillic Soft Sign (**Ь**)—gifting them to village elders and faithful travelers.
