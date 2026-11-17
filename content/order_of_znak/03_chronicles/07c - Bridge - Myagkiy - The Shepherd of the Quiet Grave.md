@@ -175,17 +175,23 @@ Claugiyliamatar’s slit eyes locked onto the crimson velvet of the *Cape of the
 
 She possessed no arcane *Counterspell*. A single spoken syllable of ***Word of Recall*** would dissolve the cleric into a flash of radiant starlight, landing him instantly within the fortified sanctuary of the *Temple of the Gods* behind Leilon’s permanent *Forbiddance* grid—beyond her reach, immune to her breath weapon, and in position to sound the muster horns across the Sword Coast to finish what Ebondeath began.
 
-For five long heartbeats, the dragon held his gaze. The sulfur in her throat rumbled like dying thunder.
+For five long heartbeats, the dragon held his gaze. She bottled her towering rage, her draconic cunning quietly weighing whether to plot revenge in secret or leave well enough alone for now.
 
-Then, slowly, her frills settled against her thick neck. She pulled her snout back two paces, her jaws clicking shut. A low, dry rattle of laughter rumbled from her chest—grating, cold, and begrudgingly impressed:
+Then, slowly, her frills settled against her thick neck. She pulled her snout back two paces, her jaws clicking shut. A low, dry rattle of laughter rumbled from her chest—grating, cold, and amused by his posturing:
 
-> *"Bold words for a mortal in an unlit cave,"* she purred, her claws curling against the stone. *"You speak like a conqueror, Myagkiy Znak, but you did not walk across my bridges and brave my slime pools merely to boast of your legions or defend your theft.*
+> *"Bold words for a mortal in an unlit cave,"* she purred, her claws curling against the stone. *"You speak of legions and flight, shepherd of Leilon. But you have walked very far from your little temple—that stone coop where you and your brothers vanish completely from my crystal orbs, cloaked behind your stubborn wards.*
 > 
-> *The soft priest has iron in his marrow, as Tvyordiy has stone. Let us set aside the wand and the coins for now. A life debt is a heavy chain, and Old Gnawbones does not like carrying debts.*
+> *You did not venture across my bridges, brave my slime pools, and step outside your little sanctuary merely to boast of your escape spells or defend your theft. Old Gnawbones sees much, but she does not see into a blind priest's skull.*
 > 
-> *Tell me why you have come, cleric. What shadow drives you south into my woods?"*
+> *Tell me, Myagkiy Znak: what shadow could possibly drag you out of your protected nest and drive you south into my woods?"*
 
-Myagkiy reached up with his right gauntlet, lightly resting his fingertips upon the silver sunburst of the Soft Sign embossed against Dayne's breastplate. Beneath his breath, he whispered a tranquil, quiet syllable of prayer, invoking ***Guidance*** to steady his mortal mind before the ancient wyrm.
+Myagkiy reached up with his right gauntlet, lightly touching the silver sunburst of the Soft Sign embossed upon Dayne's breastplate. Beneath his breath, he whispered a tranquil syllable of prayer, invoking ***Guidance*** to steady his mortal mind before delivering his solemn truth.
+
+Looking straight into her vast, slit-pupiled eyes, Myagkiy answered:
+
+> *"Znak's will will be fulfilled. I have felt it send to me a sense of urgency to seek out the remnants of Myrkul and its deathly presence upon the Sword Coast and probably Faerûn, Toril, and worlds beyond I cannot fathom. Yet, my attempts at communing and divining are met with death's own shroud and knell forcing me out of my reverie.*
+> 
+> *You though, its shade inhabited your mind for a time and perhaps that with your proclivities might make you a better viewer into just where he has made his own quiet and shallow grave whilst waiting for his next opportunity to unmake life in our plane."*
 
 > **Mechanical Resolution: Charisma Check (Theological Parley & Life Debt)**
 > * **Check:** Charisma (Untrained, `+1` CHA)
@@ -196,23 +202,9 @@ Myagkiy reached up with his right gauntlet, lightly resting his fingertips upon 
 > * **Cantrip (*Guidance*):** `+4` (Maximum 1d4 roll)
 > * **Total Check Result:** **`25`** vs. **DC 15** — **CRITICAL SUCCESS**!
 
-Lowering his hand, Myagkiy looked straight into her vast, slit-pupiled eyes. His voice echoed across the vaulted chamber with calm, unyielding moral authority:
+Claugiyliamatar’s yellow eyes dilated. For several seconds, the ancient wyrm stared at him in stunned, disbelieving silence. She listened to the slow, steady beat of his heart—free of deceit, free of trembling. 
 
-> *"I came not to take, Claugiyliamatar, but because my own light cannot reach where I must go.*
-> 
-> *In Leilon, in the quiet months before setting out, I prepared for this journey. I burned incense, cast legend lore, and learned the ancient names of Myrkul. I knelt before the consecrated altar of the Twin Signs and cast scrying to pierce the veil and locate where his surviving cults gather. But a priest of the Life Domain cannot pierce the shroud of death.*
-> 
-> *The radiant vitality of my gods repels necrotic rot like oil rejecting water. Every prayer I cast struck an impenetrable wall of darkness. The shroud of death will not part for a holy man.*
-> 
-> *You possess what no priest of Lathander or Gond can ever wield. You have your crystal balls upon these brass pedestals. You have your living maps upon the stone. And most of all, you carry in your very marrow the lingering ghost-scent of Ebondeath.*
-> 
-> *His possession was your agony and your disgrace, but today it is our key. Your predatory nature offers no holy resistance against death magic, and your soul is attuned to Myrkul's dark frequency. You owe me your life, wyrm. You owe me the breath in your lungs. Step to these pedestals. Call upon that lingering darkness in your bones, pierce the shroud of death, and show me where the carrion-mongers of the god who made a beast of you are hiding."*
-
-The silence returned, heavier and colder than before.
-
-Claugiyliamatar’s yellow eyes widened. For a moment, the great wyrm seemed frozen in astonishment—not by a mortal’s arrogance, but by the ruthless, pragmatic intellect behind his words. She stared down at the human in Dayne's polished plate, her sensory frills twitching as she listened to the slow, steady rhythm of his heart. There was neither fear nor malice in his chest—only absolute, unshakeable conviction. 
-
-A holy battle-priest of the Soft Sign, demanding that an ancient green dragon harness the traumatic necrosis of her own defilement to serve as his occult lens!
+A holy battle-priest of the Soft Sign, standing in her parlor and demanding that an ancient green dragon harness the traumatic necrosis of her own defilement to serve as his occult lens against the god who enslaved her!
 
 Then, deep in her belly, a sound began to build.
 
@@ -272,8 +264,68 @@ With a violent convulsion, Claugiyliamatar severed the link.
 
 The crystal ball atop the brass pedestal went abruptly opaque and dark. The dragon collapsed her heavy snout onto the limestone floor, coughing and retching violently, spitting a pool of sizzling black bile between the brass pillars as she fought off the sickening, lingering nausea of Ebondeath's taint.
 
-Slowly, she raised her head. Sulfur smoke curled from her serrated teeth as her yellow slit-pupils fixed once more upon Myagkiy, who stood bathed in the pale emerald and crimson glow of the animated moss map.
+Myagkiy looked at the shuddering wyrm with calm, measured priestly poise. His voice remained steady, offering mercy without servility:
 
-> *"The debt of blood is paid in full, Myagkiy Znak,"* she wheezed, her heavy chest rising and falling against the stone. *"I gave you the heart of the serpent in the desert sands, and I gave you the adder coiled in the moss at your boots.*
+> *"I could give you some restoration, Gnawbone, if the fell humors still plague your breath. But tell me, you have lived longer than the lives of mortal men. What know you of Anauria? I presume you hold no love for the sands, but have you seen it?"*
+
+Claugiyliamatar raised her snout from the flagstones, baring her needle-sharp teeth in a rasping hiss:
+
+> *"Keep your holy hands off my scales, cleric!"* she spat, wiping black slime against the verdigris brass of the pedestal. *"Though the rot tastes like boiled gall, Old Gnawbones has endured worse than a foul gullet. I need no soft shepherd to pat my head and cleanse my breath.*
 > 
-> *What say you now, priest of Leilon? The map is drawn in living vine. What do you ask of Old Gnawbones before you take your steel to the crossing?"*
+> *As for the sands..."* 
+
+She turned her yellow slit-pupils up toward the twenty-foot circle on the south wall, where the withered ochre moss outlined the Great Sand Sea.
+
+> *"I flew high above the Greypeaks in my youth, centuries before your petty wooden hamlets were pegged to the mud. A green dragon belongs in the canopy, where the rot is lush, wet, and fertile. The desert is a cursed kiln, desiccated by those alien leech-monsters they call the Phaerimm, who drained the inland sea until the rivers withered to dust.*
+> 
+> *Anauria was the proudest of Netheril's daughter-states. When the flying enclaves plummeted from the heavens, the lords of Anauria thought their sword-magic and silver pegasi would preserve them forever. But the sand swallowed them all the same. Their towers drowned in dunes; their glass spires shattered under the wind.*
+> 
+> *And underneath those sands, holy man... the arch-wizards who knelt to the Lord of Bones refused to die. They bound their souls into sunken basalt pyramids and black obsidian sarcophagi. They have slept under the burning dunes for a thousand winters, waiting for a champion ruthless enough to break the seals.*
+> 
+> *Vaelen is that champion. If you march into Anauroch, the sun will boil the grease beneath your plate by noon, and the black winds of Hades will freeze your marrow by midnight. But if you want to crush the skull of Myrkul's new avatar, Anauria is where you will find his cradle."*
+
+Myagkiy listened intently, committing every geographic contour of the withered moss to memory. He knew Claugiyliamatar's nature well—her insatiable appetite for rumors, court intrigue, and the whisperings of humanoid powers across the Sword Coast. 
+
+As a gesture of good faith, and to leave the ancient wyrm in a posture of mutual respect, Myagkiy inclined his head slightly and offered a choice parting secret:
+
+> *"I know you have an ear for the whisperings of men, wyrm. Take this for your trouble: I have heard the Thay wizards are stirring again, showing up further and further west from far away Thay."*
+
+The effect was instantaneous.
+
+Claugiyliamatar’s scalloped neck-frills flared wide, trembling with intense, predatory curiosity. Her yellow eyes glittered with wicked amusement, and a low, rattling purr echoed in her throat:
+
+> *"The Red Wizards..."* she hissed, licking her lips with a long, forked black tongue. *"Szass Tam’s bald carrion-crows... creeping west past the Sea of Fallen Stars? Hiss... delicious. Truly delicious.*
+> 
+> *If the Thayan vultures are flying toward the Sword Coast, the Merchant Lords of Waterdeep will soil their velvet robes in terror. And terrified men make foolish trades, open their vaults, and beg for secret alliances.*
+> 
+> *You pay in good coin after all, Myagkiy Znak—not in gold, but in the sweetest currency of all: whispers.*
+> 
+> *Our ledger is burned. The life debt is closed. Now take your stolen wand, take your bed-gold, and go spill the black blood of the Myrkulites at the Weeping Stone Crossing before they realize their dragon has sold them out."*
+
+Myagkiy met her gaze for a final, solemn breath. He made no bow, but he gave a firm, respectful nod of his head:
+
+> *"May your wings remain your own, Claugiyliamatar."*
+
+Turning upon his heel, the crimson velvet of his *Cape of the Mountebank* swirling behind him, Myagkiy marched back across the stone bridge, past the silent wood-druids, and out of Deeping Cave into the crisp autumn wind of Kryptgarden Forest.
+
+---
+
+### ⚔️ Scene 4: The Ambush at Weeping Stone Crossing
+
+*(Tactical Combat & Interrogation — Myagkiy Znak Level 13 Life Cleric)*  
+*Location: The Weeping Stone Crossing, Eastern Verge of Kryptgarden Forest*  
+*Conditions: Overcast dusk, damp moss-slicked terrain, rushing stream, ancient weeping stone monument*
+
+#### 🗺️ Tactical Setup & Battlefield Layout
+Two hours before sunset, Myagkiy reached the eastern verge of the forest. 
+
+The **Weeping Stone Crossing** was an ancient, melancholic landmark—a massive, moss-covered menhir carved with weeping human faces that continually wept trickles of condensation into a shallow, rushing stream (15 feet wide, 2 feet deep, difficult terrain). The ancient cart path crossed the stream over a slick, partially collapsed cobblestone ford.
+
+Dense pine trees and tangled briars flanked the eastern and western banks, providing heavy obscurement and elevated vantage points 10 feet above the road.
+
+#### 💀 Enemy Roster & Vanguard Positions
+Forewarned by Claugiyliamatar’s scrying, Myagkiy's keen eyes spotted the ambushers before they could spring their trap:
+
+1. **Malakor the Bone-Carver (Cult Leader / War Priest of Myrkul):** Stationed 50 feet away behind the weeping menhir on the eastern bank. He wears dull iron mail and an iron skull mask, clutching a flail of blackened bone and an unholy symbol of Myrkul.
+2. **2x Myrkulite Death-Snipers (Cult Wight Marksmen):** Perched 10 feet up in the pine boughs flanking the eastern bank (55 feet away, half cover `+2 AC`). Their longbows are nocked with arrows dripping black grave-poison.
+3. **4x Crypt Ghouls:** Submerged beneath the black, rushing water of the stream bed directly at the cobblestone ford (35 feet away), waiting to erupt and drag crossing travelers down into the muck.
