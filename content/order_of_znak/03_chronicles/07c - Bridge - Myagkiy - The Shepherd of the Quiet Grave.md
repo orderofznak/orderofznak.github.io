@@ -396,6 +396,7 @@ Because Myagkiy possessed precise coordinates from Claugiyliamatar and approache
   * *Wight 2 (Pine Bough Right, 45 HP):* Takes aim at Myagkiy advancing down the road (AC 24):
     * *Arrow 1:* Rolled **Natural 20** (`20 + 4 = 24`) — Critical Hit! The poisoned shaft finds a narrow chink in Dayne's gorget:
       * *Critical Damage:* **13 piercing damage** (Myagkiy reduced to 102/115 HP).
+      * *Concentration Check (Summon Celestial):* DC 10 (half of 13). With **Resilient (Constitution)** (`CON 19 (+4)` + `PB (+5)` = **`+9` to CON Saves**), Myagkiy rolls `2 + 9 = 11` vs DC 10 (**SUCCESS**)! Concentration is unbroken, and the Celestial Avenger remains in flight.
     * *Arrow 2:* Rolled `10 + 4 = 14` (Miss, ricocheting loudly off his +2 Shield).
 
 * **Crypt Ghouls (Init 13):**
@@ -409,9 +410,46 @@ Because Myagkiy possessed precise coordinates from Claugiyliamatar and approache
 
 * **Myagkiy Znak & Celestial Avenger (Init 9):**
   * *Regenerate:* At the start of Myagkiy's turn, the 7th-level healing surges through his veins, closing the arrow wound for **+1 HP** (Myagkiy rises to **103/115 HP**).
+  * *Spiritual Weapon (Bonus Action):* Myagkiy points his gauntlet forward, commanding the glowing warhammer to lunge 10 feet into the nearest wounded monstrosity, **Ghoul 1**:
+    * *Attack Roll:* Rolled `14 + 10 = 24` vs AC 12 (Hit!).
+    * *Damage:* **8 force damage**! The hammer slams into its skull like a siege ram, pulverizing the ghoul into rotten mud (**Ghoul 1 Obliterated**!).
+  * *Movement & Action (Myagkiy):* Striding 10 feet forward through the mud, Myagkiy closes into melee with **Ghoul 2**, swinging his consecrated mace ***Bonecounter*** in a crushing two-handed arc:
+    * *Attack Roll:* Rolled `18 + 10 = 28` vs AC 12 (Hit!).
+    * *Damage:* **18 total damage** (`1d6+5` base 10 magical bludgeoning + `1d8` ***Blessed Strikes*** max 8 radiant)! Searing solar energy erupts from the mace's flanged head, disintegrating the ghoul's ribcage (**Ghoul 2 Obliterated**!).
+  * *Celestial Avenger (Turn):* Hovering 40 feet above the tree line, the golden-winged celestial looses two blinding shafts of starlight:
+    * *Attack 1 (Wight 1 in pine boughs, AC 16 with half-cover):* Rolled `19 + 10 = 29` (Hit!).
+      * *Damage:* **24 radiant damage** (`2d6+7 + 1d10`)! Searing celestial fire strips its rotten flesh from bone. Wight 1 drops to **1 / 45 HP**, clinging by a single burning claw to the pine trunk!
+    * *Attack 2 (Ghoul 3 crawling on the bank, AC 12):* Rolled `14 + 10 = 24` (Hit!).
+      * *Damage:* **19 radiant damage**! The shaft impales the ghoul through the spine, incinerating it into falling cinders (**Ghoul 3 Obliterated**!).
+
+* **Malakor the Bone-Carver (Init 2):**
+  * Stunned by the utter annihilation of three ghouls in three seconds, Malakor backs behind the weeping menhir:
+  * *Bonus Action:* Casts ***Spiritual Weapon*** of Myrkul, manifesting a floating, jagged scythe of rusted iron hovering over the stream ford.
+  * *Action:* Channels a 3rd-level ***Guiding Bolt*** of sickly green necrotic fire at the hovering **Celestial Avenger** (AC 16) to knock out the cleric's air support:
+    * *Attack Roll:* Rolled `10 + 7 = 17` vs AC 16 (Hit!).
+    * *Damage:* **23 necrotic damage**! Corrosive shadows lash the angel's breastplate, reducing the Celestial Avenger to **27 / 50 HP** and bathing it in a dim green glow.
+
+---
+
+#### ⚔️ Round 3: The Climax of the Crossing
+
+* **Death-Snipers (Init 16):**
+  * *Wight 1 (1 HP, Left Pine Bough):* Clinging with blackened bone claws to the pine branch, it draws its longbow with trembling hands, firing at the glowing Celestial Avenger (Advantage from *Guiding Bolt*):
+    * *Attack Roll:* Rolled `9 + 4 = 13` with Advantage vs AC 16 (**Miss!**). The arrow goes wide, vanishing into the canopy.
+  * *Wight 2 (45 HP, Right Pine Bough):* Looses two rapid arrows at the Celestial Avenger:
+    * *Arrow 1:* Rolled `5 + 4 = 9` vs AC 16 (**Miss!**).
+    * *Arrow 2:* Rolled `10 + 4 = 14` vs AC 16 (**Miss!**). Both shafts ricochet off the angel's celestial armor.
+
+* **Crypt Ghoul 4 (Init 13):**
+  * The lone surviving ghoul (22 HP) shrieks in frenzy, lunging forward with its paralyzed claws to slash at Myagkiy in melee (AC 24):
+    * *Attack Roll:* Rolled `19 + 4 = 23` vs AC 24 (**Miss!**). Its jagged talons scrape across Dayne's +2 plate with a shower of screeching sparks, completely deflected!
+
+* **Myagkiy Znak & Celestial Avenger (Init 9):**
+  * *Regenerate:* Holy restorative light pulses through Myagkiy at the start of his turn, granting **+1 HP** (Myagkiy rises to **104 / 115 HP**).
   * **Current Tactical State:**
-    * Three charred Crypt Ghouls cling to 2 HP each just 15 feet away (10 feet from the Spiritual Weapon).
-    * One fresh Ghoul stands beside them at 22 HP.
-    * Wight 1 is pinned in the pine tree across the stream at 25 HP.
-    * Wight 2 is in the eastern boughs at 45 HP.
-    * Malakor the Bone-Carver is 35 feet away behind the menhir at 62 HP.
+    * **Ghoul 4 (22 HP):** Right in melee reach (5 ft) with Myagkiy!
+    * **Spiritual Weapon:** Hovering right beside Myagkiy and Ghoul 4.
+    * **Wight 1 (1 HP):** Clinging to the left pine tree across the stream.
+    * **Wight 2 (45 HP):** In the right pine tree across the stream.
+    * **Malakor (62 HP):** 25 feet away behind the weeping menhir, his floating rusted scythe hovering 15 feet out in the stream.
+    * **Celestial Avenger:** Hovering 40 feet up at **27 / 50 HP**.
