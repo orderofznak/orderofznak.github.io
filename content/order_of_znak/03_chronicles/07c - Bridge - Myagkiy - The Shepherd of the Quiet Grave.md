@@ -375,7 +375,7 @@ Because Myagkiy possessed precise coordinates from Claugiyliamatar and approache
   * *Bonus Action:* Directs his ***Spiritual Weapon*** to advance ahead of him, stationing the glowing warhammer **5 feet directly in front of him** (15 feet from the water ford) as a forward intercepting screen.
   * *Action:* Extends his gauntlet toward Malakor behind the weeping menhir and casts ***Sacred Flame***. Seared columns of holy fire descend from the overcast sky, bypassing the menhir's cover:
     * *Malakor DEX Save (DC 18):* Rolled `4 + 0 = 4` (Failure!).
-    * *Damage:* **14 radiant damage** (`3d8` radiant), scorching his iron skull mask and setting his robes ablaze!
+    * *Damage:* **22 radiant damage** (`3d8` base 14 + `1d8` *Blessed Strikes* max 8), scorching his iron skull mask, shattering his bone amulets, and setting his robes ablaze (Malakor down to 62/84 HP)!
 
 * **Celestial Avenger (Init 9, immediately after Myagkiy):**
   * The Large winged angel beats its golden wings, ascending 40 feet into the mist above the stream, drawing its *Radiant Bow*:
@@ -414,4 +414,4 @@ Because Myagkiy possessed precise coordinates from Claugiyliamatar and approache
     * One fresh Ghoul stands beside them at 22 HP.
     * Wight 1 is pinned in the pine tree across the stream at 25 HP.
     * Wight 2 is in the eastern boughs at 45 HP.
-    * Malakor the Bone-Carver is 35 feet away behind the menhir at 70 HP.
+    * Malakor the Bone-Carver is 35 feet away behind the menhir at 62 HP.
