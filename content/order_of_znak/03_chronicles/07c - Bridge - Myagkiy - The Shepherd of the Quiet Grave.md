@@ -521,3 +521,103 @@ Kneeling in the muck beneath the weeping menhir, his iron skull mask split in tw
 > *"I yield... by the Lord of Bones, I yield! You are no mere hedge-priest... you are an inquisitor of the Dawn!*
 > 
 > *Ask what you will! Take the bone-case from my belt... take the route-map! Only spare my soul from the pyre!"*
+
+
+Calm and measured, Myagkiy looked down at the shivering cultist. He rested the heavy head of *Bonecounter* against the damp earth, his dark eyes steady and unblinking:
+
+> *"Bone-carver... this is Bone-counter. It takes a tithing, a silver coin for every denizen of undeath it smites which I donate every piece to charitable causes. I took it from Emberlost's treasure hold. Tarbin Tul told me upon his rescue that he would sing and perform the tales of Anauria for the homesick deathknight."*
+
+> **Mechanical Resolution: Wisdom (Insight) Check**
+> * **Check:** Wisdom (Insight) — Trained (`+5` WIS + `+5` PB = **`+10` Modifier**)
+> * **Concentration Discipline:** Myagkiy strictly refrains from casting *Guidance* to preserve his concentration on the hovering ***Summon Celestial***.
+> * **Dice Roll:** Natural `1` on the d20 (`1 + 10 =` **`11 Total`**).
+> * **Adjudication:**
+>   * *The Surface Truth:* Malakor’s eyes bulge in stark, superstitious terror. His jaw slackens, and he gasps out loud at the names *Emberlost*, *Bonecounter*, and *Anauria*. The cult revered the death knight of Emberlost as an ancient Netherese crusader of their lineage; hearing that Myagkiy stormed Emberlost and holds the very mace from its crypts convinces Malakor that the cleric is an inevitable scourge of Myrkul.
+>   * *The Blindspot:* Because of his chaotic, stammering terror, Myagkiy cannot read the cultist's deeper intentions. He cannot discern whether the parchment map contains deliberate desert hazards or if Malakor hopes the blazing sands and Netherese liches will finish what the ambush failed to do.
+
+Fumbling at his rusted belt with blistered, shaking fingers, Malakor unhitched a heavy, lead-lined bone cylinder and thrust it forward into the mud:
+
+> *"The Sorrowful Knight... he was the first of Vaelen's line! A fallen captain of Netheril who swore his soul to the Lord of Bones when the floating cities crashed into the sand!*
+> 
+> *Here! In this bone-case... it is the skull-route! The secret tracks across the Greypeaks into southern Anauroch... marked by ancient dry cisterns and the dead subterranean rivers!*
+> 
+> *Vaelen has unsealed the black glass pyramid of **Aul-Khem** in the sunken basin of Anauria. He feeds the blood of stolen merchant caravans into the **Blood Chrysalis** to birth an Avatar! The liches guide him... they awaken the dead of the old empire!*
+> 
+> *I was only ordered to guard the crossing... to slaughter any who rode from Leilon! That is all I know... I swear it upon the hollow skull of Myrkul!"*
+
+Myagkiy reached down with his left gauntlet, picking up the bone cylinder. He popped the wax seal and unrolled the yellowed vellum parchment, confirming the angular Netherese runes, the trail markers of the Greypeak passes, and the coordinates across the southern dunes of Anauroch.
+
+Looking back to the trembling war priest, Myagkiy spoke with serene, unshakeable authority:
+
+> *"So you know it. I thought as much. You picked the wrong ford, and not 10 miles from Old Gnawbone's lair where Ularan sent hosts of his minions to harry her. Ularan is no more, and my order was the catalyst to his demise. Do you seek the ancient green again, for I just came from her abode to help reckon with Myrkul myself once and for all. She is ever more on her guard and has no lost love for you or your kin, if such a creature could ever know love.*
+> 
+> *Worry not, for I shan't end your existence here. No, I say go back east. Tell your master one bathed in life comes to seek one to answer for the crimes upon the Sword Coast."*
+
+Myagkiy asked for nothing more.
+
+With a single gesture of his gauntlet, the hovering *Spiritual Weapon* dissolved into motes of golden dust. The Celestial Avenger wheeled high in the autumn sky, banking on silent wings.
+
+Malakor stared up at the unyielding battle-priest in utter disbelief. Scrambling to his feet in the mud, clutching his cracked iron skull mask to his chest, the cult leader turned and fled eastward into the darkening woods, stumbling through the briars as an involuntary, terrified herald of the Dawn.
+
+The Weeping Stone Crossing fell silent once more, save for the rush of the stream and the gentle condensation dripping from the ancient stone faces.
+
+---
+
+### ❄️ Epilogue: The Long Road East & The Wintering in the Greypeaks
+
+*(Interstitial Chronicle — Winter 1500 DR to Spring 1501 DR)*  
+*Route: The Delimbiyr Vale Corridor (The River Shining Route) — 750 Miles Eastward*
+
+```
+[Weeping Stone Crossing]
+       │
+       ▼ (South down Dessarin Valley)
+[Womford / Ironford Crossing]
+       │
+       ▼ (East through Corridor between High Forest & High Moor)
+[Delimbiyr River (River Shining) via Secomber & Loudwater]
+       │
+       ▼ (Upstream into Granite Foothills & River Canyons)
+[The Greypeak Mountains & Parnast Threshold]
+```
+
+#### 🧭 The Cartographic Itinerary: Route B (The Delimbiyr Vale)
+Following the battle at the crossing, Myagkiy turned his boots south and east, deliberately choosing **The Delimbiyr Vale Corridor**. 
+
+This path diverged completely from his brother [[Tvyordiy Znak]]'s solitary northern march along the Spine of the World, keeping their sacred trials geographically distinct across the continent.
+
+1. **The Pastoral South:** Myagkiy marched south down the agrarian tracks of the Dessarin Valley, crossing the wide, tranquil waters of the **Dessarin River** near Womford. Walking through these familiar riverlands brought a profound sense of spiritual grounding, echoing his three hermit years in the hollow willow tree before his destiny called him to Waterdeep.
+2. **The River Shining:** Entering the broad, fertile valley nestled between the ancient, looming canopy of the **High Forest** to the north and the mist-wrapped plateau of the **High Moor** to the south, Myagkiy picked up the banks of the **Delimbiyr River (The River Shining)**.
+3. **The River Settlements:** Following the sparkling waters upstream, Myagkiy passed through the frontier trading hubs of **Secomber**, **Zelbross**, and **Loudwater**, where the river cut through limestone cliffs before ascending toward the Greypeak foothills.
+
+#### 🛡️ The Daily Travel & Masonry Loadout
+Throughout the 750-mile journey, Myagkiy attuned his spellcraft to travel, sustenance, environmental mastery, and pastoral construction:
+* **Subsistence & Health:** ***Create or Destroy Water***, ***Purify Food and Drink***, and ***Create Food and Water*** ensured he never competed with local wildlife or drained frontier larders. ***Aid*** and ***Lesser Restoration*** were cast daily upon sick herders and fevered children.
+* **Pastoral Masonry (*Stone Shape*):** Channeling the sacred craft of Gond and the architectural memory of Aufox Manor, Myagkiy used *Stone Shape* to repair cracked stone cottages, carve sturdy stone storm-shelters for sheep herders along the windy riverbanks, and reshape washed-out stone bridge piers for isolated hamlets.
+* **Alpine Repose (*Meld into Stone*):** While traversing predator-haunted river canyons, Myagkiy stepped directly into solid granite bedrock to take short rests and meditate in total, undetectable safety, completely imperceptible to passing brigands or beasts.
+* **Environmental Immunity:** Wielding his attuned ***Ring of Warmth***, Myagkiy was physiologically immune to extreme sub-zero cold. When early blizzards began howling down from the mountains, he cast ***Freedom of Movement***, striding across knee-deep snowdrifts and frozen bogs without suffering the slightest reduction in his steady pastoral pace.
+
+#### 🕊️ The Two-Way *Sending* Network
+Across the vast distances of Faerûn, the lifeline between Myagkiy and his home remained unbreakable:
+* **Myagkiy's Outbound Relay:** Utilizing a 3rd-level slot for ***Sending***, Myagkiy spoke across the planar winds to majordomo [[Leopold]] at Aufox Manor:
+  > *"Ambush at Weeping Stone Crossing broken. Advance cell scattered. Claugiyliamatar's debt settled; she remains wary. I march east along Delimbiyr toward Greypeaks. Guard the hearth."*
+* **Inbound Relays from Leilon:** Senior 5th-level clerics trained at the **Temple of the Twin Signs** and halfling high-priestess [[Merrygold Brightshine]] cast *Sending* in return, relaying council reports from [[Grizzelda Copperwraught]], the good health of young [[Burnice Znak]], [[Smithwell Znak]], and [[Yasmina]], and confirming that Leilon's *Forbiddance* grid and bedrock vault remained undisturbed.
+
+#### 🏛️ The Wintering Miracle: Daily *Temple of the Gods* (Greypeak Passes)
+By the **Feast of the Moon** (late autumn 1500 DR), the towering granite wall of the **Greypeak Mountains** was swallowed by howling alpine blizzards. Mountain passes leading toward the desert of Anauroch were blocked by twenty-foot drifts of ice and avalanches.
+
+In the high mountain foothills near the frontier outpost of **Parnast**, Myagkiy spent the four long months of winter performing a daily miracle of the Life Domain:
+* Each morning at dawn, Myagkiy channeled his single 7th-level spell slot to cast ***Temple of the Gods***.
+* Outside the snowbound timber settlements, an immense, magnificent sanctuary of gleaming white marble and polished cedar materialized from the earth (120 feet on each side).
+* The temple was naturally heated to spring-like warmth, illuminated by radiant solar lanterns, immune to scrying, and shielded by divine wards that blocked fiends and undead from crossing the threshold.
+* Here, Myagkiy harbored stranded trappers, local mountain families, and wood-cutters. He fed the community with *Create Food and Water*, healed frostbite and winter lung-rot, and conducted daily services under the Doctrine of the Twin Signs—teaching that winter is creation's necessary Hard Sign (Ъ), and the coming spring its enduring Soft Sign (Ь).
+
+#### 🪙 The Economy of the Soft Sign
+* **Crafting Holy Symbols:** Using his smithing tools in the warmth of the temple, Myagkiy carved and cast **5 gp holy symbols of the Twin Signs**—silver sunbursts embossed with the Cyrillic Soft Sign (**Ь**)—gifting them to village elders and faithful travelers.
+* **Charity:** Grateful caravan merchants and fur trappers donated coin and provisions for his hospitality. Combining these gifts with the silver coins collected by ***Bonecounter***, Myagkiy maintained a modest, healthy traveling purse, donating every surplus coin to frontier poorboxes before the mountain snows began to melt.
+
+As the vernal equinox of **Spring 1501 DR** arrived, the mountain ice cracked under the warm southern winds. 
+
+The eastern canyon pass unsealed. 
+
+Girding Dayne's +2 plate, checking the bone cylinder at his belt, and grasping *Bonecounter*, Myagkiy stepped out of the melting snows of the Greypeaks and marched toward the blazing, ochre dunes of **Anauroch** to begin **Chapter 2**.
