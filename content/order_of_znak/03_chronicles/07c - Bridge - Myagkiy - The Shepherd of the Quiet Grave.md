@@ -601,11 +601,52 @@ This path diverged completely from his brother [[Tvyordiy Znak]]'s solitary nort
 3. **The River Settlements:** Following the sparkling waters upstream, Myagkiy passed through the frontier trading hubs of **Secomber**, **Zelbross**, and **Loudwater**, where the river cut through limestone cliffs before ascending toward the Greypeak foothills.
 
 #### 🛡️ The Daily Travel & Masonry Loadout
-Throughout the 750-mile journey, Myagkiy attuned his spellcraft to travel, sustenance, environmental mastery, and pastoral construction:
-* **Subsistence, Vigilance & Health:** ***Create or Destroy Water***, ***Purify Food and Drink***, and ***Create Food and Water*** ensured he never competed with local wildlife or drained frontier larders. ***Aid***, ***Lesser Restoration***, and ***Find Traps*** (2nd level) were kept ready to detect hidden ambuscades or trapped ruins. ***Motivational Speech*** (3rd level) was prepared daily to steel the hearts of traveling companions and frontier folk.
-* **Pastoral Masonry (*Stone Shape*):** Channeling the sacred craft of Gond and the architectural memory of Aufox Manor, Myagkiy used *Stone Shape* to repair cracked stone cottages, carve sturdy stone storm-shelters for sheep herders along the windy riverbanks, and reshape washed-out stone bridge piers for isolated hamlets.
-* **Alpine Repose (*Meld into Stone*):** While traversing predator-haunted river canyons, Myagkiy stepped directly into solid granite bedrock to take short rests and meditate in total, undetectable safety, completely imperceptible to passing brigands or beasts.
-* **Environmental Immunity:** Wielding his attuned ***Ring of Warmth***, Myagkiy was physiologically immune to extreme sub-zero cold. When early blizzards began howling down from the mountains, he cast ***Freedom of Movement***, striding across knee-deep snowdrifts and frozen bogs without suffering the slightest reduction in his steady pastoral pace.
+
+Throughout the 750-mile journey from the Delimbiyr Vale through the frozen Greypeaks and toward the threshold of Anauroch, Myagkiy maintained a mathematically disciplined, liturgical daily routine. Operating as a solitary 13th-level battle-priest across unforgiving frontier wilderness, his protocol harmonized long-duration wards, zero-slot trail rituals, deep divine communion, heightened sensory vigilance, and preserved high-circle triage reserves:
+
+* **Navigational Divinations in Mountain Passes:**
+  * ***Find the Path* (6th-Level Spell):** Prepared periodically as the trail ascended into the labyrinthine, snow-choked slot canyons of the Greypeak Mountains where all physical cart roads and game trails vanished under twenty-foot drifts. By focusing upon the ancient Netherese coordinates transcribed upon the vellum scroll within Malakor's lead-lined bone cylinder, Myagkiy keyed the divine divination directly to the sunken basin of Anauria. The spell granted him an instantaneous, infallible mental sense of the shortest, most direct physical route through the sheer granite defiles, warning him instinctively of impassable dead ends, impassable avalanche chutes, and treacherous cornice collapses.
+  * ***Commune* (5th-Level Spell — Ritual):** Cast at night or at dawn within the consecrated sanctuary of the daily *Temple of the Gods*. Kneeling before the altar of the Twin Signs, Myagkiy asked three direct yes-or-no questions of his divine patrons (Gond and Lathander) to pierce through the mountain gloom:
+    1. *"Does the southern canyon pass through the Greypeaks harbor a Myrkulite vanguard or dragon ambush within the next three days' march?"*
+    2. *"Will the eastern glacier descent collapse under heavy armor within forty-eight hours?"*
+    3. *"Is the lead-lined bone cylinder's designated oasis in Anauria poisoned by necrotic blight?"*  
+    Through these ternary answers, he systematically pruned catastrophic alpine hazards, environmental deadfalls, and cult ambuscades before taking a single step onto the ice.
+
+* **Daily Morning Buffs & Trail Rituals (Zero-Slot Economy):**
+  * *Morning Departure Buffs:* Before stepping out of his dawn sanctuary, Myagkiy layered non-concentration, long-duration divine protections:
+    * ***Aid* (HP Boost):** Bestowing a foundational increase to hit point maximum and current hit points to bolster his resilience across freezing marches.
+    * ***Death Ward* (4th-Level Slot — 8 Hours, No Concentration):** Cast immediately before breaking camp each morning. The ward stood as an infallible life-tether, guaranteeing that if reduced to 0 HP by a sudden avalanche, subterranean sinkhole, or lethal ambush, he would drop to **1 HP instead**, allowing *Disciple of Life* and healing magic to immediately pull him back from the brink.
+  * *Trail Rituals (0 Spell Slots Expended):* To conserve his daily spell slots for mortal peril, Myagkiy relied extensively on the 10-minute ritual casting mechanic:
+    * ***Water Walk* (Ritual — 1 Hour):** Cast to stride unimpeded across rushing mountain torrents, icy meltwater bogs, quicksand mud-pools, and slush without sinking or risking hypothermia.
+    * ***Purify Food and Drink* (Ritual):** Cleansing stale snow melt, stagnant puddle water, and wild roots of mountain parasites, alkali minerals, or necrotic taint.
+    * ***Locate Animals or Plants* (Ritual):** Cast to locate edible alpine roots, medicinal winter mosses, or nearby herds of bighorn sheep and mountain goats to verify local ecosystem health.
+    * ***Detect Magic* (Wand & Ritual):** Utilizing the *Wand of Magic Detection* for rapid tactical scans while conserving its charges; whenever time permitted along ancient Netherese ruins, casting *Detect Magic* as a 10-minute ritual to inspect suspicious cairns or glyph-scribed canyon stones without burning wand charges or spell slots.
+    * ***Meld into Stone* (Ritual / 3rd Level):** Whenever blizzards howled or predator packs stalked the river canyons, Myagkiy stepped bodily into solid granite bedrock. Within the stone, he rested, meditated, and took secure short rests in total, undetectable safety, completely imperceptible to passing monstrosities or brigands.
+
+* **Sensory Profile & Flexible *Enhance Ability* Protocol:**
+  * *Observant Feat Passives:* Enhanced by his keen clerical focus and the *Observant* feat, Myagkiy possessed an extraordinary baseline sensory acuity:
+    * **Passive Wisdom (Perception):** **`20`** (`10 + 5 [WIS] + 5 [Observant]`)
+    * **Passive Wisdom (Insight):** **`20`** (`10 + 5 [WIS] + 5 [Observant]`)
+    * **Passive Intelligence (Investigation):** **`14`** (`10 - 1 [INT] + 5 [Observant]`)
+    * He read lips across crowded river taverns in Loudwater and picked out the silent scrape of an assassin's bowstring on a distant canyon ledge long before an arrow could be loosed.
+  * *Flexible Enhance Ability Protocol (2nd-Level Slot — 1 Hour, Concentration):* When entering high-risk environments, Myagkiy adapted his divine aura:
+    * **Mode A (*Owl's Wisdom*):** Channeled when entering dangerous or predator-stalked territory. Granting Advantage on Wisdom checks (Perception, Survival, and Insight), this elevated his already formidable **Passive Perception and Passive Insight to an astonishing `25`** (applying the standard `+5` passive bonus for advantage), rendering ambush, surprise, or hidden camouflaged stalkers virtually impossible.
+    * **Mode B (*Bear's Endurance*):** Channeled when facing grueling physical exertion, altitude sickness, or forced marches through blinding blizzards. Granting Advantage on Constitution checks and **2d6 temporary hit points**, it ensured his physical endurance matched the unyielding stone of the mountains.
+
+* **Emergency Combat & Triage Reserves:**
+  * While spending slots on travel utility when necessary, Myagkiy strictly husbanded a lethal reserve of combat and restorative magic in case of sudden cultist ambush or ancient monstrosity:
+    * *Combat Control:* ***Spiritual Weapon*** (2nd level, bonus action force hammer), ***Spirit Guardians*** (3rd level, radiant shredding aura), and ***Banishment*** (4th level, charisma banishment of planar horrors).
+    * *High-Circle Triage & Restoration:* ***Heal*** (6th-level slot, instantly restoring **78 HP** via 70 flat + *Disciple of Life* `2 + 6`), ***Revivify*** (3rd level, diamond reserves kept ready in his belt pouch), ***Lesser Restoration*** (2nd level), and ***Greater Restoration*** (5th level) to purge exhaustion, petrification, or necrotic curses.
+
+* **Desert Transition & Hydration Mastery:**
+  * As the Greypeak passes wound downward toward the arid eastern rain shadow and the shifting dunes of the Great Sand Sea, Myagkiy adjusted his daily preparations for extreme desert survival:
+    * Preparing ***Create Food and Water*** (3rd-level spell) daily, producing **30 gallons of pure, crystalline water** and nourishing, bland rations sufficient to sustain up to fifteen humanoids or three pack steeds per casting. This absolute hydration mastery guaranteed he could traverse the desiccated wastes of southern Anauroch and probe the sunken basalt ruins of Anauria without ever succumbing to thirst or relying upon contaminated desert oases.
+
+* **Pastoral Masonry (*Stone Shape*):**
+  * Channeling the sacred craft of Gond and the architectural memory of Aufox Manor, Myagkiy used *Stone Shape* (4th level) to repair cracked stone cottages, carve sturdy stone storm-shelters for sheep herders along the windy riverbanks, and reshape washed-out stone bridge piers for isolated hamlets.
+
+* **Environmental Immunity:**
+  * Wielding his attuned ***Ring of Warmth***, Myagkiy was physiologically immune to extreme sub-zero cold and resistant to cold damage. When early blizzards began howling down from the mountains, he cast ***Freedom of Movement*** (4th level, 1 hour, no concentration), striding across knee-deep snowdrifts, icy crevasses, and frozen bogs without suffering the slightest reduction in his steady pastoral pace.
 
 #### 🕊️ The Two-Way *Sending* Network
 Across the vast distances of Faerûn, the lifeline between Myagkiy and his home remained unbreakable:
