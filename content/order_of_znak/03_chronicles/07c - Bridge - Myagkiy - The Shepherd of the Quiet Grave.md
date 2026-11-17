@@ -329,3 +329,89 @@ Forewarned by Claugiyliamatar’s scrying, Myagkiy's keen eyes spotted the ambus
 1. **Malakor the Bone-Carver (Cult Leader / War Priest of Myrkul):** Stationed 50 feet away behind the weeping menhir on the eastern bank. He wears dull iron mail and an iron skull mask, clutching a flail of blackened bone and an unholy symbol of Myrkul.
 2. **2x Myrkulite Death-Snipers (Cult Wight Marksmen):** Perched 10 feet up in the pine boughs flanking the eastern bank (55 feet away, half cover `+2 AC`). Their longbows are nocked with arrows dripping black grave-poison.
 3. **4x Crypt Ghouls:** Submerged beneath the black, rushing water of the stream bed directly at the cobblestone ford (35 feet away), waiting to erupt and drag crossing travelers down into the muck.
+
+
+#### 🛡️ Tactical Preparation & Pre-Cast Battery
+Knowing an ambush waited ahead, Myagkiy took a quiet hour of resting prayer in a sheltered pine hollow half a mile west of the river. Unfurling his prayer beads, he communed with the divine presence of the Soft Sign, tailoring his spell preparations specifically for undead annihilation, severe injury, and aquatic battlefield control:
+
+* **Life Domain Spells (Always Prepared):** *Bless*, *Cure Wounds*, *Lesser Restoration*, *Spiritual Weapon*, *Beacon of Hope*, *Revivify*, *Death Ward*, *Guardian of Faith*, *Mass Cure Wounds*, *Raise Dead*.
+* **Prepared Spells (18 Spells total, WIS 20 (+5) + Lvl 13):**
+  * 1st Level: *Healing Word*, *Guiding Bolt*, *Sanctuary*
+  * 2nd Level: *Aid*, *Blindness/Deafness*, *Calm Emotions*
+  * 3rd Level: *Spirit Guardians*, *Dispel Magic*, *Water Walk*
+  * 4th Level: *Control Water*, *Banishment*
+  * 5th Level: *Summon Celestial*, *Holy Weapon*, *Flame Strike*
+  * 6th Level: *Heal*, *Heroes' Feast*, *Word of Recall*
+  * 7th Level: *Regenerate*, *Divine Word*
+
+Before stepping into the open cart lane within sight of the weeping menhir, Myagkiy deployed a layered divine fortress of pre-cast magic:
+
+1. ***Regenerate*** *(7th-Level Slot — 1 Hour, No Concentration):* Touching his own chest, Myagkiy stimulated his life-essence to supreme vitality. For the next hour, he regains 1 HP at the start of every turn, granting continuous automatic resuscitation if ever knocked unconscious.
+2. ***Death Ward*** *(4th-Level Slot — 8 Hours, No Concentration):* Warded his life force against instant death or dropping to 0 HP (drops to 1 HP instead).
+3. ***Guardian of Faith*** *(4th-Level Slot — 8 Hours, No Concentration):* Channeled thirty feet down the road, manifesting a Large, spectral warrior clad in glowing golden plate hovering directly above the cobblestone ford, commanding the water where the ghouls were submerged (10-ft aura: DC 18 DEX save, 20 radiant damage).
+4. ***Summon Celestial*** *(5th-Level Slot — 1 Hour, Concentration):* Invoked a 5th-level golden-winged **Celestial Avenger** (AC 16, 50 HP, 40 ft fly speed, wielding a radiant golden longbow).
+5. ***Spiritual Weapon*** *(2nd-Level Slot — 1 Minute, No Concentration):* Called forth a floating warhammer of luminous holy force hovering at his shoulder, ready to deploy.
+
+*Spell Slots Expended:* 2nd: `1/3`, 4th: `2/3`, 5th: `1/2`, 7th: `1/1`.
+
+---
+
+#### ⚔️ Round 1: The Ambush Reversed (Surprise Round)
+
+* **Initiative:**
+  * Death-Snipers (Wights 1 & 2): `16` *(Surprised)*
+  * Crypt Ghouls (1–4): `13` *(Surprised)*
+  * **Myagkiy Znak & Celestial Avenger:** **`9`**
+  * Malakor the Bone-Carver: `2` *(Surprised)*
+
+Because Myagkiy possessed precise coordinates from Claugiyliamatar and approached with a radiant angelic host, the Myrkulite ambushers were caught entirely unprepared. All enemies suffered the **Surprised** condition during Round 1.
+
+* **Wights (Init 16):** Surprised. Froze in the pine branches as the golden angel took flight.
+* **Ghouls (Init 13):** Surprised. Remained submerged in the cold muck beneath the ford.
+
+* **Myagkiy Znak (Init 9):**
+  * *Regenerate:* 1 HP healed (at full 115/115 HP).
+  * *Movement:* Advances 15 feet down the cart track. Clad in Dayne's +2 Plate and +2 Shield (**24 AC**), he halts 20 feet from the stream ford.
+  * *Bonus Action:* Directs his ***Spiritual Weapon*** to advance ahead of him, stationing the glowing warhammer **5 feet directly in front of him** (15 feet from the water ford) as a forward intercepting screen.
+  * *Action:* Extends his gauntlet toward Malakor behind the weeping menhir and casts ***Sacred Flame***. Seared columns of holy fire descend from the overcast sky, bypassing the menhir's cover:
+    * *Malakor DEX Save (DC 18):* Rolled `4 + 0 = 4` (Failure!).
+    * *Damage:* **14 radiant damage** (`3d8` radiant), scorching his iron skull mask and setting his robes ablaze!
+
+* **Celestial Avenger (Init 9, immediately after Myagkiy):**
+  * The Large winged angel beats its golden wings, ascending 40 feet into the mist above the stream, drawing its *Radiant Bow*:
+  * *Attack 1 (Wight 1 in pine boughs, AC 16 with half-cover):* Rolled `18 + 10 = 28` (Hit!).
+    * *Damage:* **20 radiant damage**! A shaft of blinding starlight pierces the wight's chest, pinning it to the pine trunk and burning away half its withered ribcage (Wight 1 reduced to 25/45 HP)!
+  * *Attack 2 (Wight 1):* Rolled `2 + 10 = 12` (Miss, shattering a pine limb).
+
+* **Malakor (Init 2):** Surprised. Coughs ash through his smoking iron mask, clutching his bone flail in horror.
+
+---
+
+#### ⚔️ Round 2: The Eruption & The Radiant Barrier
+
+* **Death-Snipers (Init 16):**
+  * *Wight 1 (Pine Bough Left, 25 HP):* Shakes off the radiant burn and looses two black-fletched poison arrows at the hovering Celestial Avenger (AC 16):
+    * *Arrow 1:* Rolled `8 + 4 = 12` (Miss!).
+    * *Arrow 2:* Rolled `6 + 4 = 10` (Miss!). Both arrows shatter uselessly against the angel's golden wing feathers.
+  * *Wight 2 (Pine Bough Right, 45 HP):* Takes aim at Myagkiy advancing down the road (AC 24):
+    * *Arrow 1:* Rolled **Natural 20** (`20 + 4 = 24`) — Critical Hit! The poisoned shaft finds a narrow chink in Dayne's gorget:
+      * *Critical Damage:* **13 piercing damage** (Myagkiy reduced to 102/115 HP).
+    * *Arrow 2:* Rolled `10 + 4 = 14` (Miss, ricocheting loudly off his +2 Shield).
+
+* **Crypt Ghouls (Init 13):**
+  * Spurred by Malakor's hissed commands, all four ghouls erupt violently from the black water of the stream bed, lunging toward the western bank to swarm the cleric!
+  * As they surge through the water, they move directly into the 10-foot radius of the ***Guardian of Faith*** hovering above the ford! The spectral warrior slashes with its blinding greatsword of light:
+    * *Ghoul 1 DEX Save (DC 18):* Rolled `11 + 2 = 13` (Fail!). Takes **20 radiant damage** (reduced to 2/22 HP). *Guardian Pool: 20/60*.
+    * *Ghoul 2 DEX Save (DC 18):* Rolled `9 + 2 = 11` (Fail!). Takes **20 radiant damage** (reduced to 2/22 HP). *Guardian Pool: 40/60*.
+    * *Ghoul 3 DEX Save (DC 18):* Rolled `1 + 2 = 3` (Fail!). Takes **20 radiant damage** (reduced to 2/22 HP). *Guardian Pool: 60/60*. The Guardian of Faith dissipates in a blinding flare of solar light, having exhausted its full damage pool!
+    * *Ghoul 4 DEX Save (DC 18):* Rolled `8 + 2 = 10` (Unharmed, moving through the dissipating wake).
+  * Staggering through the difficult terrain of the rocky stream bed, the four waterlogged undead scramble onto the western bank, hissing and clawing the mud **15 feet away from Myagkiy**—halted directly before the glowing, hovering ***Spiritual Weapon***!
+
+* **Myagkiy Znak & Celestial Avenger (Init 9):**
+  * *Regenerate:* At the start of Myagkiy's turn, the 7th-level healing surges through his veins, closing the arrow wound for **+1 HP** (Myagkiy rises to **103/115 HP**).
+  * **Current Tactical State:**
+    * Three charred Crypt Ghouls cling to 2 HP each just 15 feet away (10 feet from the Spiritual Weapon).
+    * One fresh Ghoul stands beside them at 22 HP.
+    * Wight 1 is pinned in the pine tree across the stream at 25 HP.
+    * Wight 2 is in the eastern boughs at 45 HP.
+    * Malakor the Bone-Carver is 35 feet away behind the menhir at 70 HP.
