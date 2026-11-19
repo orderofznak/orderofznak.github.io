@@ -673,3 +673,293 @@ As the vernal equinox of **Spring 1501 DR** arrived, the mountain ice cracked un
 The eastern canyon pass unsealed. 
 
 Girding Dayne's +2 plate, checking the bone cylinder at his belt, and grasping *Bonecounter*, Myagkiy stepped out of the melting snows of the Greypeaks and marched toward the blazing, ochre dunes of **Anauroch** to begin **Chapter 2**.
+
+
+---
+
+## ☀️ CHAPTER 2: The Sunken Pyramids of Anauria
+
+*Table Session: November 19, 2026*  
+*In-Game Setting: Spring, 1501 DR (The Year of the Dawndance)*  
+*Location: Southern Anauroch (The Great Sand Sea) ➔ The Pillar of Kozah (Camp of Clan Bait Mahra) ➔ The Silt-Wastes of Anauria*
+
+---
+
+### 🏜️ Scene 1: The Threshold of the Great Sand Sea & The Outriders
+
+![[myagkiy_bridge_ch02_threshold_anauroch.jpg]]
+
+The transition from the melting granite defiles of the Greypeak Mountains to the eastern rain shadow was not gradual; it was a sudden, violent assault of dust, light, and silence.
+
+Before [[Myagkiy Znak]] stretched the boundless, wind-carved expanse of **Anauroch**—the Great Sand Sea. An ocean of blazing ochre, bleached yellow, and bone-white dunes rolled toward the horizon beneath the tyrannical eye of At'ar the Merciless, the yellow-eyed sun goddess of the desert nomadic tribes. 
+
+Yet the road to this threshold had begun three leagues back in the frontier settlement of **Parnast**, where the holy battle-priest of the Soft Sign had paused to adjust his pastoral provisions for the arid wastes.
+
+> **Retrospective Frontier Market Adjudication (Parnast Outpost)**
+> * **Beast of Burden (-50 gp):** A scruffy, bad-tempered, one-humped pack dromedary with a notched left ear, purchased from an unwashed desert drover. The beast possessed a sour temperament, a penchant for spitting foul green cud whenever loaded, and a stubborn refusal to move faster than an unhurried trudge.
+> * **Hydration & Desert Linens (-5 gp):** Six heavy, oil-sealed leather waterskins (five gallons each) and several bolts of bleached desert linen, woven to serve as loose-fitting robes and head wraps (*tagelmusts*) against sand-scour.
+> * **Sage Advice Check (Anauroch Survival):** `d100` roll = **94** (*Catastrophic Failure*). Relying on the vague, outdated accounts of a half-drunk frontier cartographer who insisted that *"a true warrior of the gods keeps his steel locked tight against the desert djinn,"* Myagkiy had initially marched out of Parnast fully encased in fallen hero [[Dayne Preadhun]]'s consecrated **+2 plate armor**.
+
+Within two hours of entering the desert flats, the folly of the sage's counsel became painfully apparent. 
+
+At'ar's midday heat beat down upon the polished steel like a blacksmith's hammer. The radiant heat radiated through the cuirass, turning the masterwork plate into a suffocating iron kiln. The sweat poured down Myagkiy's neck in blinding sheets, soaking his arming doublet, while the air in his throat burned like furnace draughts. 
+
+It was in that blistering trial that Myagkiy confronted a humbling theological and magical realization: his attuned ***Ring of Warmth***—which had shielded him with effortless grace against the howling -30° sub-zero blizzards of the Greypeak passes—was enchanted solely against extreme cold and frost damage. Against the suffocating 110-degree heat of the Great Sand Sea, the ring offered no physiological reprieve whatsoever. 
+
+Facing immediate Constitution saving throws against heat exhaustion, the battle-priest retreated beneath the meager, jagged shadow of a sixty-foot sandstone outcrop. 
+
+Unbuckling the heavy leather straps with trembling, heat-swollen fingers, Myagkiy stripped off Dayne's +2 plate armor. He carefully wrapped the greaves, pauldrons, cuirass, and visor in heavy canvas tarps, securing the 65-pound bundle onto the wooden pack frame of his grunting, notched-eared dromedary. Clad now only in loose, breathable bleached desert linens, his dark hair bound beneath a linen hood, and carrying his silver medallion of the Soft Sign resting against his chest, he channeled his divine favor to fortify his flesh against the oppressive atmosphere:
+* ***Enhance Ability (Bear's Endurance)* (2nd-Level Spell Slot — 1 Hour Concentration):** The soothing, verdant warmth of Gond and Lathander washed over his tired muscles, granting him **Advantage on Constitution saving throws** and **2d6 temporary hit points**, steadying his heart rate and banishing the threat of sun-stroke.
+
+Leading the recalcitrant camel by its frayed hemp halter, Myagkiy began the grueling ascent of a sixty-foot razor-backed sand dune. The fine, powdery sand gave way beneath his boots, sliding backward with every two paces forward.
+
+As his head cleared the crest of the dune, his keen senses—honed by a lifetime of vigilance and the *Observant* feat (**Passive Perception: 20**)—instantly caught the subtle shift in the desert glare.
+
+Sixty paces away, silhouetted against the blinding solar halo atop the opposite dune ridge, sat **five mounted outriders**.
+
+They were **Bedine**—the fierce, proud human nomads of Clan Bait Mahra who had roamed the wastes of Anauria since the fall of Netheril. Mounted upon lean, swift desert dromedaries whose harnesses were decorated with blue glass beads and hammered brass crescents, the riders were draped in flowing indigo and charcoal robes. Their faces were completely concealed behind dark tagelmusts, leaving only cold, unblinking dark eyes exposed beneath the sun.
+
+In unison, with terrifying, fluid speed born of endless desert warfare, five horn-and-sinew shortbows were raised. Five broadhead arrows, fledged with black vulture feathers, were drawn to full draw, aimed straight at the lone outlander's chest.
+
+At the center of the formation, mounted on a magnificent dapple-grey camel, was **Sheikh Tariq ibn-Rashid**, war-leader of Clan Bait Mahra. His hand rested on the curved hilt of a silver-chased scimitar.
+
+Through the fabric of his veil, Tariq's voice rang out across the sand ridge like cracked flint, speaking in sharp, resonant Midani:
+
+> *"Halt where you stand, stranger! No man walks At'ar's sands stripped of steel yet leading a pack into the deep wastes unless he carries the black sorcery of the sunken cities in his heart! Are you a witch of the sands, or a scavenger sent by the bone-masters to despoil the graves of our fathers? Speak your truth before our arrows drink your marrow!"*
+
+Myagkiy did not reach for the flanged head of *Bonecounter* stowed behind his pack. He did not raise his +2 shield. He stood calm and upright on the shifting sand, his sun-browned hands opened wide and empty in the universal gesture of peace.
+
+Looking straight into the veiled eyes of the sheikh, Myagkiy spoke, his clear, resonant voice carrying effortlessly across the dunes:
+
+> *"Peace friend, I am a priest of life trying to lead this stubborn beast. I am no witch, nor do I serve the masters of the sunken sand. Just the last season I vanquished one of their servants to the west where I hail from and sent him to warn whom he serves that I come to cleanse the scourge and blight upon the land. I do not thread the weaves of Mystra, but pray to my god for guidance and power to aid me in my trek."*
+
+> **Mechanical Resolution: Charisma (Persuasion) Check**
+> * **Check:** Charisma (Persuasion) (`+1` CHA modifier, Untrained)
+> * **Situational Advantage (2d20):** Granted due to Myagkiy's open, unarmed posture, his genuine humility, his total lack of arcane posture, and the undeniable aura of serene, holy truth emanating from his presence.
+>   * *Die 1:* `11`
+>   * *Die 2:* **`17`**
+>   * *Selected Die:* **17** (`17 + 1 = 18`)
+> * **Total Check Result:** **`18`** vs. **DC 12** — **RESOUNDING SUCCESS!**
+
+The silence hung heavy over the dune, broken only by the dry hiss of windblown sand.
+
+Sheikh Tariq studied the lone traveler. He saw no glowing runes of the Netherese archmages, no arcane scrolls of the hated Phaerimm witches, and no stench of the tomb-crawlers who traded in stolen flesh. Instead, his keen desert eyes caught the silver medallion resting on the stranger's chest—an unadorned, beautifully wrought sunburst bearing the curved, tranquil symbol of the Soft Sign ($\mathbf{Ь}$).
+
+The sheikh raised a gloved hand and barked a single, sharp command in Midani:
+
+> *"Ikhfiduu al-qisiy!"* *(Lower your bows!)*
+
+The five outriders eased their bowstrings, returning their arrows to their quivers in silent synchronization. Tariq nudged his grey mount forward, descending several paces down the dune slope. His eyes softened with profound, superstitious reverence:
+
+> *"You speak without the poison of the wizards, traveler. A holy wanderer... a marabout of the light who walks without fear before At'ar. The desert does not give life easily, but to strike down a priest of the living dawn is to invite Kozah's wrath upon our herds. Under the laws of our fathers, I offer you at-tlar—the sacred guest-right of Clan Bait Mahra. While you walk in our shadow, our blades are your shield."*
+
+---
+
+### 🐫 Scene 2: The Shepherd's Touch & The Pastoral Ministry at the Pillar of Kozah
+
+Even as the covenant of peace was spoken, the tense stillness on the crest was shattered by an undignified, guttural roar.
+
+Myagkiy's scruffy pack dromedary chose that exact second to rebel. Agitated by the scent of the strange mounts, the notched-eared beast balked, violently baring yellowed teeth and spraying a thick glob of greenish, foul-smelling cud into the sand. It reared back against its frayed halter, threatening to pitch Dayne's stowed plate armor and the water supplies down the sheer sixty-foot drop of the dune. The sudden commotion sent the outriders' high-strung desert camels stamping and snorting in alarm, threatening to unravel the fragile truce.
+
+Myagkiy did not curse or jerk the lead rope. 
+
+Stepping forward into the flurry of hooves and sand, the former shepherd of the Dessarin Valley reached out with a calm, sure hand. He gently caught the beast's notched left ear between his thumb and forefinger, scratching the coarse, sun-baked fur behind the base of the skull with rhythmic, practiced tenderness. 
+
+Low in his throat, he began to hum—a deep, harmonic pastoral cadence he had sung to frightened ewes during mountain flash floods along the banks of the River Shining.
+
+> **Mechanical Resolution: Wisdom (Animal Handling) Check**
+> * **Check:** Wisdom (Animal Handling) (`+5` WIS modifier, `+5` Clerical Pastoral Affinity = `+10` total bonus)
+> * **D20 Roll:** `10`
+> * **Total Check Result:** **`20`** vs. **DC 12** — **CRITICAL EMPATHY!**
+
+The transformation was instantaneous. 
+
+The grumpy pack camel's braying choked off into a soft, contented whimper. Its shivering flanks relaxed; its long, knobby neck lowered until its muzzle rested gently against Myagkiy's linen sleeve, nuzzling the battle-priest's shoulder with docile devotion. 
+
+More astonishingly, the soothing frequency of Myagkiy's pastoral humming drifted across the ridge. The five skittish war-camels of the Bedine outriders ceased their nervous prancing, their ears perking forward, their dark eyes turning toward the foreign priest as their breathing slowed to a peaceful unison.
+
+The outriders exchanged stunned glances through their veils. A man who could tame an enraged desert camel with a soft murmur was no mere merchant; he was a master of beasts blessed by the unseen spirits of the earth.
+
+With the stubborn dromedary now following like a trained hunting hound, Myagkiy marched alongside Sheikh Tariq's outriders. They traveled one league south across hard-baked clay flats and rippling dunes until a colossal landmark pierced the sky: the **Pillar of Kozah**.
+
+Rising two hundred feet into the air, the Pillar was a solitary monolith of wind-sculpted red granite. Its sheer cliffs glowed like smoldering embers in the desert light, bearing ancient, weather-worn petroglyphs carved by forgotten nomads. 
+
+Clustered around the base of the great stone pillar lay the *dawar* (encampment) of Clan Bait Mahra: twenty low, broad tents (*khayma*) woven from coarse black and brown goat hair, pitched in a defensive circle around a dry, circular stone wellhead.
+
+As the outriders escorted the foreign priest into the clearing, the mood within the camp was palpable with quiet grief and desperation. The seasonal subterranean cistern beneath the well had run dry three weeks prior. The clan was rationing their last sour goatskins of brackish water; the children were lethargic, the elderly were wasting away in the stifling heat, and the livestock were dying on their feet.
+
+Myagkiy took in the suffering with a heavy, compassionate heart. Stepping to the center of the camp, he approached the dry stone wellhead.
+
+He did not bargain. He did not demand tribute. He simply knelt in the dust, resting his palm upon the sun-cracked limestone rim, and closed his eyes in prayer.
+
+#### 🌊 The Miracle of the Waters
+Channelling the boundless vitality of the Life Domain, Myagkiy cast ***Create or Destroy Water*** (1st-level spell slot) followed by ***Create Food and Water*** (3rd-level spell slot).
+
+From the dry, empty dark of the cistern shaft came a sudden, resonant sound—the deep, gurgling roar of subterranean springs breaking through stone! 
+
+Within heartbeats, **over sixty gallons of crystal-clear, ice-cool, pristine mountain water** welled up to the surface, cascading over the limestone rim in sparkling sheets and splashing into the dry dust. Simultaneously, upon clean linen cloths spread across the well's platform, there materialized steaming mounds of fresh, nourishing bread and sweet traveling fare sufficient to feed the entire encampment.
+
+The Bedine gathered around the wellhead in breathless, stunned silence. 
+
+In Bedine culture, the laws of the desert dictate an absolute sacred taboo: **no man speaks words of gratitude ("thank you") for water or bread**. In the sands of Anauroch, water is the sacred right of all living souls; to say "thank you" to a host or savior is a grave insult, implying that the giver acted out of patronizing charity rather than sacred duty. 
+
+Yet their reverence broke forth in gestures that spoke louder than any words. 
+
+Old men wept openly into their beards. Veiled mothers stepped forward, falling to their knees in the wet sand to press their foreheads to the hem of Myagkiy's traveling robe. They chanted ancient Bedine litanies of blessing, praising the *marabout* who had broken the curse of the sky with living water, before rushing forward with brass basins, earthenware jars, and empty waterskins to fill their vessels with the sweet, ice-cold miracle.
+
+#### 🌿 The Healing of the Dawar
+Myagkiy did not stop at the wellhead. For the next three hours, the Shepherd of the Quiet Grave walked through the goat-hair tents, ministering to the sick and broken:
+
+* **The Matriarch's Sight (*Lesser Restoration* — 2nd-Level Slot):** In the darkest corner of the elders' tent lay Fatima, the eighty-year-old grandmother of the clan, whose eyes had been sealed shut for two moons by the agonizing, weeping crust of sand-trachoma blindness. Kneeling at her cot, Myagkiy dipped his thumbs into the cool consecrated water, invoking the Soft Sign as he traced the outline of her eye sockets. At the touch of his thumbs, the white milky cataracts and infected crust dissolved into pure tears. The old woman gasped, her dark eyes blinking open to behold the sunlight and the faces of her great-grandchildren for the first time in months.
+* **The Laying on of Hands (Life Domain Reserve):** Reaching into his divine pool of healing vitality, Myagkiy expended **25 points of healing**:
+  * Touching the swollen, blackened foot of a seven-year-old boy who had been stung by a deadly desert cinder-scorpion, Myagkiy drew the venom into his own silver holy symbol where it neutralized into harmless vapor, restoring the child's pulse to steady vigor.
+  * Laying his hands upon the fever-wracked chest of a young hunter dying of necrotic lung-rot caused by inhaling ancient tomb-dust, Myagkiy purged the infection, soothing the inflamed tissues until the hunter drew a deep, unobstructed breath of cool air.
+* **The Blessing of the Soft Sign:** Moving among the nursing mothers and pregnant women, Myagkiy anointed their foreheads with sweet oil and water, tracing the gentle, curved glyph of the Soft Sign ($\mathbf{Ь}$). He whispered blessings of endurance, ensuring that the unborn children would survive the harsh trials of the sands with whole bones and resilient spirits.
+
+By late afternoon, the weeping in the camp had ceased entirely. The *dawar* of Clan Bait Mahra had been transformed from a place of parched despair into a sanctuary of life.
+
+---
+
+### ⛺ Scene 3: The Council of the Black Pavilion & The Proverb of the Bridge
+
+As At'ar's scorching golden disc sank below the western dunes, the Great Sand Sea underwent its brutal nocturnal metamorphosis. 
+
+The heat vanished with terrifying rapidity. Within an hour, the temperature plunged forty degrees, plummeting toward the freezing point as a bitter, ice-rimed wind swept across the granite flats. 
+
+Yet within the grand black goat-hair pavilion (*khayma*) of Sheikh Tariq ibn-Rashid, the cold could not penetrate. Clad in his simple linen tunic, Myagkiy sat comfortably near the central hearth. His attuned ***Ring of Warmth*** hummed with subtle magic, maintaining his body at a steady, comfortable spring warmth and rendering him completely immune to the biting desert chill.
+
+In the center of the pavilion, a polished brass brazier glowed with burning embers of fragrant cedar and dry desert scrub. The air was rich with the sweet aroma of mint tea steeped with wild sage and dried dates served on silver platters alongside flatbread baked from the morning's miraculous harvest.
+
+Beside the brazier, Sheikh Tariq knelt upon a thick wool kilim. With solemn ceremony, the chieftain unrolled an ancient, yellowed **gazelle-hide map** of the southern wastes, weighting its corners with polished river agates. 
+
+Myagkiy leaned forward, unhitched the lead-lined bone cylinder from his belt, and carefully extracted the ancient Netherese vellum scroll he had seized from the Myrkulite war-priest Malakor at the Weeping Stone Crossing.
+
+Under the warm lantern light, the two cartographies were laid side by side.
+
+The match was chillingly precise. 
+
+Malakor's "Skull Route" delineated a hidden necrotic ley-line running straight through the heart of the ancient, sunken kingdom of **Anauria**. Following the coordinates past the jagged limestone escarpments known as the *Djinn's Teeth*, both maps converged upon a deep, desolate basin four days' march to the south-southeast—a forsaken expanse known to the Bedine as the **Silt-Wastes**.
+
+There, buried beneath centuries of suffocating sand, lay the forgotten necropolis-vault of **Aul-Khem**.
+
+Sheikh Tariq traced the faded ink of Aul-Khem with a scarred finger. His face grew grim beneath the lamplight:
+
+> *"The road you seek leads straight into the throat of the grave, marabout,"* Tariq said, his voice dropping to a low, warning rasp. *"The Silt-Wastes are cursed ground. No shepherd drives his flock there; no hunter pursues gazelle across its sands.
+> 
+> *First are the **Grave-Sentinels**. By day, the tombs sleep, but when the stars rise, the dead walk. Wight-knights clad in rusted Netherese bronze ride upon the bare bones of skeletal camels. Their arrows are tipped with corpse-bile, and they slaughter any living thing that treads within five leagues of Aul-Khem.
+> 
+> *Second are the **Phaerimm Sinks**. Deep beneath the silt lie the collapsed burrows of the ancient magic-leeches. The sand above them is false—a thin, brittle crust no thicker than an eggshell. A single heavy step, and a man collapses forty feet into churning, bottomless quicksand that swallows armor and steed in seconds.
+> 
+> *And if you survive the wights and skirt the sinks... there is the pyramid itself. Its summit is crowned with a portal of vitrified furnace-glass, locked tight by an ancient Netherese **Blood-Lock**. The legends of our elders say that the glass will only drink living blood. It demands a fatal sacrifice—a slaughtered life poured into the stone gutters—before the seal will part. If a man strikes it with steel or picks, the glass detonates in a storm of razor-shards that flays the flesh to the bone."*
+
+The gathered clan elders around the brazier leaned forward, their dark eyes fixed upon Myagkiy in fearful anticipation. 
+
+Myagkiy took a slow sip of the steaming mint tea, setting the brass cup down on the wool carpet. His dark eyes remained calm, unshaken by the catalog of horrors. 
+
+Looking straight into the eyes of the sheikh, Myagkiy delivered his solemn resolution:
+
+> *"The blood will be my own. I would ask no sacrifice as this quest is mine. I will pray and contemplate for some time here if I can share your water, salt, and shade for some days more. A task of this nature requires preparation for I would not rush in costing you a sister-son. As my brother Tviordiy would say in one of his many wise aphorisms, 'Even if you encounter a stone bridge, tap it first before crossing'."*
+
+The black pavilion fell into dead, utterly bewildered silence.
+
+Sheikh Tariq blinked. The war-captains and the elder matriarchs glanced at one another in profound confusion, their brows furrowing beneath their headwraps. 
+
+A *stone bridge*? 
+
+To the Bedine, whose families had wandered the trackless, waterless dunes for fifty generations without ever seeing an arched bridge, let alone rushing river-water to span, the foreign metaphor was completely incomprehensible. Tapping a stone structure before crossing made as much sense as tapping a cloud.
+
+In the quiet corner of the pavilion, **Elder Jabir**—a wizened, white-bearded sage who had traded salt in the border outposts of the far north in his youth—chuckled softly into his sleeve. 
+
+Raising a gnarled hand, Jabir cleared his throat and addressed the council, translating the northern proverb into the timeless idiom of the desert:
+
+> *"Brothers... what the holy marabout means in the tongue of the sand is: 'At the narrow passage, there is no brother and no friend.' He tells us that when a man walks the razor's edge between life and death, he must test the rock beneath his heel before he commits his weight."*
+
+A ripple of understanding and respectful nods swept through the assembly. Tariq smiled wryly, placing his hand over his heart:
+
+> *"A wise proverb, marabout. Our water, salt, and shade are yours for as long as you require. Prepare your soul."*
+
+#### 🩸 The 7th-Level *Regenerate* Synergy: Bypassing the Blood-Lock
+Later that night, as the camp slept beneath the glittering desert stars, Myagkiy contemplated the riddle of the Blood-Lock. 
+
+The dark magic of Netheril was rooted in cruel exchange: life taken to fuel ancient power. A mortal warrior attempting to unseal the portal would bleed to death as the voracious obsidian runes drained his veins dry.
+
+Yet Myagkiy possessed an answer born of divine grace—a profound mechanical synergy that inverted the death-trap into a vessel of renewal:
+* **The Spell: *Regenerate* (7th-Level Spell Slot — 1 Hour Duration, No Concentration):**
+  * *Base Mechanics:* Upon casting, the spell immediately restores **4d8 + 15 hit points**. Furthermore, for the entire 1-hour duration, the target regains **1 hit point at the start of each of its turns (1 HP every 6 seconds / 10 HP per minute)**, and severed body parts reattach or regrow.
+  * *Life Domain Synergy (*Disciple of Life*):* Whenever Myagkiy casts a healing spell of 1st level or higher, the creature regains additional hit points equal to `2 + the spell's level`. For a 7th-level spell, this adds a flat **+9 hit points** to every healing trigger!
+  * *The Sustained Engine:* Thus, with *Regenerate* and *Disciple of Life* operating in unison, Myagkiy's flesh would regenerate **10 hit points per round** in a continuous, unstoppable fountain of life!
+* **The Tactical Execution:** When arriving at the furnace-glass portal of Aul-Khem, Myagkiy would cast *Regenerate* upon himself prior to approaching the seal. Slicing his own palm across the consecrated runes, he would feed his radiant, life-consecrated blood directly into the thirsty gutters. As the Netherese ward drained his vitality to satisfy its ancient threshold, the divine pulse of *Regenerate* would restore his blood, marrow, and flesh in real time at a rate of 10 HP per round. The portal would drink its required toll, but the shepherd would remain standing—unbroken, fully vital, and unharmed.
+
+---
+
+### ⏳ Three Days of Contemplation at the Pillar of Kozah
+
+For three days, Myagkiy remained among Clan Bait Mahra, fasting, meditating beneath the shadow of the red monolith, and systematically attuning his divine arsenal for the trials ahead.
+
+#### 1. The Holy *Commune* (5th-Level Ritual)
+On the second night, beneath the canopy of stars, Myagkiy burned rare frankincense upon a flat slab of granite, casting ***Commune*** to address his divine patrons—Gond the Wonderbringer and Lathander the Morninglord.
+
+Kneeling before his portable altar of the Twin Signs, he posed three precise questions to pierce the desert veil:
+
+> **Question 1:** *"Does the necromancer Vaelen, servant of Myrkul's remnants, remain entrenched within the lower crypts of the pyramid of Aul-Khem?"*  
+> **Divine Answer:** **YES.**
+
+> **Question 2:** *"Will living blood consecrated under the Soft Sign satisfy and unseal the furnace-glass portal without triggering a catastrophic structural collapse of the upper pyramid?"*  
+> **Divine Answer:** **YES.**
+
+> **Question 3:** *"Do the subterranean Phaerimm Sinks awaken and actively hunger under the blazing light of At'ar?"*  
+> **Divine Answer:** **NO.**  
+> *(The divine communion revealed a vital tactical truth: the ancient necrotic hunger within the sand crust lies dormant and inert during the peak midday sun, and the distinct ash-grey dust rings marking their borders are plainly visible to mortal eyes under full daylight).*
+
+#### 2. Divine Navigation & Prepared Spellcraft
+* ***Find the Path* (6th-Level Spell):** Prepared in his morning prayers, Myagkiy attuned the divination to the sunken coordinates of Aul-Khem. The spell bestowed an infallible, instinctive mental compass in his mind, guiding him along the shortest, safest physical trajectory through the shifting dunes while automatically warning him of dead ends and impassable silt traps.
+* ***Continual Flame* (2nd-Level Spell — Material Cost: 50 gp Ruby Dust):** To banish the supernatural darkness of Netheril's crypts without expending ongoing spell slots, Myagkiy cast *Continual Flame* upon three objects:
+  1. A smooth, rounded river stone carried from the banks of the Delimbiyr.
+  2. A second river stone from the banks of the Dessarin.
+  3. The heavy steel pommel-cap of his flanged mace, ***Bonecounter***.  
+  The three items now burned with eternal, heatless, radiant white solar light, ready to illuminate the deepest stygian gloom.
+* ***Find Traps* (2nd-Level Spell):** Memorized in his daily clerical roster to detect magical runes, pressure plates, and poison darts embedded within the ancient masonry of Aul-Khem.
+
+#### 3. The Tactical Inversion: The Daylight March
+Bedine tradition and survival doctrine dictate that travel across the Silt-Wastes must take place exclusively at night to avoid the scorching wrath of At'ar. 
+
+Yet analyzing the intelligence granted by *Commune*, Myagkiy executed a brilliant **tactical inversion**:
+* At night, the ash-grey powder of the collapsing Phaerimm Sinks was invisible against the dark sand, creating an unavoidable hazard. Furthermore, the nocturnal **Grave-Sentinel wights** possessed superior darkvision and roamed freely under the stars, ambushing travelers in the dark.
+* By contrast, during peak daylight, the Phaerimm Sinks were inert and easily spotted by their distinct grey discoloration. Most critically, the Grave-Sentinels and their skeletal mounts suffered devastating tactical disadvantages under the blinding desert sun, forcing the undead horrors to shelter deep within shadowed crevices or remain buried beneath the sand.
+
+Myagkiy therefore declared that the expedition would march **by day**. Sustained by his daily casting of ***Create Food and Water*** to provide sixty gallons of ice-cold hydration, and protected from heat stroke by ***Enhance Ability (Bear's Endurance)***, they would turn At'ar's killing light into their greatest shield.
+
+---
+
+### 🏜️ The March Across the Silt-Wastes & The Threshold of Aul-Khem
+
+On the dawn of the fourth day, Sheikh Tariq provided Myagkiy with two of the clan's swiftest and bravest young scouts: **Kahlil** and **Zayd**, sons of the elder matriarch Fatima whose sight Myagkiy had restored. Mounted upon light, fleet dromedaries and armed with long lances and composite bows, the two brothers pledged their lives to guide the holy marabout across the treacherous flats.
+
+Alongside them strode Myagkiy, leading his loyal, notched-eared pack dromedary, who now marched with steady, docile endurance.
+
+For four grueling days, the party traversed the dreaded **Silt-Wastes**. 
+
+The landscape transformed into an eerie, alien wasteland of bleached white chalk flats, petrified dunes, and dead silence. Guided by Myagkiy's infallible ***Find the Path*** and his astonishing sensory vigilance (**Passive Perception: 20**), the travelers navigated the treacherous terrain with flawless precision:
+* On the second afternoon, Myagkiy raised his hand, halting the column fifty paces before a subtle, saucer-shaped depression in the sand. Under the harsh noon sun, the faint ash-grey dust of a **collapsed Phaerimm Sink** was clearly visible. Probing the ground with an iron-shod staff, Kahlil watched in terror as the sand gave way into a forty-foot deep, churning vortex of bottomless silt. Thanks to the daylight march, they skirted the deadfall safely.
+* Over the four days, they identified and bypassed **three massive Phaerimm Sinks**, leaving the lethal subterranean traps far behind them.
+* On the third evening, as the sun dipped toward the horizon, Zayd pointed with a trembling lance toward a jagged sandstone ridge three miles to the east. Silhouetted against the bloody sunset stood **six Grave-Sentinel wights**—their rusted Netherese bronze breastplates gleaming in the twilight, mounted atop skeletal, rib-exposed camels with pale blue witchfire burning in their eye sockets. The undead sentinels watched the party with predatory malice; yet held at bay by the lingering solar heat and Myagkiy's radiant aura, they did not dare cross the sun-baked salt flat to give battle.
+
+At the end of the fourth day, as the twilight purples of Anauria gathered across the wastes, the party ascended a high limestone ridge overlooking a vast, sunken volcanic caldera.
+
+Kahlil and Zayd drew rein, their breaths catching in their throats.
+
+Below them, rising from the choking silt like the obsidian tooth of a buried titan, stood the forgotten necropolis of **Aul-Khem**.
+
+![[myagkiy_bridge_ch02_aul_khem_pyramid.jpg]]
+
+The monument was breathtaking in its ancient, terrifying majesty. Built during the height of the Netherese empire millennia ago, the colossal step-pyramid was carved from seamless, polished blocks of black basalt and vitrified dark green furnace-glass. 
+
+Centuries of howling desert winds had buried the lower terraces in hundred-foot drifts of silt, leaving only the upper three tiers and the soaring, angled summit exposed to the desert sky. 
+
+High atop the pyramid's truncated apex, bathed in the dying crimson light of the setting sun, stood the massive, smooth slab of the **vitrified furnace-glass portal**—inscribed with ancient, thirsty Netherese runes that awaited the toll of living blood.
+
+Standing upon the ridge, the cool evening wind whipping his travel linens, Myagkiy unslung his heavy shield, reached behind his pack to rest his hand upon the flanged head of ***Bonecounter***, and whispered a quiet prayer of thanksgiving to the Soft Sign.
+
+The crucible of Anauria was at an end. 
+
+The threshold of the sunken grave had arrived.
