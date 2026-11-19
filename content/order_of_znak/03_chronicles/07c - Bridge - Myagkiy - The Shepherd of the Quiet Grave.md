@@ -963,3 +963,297 @@ Standing upon the ridge, the cool evening wind whipping his travel linens, Myagk
 The crucible of Anauria was at an end. 
 
 The threshold of the sunken grave had arrived.
+
+
+---
+
+### ⚔️ Scene 4: The Crucible of the Blood-Portal & The Sand Golems of Anauria
+
+High upon the wind-scoured rim of the sunken caldera, the setting sun cast long, bleeding shadows across the silt. The air grew rapidly frigid as the desert night advanced, the temperature plunging toward freezing.
+
+Standing beside the grumpy, notched-eared camel, Myagkiy unslung Dayne's consecrated +2 plate armor from the beast's pack. In the lee of a red sandstone outcropping, he stripped off his dust-stained traveling linens. Layer by layer, he donned the polished, silvered steel harness—buckling the greaves, strapping the heavy cuirass over his gambeson, and fastening the vambraces. Across his left arm he locked Dayne's massive +2 heater shield, bearing the sunburst medallion of Gond and the Soft Sign (**Ь**), boosting his defense to an impregnable **24 AC**. At his hip hung the heavy flanged head of ***Bonecounter***, and across his chest rested his holy symbol.
+
+Before setting foot upon the basalt pyramid, Myagkiy knelt upon the cold limestone and invoked the threefold wards of life:
+1. ***Regenerate* (7th-Level Slot):** Laying his gauntlets upon his own breast, Myagkiy whispered the ancient liturgies of renewal. Divine vigor surged through his circulatory system like liquid silver, establishing a continuous cellular fountain that would knit his flesh, restore severed tissues, and heal **10 hit points every six seconds** for the next hour.
+2. ***Death Ward* (4th-Level Slot):** Tracing the Cyrillic Soft Sign across his forehead and cuirass, he anchored a golden aegis of divine preservation around his life force—an unyielding barrier against instant death and lethal strikes for the next eight hours.
+3. ***Aid* (4th-Level Slot):** Placing his hands upon the shoulders of the two young scouts, Kahlil and Zayd, Myagkiy invoked a blessing of stamina and courage. A warm, golden light washed over the three companions, bolstering their physical reserves and expanding their maximum vitality by **+15 hit points** (raising Myagkiy's hit point pool to a formidable **130 HP**).
+
+Turning to the two brothers, Myagkiy spoke with calm, steady authority:
+
+> *"Stay upon this ridge with the mounts. Maintain watch over the perimeter of the caldera. If sentinels or scouts approach from the wastes, do not give battle—reposition into the sandstone crags. If the stones beneath your feet tremble, pray to the Soft Sign, and hold fast. I go below."*
+
+Kahlil and Zayd bowed low, touching their foreheads and chests in solemn Bedine reverence:
+
+> *"May the All-Father guard your footsteps in the dark house, holy one. We shall watch until the dawn."*
+
+Myagkiy descended the caldera slope with measured, deliberate strides, his heavy plate boots crunching softly upon the petrified dunes. 
+
+Reaching the truncated apex of the pyramid, he stood before the colossal slab of **vitrified furnace-glass**. The green-black surface was smooth as obsidian, cold as midnight ice, and inscribed with ancient Netherese runes that pulsed with faint, hungry crimson light. In the center of the threshold sat a hollow stone basin carved in the likeness of a weeping skull.
+
+Drawing his skinning blade, Myagkiy extended his left hand over the basin. He did not hesitate. Drawing the steel across his calloused palm, he let his living blood pour into the stone maw.
+
+As the crimson stream touched the ancient runes, the thirsty stone drank deeply. Yet even as the blood flowed, the divine power of ***Regenerate*** surged in real time—the severed skin knitting, the capillaries re-sealing, and the wound closing into smooth, unblemished flesh without leaving so much as a scar!
+
+A deep, groaning vibration shuddered through the basalt foundation of the pyramid. The furnace-glass portal cracked open down its center, swinging inward with the sound of grinding tectonic plates. A blast of stagnant, freezing air—reeking of dry natron, centuries of dead dust, and dried blood—billowed out into the twilight.
+
+From the shadowy alcoves flanking the portal, the sand stirred violently.
+
+Two towering, eight-foot-tall automatons sculpted from compressed volcanic silt, calcified bone fragments, and glass slag—the **Sand Golems of Anauria**—rose from the drifts, their hollow eyes flaring with malevolent yellow witchfire. Raising massive fists of hardened sandstone, they lunged forward to crush the intruder at the threshold!
+
+#### Combat: The Sand Golems at the Vitrified Portal
+* **Round 1 (Initiative: Myagkiy 18, Golems 11):**
+  * Myagkiy strode forward ten paces through the opening, unhooking ***Bonecounter*** with his right gauntlet and thrusting his +2 shield forward. Raising his holy symbol high, he invoked ***Spirit Guardians* (3rd-Level Slot)**!
+  * A blinding vortex of shimmering fey water sprites—pure, crystalline mountain water manifesting in the arid desert—erupted in a 15-foot radius around him. The spirits swirled with rushing, cleansing currents, their radiant aura searing the dry necrotic magic of the crypt.
+  * The two golems surged forward into the 15-foot zone: their movement speed was instantly halved by the swirling waters, and both constructs failed their Wisdom saving throws against Myagkiy's **DC 18 Spell Save**, taking **12 radiant damage** as the water sprites dissolved their sand-crusted limbs!
+  * Lunging forward, both golems struck out with four slamming blows against Myagkiy: but against Dayne's consecrated **24 AC**, every crushing blow scraped harmlessly off the silvered steel and massive heater shield!
+* **Round 2:**
+  * At the start of the round, the *Spirit Guardians* tore through the constructs for **22 radiant damage**.
+  * Channelling the righteous fury of the morning sun, Myagkiy raised his mace and called down a roaring column of vertical fire: ***Flame Strike* (5th-Level Slot)**!
+  * A 10-foot-radius, 40-foot-high cylinder of roaring divine flame crashed down upon both golems, dealing **24 fire and radiant damage**. The intense heat vitrified their loose silica sand into brittle, cracked green furnace-glass—permanently reducing their natural armor class from 17 to **13 AC**!
+  * Golem 2 struck back with desperate fury, landing a crushing slam: dealing **33 bludgeoning and force damage** (dropping Myagkiy to 97 HP). With Resilient (Constitution) granting **+9 to Constitution saves**, Myagkiy easily passed both Concentration checks, maintaining the swirling water vortex without flinching!
+* **Round 3:**
+  * ***Regenerate* healed Myagkiy for +10 HP (restoring him to 107 HP).**
+  * As a bonus action, Myagkiy invoked ***Spiritual Weapon* (2nd-Level Slot)**, manifesting a glowing hammer of solid golden force in the shape of Gond's smithing mallet, slamming Golem 1 for **10 force damage**.
+  * Sweeping ***Bonecounter*** in a heavy, two-handed arc, Myagkiy smashed the flanged mace into Golem 1's cracked torso for **9 bludgeoning damage**.
+  * The *Spirit Guardians* burned both constructs for **16 radiant damage**, leaving Golem 1 clinging to animation with 12 HP and Golem 2 at 42 HP.
+  * Golem 1 landed a retaliatory blow for 18 damage (HP: 89); Myagkiy rolled a 27 on his Concentration check, holding the spell unbreakable!
+* **Round 4:**
+  * ***Regenerate* healed Myagkiy for +10 HP (HP: 99).**
+  * The *Spiritual Weapon* hammered Golem 1 for 9 force damage, reducing it to 3 HP. Myagkiy pointed a gauntleted finger, unleashing ***Sacred Flame*** upon Golem 2 for **17 radiant damage**.
+  * The swirling water sprites of *Spirit Guardians* delivered the finishing blow to Golem 1, completely disintegrating its vitrified torso into a shower of harmless grey powder!
+  * Golem 2 landed a heavy slam for 27 damage (HP: 72); Myagkiy passed his Concentration save with a 14.
+* **Round 5:**
+  * ***Regenerate* healed Myagkiy for +10 HP (HP: 82).**
+  * Stepping back five feet to let the swirling waters work, Myagkiy calmly dusted the desert silt from his breastplate and traced the Twin Signs in the air.
+  * The golden hammer of Gond slammed into Golem 2 for 10 force damage (leaving it at 2 HP), and the *Spirit Guardians* crushed the automaton into smoking glass slag!
+* **Post-Combat Triage:**
+  * Standing alone at the threshold amidst the powdered glass and sand, Myagkiy rested the head of *Bonecounter* upon the floor. Over the next forty-eight seconds, the continuous restorative pulse of ***Regenerate*** knitted every bruise, strain, and dent in his flesh, restoring him to a flawless **130 / 130 full hit points** without expending a single healing spell!
+
+---
+
+### 🏛️ Scene 5: The Hypostyle Vestibule & The Mortuary Codex
+
+Crossing the threshold of the shattered portal, Myagkiy entered the **Hypostyle Vestibule of Aul-Khem**—a sixty-foot-wide rectangular hall supported by twelve colossal basalt columns carved in the likeness of withered Netherese high arcanists.
+
+Drawing his ***Wand of Magic Detection*** from his traveling pack, Myagkiy cast ***Find Traps* (2nd-Level Slot)** and swept the chamber. The magical scrutiny revealed three deadly hazards:
+1. **The 10th-Step Siphon/Gravity Trap:** The grand staircase leading down into the lower cathedral was warded with a lethal Netherese gravity inversion rune on the tenth step, designed to crush intruders against the vaulted ceiling.
+2. **The Trapped Chest (East Wall):** Two heavy bronze sarcophagus-chests rested against the eastern wall; Chest 2 was warded with an ancient *Fire-Glyph*.
+3. **The Embalming Vault (West Wall):** A set of heavy bronze double doors on the western wall was barred from within and sealed with poisoned natron needles along the seams.
+
+#### Opening Chest 1 & The Architectural Papyrus
+Approaching the safe eastern chest (Chest 1), Myagkiy used his masterwork stone-carver's tools to pry the corroded bronze latch open. Inside lay an extraordinary collection of ancient artifacts:
+* An intact **architectural papyrus scroll of Aul-Khem**, drawn during the Netherese diaspora. Unrolling the preserved linen-backed sheet, Myagkiy discovered the architectural secret of the grand stair: an **8th-step carved lotus stud** that disarmed the 10th-step gravity siphon! Furthermore, the schematic revealed a forgotten **vertical emergency ventilation flue** ascending from the lower crypts directly to the eastern rim of the caldera.
+* **Alchemical & Sacred Supplies:** Two flasks of ***Potion of Greater Healing*** (`4d4 + 4` HP each), one ***Spell Scroll of Daylight***, one flask of ancient ***Consecrated Natron Water***, a masterwork artisan's stone-carving kit, three cut lapis lazuli stones (300 gp total), and two heavy electrum bullion bars (200 gp total).
+
+#### Disarming Chest 2 via *Dispel Magic*
+Turning his attention to the second bronze chest, Myagkiy focused his divine authority upon the burning red runes of the *Fire-Glyph*. Invoking ***Dispel Magic* (3rd-Level Slot)**, he rolled a **20 on his spellcasting check (15 + 5 vs DC 14)**, unravelling the weave of the glyph with a quiet hiss of dispersing embers. Opening the chest, he recovered:
+* One ***Spell Scroll of Dispel Evil and Good*** (5th level).
+* One rare ***Elixir of Health***.
+* Two flasks of ancient Netherese ***Liquid Furnace-Fire***.
+* A faded, exquisitely wrought **Silver Locket of the Pegasus Knight** depicting a fallen paladin of the Triad.
+* Ten rough-cut desert garnets and sapphires (500 gp total) and eighty ancient gold crowns stamped with the crest of Anauria (80 gp).
+
+#### Infiltrating the Embalming Vault & *The Mortuary Codex*
+Examining the barred bronze doors of the western wall, Myagkiy saw that forcing them would destroy the delicate stone lintels. Stepping back into the center of the vestibule, he grasped the embroidered clasp of his ***Cape of the Mountebank***. 
+
+With a soft murmur of prayer, he vanished in a cloud of brimstone smoke via ***Dimension Door***, reappearing instantly inside the sealed room.
+
+The air inside the **West Embalming Vault** was bone-dry and aromatic with centuries of cedar oil, myrrh, and calcified natron salts. Unbarring the bronze doors from within so his path of retreat remained clear, Myagkiy approached the stone embalming bier. 
+
+Upon a carved obsidian lectern rested the **Mortuary Codex of Aul-Khem**—an ancient grimoire bound in treated reptile hide, written in ancient Netherese cuneiform. Possessing divine comprehension and patient insight, Myagkiy translated the central passage detailing the blasphemous ritual below:
+
+> *"The Chrysalis of Sanguine Awakening... its calcified root anchors the siphon of the black font to the earth. The womb of the Avatar is impervious to steel and cold; yet by the holy waters of dawn and the unyielding salts of natron shall its calcified root be shattered. He who strikes the central root with pure radiance ruptures the circuit; and the wrath of the broken weave shall turn inward upon the channeling master."*
+
+The revelation was absolute: **The Blood Chrysalis possessed vulnerability to radiant damage and refined natron salts at its central calcified root**, and destroying it would trigger a catastrophic magical backlash upon whoever channeled the font!
+
+Searching the vault's stone shelves, Myagkiy recovered vital reserves:
+* One rare ***Potion of Vitality*** (cures all exhaustion and maximizes all healing dice for 24 hours).
+* One carved ceramic pot of ***Keoghtom's Ointment*** (4 doses remaining; each heals `2d8 + 2` HP and neutralizes poison).
+* Three sealed alabaster jars of ***Refined Natron Salt Unguents***—sacred embalming salts that deal `3d6` radiant damage to undead tissue and suppress necrotic regeneration.
+* Four alabaster canopic jars with lapis lazuli lids (400 gp total).
+
+Securing the jars in his satchel, Myagkiy returned to the vestibule, pressed the 8th-step carved lotus stud to disarm the gravity trap, and began his descent down the sixty-foot grand staircase into the sunken heart of Aul-Khem.
+
+---
+
+### 🩸 Scene 6: Ingress to the Sanctum of the Chrysalis
+
+The grand staircase opened into a vast, eighty-foot-wide octagonal cathedral carved from seamless black basalt. The vaulted ceiling soared forty feet overhead, lost in swirling clouds of freezing necrotic mist.
+
+In the center of the chamber rose a three-tiered obsidian dais. Atop the dais sat a massive, circular basin of black stone—the **Ritual Font of Aul-Khem**—bubbling with boiling, coagulated blood. 
+
+Rising from the font was a grotesque, ten-foot-tall horror: **The Blood Chrysalis**. 
+
+The chrysalis was a pulsing, translucent womb of vitrified necrotic membranes, veined with sickly crimson light and supported by a thick, calcified root of white bone-stone that anchored it to the dais floor. Inside the shifting, semi-translucent membrane, the embryonic, horned silhouette of a burgeoning **Avatar of Myrkul** writhed in dark slumber.
+
+Surrounding the dais was a terrifying hierarchy of death:
+* Hovering twenty-two feet in the air above the font (`Z = 22 ft`), held aloft by the vertical levitation column of the ritual font, was **Lich-Vizier Nephren-Ka**—an ancient Netherese arch-mage draped in tattered gold-and-purple linen, his withered hands weaving arcs of dark witchfire into the font.
+* Standing at the base of the dais in black-iron plate, resting his gauntlets upon the pommel of a massive executioner's greatsword, was **Death Knight Vaelen the Grave-Sworn**, the fallen paladin of the Triad.
+* Flanking the dais among the basalt columns were **two Netherese Wights** in ancient bronze plate, composite longbows drawn and nocked with black-fletched arrows.
+* Kneeling on the cold flagstones before the blood gutters at `Y = 30 ft` were **three bound Bedine herders of Clan Bait Mahra**—gagged, tied with heavy hemp ropes, their chests bared to the stone. Standing over them were **four Cult Fanatics**, raising jagged obsidian daggers to slit their throats and pour their lifeblood into the chrysalis!
+
+As Myagkiy's iron plate boots touched the cathedral floor, Vaelen turned his helm, the crimson fire in his eye sockets blazing:
+
+> *"The shepherd comes to slaughter... Lay down your mace, priest of the Soft Sign. Your blood shall be the final seal upon the Lord of Bones!"*
+
+Myagkiy did not pause. He did not barter with the dead. He raised Dayne's +2 shield, gripped ***Bonecounter***, and charged into the teeth of the dark altar.
+
+---
+
+### ⚡ Scene 7: The Battle of the Chrysalis
+
+#### Round 1: The Triple Strike of Dawn
+* **Initiative:** Cult Fanatics 22, Myagkiy Znak 19, Vaelen & Wights 16, Lich-Vizier Nephren-Ka 14.
+* **Cult Fanatics (Init 22):** Poised to execute the prisoners, the four cultists raised their obsidian blades.
+* **Myagkiy Znak (Init 19):**
+  * Sprinted thirty feet forward to `(0, 30)`, placing his armored frame directly before the captives.
+  * Raising his holy symbol, he unleashed a roaring column of divine fire: ***Flame Strike* (5th-Level Slot)**, targeted directly at `(0, 45, Z=0 to 40 ft)`—scoring a devastating **Triple Hit**:
+    1. **The Blood Chrysalis Root:** Being an anchored structure, the calcified root suffered an automatic failure, taking 13 fire damage and **18 radiant damage (doubled for vulnerability = 31 total damage)**! The thick bone-stone fractured violently, spewing foul black bile across the dais!
+    2. **Death Knight Vaelen:** Failed his Dexterity save (17 vs DC 18), suffering **22 fire and radiant damage** as holy flames scorched his black-iron plate!
+    3. **Lich-Vizier Nephren-Ka (at Z=22 ft):** Caught within the 40-foot vertical cylinder, the hovering Lich failed his Dexterity save (16 vs DC 18), suffering **22 fire and radiant damage**, his decaying Netherese robes burning with holy fire!
+* **Vaelen & The Wights (Init 16):**
+  * Vaelen charged forward into the 15-foot zone of *Spirit Guardians* (taking 13 radiant damage; 35 total) and swung his greatsword twice with monstrous fury: both heavy strikes clanged harmlessly off Myagkiy's **24 AC**!
+  * Both bronze Wights loosed four arrows from the colonnades: all four deflected off Dayne's shield and breastplate!
+* **Lich-Vizier Nephren-Ka (Init 14):**
+  * Pointing a withered claw downward, the Lich cast an upcast 6th-level ***Blight*** (dealing 49 necrotic damage).
+  * Myagkiy rolled a **23 on his Constitution save** (vs DC 20), taking half damage (**24 necrotic damage**, HP: 106 / 130). With Resilient (CON), Myagkiy easily passed his Concentration check with a 15, holding his wards steady!
+
+#### Round 2: The Holy Turn & The Indiscriminate Cold
+* **Cult Fanatics (Init 22):** The four fanatics took 13 radiant damage from *Spirit Guardians*, reducing their hit points to 6, 16, 23, and 12 HP. Lunging at Myagkiy, all four dagger strikes missed his 24 AC!
+* **Myagkiy Znak (Init 19):**
+  * ***Regenerate* healed Myagkiy for +10 HP (HP: 116 / 130).**
+  * Action: Raising Dayne's +2 shield high, Myagkiy invoked his sacred authority: ***Channel Divinity: Turn Undead* (30-ft Radius, DC 18 Wisdom Save)**!
+    * **Death Knight Vaelen (Turn Resistance - Advantage):** Rolled a **12 vs DC 18 $
+ightarrow$ TURNED!**
+    * **Netherese Wights 1 & 2 (Advantage):** Rolled **4 and 13 vs DC 18 $
+ightarrow$ BOTH TURNED!**
+    * **Lich-Vizier Nephren-Ka (Advantage):** Passed with a 28.
+  * As a bonus action, Myagkiy summoned ***Spiritual Weapon* (2nd-Level Slot)**, manifesting a glowing force club in the shape of the Cyrillic Soft Sign (**Ь**), smashing Cultist 1 for **13 force damage** (dropping him to 6 HP)!
+* **Vaelen & The Wights (Init 16):**
+  * Gripped by overwhelming supernatural panic, the Death Knight and both Wights broke into a desperate sprint away from the holy cleric!
+  * Because Myagkiy stood between them and the northern stairs, their mandatory flight drove them **southward toward the far crypt arches**, dashing sixty feet across the chamber!
+* **Lich-Vizier Nephren-Ka (Init 14):**
+  * Seeing his champion turned and his ritual endangered, the cold, ruthless Arch-Lich looked down upon the dais with absolute contempt for mortal life. Aiming downward at Myagkiy, he cast ***Cone of Cold* (5th-Level Slot)** in a 60-foot descending cone!
+  * **The Annihilation of the Cultists & Captives:** The ruthless blast of ancient Anaurian frost blanketed the entire dais:
+    * All four Cult Fanatics took the full **42 cold damage** and were flash-frozen instantly where they stood—transformed into cracked, brittle statues of blue ice!
+    * The three bound, immobilized Bedine captives took the full 42 cold damage. Sparing them no hand-waving, their unarmored bodies suffered **instant death via massive damage**, their forms freezing solid upon the cold flagstones!
+    * Myagkiy failed his Dexterity save (15 vs DC 20); but attuned to the ***Ring of Warmth***, he possessed resistance to cold damage—halving the blast to **21 cold damage** (HP: 95 / 130). He passed his Concentration check with a 25!
+    * **The 1-Minute Clock Begins:** The three Bedine nomads had died; the countdown for ***Revivify*** had started (Round 1 of 10).
+
+#### Round 3: The Shattering of the Chrysalis & The Fall of the Lich
+* **Myagkiy Znak (Init 19):**
+  * ***Regenerate* restored +10 HP (HP: 105 / 130).**
+  * Moving ten feet forward to the pulsing, cracked root of the Blood Chrysalis at `(0, 40)`, Myagkiy drew a clay jar of ***Refined Natron Salt Unguent*** from his belt and smashed it directly into the weeping fracture!
+  * The ancient consecrated salts erupted in a blaze of alchemical white light, dealing **24 radiant damage** (doubled for vulnerability). 
+  * With a sound like a shattering mountain, the root pulverized into white ash. The colossal Blood Chrysalis ruptured from within, tearing apart in an explosion of black bile and vitrified slag! **The Avatar ritual was permanently broken!**
+  * **Conduit Backlash:** Severing the active siphon violently rebounded into Lich-Vizier Nephren-Ka: **30 raw damage** surged into his skeletal torso! 
+  * The levitation column collapsed instantly: Nephren-Ka plummeted twenty-two feet to the stone dais, suffering **6 bludgeoning damage** and landing **PRONE** at `(0, 45)`!
+  * As a bonus action, the hovering Soft Sign (**Ь**) club descended upon the prone Arch-Lich with **Advantage**: rolling an **18 + 10 = 28 to hit**, hammering him for **8 force damage**!
+  * **Lich Status Entering Init 14:** Taken 66 total damage; reduced to **69 / 135 HP**.
+* **Turned Minions (Init 16):**
+  * Vaelen and the two Wights dashed another sixty feet south, reaching the base of the emergency ventilation flue and clambering upward toward the caldera rim!
+* **Lich-Vizier Nephren-Ka (Init 14):**
+  * Starting his turn prone in *Spirit Guardians*, Nephren-Ka failed his Wisdom save (13 vs DC 18), suffering **11 radiant damage** (dropping to **58 / 135 HP**)!
+  * Spending 7.5 feet of his halved speed to stand, the Arch-Lich raised his claws and snarled a primordial word of Netherese power: ***"KHA-VOZ!"*** (***Power Word Stun*, 8th-Level Slot)**!
+  * Because Myagkiy stood at 105 HP (under the 150 HP threshold), **there was no initial save: Myagkiy was STUNNED!**
+  * Incapacitated, **Myagkiy's concentration on *Spirit Guardians* broke**, the water sprites dispersing into mist. Yet ***Spiritual Weapon*, *Death Ward*, and *Regenerate* remained active!**
+
+#### Round 4: The Crucible of Faith & The Clutch Save
+* **Initiative Count 20 (Lair Action):**
+  * Nephren-Ka summoned the **Apparitions of the Sunken Pyramids**, dealing **54 necrotic damage** to Myagkiy (who rolled 15 on his save), dropping him to **51 / 130 HP**!
+* **Myagkiy Znak (Init 19):**
+  * ***Regenerate* healed him for +10 HP (HP: 61 / 130).**
+  * Stunned during his turn, Myagkiy could take no action. At the end of his turn, he rolled his Constitution save against *Power Word Stun* (DC 20): rolling a **Natural 1** (1 + 9 = 10), the stun persisted!
+  * At the end of his turn, Nephren-Ka expended all 3 Legendary Actions for ***Disrupt Life***, dealing **29 necrotic damage** (HP dropped to **32 / 130 HP**)!
+* **Lich-Vizier Nephren-Ka (Init 14):**
+  * Thrusting a blackened skeletal index finger directly at Myagkiy’s throat, Nephren-Ka cast ***Finger of Death* (7th-Level Slot)**, unleashing a beam of soul-shredding green negative energy (57 necrotic damage)!
+  * Rolling for his life against DC 20, Myagkiy rolled a **Natural 17 (+9 = 26 CON SAVE — RESOUNDING SUCCESS!)**!
+  * Taking half damage (**28 necrotic damage**), **Myagkiy survived with 4 HP!**
+  * **Because he never touched 0 HP, his ***Death Ward* remained 100% INTACT!**
+
+#### Round 5: The Death Ward Miracle
+* **Initiative Count 20 (Lair Action):**
+  * Siphoning the dead crypt, Nephren-Ka rolled an **8 on a d8**, regaining his **8th-level spell slot**!
+* **Myagkiy Znak (Init 19):**
+  * ***Regenerate* healed him for +10 HP (HP: 14 / 130).**
+  * At the end of his turn, Myagkiy made his Constitution save against *Power Word Stun* (DC 20): rolling a **13 (+9 = 22 CON SAVE — SUCCESS!)**!
+  * **THE STUN WAS BROKEN!** The mental shackles shattered, and full mobility returned to his limbs!
+  * At the end of his turn, the Lich used a Legendary Action *Ray of Frost*: hitting for 13 cold damage, halved by the ***Ring of Warmth* to 6 cold damage** (leaving Myagkiy standing at **8 HP**)!
+* **Lich-Vizier Nephren-Ka (Init 14):**
+  * Seeing the priest breaking free at 8 HP, Nephren-Ka channeled the absolute apex of Netherese necromancy, screaming: ***"MORKATH-VAL!"*** (***Power Word Kill*, 9th-Level Slot)**!
+  * The killing word struck Myagkiy's chest like an iron hammer—**and slammed directly into ***Death Ward*!**
+  * The golden sigil of Gond blazed blindingly across Dayne's breastplate. The 9th-level death magic shattered into harmless black motes, completely negated! *Death Ward* ended having absorbed the killing blow, and **Myagkiy took 0 damage, remaining on his feet at 8 HP!**
+  * Nephren-Ka staggered back in disbelieving horror, his supreme god-spell burned to ash against a mortal man!
+
+#### Round 6: Divine Restoration & The Rout
+* **Initiative Count 20 (Lair Action):** Nephren-Ka triggered the Negative Energy Tether, seeking to split incoming damage.
+* **Myagkiy Znak (Init 19):**
+  * ***Regenerate* healed him for +10 HP (HP: 18 / 130).**
+  * Action: Raising the silver Soft Sign medallion, Myagkiy channeled ***Heal* (6th-Level Slot)**, amplified by ***Disciple of Life* (2 + 6 = 8)**, instantly restoring **78 hit points**! His wounds closed, his marrow sang with holy light, and his vitality surged to **96 / 130 HP**!
+  * Bonus Action: The Soft Sign club (**Ь**) hammered Nephren-Ka for **6 force damage** (dropping the Lich to **52 / 135 HP**)!
+  * Movement: Myagkiy sprinted twenty-five feet southwest, ducking behind a massive 10-foot-thick octagonal basalt pillar at `(-20, 25)`:
+    * Nephren-Ka's Opportunity Attack (*Paralyzing Touch*) rolled a 21, deflecting harmlessly off Myagkiy's **24 AC**!
+    * Behind the pillar, Myagkiy achieved **Total Cover**, completely breaking Line of Sight!
+* **Initiative Count 16:** On the surface, Kahlil and Zayd watched Vaelen and the two wights burst from the eastern flue and sprint blindly across the dunes, shadowing their tracks from afar.
+* **Lich-Vizier Nephren-Ka (Init 14):**
+  * Standing alone at 52 HP, out of high-circle magic, his minions fled, and his enemy at 96 HP behind total cover, the ancient Arch-Lich broke.
+  * Hissing a venomous curse, Nephren-Ka cast ***Dimension Door* (4th-Level Slot)**, vanishing in a tear of violet light to flee five hundred feet through the bedrock into the catacombs!
+  * **COMBAT ENDED!**
+
+---
+
+### 🕊️ Scene 8: The Miracle of the Triple Sign & The Empty Censer
+
+The silence that followed was absolute. 
+
+Stepping out from behind the basalt pillar, Myagkiy looked upon the shattered dais. The 1-minute *Revivify* clock had **36 seconds remaining**. 
+
+![[myagkiy_bridge_ch02_sanctum_chrysalis_climax.jpg]]
+
+Rushing to the three flash-frozen Bedine herders lying bound upon the blood-stained flagstones, Myagkiy executed a masterstroke of divine mechanics:
+1. **Round 7 (30 seconds remaining):**
+   * Slicing the frost-brittle ropes, Myagkiy pressed a 300 gp diamond against the chest of Nomad 1, casting ***Revivify* (3rd-Level Slot)**. Golden warmth melted the frost on the man's lashes; his heart restarted with a violent gasp (restored to 1 HP)!
+   * As a bonus action, Myagkiy touched the Soft Sign medallion and invoked the ***Harness Divine Power*** feature (*Tasha's Cauldron of Everything*), expending his second and final use of **Channel Divinity** to instantly **regain an expended 3rd-level spell slot**!
+2. **Round 8 (24 seconds remaining):**
+   * Pressing a second 300 gp diamond against Nomad 2, Myagkiy cast ***Revivify*** using the newly regained 3rd-level slot. The man's lungs filled with air, coughing out melted ice as life returned to his limbs (1 HP)!
+3. **Round 9 (18 seconds remaining):**
+   * Grasping his final 300 gp diamond, Myagkiy laid his gauntlets upon Nomad 3 and cast his third ***Revivify***, expending his remaining **4th-level spell slot**. The third brother gasped, weeping as his soul was drawn back from the Netherese dark (1 HP)!
+   * **At 42 seconds total since death, all three nomads were saved!**
+
+#### The Poured Censer: *Cure Wounds*
+With the three men shivering violently from hypothermia, Myagkiy knelt upon the stone and poured out his final four 1st-level spell slots on ***Cure Wounds***, amplified by ***Disciple of Life* (1d8 + 8 HP)**:
+* **Nomad 1:** Healed for **16 HP** (restored to full vitality).
+* **Nomad 2:** Healed for **11 HP** (restored to full vitality).
+* **Nomad 3:** Healed for **12 HP** (restored to full vitality).
+* **Myagkiy:** Gained +9 HP via ***Blessed Healer*** ($3 	imes 3$), and cast the fourth *Cure Wounds* upon himself for **16 HP**, which—combined with *Regenerate*—brought him to an unbroken **130 / 130 full hit points**!
+
+Every single spell slot (17 of 17) and Channel Divinity charge on Myagkiy's character sheet had been completely poured out into the salvation of life.
+
+#### The 2-Minute Swift Sweep (Perception: 28)
+Knowing that Vaelen's panic would clear within minutes on the surface, Myagkiy conducted a lightning sweep of the sanctum with his ***Wand of Magic Detection***:
+* **The Soul-Compass:** Beneath the cracked lip of the blood font, he discovered a secret compartment holding ***The Astrolabe of Nephren-Ka***—an ivory, electrum, and gold soul-compass whose glowing violet needle pointed steadily south-southwest across Anauria toward the hidden necropolis containing the Lich's true phylactery!
+* **Vaelen's War-Journal:** Behind the shattered chrysalis, he recovered ***The Obsidian Ledger of the Grave-Sworn***, detailing the remaining Myrkulite cells along the Trade Way and revealing that Vaelen's immortality could be severed by burning his ancestral grave-shroud with radiant fire.
+* **Recovered Wealth & Consumables:**
+  * Two flasks of ***Potion of Superior Healing*** (`8d4 + 8` HP each).
+  * One ***Spell Scroll of Word of Recall*** (6th-level emergency teleport to Leilon).
+  * One ***Spell Scroll of Greater Restoration*** (5th level).
+  * One ***Scroll of Protection (Undead)***.
+  * Four uncut star rubies (**1,000 gp total**, completely replacing the 900 gp in diamonds expended on *Revivify*!).
+  * Ten Netherese gold trade bars (**500 gp total**) and 1,500 ancient silver coins (**150 gp total**).
+
+#### Egress & The Return to the Sun
+Gathering the three bewildered, weeping Bedine herders—Marwan, Tariq's nephew, and their kin—Myagkiy led them up the sixty-foot grand staircase, bypassing the disarmed gravity trap, across the silent hypostyle hall, and out through the furnace-glass portal into the blinding, warm desert sun.
+
+Ascending the limestone rim of the caldera, a great cry of joyous disbelief echoed across the sands. 
+
+Kahlil and Zayd spurred their fleet dromedaries forward, leaping from their saddles and throwing their arms around their rescued brothers. They wept openly, kissing the hem of Myagkiy's travel linens and crying out in the Bedine tongue:
+
+> *"The marabout of the Soft Sign has walked into the mouth of Kozah and brought the dead back into the sun! Blessed be the guest who entered our tents!"*
+
+Kahlil pointed with his lance toward the eastern horizon, where distant tracks in the sand marked the retreat of Death Knight Vaelen toward the deep wastes of Netheril.
+
+Myagkiy reached out, gently patting the neck of his notched-eared pack camel, who gave a soft, contented grunt in the warm breeze. Stowing the Astrolabe and the Obsidian Ledger securely in his saddlebags, Myagkiy mounted his camel beside the five Bedine outriders.
+
+Behind them, the black glass pyramid of Aul-Khem stood silent, its chrysalis shattered and its dark master routed.
+
+Before them, the golden sands of Anauria stretched under the open sky, leading back to the tents of Clan Bait Mahra and the next horizon of the crusade.
