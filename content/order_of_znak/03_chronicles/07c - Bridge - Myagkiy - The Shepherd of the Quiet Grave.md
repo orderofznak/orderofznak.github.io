@@ -89,6 +89,10 @@ Tvyordiy’s beak curved in an amused, knowing smirk. With a final nod that spok
 
 Myagkiy watched until his brother’s grey friar's robe was swallowed by the northern mist. Then, turning his back to the town he had helped rebuild, he faced south down the High Road.
 
+![[myagkiy_bridge_ch01_leilon_crossroads_parting.jpg]]
+*Figure 1.1: The Parting of the Signs (Autumn 1500 DR) — Myagkiy Znak (Ь) and Tvyordiy Znak (Ъ) clasp forearms at the fork of the High Road outside the palisade gates and the newly raised Temple of the Gods in Leilon.*
+
+
 ---
 
 ### 🚶 Scene 2: The Pastoral Road & The Scrying Veil
@@ -150,6 +154,10 @@ Down from the high vaulted shadows slithered **[[Claugiyliamatar]]**.
 Her eighty-foot bulk glided down a massive central stalactite, her talons gouging deep trenches into the stone ledge twelve paces before him. Dried swamp muck and calcified moss crusted her spine-ridges, and the electrum chains around her thick neck jingled as she landed heavily between two of the brass pedestals.
 
 She lowered her horned, crocodilian head until her snout was level with his chest. Her vertical yellow slit-pupils locked onto him, and her nostrils flared wide, drawing in a deep draft of cavern air.
+
+![[myagkiy_bridge_ch01_deeping_cave_claugiyliamatar.jpg]]
+*Figure 1.2: The Dragon's Debt — Elder battle priest Myagkiy Znak stands resolute upon a mossy stone ledge in Deeping Cave, claiming the life-debt of the ancient green dragon Claugiyliamatar (Old Gnawbone).*
+
 
 Suddenly, her yellow eyes dilated with incandescent, murderous fury.
 
@@ -355,6 +363,10 @@ Before stepping into the open cart lane within sight of the weeping menhir, Myag
 *Spell Slots Expended:* 2nd: `1/3`, 4th: `2/3`, 5th: `1/2`, 7th: `1/1`.
 
 ---
+
+
+![[myagkiy_bridge_ch01_weeping_stone_crossing_ambush.jpg]]
+*Figure 1.3: The Ambush at Weeping Stone Crossing — Myagkiy Znak wades through the rushing river shallows with warhammer and glowing "Ь" shield, flanked by the soaring Celestial Avenger and Spiritual Weapon as Death Priest Malakor recoils by the weeping menhir.*
 
 #### ⚔️ Round 1: The Ambush Reversed (Surprise Round)
 
