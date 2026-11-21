@@ -24,7 +24,7 @@ aliases: ["The Shepherd of the Quiet Grave", "The Road of the Soft Sign", "Myagk
 
 When [[The Order of Znak]] scattered following five peaceful winters in [[Leilon]], they did not march under banners or sound trumpets. They dispersed like seeds caught in an autumn gale. [[Tvyordiy Znak]] had turned east toward the High Forest and the Star Mounts to seek his ancestral bloodline in the open skies. [[Krageer Stoneface Ogolakanu]] had turned north into the frozen crags with [[Cooragh]], carrying his seasoned iron skillet and a heart at peace. 
 
-For [[Myagkiy Znak]], the road led southward down the High Road—clad in the polished, consecrated plate armor of fallen hero [[Dayne Preadhun]], his dark hair neatly tied back with strands of iron-grey touching his temples, his heavy mace ***Bonecounter*** stowed quiet at his pack, and his hands open to the road.
+For [[Myagkiy Znak]], the road led southward down the High Road—clad in the polished, consecrated plate armor of fallen hero [[Dayne Preadhun]], his deep brown, dark-skinned face weathered with the serene wisdom of an elder battle-priest in his early fifties, his dark dreadlocks neatly bound back in a warrior-monk's knot with strands of silver and iron-grey prominently framing his temples, his heavy mace ***Bonecounter*** stowed quiet at his pack, and his hands open to the road.
 
 He was twelve years older than the solitary hermit who had once wandered the Dessarin Valley tending flocks of sheep. Yet beneath the tempered steel of his breastplate, the pulse of the Soft Sign—$\mathbf{Ь}$—beat with unyielding clarity: that which preserves life must also stand sentinel against the rot that would mock it.
 
@@ -708,7 +708,7 @@ It was in that blistering trial that Myagkiy confronted a humbling theological a
 
 Facing immediate Constitution saving throws against heat exhaustion, the battle-priest retreated beneath the meager, jagged shadow of a sixty-foot sandstone outcrop. 
 
-Unbuckling the heavy leather straps with trembling, heat-swollen fingers, Myagkiy stripped off Dayne's +2 plate armor. He carefully wrapped the greaves, pauldrons, cuirass, and visor in heavy canvas tarps, securing the 65-pound bundle onto the wooden pack frame of his grunting, notched-eared dromedary. Clad now only in loose, breathable bleached desert linens, his dark hair bound beneath a linen hood, and carrying his silver medallion of the Soft Sign resting against his chest, he channeled his divine favor to fortify his flesh against the oppressive atmosphere:
+Unbuckling the heavy leather straps with heat-weary fingers, Myagkiy stripped off Dayne's +2 plate armor. He carefully wrapped the greaves, pauldrons, cuirass, and visor in heavy canvas tarps, securing the 65-pound bundle onto the wooden pack frame of his grunting, notched-eared dromedary. Clad now only in loose, breathable bleached desert linens draped over his broad-shouldered dark skin, his silver-streaked dark dreadlocks bound back beneath a linen hood, and carrying his silver medallion of the Soft Sign resting against his chest, he channeled his divine favor to fortify his flesh against the oppressive atmosphere:
 * ***Enhance Ability (Bear's Endurance)* (2nd-Level Spell Slot — 1 Hour Concentration):** The soothing, verdant warmth of Gond and Lathander washed over his tired muscles, granting him **Advantage on Constitution saving throws** and **2d6 temporary hit points**, steadying his heart rate and banishing the threat of sun-stroke.
 
 Leading the recalcitrant camel by its frayed hemp halter, Myagkiy began the grueling ascent of a sixty-foot razor-backed sand dune. The fine, powdery sand gave way beneath his boots, sliding backward with every two paces forward.
@@ -1257,3 +1257,320 @@ Myagkiy reached out, gently patting the neck of his notched-eared pack camel, wh
 Behind them, the black glass pyramid of Aul-Khem stood silent, its chrysalis shattered and its dark master routed.
 
 Before them, the golden sands of Anauria stretched under the open sky, leading back to the tents of Clan Bait Mahra and the next horizon of the crusade.
+
+
+---
+
+## Chapter 3: The Astral Pipeline & The City of Judgment
+
+*Table Session: November 20–21, 2026*  
+*In-Game Setting: Early 1503 DR (The Year of the Shield)*  
+*Location: The Ashen Plains of the Fugue Plane & The City of Judgment*  
+
+### 📊 Character Milestone: Level 14 Life Domain Cleric
+Following the victory at Aul-Khem and two years of scouring Myrkulite cells along the northern frontier, Myagkiy achieved the **Level 14 Milestone**:
+* **Hit Points:** **139 / 139 HP** (`+9 HP` from `1d8 + 4 CON`).
+* **Armor Class (AC):** **24 AC** (Dayne Beltran's Consecrated +2 Plate Armor & +2 Shield).
+* ***Destroy Undead (CR 3):*** When invoking *Turn Undead*, any undead creature of Challenge Rating 3 or lower that fails its saving throw is instantly vaporized into fine ash.
+* ***Blessed Strikes (TCoE):*** Weapon strikes and cantrips gain an extra **1d8 radiant damage** once per turn.
+
+---
+
+### 🌫️ Scene 1: The Ashen Plains & The Astral Soul-Siphon
+
+The chime of the silver-and-lead tuning fork lingered in Myagkiy's ears—a pure, heavy resonance that vibrated through his teeth, his ribcage, and the silver sigil on his shield. A flash of blinding, translucent light tore space asunder, and with a rush of folding planar gravity, Toril vanished.
+
+Sudden, suffocating silence rushed in to fill the void.
+
+Myagkiy stood upon the **Ashen Plains of the Fugue Plane**.
+
+![[myagkiy_bridge_ch03_fugue_plane_gates_of_judgment.jpg]]
+*Figure 3.1: Myagkiy Znak upon the Ashen Plains of the Fugue Plane before the Gate of Black Iron and the iridescent Crystal Spire of Kelemvor.*
+
+The air held neither winter's bite nor desert heat; it was completely devoid of thermal vitality. Beneath his greaves lay a vast expanse of powdery, slate-grey silt that stirred only under the weight of living boots. Overhead, there was no sun, moon, or stars—only a perpetual, omnidirectional twilight of muted lead and pearl that cast no distinct shadows.
+
+Two miles to the north, rising out of the grey expanse like an insurmountable mountain range carved by titans, stood the **Cyclopean curtain walls of the City of Judgment**. Built of black basalt blocks the size of hillside cathedrals, the battlements rose thousands of feet into the sky. And soaring far above the battlements, piercing the ceiling of the twilight heavens, was the **Crystal Spire**—an impossible, luminescent needle of iridescent crystal and divine quartz that bathed the grey realm in a gentle, melancholic luminescence. It was the seat of **Kelemvor, Lord of the Dead**.
+
+Leading from every horizon toward the colossal **Gate of Black Iron** was an endless, silent river of souls. Millions of translucent, glowing blue-white petitioners—warriors in phantom mail, Bedine nomads, Waterdhavian merchants, starved beggars, and high nobles—trod forward in solemn, peaceful acceptance, stripped of mortal terror, waiting for their deeds to be weighed at the threshold.
+
+#### The Siphon Anomaly
+Three hundred paces to the west, off the pilgrims' road, an unnatural, violent disturbance tore open the grey earth. 
+
+Three jagged black-iron stakes—each seven feet high and etched with Netherese necrotic siphon glyphs and the skull-and-scales heraldry of Myrkul—were driven into the ashen soil. Above the fissure hovered a churning vortex of sickly emerald and bruised-violet necrotic energy: an **Astral Soul-Siphon**.
+
+Barbed chains forged of corrupted soul-iron whipped out of the vortex, snagging ethereal petitioners from the marching column. Whenever a chain hooked a spirit, its peaceful expression shattered into soundless agony as it was hauled backward and funneled into heavy **obsidian soul-cages**.
+
+Tending the siphoning apparatus were **three towering Grave-Wraiths (CR 5)**—hulking incorporeal horrors draped in shredded black funerary shrouds, their hollow eye sockets burning with emerald witchfire.
+
+In Myagkiy's belt pouch, the **Astrolabe of Nephren-Ka** shuddered violently, its soul-needle locked directly toward the necrotic rift.
+
+#### The Silent Bastion
+At the threshold of the Gate of Black Iron, atop a raised dais of consecrated granite, stood a detachment of Kelemvor's holy wardens led by **High Justiciar Orin the Stern**, a towering Doomguide clad in polished obsidian plate etched with silver scales, his massive two-handed executioner's broadsword grounded tip-down. 
+
+Under the ancient **Compact of the Dead Gods**, Kelemvor's divine psychopomps were forbidden from striking on neutral planar ground against rifts anchored in mortal necromancy without precipitating planar war—**unless a living mortal champion, carrying living breath and divine mandate, broke the line first.**
+
+High Justiciar Orin locked eyes with Myagkiy across the plain, nodding once with solemn urgency toward the rift.
+
+---
+
+### ⚔️ Scene 2: The Tactical Exorcism of the Siphon (Rounds 1–9)
+
+#### Tactical Analysis & The Approach (120 ft)
+Myagkiy observed the array from 120 feet away:
+* **Pylons Alpha, Beta, Gamma:** AC 19, 35 HP each. Vulnerable to **Radiant damage** and **bludgeoning damage from consecrated weapons** (*Bonecounter*).
+* **Sympathetic Conduit Backlash:** Shattering a pylon would violently feed **4d8 radiant damage** back into the channeled wraith (DC 18 CON save vs. Stunned).
+* **The Stealth Approach:** Myagkiy cast ***Guidance*** (+1d4) in a whispered prayer at 120 feet. Advancing across the cushioning ash:
+  * *Stealth Check (Disadvantage from Plate):* `min(15, 5) - 1 (DEX) + 2 (Guidance)` = **6 vs. Distracted DC 7**.
+  * Myagkiy reached five feet from **Pylon Alpha** just as Wraith Alpha turned its burning gaze!
+
+```
+[COMBAT LOG - SURPRISE ROUND]
+Bonus Action: Spiritual Weapon (2nd Level) vs Pylon Alpha (AC 19, Stationary)
+Attack Roll (Advantage): [19, 4] + 10 = 29 vs AC 19 (HIT!)
+Damage: 1d8 (8) + 5 = 13 Force Damage.
+
+Action: Bonecounter Melee Strike vs Pylon Alpha (AC 19, Stationary)
+Attack Roll (Advantage): [12, 19] + 10 = 29 vs AC 19 (HIT!)
+Base Bludgeoning: 1d8 (4) + 5 = 9 x 2 (Consecrated Vulnerability) = 18 Bludgeoning Damage.
+Divine Strike (Life Cleric 14): 2d8 [2, 3 = 5] x 2 (Radiant Vulnerability) = 10 Radiant Damage.
+
+Total Damage to Pylon Alpha: 13 + 18 + 10 = 41 Damage! (35 HP threshold overkilled by 6!)
+Result: PYLON ALPHA SHATTERED & DESTROYED!
+
+Sympathetic Conduit Backlash:
+Wraith Alpha takes 4d8 [8, 3, 2, 5] = 18 Radiant Damage! (HP: 67 -> 49 / 67)
+Wraith Alpha CON Save (DC 18): d20 [10] + 3 = 13 (FAILED!)
+Condition: Wraith Alpha is STUNNED until the end of its next turn!
+
+Soul Liberation: First set of barbed soul-chains disintegrates; the spirit of a Bedine woman is freed!
+```
+
+#### Round 1: The Pillar of Dawn & The Bulwark of Dayne
+* **Initiative:** Myagkiy 17, Wraith Beta 11, Wraith Gamma 11, Wraith Alpha (Stunned).
+* **Myagkiy's Turn (Init 17):**
+  * *Action:* ***Sacred Flame*** vs. Stunned Wraith Alpha. Stunned targets automatically fail DEX saves! Deals `3d8 [7, 3, 8] = 18 Radiant` + `1d8 [2] (Blessed Strikes) = 20 Radiant Damage`!
+  * *Bonus Action:* ***Spiritual Weapon*** vs. Stunned Wraith Alpha (Advantage: `[19, 11] + 10 = 29 vs AC 13`, Hit!) dealing `1d8 (7) + 5 = 12 Force Damage`.
+  * Wraith Alpha drops from 49 to **17 / 67 HP**, hanging by a thread!
+* **Enemy Turn (Init 11):**
+  * Wraith Alpha is incapacitated by Stun.
+  * Wraith Beta drops its soul-chain, glides 15 ft, and attacks Myagkiy: `Natural 1 + 6 = 7 vs AC 24` (**CRITICAL MISS!**).
+  * Wraith Gamma glides 20 ft from the soul-urn and attacks Myagkiy: `d20 [7] + 6 = 13 vs AC 24` (**MISS!**).
+  * Myagkiy takes **0 damage** (HP: 139 / 139).
+
+#### Round 2: The Light of the Soft Sign & The Fleeing Dead
+* **Myagkiy's Turn (Init 17):**
+  * *Action:* ***Channel Divinity: Turn Undead*** (30-ft radius, DC 18 WIS Save).
+    * Wraith Alpha (17 HP): `d20 [6] + 2 = 8 vs DC 18` (**FAILED! TURNED!**).
+    * Wraith Beta (67 HP): `d20 [16] + 2 = 18 vs DC 18` (**SAVED!**).
+    * Wraith Gamma (67 HP): `d20 [19] + 2 = 21 vs DC 18` (**SAVED!**).
+  * *Bonus Action:* ***Spiritual Weapon*** flies 15 ft to Pylon Beta: Advantage `[2, 4] + 10 = 14 vs AC 19` (Miss!).
+* **Enemy Turn (Init 11):**
+  * Wraith Alpha (Turned) dashes 120 ft south across the plain, fleeing the encounter.
+  * Wraiths Beta and Gamma attack Myagkiy at Pylon Alpha site: `d20 [2] + 6 = 8` and `d20 [6] + 6 = 12 vs AC 24` (**BOTH MISS!**).
+  * Myagkiy takes **0 damage** (HP: 139 / 139).
+
+#### Round 3: The Mantle of Sanctity & Dispel Evil and Good
+* **Myagkiy's Turn (Init 17):**
+  * *Action:* Casts 5th-Level ***Dispel Evil and Good*** (Concentration, 10 min). Undead have **Disadvantage on all attack rolls** against Myagkiy!
+  * *Bonus Action:* ***Spiritual Weapon*** strikes Pylon Beta: Advantage `[10, 19] + 10 = 29 vs AC 19` (Hit!) for `1d8 (4) + 5 = 9 Force Damage` (Pylon Beta: 35 -> 26 HP).
+* **Enemy Turn (Init 11):**
+  * Wraith Beta attacks at Disadvantage: `min(6, 12) + 6 = 12 vs AC 24` (**MISS!**).
+  * Wraith Gamma attacks at Disadvantage: `min(4, 5) + 6 = 10 vs AC 24` (**MISS!**).
+  * Myagkiy takes **0 damage** (HP: 139 / 139).
+
+#### Round 4: The Planar Dismissal & The Shadowfell Exile
+* **Myagkiy's Turn (Init 17):**
+  * *Action:* Triggers ***Dismissal*** melee spell touch attack against Wraith Beta:
+    * Attack Roll: `d20 [9] + 10 = 19 vs AC 13` (**HIT!**).
+    * Wraith Beta Charisma Save vs DC 18: `d20 [5] + 2 = 7 vs DC 18` (**FAILED!**).
+    * **Result: WRAITH BETA IS BANISHED TO THE SHADOWFELL!** A planar rift tears open and hauls the horror into exile! *Dispel Evil and Good* discharges.
+  * *Bonus Action:* ***Spiritual Weapon*** strikes Pylon Beta: Advantage `[9, 3] + 10 = 19 vs AC 19` (Hit!) for `1d8 (3) + 5 = 8 Force Damage` (Pylon Beta: 26 -> 18 HP).
+* **Enemy Turn (Init 11):**
+  * Wraith Gamma attacks Myagkiy: `Natural 20!` (Critical Hit!) dealing `8d6 [4, 4, 4, 5, 6, 3, 2, 4] + 3 = 35 Necrotic Damage`.
+  * *Myagkiy Constitution Save vs DC 14 (Life Drain Max HP Reduction):* `d20 [18] + 9 = 27 vs DC 14` (**DOMINANT SUCCESS!**). Hit point maximum remains completely untouched at 139 HP! Current HP: **104 / 139 HP**.
+
+#### Round 5: The Golden Sphere & Aura of Life
+* **Myagkiy's Turn (Init 17):**
+  * *Action:* Casts 4th-Level ***Aura of Life*** (Concentration, 10 min). Establishes a 30-ft radius golden sunlit sphere: **Resistance to Necrotic Damage** (all necrotic damage halved) and **complete immunity to maximum HP reduction**!
+  * *Bonus Action:* ***Spiritual Weapon*** strikes Pylon Beta: Advantage `[6, 13] + 10 = 23 vs AC 19` (Hit!) for `1d8 (1) + 5 = 6 Force Damage` (Pylon Beta: 18 -> 12 HP).
+* **Enemy Turn (Init 11):**
+  * Wraith Gamma attacks Myagkiy: `d20 [9] + 6 = 15 vs AC 24` (**MISS!**).
+  * Myagkiy takes **0 damage** (HP: 104 / 139).
+
+#### Round 6: The Elusive Mist & The Fracturing Stake
+* **Myagkiy's Turn (Init 17):**
+  * *Action:* ***Sacred Flame*** vs. Wraith Gamma (DC 18 DEX Save). Wraith Gamma rolls `d20 [16] + 3 = 19 vs DC 18` (Saved, 0 damage).
+  * *Bonus Action:* ***Spiritual Weapon*** strikes Pylon Beta: Advantage `[11, 3] + 10 = 21 vs AC 19` (Hit!) for `1d8 (3) + 5 = 8 Force Damage` (Pylon Beta: 12 -> 4 HP).
+* **Enemy Turn (Init 11):**
+  * Wraith Gamma attacks Myagkiy: `d20 [9] + 6 = 15 vs AC 24` (**MISS!**).
+  * Myagkiy takes **0 damage** (HP: 104 / 139).
+
+#### Round 7: The Cataclysm of Beta & The Shield of the Hearth
+* **Myagkiy's Turn (Init 17):**
+  * *Action:* ***Sacred Flame*** vs. Wraith Gamma (DC 18 DEX Save). Wraith Gamma rolls `d20 [18] + 3 = 21 vs DC 18` (Saved, 0 damage).
+  * *Bonus Action:* ***Spiritual Weapon*** strikes Pylon Beta: Advantage `[6, 18] + 10 = 28 vs AC 19` (Hit!) for `1d8 (7) + 5 = 12 Force Damage`!
+  * **Result: PYLON BETA IS COMPLETELY SHATTERED & DESTROYED!** (HP: 4 -> -8 HP). The second pylon detonates into smoking slag; the second soul-chain snaps!
+* **Enemy Turn (Init 11):**
+  * Wraith Gamma attacks Myagkiy: `Natural 20!` (Critical Hit!) dealing `8d6 [1, 2, 5, 4, 3, 4, 5, 2] + 3 = 29 Raw Necrotic Damage`.
+  * ***Aura of Life* Mitigation:** Damage is **HALVED to 14 Necrotic Damage**! Max HP reduction completely negated.
+  * *Concentration Check (DC 10):* `d20 [17] + 9 = 26 vs DC 10` (**SUCCESS!** Aura maintained!).
+  * Myagkiy HP: 104 -> **90 / 139 HP**.
+
+#### Round 8: The Heroic Charge & The Fall of the Third Anchor
+* **Myagkiy's Turn (Init 17):**
+  * *Movement:* Myagkiy charges 20 ft south toward Pylon Gamma, drawing an **Opportunity Attack** from Wraith Gamma:
+    * *Attack Roll:* `d20 [11] + 6 = 17 vs AC 24` (**MISS!** Claws screech harmlessly off Dayne's backplate).
+  * *Bonus Action:* ***Spiritual Weapon*** flies 20 ft south and strikes Pylon Gamma: Advantage `[3, 17] + 10 = 27 vs AC 19` (Hit!) for `1d8 (8) + 5 = 13 Force Damage`.
+  * *Action:* ***Bonecounter*** Melee Smite vs. Pylon Gamma (AC 19, Stationary):
+    * *Attack Roll:* Advantage `[20, 12]` -> **NATURAL 20! (CRITICAL HIT!)**
+    * *Bludgeoning Damage:* `12 x 2 (Consecrated Vulnerability) = 24 Bludgeoning`.
+    * *Divine Radiant Smite:* `2d8 [1, 7 = 8] x 2 (Radiant Vulnerability) = 16 Radiant`.
+    * *Total Attack Damage:* `13 (Force) + 24 (Bludgeon) + 16 (Radiant) = 53 DAMAGE!`
+  * **Result: PYLON GAMMA (35 HP) IS UTTERLY VAPORIZED & DESTROYED!**
+* **The Cataclysmic Siphon Collapse:**
+  * All three anchors destroyed! The Astral Soul-Siphon violently implodes in a blinding shockwave of white light.
+  * The obsidian soul-urn shatters, liberating the third captive soul (a Cormyrean scout)!
+  * *Sympathetic Backlash to Wraith Gamma:* Takes `4d8 [7, 5, 6, 5] = 23 Radiant Damage` (HP: 67 -> **44 / 67 HP**). CON Save: `d20 [20] + 3 = 23` (Resists Stun).
+
+#### Round 9: The Climax — The Sledgehammer of Dawn
+* **Myagkiy's Turn (Init 17):**
+  * *Action:* Upcast 6th-Level ***Guiding Bolt*** vs. Wraith Gamma (AC 13, 20 ft away):
+    * *Attack Roll:* `d20 [8] + 10 = 18 vs AC 13` (**HIT!**).
+    * *Damage:* `9d6 [1, 2, 3, 4, 4, 6, 5, 6, 1] (32) + 1d8 [2] (Blessed Strikes) = 34 Radiant Damage!`
+    * Target is illuminated in blinding dawn starlight, granting Advantage to the next attack.
+    * Wraith Gamma HP drops from 44 to **10 / 67 HP**!
+  * *Bonus Action:* ***Spiritual Weapon*** closes 20 ft with Advantage:
+    * *Attack Roll:* Advantage `[6, 14] + 10 = 24 vs AC 13` (**CRUSHING HIT!**).
+    * *Damage:* `1d8 (6) + 5 = 11 Force Damage!`
+    * Wraith Gamma Final HP: `10 - 11 = -1 HP` (**OVERKILLED!**).
+  * **Result: GRAVE-WRAITH GAMMA IS UTTERLY VAPORIZED INTO ASH!**
+
+```
+⚔️ COMBAT RESOLUTION: TOTAL VICTORY ⚔️
+- The Astral Soul-Siphon: 100% Annihilated.
+- The Captive Souls: 3 of 3 Restored to the River of the Dead.
+- Grave-Wraith Alpha: Turned, fled over 800 paces south into the barren wastes.
+- Grave-Wraith Beta: Banished to the Shadowfell via Dismissal.
+- Grave-Wraith Gamma: Obliterated into ash via 6th-Level Guiding Bolt & Spiritual Weapon.
+- Myagkiy's Status: HP 90 / 139 | Spell Slots Expended: 2nd, 4th, 5th, 6th.
+```
+
+---
+
+### 🕊️ Scene 3: The Confession of the Battle Priest & The Gates of Black Iron
+
+The unnatural, howling gale of the necrotic rift died away, replaced by the deep, tranquil stillness of the Fugue Plane.
+
+Across the plain, the colossal **Gate of Black Iron** groaned open. High Justiciar Orin the Stern and four armored Doomguides crested the rise, flanked by two soaring, silver-winged psychopomps carrying radiant halberds. 
+
+Myagkiy lowered the head of *Bonecounter*, resting the steel against the grey dust, his eyes tracking the distant, wounded form of Grave-Wraith Alpha eight hundred paces away in the southern gloom:
+
+> *"One more wraith remains, though wounded and hundreds of feet out. I could dispatch it if you are forbidden by the tenets of neutrality to interfere."*
+
+A grim, faintly satisfied smile touched Orin’s scarred lips:
+
+> *"Thou hast already broken the unholy knot, Cleric. The mortal anchor is dust; the compact no longer shields them."*
+
+Orin raised two fingers of his obsidian gauntlet. The two silver-winged psychopomps launched into the sky like falling comets of moonlight. Two miles south, twin spears of pale celestial brilliance struck the ash. A faint, distant wail shivered through the air, and silence returned. The final wraith was gone.
+
+#### The Introduction & The Dossier of the Forsworn
+Myagkiy brought his gauntlet to his breastplate, bowing his head in measured respect:
+
+> *"Where are my manners. I am Myagkiy Znak, of the Order of Znak of Leilon. I come seeking information."*
+
+Unrolling the linen wrap, Myagkiy laid bare the ivory-and-brass **Astrolabe of Nephren-Ka** and the chilled **Obsidian Ledger of the Grave-Sworn**:
+
+> *"This did not begin upon the Fugue Plane, Justiciar. It began in the sun-drowned ruins of Anauria, within the sunken necropolis of Aul-Khem. There, a Netherese archlich named Nephren-Ka sought to bind the dead into calcified blood chrysalises. 
+>
+> In the past years, my hammer has broken the death knights and grave-priests sworn to his standard—including Vaelen the Twice-Forsworn, whom I turned within the pyramid's bowels. We found this ledger among their reliquaries, mapping conduits anchored into the planar boundaries. And before Aul-Khem, on the Sword Coast, our Order broke the vanguard of Ularan Mortus during the siege of Leilon. 
+>
+> The hand behind them all is the same, High Justiciar. It is **Myrkul**, the Lord of Bones. His cabals starve Toril of its living, and here, they siphon the departed before they can reach the scales of your Lord."*
+
+#### The Ancient Foundations (Religion Check: 17 vs DC 15)
+As Orin inspected the seals, Myagkiy's gaze drifted toward the cyclopean battlements of the City of Judgment. 
+
+His theological training and decades of hermit reflection along the Dessarin River caught a subtle architectural truth: the lowest three tiers of the city's foundation were not basalt. They were petrified, calcified white stone carved in the likeness of fused, interlocking ribcages and titan skulls.
+
+*The Bone Castle.*
+
+Myagkiy recognized that before Kelemvor ascended at the end of the Avatar Crisis, this entire realm was the dread citadel of **Myrkul**. Nephren-Ka’s siphon was deliberately positioned along the ancient planar faultlines of Myrkul's fallen throne to bleed Kelemvor’s seat of power.
+
+#### The Confession of the Healer
+Turning back to Orin, a rare, vulnerable gravity entered Myagkiy's voice:
+
+> *"As a disciple of life, I am dedicated to preserving it, but those souls being taken... they were being stolen away from their reward of afterlife. 
+>
+> In some ways, I have stolen that reward from souls myself—keeping those mortally wounded or approaching the pale alive, or bringing them back from death with prayer and diamond. 
+>
+> I hope Kelemvor takes no offense."*
+
+#### The Doomguide's Absolution
+High Justiciar Orin removed his right gauntlet, placing his bare, scarred palm gently upon Dayne's plate armor:
+
+> *"Listen well to me, Myagkiy Znak. The Lord of the Dead is the Judge, not the Reaper. He is the master of the final hour, not the thief of mortal time. 
+>
+> When a mother falls before her child is grown, when a brave knight is felled before his vow is fulfilled, when a nomad is struck down by cold wizardry before his allotted thread is spun—their destiny is incomplete. When a servant of the Hearth or the Dawn reaches across the veil with holy power to knit their flesh and call their spirit home, **that is not theft**. That is mortal mercy. Kelemvor welcomes the dead only when their time has truly arrived; he desires no premature harvests.
+>
+> Undeath is the theft. Siphoning souls into iron cages to fuel the phylacteries of liches—that is the blasphemy that offends the Crystal Spire. You have defended the sheep from the wolves. The Judge takes no offense at the doctor who binds the wound. He takes offense only at the butcher."*
+
+Orin pointed toward the open gates:
+
+> *"Thy ledger and thy astrolabe bear secrets the High Doomguides in the Spire must weigh. Come. Walk with us through the Black Gate."*
+
+---
+
+### 🏛️ Scene 4: The Avenue of the Weighed & The Divine Reign
+
+Stepping beneath the colossal basalt arch of the Gate of Black Iron onto the black-and-silver flagstones of the **Avenue of the Weighed**, an extraordinary physical sensation washed over Myagkiy.
+
+The crushing, suffocating weight of the mortal world vanished. The air felt remarkably light, clean, and peaceful—stripped of fever, fear, and dread. Millions of translucent petitioners walked along the avenue in unhurried, quiet grace, stripped of mortal terror.
+
+Myagkiy looked toward Orin, his breath rising in faint plumes of mist:
+
+> *"It is surreal for me to be here, your honor, Orin. Once or twice, one pulled back from the brink has spoken of this place... the tower, the walls... the peace. Never did I think I should step here while still breathing. Please excuse me for any lack of words.
+>
+> A few months ago... while traveling the northern foothills of Toril, I felt a sudden, inexplicable shift. A sensation of deep, unshakeable peace washed over me, as if the air itself had suddenly grown less heavy. Walking through this gate... the air here feels the exact same way."*
+
+Myagkiy paused, taking in the soaring battlements and the prismatic quartz above:
+
+> *"Did you take your place here with Kelemvor when he... started his divine reign?"*
+
+Orin slowed his stride, matching Myagkiy's pace, looking up toward the Crystal Spire:
+
+> *"I did, Myagkiy Znak. Five-and-thirty winters ago upon Toril—in the Year of the Sword, after the mad god Cyric was tried for his deceit and the portfolio of the dead was placed into the gauntlets of Kelemvor Lyonsbane—I drew my final mortal breath on the fields of Cormyr.
+>
+> In those dark days, this place was a charnel house. It was called the **Bone Castle of Myrkul**. The walls were mortared out of screaming human skulls and fused ribs that wept black ichor into the dust. The air was choked with the suffocating stench of rotting grave-cloth and eternal despair.
+>
+> When Lord Kelemvor claimed the throne, he commanded us to tear the screaming bones from the battlements. We broke the charnel towers of Myrkul with divine mauls and sanctified fire. We smoothed the basalt into orderly roads, and from the deep bedrock, the Lord of the Dead raised the **Crystal Spire**—translucent and luminous, that all judgments might be seen in the open light of truth.
+>
+> The lightness of the air thou feelest... that is the peace of the Lord of the Dead. It is the lifting of mortal weariness."*
+
+---
+
+### 🔮 Scene 5: The Hall of the Weighed & The Void Anchor
+
+Ascending the one hundred polished obsidian steps, Myagkiy and Orin entered the **Hall of the Weighed**—a colossal rotunda of living, iridescent quartz beneath the floating platinum-and-silver **Scale of the Final Balance**.
+
+Presiding over the court stood **Arch-Doomguide Vaelor**, an elder psychopomp with silver cloth bound over his eyes.
+
+Myagkiy placed the *Astrolabe of Nephren-Ka* and the *Obsidian Ledger* upon the jade pedestal. Channelling the resonant starlight of the Spire, Vaelor unlocked the astrolabe's deep planar cartography:
+* **Node 1 (Toril - Aul-Khem):** Extinguished and vitrified by Myagkiy's holy fire.
+* **Node 2 (Fugue Plane - City Perimeter):** Severed and imploded by Myagkiy's hammer.
+* **Node 3 (Terminal Master Reservoir):** A thick, pulsing beam of pitch-black necrotic energy plunged straight into the lightless void of the **Negative Energy Plane**, terminating at the **Cenotaph of the Black Star**—the ancient fortress housing Nephren-Ka's true phylactery!
+
+Vaelor turned to Myagkiy:
+
+> *"The Negative Energy Plane drinks mortal vitality like parched earth drinks rain. No living mortal may walk into that entropic void without their heart turning to cold ash. Yet thou hast defended the flock of the dead. Therefore, the Lord of the Dead bestows his seal upon thee."*
+
+#### Divine Boons Granted
+1. ***The Blessing of Soul-Shielding:*** A sacred planar ward woven into Myagkiy's +2 Plate Armor and +2 Shield (**Ь**), granting permanent immunity to the passive necrotic degradation and maximum HP siphoning of the Negative Energy Plane.
+2. ***The Tuning Fork of Lead & Void:*** A two-pronged fork of void-tempered lead etched with Kelemvor's scales, providing the exact planar coordinates for casting *Plane Shift* to the threshold of the Cenotaph of the Black Star.
+
+#### The Spire's Sanctuary & Completed Long Rest
+Escorted to a tranquil guest cloister within the lower tiers of the Crystal Spire, Myagkiy rested in deep, unburdened peace:
+* **Hit Points:** Fully restored to **139 / 139 HP**.
+* **Hit Dice:** All 14d8 Hit Dice recovered.
+* **Channel Divinity:** 2 / 2 charges restored (*Destroy Undead CR 3* ready).
+* **Spell Slots Fully Restored:** 1st (4/4), 2nd (3/3), 3rd (3/3), 4th (3/3), 5th (2/2), 6th (1/1), 7th (1/1 - *Plane Shift* ready).
+
+At his hip rested the **Tuning Fork of Lead and Void**. Before him lay the penultimate chapter of his five-year crusade: **Chapter 4: The Cenotaph of the Black Star & The Shattering of the Phylactery (1504 DR)**.
