@@ -366,7 +366,7 @@ Before stepping into the open cart lane within sight of the weeping menhir, Myag
 
 
 ![[myagkiy_bridge_ch01_weeping_stone_crossing_ambush.jpg]]
-*Figure 1.3: The Ambush at Weeping Stone Crossing — Myagkiy Znak wades through the rushing river shallows with warhammer and glowing "Ь" shield, flanked by the soaring Celestial Avenger and Spiritual Weapon as Death Priest Malakor recoils by the weeping menhir.*
+*Figure 1.3: The Ambush at Weeping Stone Crossing — Myagkiy Znak wades through the rushing river shallows with flanged steel mace Bonecounter and glowing "Ь" shield, flanked by the soaring Celestial Avenger and Spiritual Weapon as Death Priest Malakor recoils by the weeping menhir.*
 
 #### ⚔️ Round 1: The Ambush Reversed (Surprise Round)
 
