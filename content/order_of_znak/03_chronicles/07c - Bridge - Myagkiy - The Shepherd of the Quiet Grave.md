@@ -1586,3 +1586,172 @@ Escorted to a tranquil guest cloister within the lower tiers of the Crystal Spir
 * **Spell Slots Fully Restored:** 1st (4/4), 2nd (3/3), 3rd (3/3), 4th (3/3), 5th (2/2), 6th (1/1), 7th (1/1 - *Plane Shift* ready).
 
 At his hip rested the **Tuning Fork of Lead and Void**. Before him lay the penultimate chapter of his five-year crusade: **Chapter 4: The Cenotaph of the Black Star & The Shattering of the Phylactery (1504 DR)**.
+
+
+---
+
+## 🌌 Chapter 4: The Cenotaph of the Black Star & The Void-Anchor (1504 DR)
+
+### 🚶 Scene 1: The Planar Ingress & The Entropic Abyss
+
+Standing upon the consecrated basalt platform at the southern rim of the City of Judgment, Myagkiy Znak drew the heavy, dull-grey **Tuning Fork of Lead & Void** from his belt. When he struck its heavy tines against the silver rim of Dayne's +2 heater shield, it emitted no ringing chime—only a bone-deep, sub-audible vibration that pulled at the marrow of his limbs and swallowed all nearby echoes.
+
+Tracing the silver glyph of the Soft Sign (**Ь**) into the thinning air, Myagkiy spoke the ancient liturgical phrase:
+
+> *"By the balance of the grave and the breath of life... Plane Shift."*
+
+Space folded inward like crushed parchment. The chalky white towers of Kelemvor's domain vanished, and Myagkiy plunged into **absolute, lightless nothingness**.
+
+There was no up, no down, no horizon, and no solid stone beneath his boots. He floated in an infinite, weightless suspension of pitch-black entropic ether: **The Negative Energy Plane**. The silence was deafening—not merely the absence of sound, but an active, ravenous vacuum hungering to devour breath, warmth, and memory.
+
+Instantly, the planar pressure slammed against his physical form. A lesser mortal would have felt their very life-force torn from their chest, their maximum vitality collapsing round by round into dust. But the ***Blessing of Soul-Shielding*** flared into life. Beneath Dayne's +2 plate armor, an aura of sacred, warm amber light rippled across Myagkiy's skin, establishing a sovereign five-foot atmospheric redoubt of divine grace. The necrotic void screeched like boiling oil against his boundary, unable to pierce it.
+
+In his left gauntlet, the ***Astrolabe of Nephren-Ka*** blazed with cold azure witchfire. Its inner obsidian ring spun frantically, locking onto a massive silhouette floating one hundred and twenty feet away in the starless gloom:
+
+A colossal, jagged monolith of fractured obsidian and petrified bone: **The Cenotaph of the Black Star**.
+
+At its center rose the **Void-Pillar**—a forty-foot obelisk of weeping obsidian bound in heavy coils of black starmetal chains. Within its translucent crystal core, tens of thousands of captive, luminescent soul-sparks swirled in an agonizing vortex, being crushed down into an oily black sludge that drained into a deep planar conduit bored into the rock, leading directly to the Gray Waste of Hades.
+
+And guarding the obsidian terrace stood a horror drawn from the primordial womb of the void:
+
+A **Nightwalker (CR 20)**.
+
+Seventy feet tall, crowned with curling ram-horns of cracked void-stone, its chest yawning open in a ribcage of churning negative flame, the titan turned slowly as Myagkiy's amber aura illuminated the dark. A low, grinding groan of folding dimensions echoed across the void as its *Aura of Annihilation* crackled through the ether.
+
+---
+
+### 🛡️ Scene 2: The Pre-Cast Battery & The Proclamation
+
+Floating one hundred and twenty feet away from the terrace in the weightless ether, Myagkiy did not rush blindly into the void titan's grasp. Drawing forth his holy materials, he constructed an impenetrable fortress of life-magic:
+
+1. ***Magic Circle* (3rd-Level Slot — 1 Minute, No Concentration):**
+   * Scattering powdered silver and consecrated holy water through the weightless void, Myagkiy traced sacred geometries in the ether. The silver dust ignited with pure dawnlight, creating a ten-foot-radius, twenty-foot-tall cylindrical barrier of glowing glyphs anchored against **Undead**.
+   * *Planar Safeguards:* Undead could not willingly enter the cylinder by nonmagical means, suffered disadvantage on all attack rolls against targets inside, and could not charm, frighten, or possess anyone shielded by the circle.
+2. ***Summon Celestial* (5th-Level Slot — 1 Hour, Concentration):**
+   * Channelling celestial majesty, Myagkiy invoked an angelic champion. With a chime of celestial brass, a ten-foot-tall **Celestial Avenger** manifested within the circle, clad in plate of hammered sun-gold, beating wings of living solar fire, and wielding a radiant starlight longbow.
+3. ***Aid* (Upcast to 4th-Level Slot — 8 Hours, No Concentration):**
+   * An expanding shockwave of golden vitality washed through the circle:
+     * **Myagkiy Znak:** HP surged from `139` -> **`154 / 154 HP`** (`+15 Max/Current HP`, AC 24).
+     * **Celestial Avenger:** HP surged from `50` -> **`65 / 65 HP`** (`+15 Max/Current HP`, AC 16).
+4. ***Death Ward* (4th-Level Slot — 8 Hours, No Concentration):**
+   * Touching the silver Soft Sign (**Ь**) on his breastplate, Myagkiy warded his life-force against instantaneous death or dropping to 0 HP.
+
+Stepping to the front lip of the shimmering circle, Myagkiy raised Dayne's +2 shield, its silver glyph flaring with solar brilliance, while his flanged steel mace ***Bonecounter*** hummed with amber heat. 
+
+Across the silent expanse of the void, his voice thundered with the authority of thirty years of battle-devotion:
+
+> *"Begone from this place, for you are in the presence of one with the gift of Kelemvor and the might of Znak. I come to this place cloaked in light and vitality. Leave this place or be sent from it in your unmaking!"*
+
+The Nightwalker let out a subterranean shriek of offended entropy, its ram horns scraping the void as it launched itself into the dark!
+
+---
+
+### ⚔️ Scene 3: The Tactical Engagement (Rounds 1–2)
+
+#### 🎲 Initiative
+* **Nightwalker (CR 20):** `18 + 2` = **`20`**
+* **Myagkiy Znak & Celestial Avenger:** `14 - 1` = **`13`**
+
+---
+
+#### ⚔️ Round 1: The Rushing Shadow & The Solar Volley
+
+* **Nightwalker's Turn (Init 20):**
+  * The colossus flew 40 feet forward, then used its **Dash action** to surge an additional 40 feet through the weightless void, halting **40 feet directly in front of the Magic Circle**.
+  * Its 30-foot *Aura of Annihilation* crackled outward, stopping just 10 feet short of Myagkiy's barrier.
+* **Celestial Avenger's Turn (Init 13):**
+  * Drawing its starlight longbow, the golden angel fired two searing arrows across the 40-foot gap:
+    * *Arrow 1:* `14 + 10 = 24 vs AC 19` -> **HIT!** Deals **`17 Radiant Damage`**!
+    * *Arrow 2:* `5 + 10 = 15 vs AC 19` -> **MISS!**
+    * *Nightwalker HP:* `297` -> **`280 / 297 HP`**.
+* **Myagkiy Znak's Turn (Init 13):**
+  * *Bonus Action:* Cast ***Spiritual Weapon* (3rd-Level Slot)**, manifesting a glowing force mace adjacent to the Nightwalker 40 feet away:
+    * *Attack Roll:* `14 + 10 = 24 vs AC 19` -> **HIT!** Deals **`8 Force Damage`**!
+    * *Nightwalker HP:* `280` -> **`272 / 297 HP`**.
+  * *Action:* Cast ***Sacred Flame*** (+ Blessed Strikes):
+    * The Nightwalker rolled with Magic Resistance advantage: `[18, 20] + 2 = 22 vs DC 18` (Success, avoids the radiant column).
+  * *Tactical Movement:* Knowing the titan possessed a 15-foot reach, Myagkiy backed up 15 feet into the **rear 5-foot crescent of the 20-foot-diameter Magic Circle**, standing 17 feet away from the front boundary.
+
+---
+
+#### ⚔️ Round 2: The Finger of Doom & The Turning of the Titan
+
+* **Nightwalker's Turn (Init 20):**
+  * The colossus surged forward 40 feet and slammed full-tilt against the invisible outer boundary of the *Magic Circle* with a concussive shockwave of repelled shadow!
+  * It swept its massive, 15-foot shadowy claws forward with *Life Drain*, but Myagkiy’s tactical retreat placed him 17 feet away—the claws missed by two feet, raking empty ether!
+  * Enraged, the titan raised a jagged skeletal finger, unleashing its recharge ability: ***Finger of Doom***!
+    * *Constitution Save:* Myagkiy rolled `4 + 9 = 13 vs DC 21` (Failed Save).
+    * *Damage:* Takes **`33 Necrotic Damage`** (Current HP: `154` -> **`121 / 154 HP`**).
+    * *The Wards Hold:* The ***Blessing of Soul-Shielding*** completely prevented his maximum HP from being siphoned, and the *Magic Circle* granted absolute immunity to the *Frightened* condition!
+    * *Concentration Check (DC 16):* With Resilient (CON), Myagkiy rolled `6 + 9 = 15 vs DC 16` (Missed by 1). The Celestial Avenger dissolved into drifting starlight, leaving Myagkiy's concentration open.
+* **Myagkiy Znak's Turn (Init 13):**
+  * *Bonus Action:* Commanded ***Spiritual Weapon*** to strike the titan's flank: `5 + 10 = 15 vs AC 19` (Miss).
+  * *Action — Channel Divinity: Turn Undead:*
+    * Planting his boots in the ether, Myagkiy presented Dayne's +2 shield. The silver Cyrillic Soft Sign (**Ь**) blazed with the blinding, undeniable majesty of Kelemvor and the Life Domain.
+    * *Nightwalker Wisdom Save (DC 18 vs Turn Resistance Advantage):*
+      * Rolls: `[2, 13] + 2` -> **`15 vs DC 18` — FAILED SAVE!**
+    * **THE NIGHTWALKER WAS TURNED!**
+    * Shivering in sheer agony from the radiant dawnfire, the 70-foot titan wheeled around in terror. Using its full fly speed and Dash action (80 ft/round), it fled at maximum velocity away into the endless deep void! For ten full rounds (one full minute), the guardian was banished from the battlefield.
+
+---
+
+### 🔨 Scene 4: The Sunder of the Cenotaph & The Soul-Nova
+
+With the path cleared, Myagkiy glided across the eighty-foot expanse of void, his boots landing with a ringing chime upon the glass-smooth basalt dais of the **Cenotaph of the Black Star**.
+
+Summoning his *Spiritual Weapon* to his side, Myagkiy expended his final 5th-level spell slot, touching the cold steel flanges of his mace:
+
+> *"Holy Weapon."*
+
+Incandescent solar fire ignited along ***Bonecounter***, turning the flanged head into a blazing miniature sun (+2d8 radiant per hit).
+
+![[myagkiy_bridge_ch04_cenotaph_obelisk_sunder.jpg]]
+*Figure 4.1: The Sunder of the Cenotaph (1504 DR) — Elder battle priest Myagkiy Znak shatters the weeping obsidian Void-Pillar with the blazing flanged steel mace Bonecounter and glowing "Ь" shield, releasing a radiant helix of ten thousand liberated souls into the Negative Energy Plane as the turned Nightwalker recoils in the distant void.*
+
+#### ⚔️ The Sundering Strikes
+* **Round 3:**
+  * *Spiritual Weapon:* Slams the lower starmetal binding: `27 vs AC 17` -> **12 Force Damage**.
+  * *Bonecounter Melee Smite:* `27 vs AC 17` -> **28 Damage** (`9 Bludgeoning + 19 Radiant`). Cracks spiderweb across the black glass. (Pillar HP: `100` -> `60 / 100 HP`).
+* **Round 4:**
+  * *Spiritual Weapon:* Strikes the central junction: `24 vs AC 17` -> **11 Force Damage**.
+  * *Bonecounter Finishing Smite:* `28 vs AC 17` -> **31 Damage** (`10 Bludgeoning + 21 Radiant`). (Pillar HP: `60` -> **`0 / 100 HP` — SHATTERED!**).
+
+With a sound like a collapsing mountain, the starmetal chains snapped in twain. The forty-foot obsidian obelisk detonated outward in a shower of black glass shards, and **the light broke**.
+
+Tens of thousands of captive soul-sparks erupted from the shattered core in a titanic, ascending helix of pure, unblemished white fire. They spiraled upward through the dark planar ceiling toward the Astral Plane and the City of Judgment, countless silent voices whispering blessings of deliverance:
+
+> *"Freedom... Praise be to the Soft Sign... Praise be to Kelemvor..."*
+
+At the base of the shattered dais, the black siphon conduit snapped shut with a hollow, dying roar of thwarted divine fury echoing upward from the abyss—the distant gasp of **Myrkul**, feeling his primary soul-pipeline ripped from his grasp forever!
+
+---
+
+### 🕊️ Scene 5: The Prayer, The Recall & The Final Armament
+
+Standing alone upon the smoking dais amidst the drifting soul-embers, Myagkiy clasped his hands around the haft of *Bonecounter* and bowed his head, offering a quiet prayer for the passing of the freed souls:
+
+> *"Return now in peace, children of the mortal realm. The chains of entropy are broken; the false lord has no claim upon your marrow. Enter the gates of the City of Judgment unburdened, and find your quiet rest under Kelemvor's gaze."*
+
+Knowing the Nightwalker’s turning timer would expire in less than forty seconds, and that eight hours of rest in the Negative Energy Plane was impossible, Myagkiy did not linger. Drawing upon his sole remaining 6th-level spell slot, he spoke the sacred command word:
+
+> *"Word of Recall."*
+
+A flash of crystalline light enveloped him, plucking him across the planes and returning him instantly to his designated sanctuary within the **Crystal Spire** in Kelemvor's City of Judgment.
+
+#### Direct Logistics & The Hades Vector
+Myagkiy wasted no time in lengthy audiences with the judges. Meeting briefly with **Arch-Doomguide Vaelor**, he presented the shattered fragment of starmetal chain and reported that the master void-anchor was destroyed.
+
+Recognizing that Myrkul was reeling on his back foot, Myagkiy declared his intent to strike immediately. Vaelor unlocked the planar armory, bestowing upon him the **Tuning Fork of Tarnished Silver & Ashen Lead**, attuned directly to the resonant frequency of the **Gray Waste of Hades**.
+
+Locking the coordinates onto the *Astrolabe of Nephren-Ka*, the target was confirmed: **The Sunken Bone Citadel of Oinos**, along the blackened tributaries of the River Styx.
+
+#### The Long Rest & Milestone: Level 15 (1504–1505 DR)
+Retiring to his cloister, Myagkiy took an undisturbed eight-hour Long Rest, achieving the pinnacle milestone of his solo odyssey:
+
+* **Level 15 Attained:**
+  * **Hit Points:** Fully restored to **`148 / 148 HP`** (Base Maximum).
+  * **Armor Class:** **`24 AC`** (Dayne's +2 Plate + +2 Shield **Ь**).
+  * **Spell Slots Fully Restored:** 1st (4/4), 2nd (3/3), 3rd (3/3), 4th (3/3), 5th (2/2), 6th (1/1), 7th (1/1 - *Plane Shift* ready), and unlocking his new **8th-Level Spell Slot (1/1)**!
+  * **Master Spell Prepared:** ***Holy Aura*** (granting advantage on all saves, disadvantage on all enemy attacks, and blinding fiends and undead who strike him in melee!).
+
+At dawn of **1505 DR**, clad in consecrated plate with the silver Soft Sign gleaming upon his shield, Myagkiy Znak stood ready to strike the tarnished fork and initiate the final battle of his crusade: **Chapter 5: The Final Reckoning in Hades**.
