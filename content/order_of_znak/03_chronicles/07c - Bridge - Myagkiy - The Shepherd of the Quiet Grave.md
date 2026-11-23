@@ -1755,3 +1755,214 @@ Retiring to his cloister, Myagkiy took an undisturbed eight-hour Long Rest, achi
   * **Master Spell Prepared:** ***Holy Aura*** (granting advantage on all saves, disadvantage on all enemy attacks, and blinding fiends and undead who strike him in melee!).
 
 At dawn of **1505 DR**, clad in consecrated plate with the silver Soft Sign gleaming upon his shield, Myagkiy Znak stood ready to strike the tarnished fork and initiate the final battle of his crusade: **Chapter 5: The Final Reckoning in Hades**.
+
+
+---
+
+## 💀 Chapter 5: The Final Reckoning in Hades & The Host of the Living (1505 DR)
+
+### 🚶 Scene 1: The Causeway Vanguard & The Word of Recall Extraction
+
+The sulfurous winds of **Oinos** tore at Myagkiy’s cloak as he stood sixty paces from the drawbridge of the **Sunken Bone Citadel of Myrkul**.
+
+Mounted upon their smoldering **Skeletal Nightmares**, the **two Myrkulite Death Knights** did not hesitate. The first knight hurled a cataclysmic ***Hellfire Orb*** that detonated across the causeway in a 65-damage explosion of unholy flame and necrotic shockwaves. The concussive blast broke Myagkiy's concentration on his summoned Celestial Defender, but thanks to his pre-cast 4th-level ***Aid*** buff, his physical form held firm (`98 / 163 HP`).
+
+Spurring its steed forward sixty feet, the second Death Knight charged straight into melee, its six-foot runed greatsword biting into Myagkiy's side for 18 damage (`80 / 163 HP`).
+
+Planting his boots upon the stone causeway, Myagkiy presented Dayne’s +2 shield, the silver Soft Sign (**Ь**) flaring with the divine authority of Kelemvor and the Life Domain:
+
+> *"In the name of the Living Dawn... Destroy Undead!"*
+
+The **Skeletal Nightmare (CR 3)** beneath the rider failed its DC 18 Wisdom save and was **instantly vaporized into a cloud of white ash** by Myagkiy’s 15th-level *Destroy Undead* feature! Death Knight 2 crashed heavily onto the flagstones, knocked prone at Myagkiy's boots. Across the drawbridge, Myagkiy’s floating ***Spiritual Weapon*** struck Death Knight 1 in the helm for 13 Force damage.
+
+Yet the battle turned with terrifying speed. 
+
+Death Knight 1 spurred its flying nightmare across the causeway, swooping down with three devastating greatsword strikes (19, 16, and 18 damage). Death Knight 2 scrambled to its feet, delivering two more punishing blows (15 and 18 damage). The combined onslaught hammered Myagkiy with **86 damage**.
+
+His remaining 80 hit points vanished in an instant. The freezing scythe of death closed around his throat—until the golden runes of ***Death Ward*** stamped across his breastplate detonated in a protective flash of dawnlight. The death-curse shattered; Myagkiy was anchored to the mortal realm at **`1 Hit Point`**.
+
+Standing bloodied between the two towering undead lords, with their greatswords raised to deliver the killing stroke, Myagkiy looked into their hollow, burning visors. He did not yield to despair, nor did he indulge in suicidal pride. Drawing upon his sole remaining 6th-level spell slot, he spoke the sacred command word of Gond and Kelemvor:
+
+> *"Word of Recall!"*
+
+A blinding flash of crystalline starlight exploded upon the causeway. In the fraction of a heartbeat before the jagged steel cleaved his skull, Myagkiy vanished from the Gray Waste.
+
+---
+
+### 🕊️ Scene 2: The Epiphany of the Soft Sign & Divine Intervention
+
+Space folded violently, and Myagkiy collapsed onto the smooth, cool limestone floor of the **Crystal Spire** in Kelemvor's City of Judgment.
+
+His gunmetal plate was battered and scorched with necrotic soot; blood seeped from cracked mail; his breath came in ragged, burning gasps at **1 HP**.
+
+High Justiciar Orin the Stern and Arch-Doomguide Vaelor rushed to his side, their silver-robed attendants pouring restorative salves and healing magic over his wounds. Yet as Myagkiy lay upon the sanctuary dais, it was not the pain of his broken flesh that seized his soul.
+
+It was the revelation.
+
+The lesson of his five-year pilgrimage hit him smack in the face like a hellfire orb. He had wandered from the Dessarin River to Kryptgarden, across the scorching dunes of Anauroch, through the Astral void, and into the Negative Energy Plane—making it his sacred crusade to defend and preserve life across the multiverse. But in his solitary fervor, he had forgotten the very essence of the **Soft Sign (Ь)**. 
+
+The defense of life was never meant to be a solitary martyrdom. He was about to throw his life away in the ash of Hades, believing the burden was his alone to carry. But all living beings have a vested interest in the defeat of death. Life is not an isolated candle burning in the dark; it is a roaring hearth shared by all who breathe.
+
+Rising to his feet upon trembling legs, Myagkiy walked to the central altar of the Crystal Spire. He knelt upon the cold quartz, unclasped his prayer beads, and raised his calloused hands toward the heavens. 
+
+Drawing upon the sacred prerogative of a 15th-level high battle priest, Myagkiy invoked:
+
+> ***"Divine Intervention."***
+
+He did not pray for an angel of vengeance. He did not ask for a divine storm to pulverize the walls of Hades. He wept, his forehead pressed against the stone, praying for **fellowship**:
+
+> *"Lord of the Balance... Makers of the Sacred Forge... Children of the Dawn... I am but one mortal vessel. The shepherd cannot stand when the flock is barred from the field. If life is to endure against the Lord of Bones, let the living stand together!"*
+
+Deep within the celestial ether, his prayer was heard. 
+
+Across the mortal veil upon Toril, a **Mystery Prophet**—an elder traveler cloaked in wanderer's wool, whose eyes burned with the quiet, restorative warmth of the Soft Sign—appeared in the night camps of the **Bedine nomads** beneath the desert stars of Anauroch, and walked among the hearthfires of the **Greypeak mountaineers**. To each warrior, elder, and hunter whose kin Myagkiy had saved, the prophet asked a single, ringing question:
+
+> *"Who will stand with Myagkiy at the gates of Hades?"*
+
+---
+
+### ⚔️ Scene 3: The Gathering of the Host & The Return to Oinos
+
+Following an eight-hour Long Rest that fully knit his bones and restored his reservoir of divine magic (`148 / 148 HP`, all spell slots 1st through 8th level renewed), Myagkiy stood once more upon the transit dais of the Crystal Spire.
+
+Drawing forth the **Tuning Fork of Tarnished Silver & Ashen Lead**, he struck it against Dayne's +2 shield. 
+
+> *"Plane Shift."*
+
+He materialized upon the bone ridge overlooking the Sunken Bone Citadel in Hades. But this time, the planar rift behind him did not snap shut.
+
+It widened into a roaring, golden archway of celestial dawnfire.
+
+Out from the rift marched **The Host of the Delivered**:
+* **The Bedine of Anauria:** Fifty dune-riders, desert scouts, and shamans—their flowing white robes wrapped tight against the sulfurous winds, carrying composite shortbows and curved scimitars, their wooden bucklers boldly painted with the silver Cyrillic Soft Sign (**Ь**).
+* **The Greypeak Mountaineers:** Thirty burly highland warriors, hunters, and shield-maidens wielding heavy war-picks and boar spears, singing ancestral battle-hymns that shook the stagnant air of Hades.
+* **The Kelemvorite Vanguard:** High Justiciar Orin the Stern leading a phalanx of twenty silver-armored Doomguides and four soaring Celestial Arbiters with greatswords of pure starlight.
+
+Myagkiy stood frozen. Tears cut clean tracks through the grey ash on his dark cheeks. 
+
+An elder Bedine shaman, whose son Myagkiy had revivified from the frozen sands of Aul-Khem, stepped forward and gripped Myagkiy's right forearm in the warrior's clasp:
+
+> *"The Mystery Prophet asked who would bleed for the man who brought water to the parched and breath to our dead. The tribes of the desert do not leave their debts unpaid, Father of the Soft Sign. We stand with thee."*
+
+Myagkiy clasped the shaman's arm with both gauntlets, his voice thick with unashamed emotion:
+
+> *"Then let the Gray Waste witness the might of the living."*
+
+---
+
+### 🛡️ Scene 4: The Charge of the Causeway & The Portcullis Breach
+
+The combined host surged down the bone ridge in an unstoppable, thunderous wave.
+
+Seeing an entire army of living mortals and celestial champions materializing upon the plains of Oinos, the Citadel sounded its iron war-horns. The **two Death Knights** spurred their skeletal mounts forward, commanding their phalanx of Grave-Wights to hold the drawbridge.
+
+* **The Causeway Clash:**
+  * The Bedine archers formed firing ranks along the bile canal, darkening the rust-colored sky with a hail of starlight arrows that obliterated the Grave-Wights from the ramparts.
+  * High Justiciar Orin the Stern and the four Celestial Arbiters crashed directly into the two Death Knights! Radiance met hellfire in a blinding, concussive melee that locked the undead champions in place, encircling them in an impenetrable ring of celestial judgment.
+* **The Breach:**
+  * A squad of Greypeak mountaineers, wielding heavy dwarven breaching rams blessed with Gond's liturgical runes, slammed into the fused jaw-bone portcullis.
+  * With a deafening splinter of ancient bone, the iron-and-skeletal gates collapsed inward!
+
+Orin turned to Myagkiy, parrying a Death Knight's black blade with his broadsword:
+
+> *"Go, Myagkiy Znak! The vanguard is ours! Break the false god upon his throne!"*
+
+Gripping ***Bonecounter*** in his right hand and raising Dayne's +2 shield (**Ь**), Myagkiy charged alone through the shattered archway into the dark heart of the Citadel.
+
+---
+
+### ⚡ Scene 5: The Climax — Myagkiy Znak vs. The Weakened Avatar of Myrkul
+
+The inner sanctum was a colossal, hollowed-out dome formed from the horned skull of a primordial titan. 
+
+At the center of the hall, seated upon an ossuary throne of weeping skulls, sat the physical manifestation of **Myrkul (The Lord of Bones)**.
+
+In ancient times, this manifestation would have commanded the terror of a Greater God. But Myagkiy had spent five years methodically starving the beast:
+* The mortal anchors in Anauroch were pulverized.
+* The Astral soul-pipeline was collapsed.
+* The 10,000 captive souls of the Cenotaph of the Black Star were liberated into the Upper Planes.
+
+What sat upon the throne was a starving, hollowed, desperate husk—a **Weakened Avatar of Myrkul (CR 16 Boss)**. Its flesh was shriveled parchment stretched over yellowed bone; its cowl was tattered burial shroud; its hand trembled as it lifted a jagged, black-iron **Scythe of the Reaper**.
+
+The Avatar’s hollow eye-sockets blazed with sickly green witchfire as it hissed:
+
+> *"Mortal worm... thief of my flock... destroyer of my resurrection... thou shalt choke upon the dust of my waste!"*
+
+Myagkiy did not falter. He stood at the center of the throne hall, planting his boots firmly upon the cracked flagstones. Drawing upon the pinnacle well of his divine ordained power, he unleashed his new master spell:
+
+> ***"HOLY AURA!"***
+
+A thirty-foot sphere of blinding, solar radiance exploded from Myagkiy's chest. Pure dawnfire flooded the dark primordial skull, banishing every trace of gloom. 
+* *The Sovereign Ward:* Myagkiy gained **Advantage on all saving throws**; all enemy attacks against his **AC 24** were made at **Disadvantage**; and any undead that dared strike him in melee risked being **permanently blinded**!
+
+#### ⚔️ The Final Duel
+* **Round 1:**
+  * *The Avatar Strikes:* The Lord of Bones swept his massive Scythe of the Reaper in two whistling arcs:
+    * Attack 1 (Disadvantage vs AC 24): `[14, 8] + 10 = 18 vs AC 24` → **MISS!** Deflected by the glowing Soft Sign shield!
+    * Attack 2 (Disadvantage vs AC 24): `[19, 11] + 10 = 21 vs AC 24` → **MISS!** Glances harmlessly off Dayne's consecrated plate!
+  * *Myagkiy's Counter-Smite:*
+    * *Bonus Action:* Casts ***Spiritual Weapon* (3rd Level)**, manifesting Gond's glowing force hammer right behind the throne: `22 vs AC 18` → **HIT!** Deals **`11 Force Damage`**.
+    * *Action:* Striding forward, Myagkiy swings ***Bonecounter*** bathed in *Blessed Strikes* and dawnfire:
+      * Attack Roll: `d20 (17) + 9 = 26 vs AC 18` → **HIT!**
+      * Damage: `1d6 + 4 [Mace] + 1d8 [Blessed Strikes]` = **`15 Damage`** (`8 Bludgeoning + 7 Radiant`).
+    * *Avatar HP:* `210` → **`184 / 210 HP`**.
+
+* **Round 2:**
+  * *The Avatar's Bone Eruption:* Myrkul slammed his skeletal fist upon the floor, commanding sharp shards of petrified bone to erupt from the stones (DC 18 DEX Save).
+    * Thanks to *Holy Aura*, Myagkiy rolled with Advantage: `[18, 12] - 1 = 17 vs DC 18` (Takes half damage: **`14 Piercing Damage`**, HP: `134 / 148`).
+  * *Myagkiy's Radiant Reckoning:*
+    * *Bonus Action:* *Spiritual Weapon* slams the Avatar's ribcage: `24 vs AC 18` → **HIT!** Deals **`12 Force Damage`**.
+    * *Action:* Channelling 5th-level divine power, Myagkiy casts ***Flame Strike*** directly upon the throne:
+      * Avatar DEX Save (Magic Resistance Advantage): `[14, 9] + 2 = 16 vs DC 18` → **FAILED SAVE!**
+      * Damage: `4d6 Fire + 4d6 Radiant` = **`34 Radiant & Fire Damage`**!
+    * *Avatar HP:* `184` → **`138 / 210 HP`**.
+
+* **Round 3: The Blinding of the God:**
+  * Desperate, the Avatar lunged forward with a furious two-handed scythe strike:
+    * Attack (Disadvantage): `[16, 14] + 10 = 24 vs AC 24` → **SCRAPES AC 24!**
+    * Deals 19 damage (HP: `115 / 148`).
+    * **Holy Aura Backlash:** The moment the avatar's blade contacted Myagkiy's shield, holy fire erupted into Myrkul's face!
+      * Avatar Constitution Save: `d20 (5) + 6 = 11 vs DC 18` → **FAILED SAVE!**
+      * **THE AVATAR OF MYRKUL IS BLINDED!**
+  * *The Final Hammer:*
+    * *Bonus Action:* *Spiritual Weapon* strikes the blinded god with Advantage: `[19, 7] + 10 = 29 vs AC 18` → **HIT!** Deals **`13 Force Damage`**.
+    * *Action:* With a roar of righteous life, Myagkiy swung ***Bonecounter*** with both hands, aiming directly for the horned forehead of the blinded Lord of Bones:
+      * Attack Roll (Advantage): `[20, 14]` → **NATURAL 20! CRITICAL HIT!**
+      * Damage: `2d6 (11) + 4 [STR] + 2d8 (15) [Blessed Strikes] + 5th-Level Upcast Smite` = **`58 Bludgeoning & Radiant Damage`**!
+    * *Avatar HP:* `138` → `67 / 210 HP`.
+
+* **Round 4: The Unmaking:**
+  * Stumbling blindly upon the steps of his throne, the husk of Myrkul shrieked as golden cracks of dawnlight tore through his ribcage.
+  * Myagkiy stepped onto the dais, raised Dayne's +2 shield, and delivered the final decree:
+    > *"Thou art weighed. Thou art measured. Return to the dust of memory!"*
+  * Bringing ***Bonecounter*** down in a thunderous overhand strike, Myagkiy shattered the avatar's bone crown.
+  * *Damage:* **`32 Radiant Damage`** → **AVATAR DESTROYED!**
+
+The physical manifestation of Myrkul detonated inward. With a hollow, whistling implosion that pulled the breath from the room, the Lord of Bones dissolved into a harmless mound of grey ash and splintered bone. The dark necromancy animating the Sunken Citadel died instantly.
+
+Outside on the causeway, the two Death Knights collapsed into inert heaps of rusted iron and dry bone; their skeletal mounts dissolved into smoke. The remaining wights scattered wailing into the waste.
+
+---
+
+### 🌅 Scene 6: Epilogue — The Dawn of 1505 DR & The Reunion of the Order
+
+Myagkiy emerged from the shattered archway of the Citadel onto the blood-soaked causeway.
+
+Before him stood **The Host of the Delivered**—Bedine, Greypeak mountaineers, and Kelemvorite Doomguides—raising their spears and bows in a triumphant, roaring cheer. Across the leaden skies of Oinos, for the first time in an age, the rust-colored clouds fractured. A single, pure ray of golden dawnlight pierced the gloom of Hades, illuminating the silver Soft Sign (**Ь**) upon Myagkiy’s breastplate.
+
+He had not defeated death alone. Life had stood united, and life had prevailed.
+
+#### The Return & The 5-Year Reunion (1505 DR)
+Guided by High Justiciar Orin and Arch-Doomguide Vaelor, the allied host was repatriated across the planes:
+* The Bedine returned to Anauria as legends and protectors of the desert, their tribes united under the banner of the Soft Sign.
+* The Greypeak warriors returned to their alpine valleys laden with celestial blessings and restored pride.
+* Myagkiy Znak, ordained at **Level 15**, returned across the Sea of Swords to the town of **Leilon**.
+
+As the spring thaws of **1505 DR** broke over Aufox Manor, five full winters after the Order of Znak had parted ways at the Leilon crossroads, four legendary champions walked the road back toward the estate gates:
+
+* **[[Tvyordiy Znak]] (Ъ):** Soaring in from the northern crags, Master of the Open Hand and Wind.
+* **[[Krageer Stoneface Ogolakanu]]:** The indomitable goliath juggernaut, his greataxe resting easy upon his broad shoulder.
+* **[[Rhynok]]:** The deadly drow master scout, stepping silently from the woodland shadows.
+* **[[Myagkiy Znak]] (Ь):** The elder battle priest, his dark locs frosted with silver, his plate armor bearing the scars of Netheril, the Astral Plane, the Void, and Hades—standing not as an isolated hermit, but as the unbroken heart of the fellowship.
+
+The five-year bridge had closed. **The Order of Znak was whole once more.**
