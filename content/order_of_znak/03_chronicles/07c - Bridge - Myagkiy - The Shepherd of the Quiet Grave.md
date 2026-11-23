@@ -2091,25 +2091,133 @@ Outside on the causeway, the two Death Knights collapse into inert heaps of rust
 
 ---
 
-### 🌅 Scene 6: Epilogue — The Dawn of 1505 DR & The Reunion of the Order
+### 🌅 Scene 6: Epilogue — The Pilgrim's Homecoming & The Wayside Inn (1505 DR)
 
-Myagkiy emerged from the shattered archway of the Citadel onto the blood-soaked causeway.
+Myagkiy emerged from the shattered jawbone archway of the Sunken Citadel onto the blood-soaked causeway.
 
-Before him stood **The Host of the Delivered**—Bedine, Greypeak mountaineers, and Kelemvorite Doomguides—raising their spears and bows in a triumphant, roaring cheer. Across the leaden skies of Oinos, for the first time in an age, the rust-colored clouds fractured. A single, pure ray of golden dawnlight pierced the gloom of Hades, illuminating the silver Soft Sign (**Ь**) upon Myagkiy’s breastplate.
+Before him stood the surviving champions of **The Host of the Delivered**—Bedine dune-riders, Greypeak mountaineers, and Kelemvorite Doomguides—raising their spears, axes, and bows in a triumphant, roaring cheer that echoed across the plains of Oinos. Across the leaden skies of Hades, for the first time in an age, the rust-colored clouds fractured. A single, pure ray of golden dawnlight pierced the gloom, illuminating the silver Soft Sign (**Ь**) blazing upon Myagkiy’s breastplate.
 
-He had not defeated death alone. Life had stood united, and life had prevailed.
+He had not faced the grave alone. Life had stood united in fellowship, and life had prevailed.
 
-#### The Return & The 5-Year Reunion (1505 DR)
-Guided by High Justiciar Orin and Arch-Doomguide Vaelor, the allied host was repatriated across the planes:
-* The Bedine returned to Anauria as legends and protectors of the desert, their tribes united under the banner of the Soft Sign.
-* The Greypeak warriors returned to their alpine valleys laden with celestial blessings and restored pride.
-* Myagkiy Znak, ordained at **Level 15**, returned across the Sea of Swords to the Sword Coast.
+---
 
-In the late spring of **1505 DR**, five full winters after the commencement of their far-flung pilgrimages, four legendary champions converged upon the warm, bustling hearth of **The Wayside Inn** on the High Road:
+#### Act I: The Gathering at the Crystal Spire
 
-* **[[Tvyordiy Znak]] (Ъ):** Soaring in from the northern crags, Master of the Open Hand and Wind.
-* **[[Krageer Stoneface Ogolakanu]]:** The indomitable goliath juggernaut, his greataxe resting easy upon his broad shoulder.
-* **[[Rhynok]]:** The deadly Wood Elf Gloom Stalker master scout, stepping silently from the woodland shadows.
-* **[[Myagkiy Znak]] (Ь):** The elder battle priest, his dark locs frosted with silver, his plate armor bearing the scars of Netheril, the Astral Plane, the Void, and Hades—standing not as an isolated hermit, but as the unbroken heart of the fellowship.
+Gathering the wounded and the fallen, High Justiciar Orin the Stern and the Celestial Arbiters channeled the divine authority of Kelemvor. Unfurling a colossal planar gate of pure silver radiance, they stepped off the blighted soil of Hades, carrying Myagkiy and the host across the planar threshold directly into the Fugue Plane.
+
+When Myagkiy’s boots touched the translucent alabaster pavers at the base of the towering **Crystal Spire**, a breathtaking spectacle unfolded before him. 
+
+Flocking along the spiraling causeways toward the pearlescent tower were thousands of souls—the spirits of the deceased awaiting the Lord of the Dead's fair judgment. Among them, walking in proud, luminous phalanxes, were the souls of the allies who had fallen on the causeway of Hades: the Bedine riders who had taken hellfire to protect the lines, the Greypeak mountaineers who had held the breach, and the Doomguides who had traded their lives to shackle the Death Knights.
+
+As the spirits drifted past Myagkiy, many turned, their ethereal faces warm and radiant. A grizzled Bedine scout raised his spectral hand, touching his chest in the gesture of the dune tribes; a young Greypeak woman nodded with a serene, proud smile. 
+
+Myagkiy halted upon the alabaster steps, his flanged mace resting at his hip. In his chest, an unexpected sensation arose: he felt **no guilt, no survivor's grief, and no bitterness**. He knew with complete, unshakeable clarity that every one of these men and women had answered the call of their own free will, choosing to stand between the darkness and the living world. They had died not as victims of war, but as willing guardians of life. He sensed their deep, radiant peace as they ascended toward the Spire to be weighed by Kelemvor and led to their eternal reward.
+
+Reaching the secluded cloister within the lower tier of the Crystal Spire, Myagkiy unbuckled Dayne's +2 plate armor, leaned his mace and shield against the cool crystalline wall, and knelt upon the stone. For eight uninterrupted hours, he rested under the silent vigil of the psychopomps, allowing divine restoration to knit his flesh and replenish his ordained power.
+
+When the eighth hour struck, Myagkiy stood, his locs tied tightly back into his warrior's knot. He raised his holy symbol of the Soft Sign, focused upon his true anchor in the living world, and spoke a word of power:
+
+> ***"Banishment."***
+
+Targeting himself with the planar magic, the translucent spires of the Fugue Plane warped around him. Reality bent, and Myagkiy popped out of the celestial realm, his spirit propelled across the cosmos back to his native home.
+
+---
+
+#### Act II: The Clan of the Soft Sign (Anauroch)
+
+In a rushing flare of desert air and golden sand, Myagkiy rematerialized upon the high dunes of **Anauroch**, standing directly in the center of the Bedine encampment.
+
+A chorus of joyous shouts erupted from the leather pavilions. Bedine elders, camel drivers, and veiled shamans poured from their tents, falling to their knees before weeping and clasping his gauntlets. To the tribes of the Great Sand Sea, the battle priest who had shattered the necromancers of Aul-Khem and returned from the realm of death was a legend of the dunes—their brother and protector.
+
+For three weeks, Myagkiy lingered among the Bedine. He walked their fires, broke unleavened bread under the vast canopy of desert stars, tended to their sick with gentle spells of restorative water, and listened to their poets recite the Ballad of the Quiet Grave.
+
+On the eve of his departure, the sheikh and the tribal shamans summoned Myagkiy into the central ceremonial pavilion. The Bedine carried a sacred tradition: each clan marked their skin with intricate, dark indigo tattoos to declare their lineage, desert honor, and ancestral bloodline. But now, the clan elders knelt before the Black battle priest:
+
+> *"Thou hast bled for our sons and freed our ancestors from the dark obelisks. Thou art of our blood forever. Stand, brother of the sands, and receive the mark of our house."*
+
+Kneeling by the cedar fire, Myagkiy bowed his head in quiet humility. Using bone needles and sacred natron ash mixed with desert indigo, the eldest shaman inscribed **thematic geometric clan tattoos upon either temple** of Myagkiy's head. The sharp, elegant lines curved gracefully beside his silver-frosted dreadlocks—a permanent, indelible testament to the nomad host who had answered his prayer and stood beside him at the gates of Hades.
+
+---
+
+#### Act III: The Greypeak Passes & Pastoral Ministry Retraced
+
+When the sands began to shift with the winds of spring, a cohort of fifty mounted Bedine dune-riders accompanied Myagkiy westward across the Great Sand Sea, escorting him with songs and horns to the rocky foothills of the **Greypeak Mountains**.
+
+Bidding his desert kin a solemn, brotherly farewell, Myagkiy ascended into the pine-scented crags of the Greypeaks on foot. Retracing the very valleys, goat tracks, and mining camps where he had spent the opening year of his pilgrimage (**1500–1501 DR**), he found his pastoral ministry bearing magnificent fruit.
+
+In the mountain settlements and rough-hewn stone hamlets, folk spilled from their cabins at the sight of the elder priest. Women wept in gratitude as he laid gentle hands upon their sick; burly stone-miners who had fought beside him in the low passes grasped his shoulders with rough laughter. In small roadside stone shrines where Myagkiy had once consecrated simple wooden altars, he found fresh mountain wildflowers laid upon carved representations of the Cyrillic Soft Sign (**Ь**). He conducted weddings by mountain streams, held newborn babes in his calloused palms to speak Gond's liturgical blessings of life, and prayed over the graves of the elderly who had passed peacefully in their beds.
+
+For two weeks he walked the ridges, confirming that the darkness of Netheril and the shadow of Myrkul had truly been lifted from the high country.
+
+---
+
+#### Act IV: The Road to Leilon & The Flight of the White Falcon
+
+Descending from the western foothills of the Greypeaks, Myagkiy struck the ancient, rutted coast road running northward along the Sword Coast toward the town of **Leilon**.
+
+As the salt spray of the Sea of Swords caught his beard and the grey waters stretched to the horizon, Myagkiy paused at a milestone cairn. Drawing upon his divine reservoir, he touched the silver medallion at his collar, whispered a prayer, and cast ***Sending*** across the leagues to **Leopold**, the venerable majordomo of Aufox Manor:
+
+> *"Leopold. The crusade is finished; the Lord of Bones broken. I walk the road home. Prepare the manor; the Soft Sign returns to Leilon."*
+
+Two seconds of humming planar silence passed before Leopold’s dignified, trembling voice echoed directly into Myagkiy's mind:
+
+> *"Master Myagkiy! Praise Gond and Kelemvor! The manor stands ready. Master Tvyordiy was with us—he takes flight southward this very hour to meet you!"*
+
+A deep, broad smile broke across Myagkiy's weathered face. He tucked his medallion into his plate armor and continued his steady stride northward along the coastal verge.
+
+Two days' hard march south of Leilon, as the afternoon sea-mist began to roll across the coastal heath, a sharp, piercing cry echoed down from the overcast sky.
+
+Myagkiy halted. Looking upward through the fog, he saw a majestic, white-feathered silhouette carving through the updrafts. Pure white wings edged with vibrant orange and russet markings beat with effortless, martial grace. 
+
+**[[Tvyordiy Znak]] (Ъ)** dropped from the clouds like a falling spear, spreading his broad wings at the last second to brake against the sea wind. His talons touched the grass with barely a whisper, twenty feet ahead on the cart road.
+
+The two brothers stood in the mist, taking each other in for the first time in five winters:
+* **Tvyordiy** had transformed: his white plumage was immaculate, his frame lean and hardened like forged tempered steel, his golden raptor eyes radiating the unshakeable stillness and limitless freedom of a true Master of the Open Hand and Wind.
+* **Myagkiy** stood before him: his rich dark brown skin lined with wisdom, silver-and-grey-frosted dreadlocks tied back, sharp Bedine tribal tattoos dark against his temples, Dayne's +2 plate armor scarred by the fires of four planes, and the flanged steel head of *Bonecounter* resting quiet at his belt.
+
+For three seconds, neither spoke. Then, with a sudden, joyful roar, Myagkiy opened his arms. 
+
+Tvyordiy bounded forward, folding his massive white wings around the elder cleric. The two brothers crashed together in a bone-crushing, tearful embrace—the Hard Sign and the Soft Sign meeting upon the soil of the Sword Coast, unbroken and unconquered.
+
+> *"Thou art older, brother,"* Tvyordiy laughed, his beak clicking against Myagkiy's shoulder plate. *"And yet thou hast grown heavier upon the earth."*
+>
+> *"And thou hast become wind itself, little brother,"* Myagkiy murmured, clasping Tvyordiy's feathered shoulders with fierce affection. *"Come. The road is long, and I have five years of wonders to tell thee."*
+
+---
+
+#### Act V: The 5-Year Reunion at The Wayside Inn
+
+Shouldering their gear, the two brothers walked side-by-side up the High Road, talking without pause as the miles fell beneath their boots. Myagkiy recounted the sunken pyramids of Aul-Khem, the severed Astral cord, the 10,000 ascending souls of the Negative Energy Plane, and the final duel in the primordial skull of Hades. Tvyordiy shared his trials in the high monastery crags, his mastery of the ki of the storm, and his quiet watch over the Sword Coast.
+
+By the twilight of the second day, the welcoming, amber lantern glow of **The Wayside Inn** appeared through the coastal pines. 
+
+The heavy oak doors of the inn creaked open, spilling the warmth of a roaring peat fire, the rich aroma of roasted venison, and the lively clinking of pewter tankards into the cold night air.
+
+Standing by the great stone hearth at the center of the tavern room, two figures turned:
+* **[[Krageer Stoneface Ogolakanu]]:** The towering goliath juggernaut, his obsidian skin bearing fresh battle scars, grinning broadly as his massive greataxe leaned against the tavern bench.
+* **[[Rhynok]]:** The deadly **Wood Elf** Gloom Stalker master scout, stepping silently out from the shadows near the corner table, his piercing green eyes softening into a genuine, respectful nod of welcome.
+
+The taproom fell quiet as the four champions converged in the center of the tavern. 
+
+Krageer slammed a colossal hand onto Myagkiy's pauldron with enough force to shake a normal man to his knees, while Rhynok stepped forward to clasp Myagkiy's forearm in silent, warrior respect. tankards of dark ale were raised high into the firelight.
+
+The five-year bridge had closed. The trials were ended. **The Order of Znak was whole once more.**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 The five-year bridge had closed. **The Order of Znak was whole once more.**
