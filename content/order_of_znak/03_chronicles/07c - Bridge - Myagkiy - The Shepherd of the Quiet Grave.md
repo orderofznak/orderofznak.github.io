@@ -1018,6 +1018,7 @@ Two towering, eight-foot-tall automatons sculpted from compressed volcanic silt,
   * A blinding vortex of shimmering fey water sprites—pure, crystalline mountain water manifesting in the arid desert—erupted in a 15-foot radius around him. The spirits swirled with rushing, cleansing currents, their radiant aura searing the dry necrotic magic of the crypt.
   * The two golems surged forward into the 15-foot zone: their movement speed was instantly halved by the swirling waters, and both constructs failed their Wisdom saving throws against Myagkiy's **DC 18 Spell Save**, taking **12 radiant damage** as the water sprites dissolved their sand-crusted limbs!
   * Lunging forward, both golems struck out with four slamming blows against Myagkiy: but against Dayne's consecrated **24 AC**, every crushing blow scraped harmlessly off the silvered steel and massive heater shield!
+
 * **Round 2:**
   * At the start of the round, the *Spirit Guardians* tore through the constructs for **22 radiant damage**.
   * Channelling the righteous fury of the morning sun, Myagkiy raised his mace and called down a roaring column of vertical fire: ***Flame Strike* (5th-Level Slot)**!
@@ -1896,51 +1897,197 @@ A thirty-foot sphere of blinding, solar radiance exploded from Myagkiy's chest. 
 * *The Sovereign Ward:* Myagkiy gained **Advantage on all saving throws**; all enemy attacks against his **AC 24** were made at **Disadvantage**; and any undead that dared strike him in melee risked being **permanently blinded**!
 
 #### ⚔️ The Final Duel
-* **Round 1:**
-  * *The Avatar Strikes:* The Lord of Bones swept his massive Scythe of the Reaper in two whistling arcs:
-    * Attack 1 (Disadvantage vs AC 24): `[14, 8] + 10 = 18 vs AC 24` → **MISS!** Deflected by the glowing Soft Sign shield!
-    * Attack 2 (Disadvantage vs AC 24): `[19, 11] + 10 = 21 vs AC 24` → **MISS!** Glances harmlessly off Dayne's consecrated plate!
-  * *Myagkiy's Counter-Smite:*
-    * *Bonus Action:* Casts ***Spiritual Weapon* (3rd Level)**, manifesting Gond's glowing force hammer right behind the throne: `22 vs AC 18` → **HIT!** Deals **`11 Force Damage`**.
-    * *Action:* Striding forward, Myagkiy swings ***Bonecounter*** bathed in *Blessed Strikes* and dawnfire:
-      * Attack Roll: `d20 (17) + 9 = 26 vs AC 18` → **HIT!**
-      * Damage: `1d6 + 4 [Mace] + 1d8 [Blessed Strikes]` = **`15 Damage`** (`8 Bludgeoning + 7 Radiant`).
-    * *Avatar HP:* `210` → **`184 / 210 HP`**.
 
-* **Round 2:**
-  * *The Avatar's Bone Eruption:* Myrkul slammed his skeletal fist upon the floor, commanding sharp shards of petrified bone to erupt from the stones (DC 18 DEX Save).
-    * Thanks to *Holy Aura*, Myagkiy rolled with Advantage: `[18, 12] - 1 = 17 vs DC 18` (Takes half damage: **`14 Piercing Damage`**, HP: `134 / 148`).
-  * *Myagkiy's Radiant Reckoning:*
-    * *Bonus Action:* *Spiritual Weapon* slams the Avatar's ribcage: `24 vs AC 18` → **HIT!** Deals **`12 Force Damage`**.
-    * *Action:* Channelling 5th-level divine power, Myagkiy casts ***Flame Strike*** directly upon the throne:
-      * Avatar DEX Save (Magic Resistance Advantage): `[14, 9] + 2 = 16 vs DC 18` → **FAILED SAVE!**
-      * Damage: `4d6 Fire + 4d6 Radiant` = **`34 Radiant & Fire Damage`**!
-    * *Avatar HP:* `184` → **`138 / 210 HP`**.
+##### ⚔️ Round 1: The Twin Signs of Znak
 
-* **Round 3: The Blinding of the God:**
-  * Desperate, the Avatar lunged forward with a furious two-handed scythe strike:
-    * Attack (Disadvantage): `[16, 14] + 10 = 24 vs AC 24` → **SCRAPES AC 24!**
-    * Deals 19 damage (HP: `115 / 148`).
-    * **Holy Aura Backlash:** The moment the avatar's blade contacted Myagkiy's shield, holy fire erupted into Myrkul's face!
-      * Avatar Constitution Save: `d20 (5) + 6 = 11 vs DC 18` → **FAILED SAVE!**
-      * **THE AVATAR OF MYRKUL IS BLINDED!**
-  * *The Final Hammer:*
-    * *Bonus Action:* *Spiritual Weapon* strikes the blinded god with Advantage: `[19, 7] + 10 = 29 vs AC 18` → **HIT!** Deals **`13 Force Damage`**.
-    * *Action:* With a roar of righteous life, Myagkiy swung ***Bonecounter*** with both hands, aiming directly for the horned forehead of the blinded Lord of Bones:
-      * Attack Roll (Advantage): `[20, 14]` → **NATURAL 20! CRITICAL HIT!**
-      * Damage: `2d6 (11) + 4 [STR] + 2d8 (15) [Blessed Strikes] + 5th-Level Upcast Smite` = **`58 Bludgeoning & Radiant Damage`**!
-    * *Avatar HP:* `138` → `67 / 210 HP`.
+* **Myagkiy Znak (Init 10):**
+  * *Movement:* Advances 30 feet across the cracked ossuary flagstones, planting his boots at the foot of the throne dais directly into melee range (5 feet). The blinding 30-foot sphere of ***Holy Aura*** engulfs the entire dais, bathing the Lord of Bones in searing dawnfire.
+  * *Action:* With seasoned battle discipline, Myagkiy unseals a flask of ***Refined Natron Salt Unguents*** and coats the flanged steel head of ***Bonecounter***. The sacred salts hiss upon the cold steel, binding into a radiant, incandescent crust (+3d6 radiant damage, suppresses necrotic regeneration; 2 doses remaining).
+  * *Bonus Action — Spiritual Weapon (5th-Level Upcast):* Channelling the fellowship of the Order and the twin pillars of his faith, Myagkiy invokes a 5th-level ***Spiritual Weapon*** (`1/2` 5th-level slots remaining). A towering spectral warhammer of blinding force manifests directly above the throne dais. One striking face bears the curved, compassionate contours of the **Soft Sign (Ь)**; the opposite striking face bears the hard, unyielding brow of the **Hard Sign (Ъ)**!
+    * *Attack Roll vs. Avatar of Myrkul (AC 18):* Rolled `d20 (14) + 10 = 24 vs AC 18` → **HIT!**
+    * *Damage:* `2d8 + 5 [WIS]` = `[6, 7] + 5` = **`18 Force Damage`**! The twin-sign warhammer crashes down upon the Avatar's left shoulder, shattering petrified bone and sending splinters across the throne!
+  * *Avatar HP:* `210` → **`192 / 210 HP`**.
 
-* **Round 4: The Unmaking:**
-  * Stumbling blindly upon the steps of his throne, the husk of Myrkul shrieked as golden cracks of dawnlight tore through his ribcage.
-  * Myagkiy stepped onto the dais, raised Dayne's +2 shield, and delivered the final decree:
+* **Weakened Avatar of Myrkul (Init 5):**
+  * Shrieking in fury, the Lord of Bones rises from the skull throne, sweeping the jagged, blackened ***Scythe of the Reaper*** in two vicious arcs at Myagkiy:
+  * Under the blinding radiance of ***Holy Aura***, all attacks against Myagkiy (AC 24) are made at **Disadvantage**:
+    * *Attack 1 (Disadvantage vs AC 24):* Rolled `[15, 6] + 10 = 16 vs AC 24` → **MISS!** Deflected harmlessly wide by Dayne's +2 plate.
+    * *Attack 2 (Disadvantage vs AC 24):* Rolled `[18, 9] + 10 = 19 vs AC 24` → **MISS!** The black blade strikes the glowing silver face of the **Ь** shield, throwing off a blinding cascade of golden sparks!
+  * *Legendary Action (Grasp of the Grave — 1 Action):*
+    * Myrkul commands the cracked flagstones beneath Myagkiy to erupt with clawing skeletal hands:
+    * *Strength Saving Throw (DC 16):* Rolled with Advantage (Holy Aura): `[17, 12] + 2 = 19 vs DC 16` → **SUCCESS!**
+    * Furthermore, ***Freedom of Movement*** renders Myagkiy immune to restraint; the grasping bone fingers shatter against his consecrated greaves into harmless dust.
+
+
+
+
+
+
+
+
+
+
+##### ⚔️ Round 2: The Searing Natron & The Hard Sign
+
+* **Myagkiy Znak (Init 10):**
+  * *Action — Bonecounter Strike (+Natron Salts + Blessed Strikes):* Stepping firmly onto the bottom step of the ossuary throne, Myagkiy swings ***Bonecounter*** in a two-handed crushing arc aimed at the Avatar's dry ribcage:
+    * *Attack Roll vs. Avatar (AC 18):* Rolled `d20 (16) + 9 = 25 vs AC 18` → **HIT!**
+    * *Damage:* `1d6 + 4` [Bludgeoning] + `1d8` [Blessed Strikes Radiant] + `3d6` [Natron Salts Radiant]
+      * Rolls: `[5] + 4 = 9` bludgeoning + `[7]` radiant + `[4, 6, 5] = 15` radiant = **`31 Total Damage`** (`9 bludgeoning + 22 radiant`)!
+    * The natron salts ignite upon impact with a violent hiss, searing the Avatar's ancient marrow with blinding solar heat and **suppressing all necrotic regeneration**!
+  * *Bonus Action — Spiritual Weapon (5th Level):* Directing the hovering force warhammer with a clenched fist, Myagkiy brings the **Hard Sign (Ъ)** face crashing into the Avatar's flank:
+    * *Attack Roll vs. Avatar (AC 18):* Rolled `d20 (13) + 10 = 23 vs AC 18` → **HIT!**
+    * *Damage (2d8 + 5 Force):* `[5, 8] + 5` = **`18 Force Damage`**! The impact shatters petrified bone, sending fragments clattering down the steps.
+  * *Total Round 2 Damage to Avatar:* `31 + 18 = 49 Damage`.
+  * *Avatar HP:* `192` → **`143 / 210 HP`**.
+
+* **Weakened Avatar of Myrkul (Init 5):**
+  * Staggered by radiant dawnfire and fractured bone, the Lord of Bones unleashes a guttural hiss of despair:
+  * *Action — Bone Eruption (Recharge 5-6):* Myrkul slams the haft of the *Scythe of the Reaper* against the throne, commanding jagged spikes of petrified bone to burst upward from the floor in a 20-foot radius:
+    * *Dexterity Saving Throw (DC 18):* Rolled with Advantage (Holy Aura): `[18, 12] - 1 = 17 vs DC 18` (Just misses the DC by 1).
+    * *Damage:* Takes `6d6` piercing damage = `[3, 4, 5, 2, 4, 3]` = **`21 Piercing Damage`**! Dayne's +2 plate deflects the fatal impalements, absorbing the brunt of the burst (Myagkiy reduced from 163 to **`142 / 163 HP`**).
+  * *Legendary Action (Scythe Sweep — 1 Action):*
+    * At the end of the round, the Avatar sweeps its black scythe at Myagkiy (AC 24) at Disadvantage:
+    * *Attack Roll (Disadvantage vs AC 24):* Rolled `[17, 7] + 10 = 17 vs AC 24` → **MISS!** Deflected effortlessly by the **Ь** heater shield!
+
+
+
+
+
+
+
+
+##### ⚔️ Round 3: The Searing Flame & The Blinding of the God
+* **Myagkiy Znak (Init 10):**
+  * *Action — Sacred Flame:* Pointing his open gauntlet directly into the snarling face of the Lord of Bones, Myagkiy calls down a blinding column of pure solar radiance:
+    * *Avatar DEX Save (DC 18 — Magic Resistance Advantage):* Rolled `[14, 9] + 2 = 16 vs DC 18` → **FAILED SAVE!**
+    * *Damage:* `3d8` base + `1d8` *Blessed Strikes* = `4d8` radiant = `[6, 7, 5, 4]` = **`22 Radiant Damage`**! Searing starlight engulfs the Avatar's tattered cowl and shoulder bones in white-hot flame!
+  * *Bonus Action — Spiritual Weapon (5th Level):* Directing the floating spectral warhammer to strike from the opposite flank, the **Soft Sign (Ь)** face crashes down upon the Avatar's spine:
+    * *Attack Roll vs. Avatar (AC 18):* Rolled `d20 (11) + 10 = 21 vs AC 18` → **HIT!**
+    * *Damage (2d8 + 5 Force):* `[7, 6] + 5` = **`18 Force Damage`**! Cracking the Avatar's vertebrae and staggering the death god forward!
+  * *Total Round 3 Damage to Avatar:* `22 + 18 = 40 Damage`.
+  * *Avatar HP:* `143` → **`103 / 210 HP`**.
+
+* **Weakened Avatar of Myrkul (Init 5):**
+  * With half its skeletal vessel reduced to smoking cinders, the Avatar shrieks in unholy rage, raising the ***Scythe of the Reaper*** in a desperate, two-handed downward cleave against Myagkiy (AC 24) at Disadvantage:
+    * *Attack 1 (Disadvantage vs AC 24):* Rolled `[16, 14] + 10 = 24 vs AC 24` → **SCRAPES AC 24! A HIT!**
+    * The razor-edge of the black scythe cuts through the joint beneath Dayne's pauldrons:
+      * *Damage:* Takes `2d10 + 6` = `[5, 8] + 6` = **`19 Slashing & Necrotic Damage`**!
+      * *Soul-Shielding Boon:* Kelemvor's blessing prevents necrotic damage from reducing Myagkiy's maximum HP (Myagkiy reduced from 142 to **`123 / 163 HP`**).
+      * *Concentration Check (Holy Aura):* DC 10 (half of 19). With Resilient (Constitution) and *Holy Aura* Advantage: `[15, 12] + 9 = 24 vs DC 10` → **CRITICAL SUCCESS!** Concentration on *Holy Aura* is completely unbroken!
+    * **Holy Aura Backlash & Legendary Resistance:** The instant the Avatar's blade touches Myagkiy's flesh, a blinding nova of dawnfire explodes directly into the god's face!
+      * *Constitution Saving Throw (DC 18):* Rolled `d20 (5) + 6 = 11 vs DC 18` → **FAILED SAVE!**
+      * **Legendary Resistance (1/3 Expended):** Shrieking a blasphemous curse, Myrkul burns one of his divine reserve anchors! Green necrotic witchfire violently reignites within his hollow eye sockets, incinerating the solar dawnfire and turning the failed save into a success! The Lord of Bones is **NOT blinded** (`2/3` Legendary Resistances remaining).
+    * *Attack 2 (Disadvantage vs AC 24):* Snarling through smoking bone, Myrkul strikes with his scythe: Rolled `[14, 8] + 10 = 18 vs AC 24` → **MISS!** Deflected harmlessly by Dayne's +2 plate!
+  * *Legendary Action (Scythe Cleave — 1 Action):*
+    * At the end of the round, the sighted Avatar sweeps his scythe with furious precision at Myagkiy (AC 24) at Disadvantage:
+    * *Attack Roll (Disadvantage vs AC 24):* Rolled `[18, 11] + 10 = 21 vs AC 24` → **MISS!** Smashes violently into the glowing **Ь** heater shield in a cascade of blinding sparks!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##### ⚔️ Round 4: The Sunder of the Breastplate & The Severed Horn
+* **Myagkiy Znak (Init 10):**
+  * *Action — Bonecounter Strike (+Natron Salts + Blessed Strikes):* Stepping up the steps of the ossuary dais, Myagkiy brings ***Bonecounter*** crashing down in a two-handed overhand strike aimed dead-center at the Avatar's glowing sternum:
+    * *Attack Roll vs. Avatar (AC 18):* Rolled `d20 (17) + 9 = 26 vs AC 18` → **HIT!**
+    * *Damage:* `1d6 + 4` [Bludgeoning] + `1d8` [Blessed Strikes Radiant] + `3d6` [Natron Salts Radiant]
+      * Rolls: `[6] + 4 = 10` bludgeoning + `[8]` radiant + `[5, 5, 6] = 16` radiant = **`34 Total Damage`** (`10 bludgeoning + 24 radiant`)!
+    * The consecrated mace pulverizes the Avatar's breastbone into a crater of white ash; natron salts sear deep into the marrow, **completely suppressing all necrotic regeneration**!
+  * *Bonus Action — Spiritual Weapon (5th Level):* Myagkiy sweeps his fist downward, bringing the spectral warhammer crashing onto the Avatar's horned brow with its **Hard Sign (Ъ)** face:
+    * *Attack Roll vs. Avatar (AC 18):* Rolled `d20 (15) + 10 = 25 vs AC 18` → **HIT!**
+    * *Damage (2d8 + 5 Force):* `[6, 7] + 5` = **`18 Force Damage`**! The impact snaps off the Avatar's right curled ram horn with a concussive shockwave that reverberates off the titan skull vault!
+  * *Total Round 4 Damage to Avatar:* `34 + 18 = 52 Damage`!
+  * *Avatar HP:* `103` → **`51 / 210 HP`**! *(Critical condition — less than 25% health remaining!)*
+
+* **Weakened Avatar of Myrkul (Init 5):**
+  * Black soul-smoke billows from the Avatar's fractured skull and sheared horn as golden cracks of dawnlight tear across its ribcage. In a feral, dying frenzy, the Lord of Bones lunges with the ***Scythe of the Reaper***:
+  * Under ***Holy Aura***, both attacks against Myagkiy (AC 24) are made at **Disadvantage**:
+    * *Attack 1 (Disadvantage vs AC 24):* Rolled `[13, 7] + 10 = 17 vs AC 24` → **MISS!** Glances harmlessly off Dayne's pauldrons.
+    * *Attack 2 (Disadvantage vs AC 24):* Rolled `[15, 11] + 10 = 21 vs AC 24` → **MISS!** Deflected effortlessly by the glowing **Ь** heater shield!
+  * *Legendary Action (Withering Gaze — 1 Action):*
+    * Fixing its lone remaining witchfire eye upon Myagkiy, the dying avatar projects a blast of tomb chill:
+    * *Wisdom Saving Throw (DC 18):* Rolled with Advantage (Holy Aura): `[16, 13] + 10 = 26 vs DC 18` → **CRITICAL SUCCESS!**
+    * Takes half damage: `3d8` = `[3, 4, 3] = 10 / 2` = **`5 Necrotic Damage`** (Kelemvor's *Soul-Shielding* preserves Myagkiy's maximum HP; Myagkiy reduced from 123 to **`118 / 163 HP`**).
+
+##### ⚔️ Round 5: The Mountebank's Veil & The Long-Range Sunder
+
+* **Myagkiy Znak (Init 10):**
+  * *Action — Cape of the Mountebank (Dimension Door):* Sensing the erratic, cataclysmic buildup of necrotic death-essence as the Avatar teeters on the brink, Myagkiy sweeps his crimson-and-gold mantle around his frame. With a violent pop of brimstone and lavender smoke, Myagkiy dissolves through the planar fabric, rematerializing 60 feet across the cavernous titan skull chamber directly beside the jawbone archway of the threshold. Clouds of light smoke lightly obscure his departure and arrival points, completely extracting him from melee without provoking an attack of opportunity!
+  * *Bonus Action — Spiritual Weapon (5th Level):* From sixty feet across the hall, Myagkiy extends his silvered gauntlet, commanding the hovering spectral warhammer left on the throne dais to strike the reeling Lord of Bones:
+    * *Attack Roll vs. Avatar (AC 18):* Rolled `d20 (14) + 10 = 24 vs AC 18` → **HIT!**
+    * *Damage (2d8 + 5 Force):* `[8, 5] + 5` = **`18 Force Damage`**! The **Soft Sign (Ь)** face of the hammer slams into the Avatar's left collarbone and spine, crushing petrified bone into powder and knocking the death god sideways off the throne dais!
+  * *Avatar HP:* `51` → **`33 / 210 HP`**! *(Barely clinging to physical manifestation!)*
+
+* **Weakened Avatar of Myrkul (Init 5):**
+  * Robbed of its melee prey, the Lord of Bones scrambles down the steps in unholy fury, advancing 30 feet across the flagstones (halving the gap to 30 feet, still far out of 10-foot scythe reach).
+  * *Action — Finger of Death (7th-Level Spell):* Trembling with rage, the Avatar points a jagged, skeletal finger across the chamber at Myagkiy standing in the smoke, unleashing a crackling beam of sickly green negative lightning:
+    * *Constitution Saving Throw (DC 18):* Rolled with Advantage (*Holy Aura*) and Resilient (Constitution) (`+9` modifier): `[15, 17] + 9 = 26 vs DC 18` → **CRITICAL SUCCESS!**
+    * Takes half damage from `7d8 + 30`: `[4, 6, 3, 7, 5, 2, 5] = 32 + 30 = 62 / 2` = **`31 Necrotic Damage`**! Kelemvor's *Blessing of Soul-Shielding* preserves maximum HP (Myagkiy reduced from 118 to **`87 / 163 HP`**).
+    * *Concentration Check (Holy Aura — DC 15):* Rolled with Advantage & `+9` modifier: `[14, 11] + 9 = 23 vs DC 15` → **SUCCESS!** *Holy Aura* blazes unbroken!
+  * *Legendary Action (Unholy Shroud — 1 Action):*
+    * Reeling on the brink of annihilation at 33 HP, the Avatar whips a whirlwind of bone dust and ash around its broken frame (+2 AC until start of next turn: **AC 20**).
+
+##### ⚔️ Round 6: The Vitality Draught & The Tactical Retreat
+
+* **Myagkiy Znak (Init 10):**
+  * *Movement:* Disengaging further down the arched entry corridor, Myagkiy steps backwards **15 feet** into the vestibule, extending the distance between himself and the advancing Avatar to **45 feet**.
+  * *Action — Drink Potion of Superior Healing:* Shrouded in the fading lavender smoke, Myagkiy unclasps a crystal phial from his belt and drinks down a ***Potion of Superior Healing*** (1 potion remaining). With his active ***Potion of Vitality*** maximizing all healing dice, the draught pours divine restorative heat directly into his blood:
+    * *Healing Calculation:* `8d4 + 8` → Maximized to `(8 * 4) + 8 =` **`40 HP Flat`**!
+    * Severe necrotic burns and flesh wounds knit shut beneath Dayne's plate as Myagkiy rises from 87 to **`127 / 163 HP`**!
+  * *Bonus Action — Spiritual Weapon (5th Level):* Myagkiy sweeps his gauntleted hand, commanding the twin-sign spectral warhammer to pursue the advancing Lord of Bones across the floor:
+    * *Attack Roll vs. Avatar (AC 20 with Unholy Shroud):* Rolled `d20 (16) + 10 = 26 vs AC 20` → **HIT!**
+    * *Damage (2d8 + 5 Force):* `[7, 8] + 5` = **`20 Force Damage`**! The **Hard Sign (Ъ)** face smashes directly into the Avatar's left ribcage with a concussive crack that shatters its remaining ribs!
+  * *Avatar HP:* `33` → **`13 / 210 HP`**! *(Barely clinging to existence — one strike from annihilation!)*
+
+* **Weakened Avatar of Myrkul (Init 5):**
+  * *Unholy Shroud* dissipates. Fracturing from head to toe, with brilliant golden rays of dawnlight bursting through every crack in its charred bones, the Lord of Bones lunges 30 feet forward across the flagstones toward Myagkiy.
+  * *The 15-Foot Spatial Intercept:* Because Myagkiy withdrew 15 feet down the corridor (45 feet away), the Avatar's 30-foot movement brings it only to the threshold archway—**halted 15 feet away from Myagkiy**!
+  * The *Scythe of the Reaper* has a reach of only **10 feet**. The Avatar's furious melee attacks whistle through empty air, completely unable to bridge the gap!
+  * *Legendary Action (Withering Gaze — 1 Action):*
+    * Stranded in the archway 15 feet away, the dying god glares with its lone witchfire eye, projecting a final burst of tomb chill:
+    * *Wisdom Saving Throw (DC 18):* Rolled with Advantage (*Holy Aura*): `[16, 14] + 10 = 26 vs DC 18` → **CRITICAL SUCCESS!**
+    * Takes half damage: `3d8` = `[3, 4, 3] = 10 / 2` = **`5 Necrotic Damage`** (Kelemvor's *Soul-Shielding* preserves maximum HP; Myagkiy sits strong at **`122 / 163 HP`**).
+
+##### ⚔️ Round 7: The Final Decree — Guiding Bolt of the Soft Sign
+
+* **Myagkiy Znak (Init 10):**
+  * *Movement:* Plants his boots firmly upon the flagstones of the vestibule, 15 feet from the teetering death god.
+  * *Action — Guiding Bolt (6th-Level Upcast):* Raising both gauntlets, Myagkiy directs the blinding dawnfire of ***Holy Aura*** and the silver Soft Sign (**Ь**) on his shield directly at the fractured husk of Myrkul. Expending his 6th-level spell slot, he speaks the final decree with ringing, resonant authority:
     > *"Thou art weighed. Thou art measured. Return to the dust of memory!"*
-  * Bringing ***Bonecounter*** down in a thunderous overhand strike, Myagkiy shattered the avatar's bone crown.
-  * *Damage:* **`32 Radiant Damage`** → **AVATAR DESTROYED!**
+    * A blinding shaft of pure stellar starlight—the pinnacle offensive light of his ordainment—erupts from his hands and lances across the 15-foot gap:
+    * *Ranged Spell Attack Roll vs. Avatar (AC 18):* Rolled `d20 (18) + 10 = 28 vs AC 18` → **MASSIVE HIT!**
+    * *(Note: Because Guiding Bolt is an attack roll against AC, the Avatar's remaining Legendary Resistances cannot be used!)*
+    * *Damage (9d6 Radiant):* Rolled `[5, 6, 4, 6, 5, 3, 6, 4, 5]` = **`44 Radiant Damage`**!
+    * *Avatar HP:* `13` → **`-31 / 210 HP`**!
+  * **THE WEAKENED AVATAR OF MYRKUL IS COMPLETELY OBLITERATED!**
 
-The physical manifestation of Myrkul detonated inward. With a hollow, whistling implosion that pulled the breath from the room, the Lord of Bones dissolved into a harmless mound of grey ash and splintered bone. The dark necromancy animating the Sunken Citadel died instantly.
+The 6th-level bolt of solar starlight impales the Lord of Bones dead-center through its shattered breastplate and cracked skull. For a single heartbeat, the titan vault is bathed in the incandescent radiance of the midday sun. 
 
-Outside on the causeway, the two Death Knights collapsed into inert heaps of rusted iron and dry bone; their skeletal mounts dissolved into smoke. The remaining wights scattered wailing into the waste.
+With a hollow, whistling implosion of escaping grave dust, the physical vessel of Myrkul detonates inward, dissolving into a harmless mound of grey ash and splintered bone upon the threshold. The dark necromantic nexus animating the Sunken Citadel dies in an instant.
+
+Outside on the causeway, the two Death Knights collapse into inert heaps of rusted iron plate and dry bone; their skeletal mounts dissolve into wisps of black smoke. The remaining wights and lesser undead scatter wailing into the waste of Oinos or crumble to dust.
+
+
+
+
+
+
+
+
 
 ---
 
@@ -1956,13 +2103,13 @@ He had not defeated death alone. Life had stood united, and life had prevailed.
 Guided by High Justiciar Orin and Arch-Doomguide Vaelor, the allied host was repatriated across the planes:
 * The Bedine returned to Anauria as legends and protectors of the desert, their tribes united under the banner of the Soft Sign.
 * The Greypeak warriors returned to their alpine valleys laden with celestial blessings and restored pride.
-* Myagkiy Znak, ordained at **Level 15**, returned across the Sea of Swords to the town of **Leilon**.
+* Myagkiy Znak, ordained at **Level 15**, returned across the Sea of Swords to the Sword Coast.
 
-As the spring thaws of **1505 DR** broke over Aufox Manor, five full winters after the Order of Znak had parted ways at the Leilon crossroads, four legendary champions walked the road back toward the estate gates:
+In the late spring of **1505 DR**, five full winters after the commencement of their far-flung pilgrimages, four legendary champions converged upon the warm, bustling hearth of **The Wayside Inn** on the High Road:
 
 * **[[Tvyordiy Znak]] (Ъ):** Soaring in from the northern crags, Master of the Open Hand and Wind.
 * **[[Krageer Stoneface Ogolakanu]]:** The indomitable goliath juggernaut, his greataxe resting easy upon his broad shoulder.
-* **[[Rhynok]]:** The deadly drow master scout, stepping silently from the woodland shadows.
+* **[[Rhynok]]:** The deadly Wood Elf Gloom Stalker master scout, stepping silently from the woodland shadows.
 * **[[Myagkiy Znak]] (Ь):** The elder battle priest, his dark locs frosted with silver, his plate armor bearing the scars of Netheril, the Astral Plane, the Void, and Hades—standing not as an isolated hermit, but as the unbroken heart of the fellowship.
 
 The five-year bridge had closed. **The Order of Znak was whole once more.**
