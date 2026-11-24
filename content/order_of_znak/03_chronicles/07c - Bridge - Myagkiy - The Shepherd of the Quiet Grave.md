@@ -1018,7 +1018,6 @@ Two towering, eight-foot-tall automatons sculpted from compressed volcanic silt,
   * A blinding vortex of shimmering fey water sprites—pure, crystalline mountain water manifesting in the arid desert—erupted in a 15-foot radius around him. The spirits swirled with rushing, cleansing currents, their radiant aura searing the dry necrotic magic of the crypt.
   * The two golems surged forward into the 15-foot zone: their movement speed was instantly halved by the swirling waters, and both constructs failed their Wisdom saving throws against Myagkiy's **DC 18 Spell Save**, taking **12 radiant damage** as the water sprites dissolved their sand-crusted limbs!
   * Lunging forward, both golems struck out with four slamming blows against Myagkiy: but against Dayne's consecrated **24 AC**, every crushing blow scraped harmlessly off the silvered steel and massive heater shield!
-
 * **Round 2:**
   * At the start of the round, the *Spirit Guardians* tore through the constructs for **22 radiant damage**.
   * Channelling the righteous fury of the morning sun, Myagkiy raised his mace and called down a roaring column of vertical fire: ***Flame Strike* (5th-Level Slot)**!
@@ -1788,6 +1787,9 @@ Standing bloodied between the two towering undead lords, with their greatswords 
 
 A blinding flash of crystalline starlight exploded upon the causeway. In the fraction of a heartbeat before the jagged steel cleaved his skull, Myagkiy vanished from the Gray Waste.
 
+![[myagkiy_bridge_ch05_causeway_death_knights_stand.jpg]]
+*Figure 5.1: The Stand upon the Causeway of Hades (1505 DR) — Battered to 1 HP between two towering Myrkulite Death Knights, elder battle priest Myagkiy Znak anchors to the mortal realm as his Death Ward detonates in a burst of dawnlight, invoking Word of Recall to escape the Gray Waste.*
+
 ---
 
 ### 🕊️ Scene 2: The Epiphany of the Soft Sign & Divine Intervention
@@ -1889,12 +1891,20 @@ The Avatar’s hollow eye-sockets blazed with sickly green witchfire as it hisse
 
 > *"Mortal worm... thief of my flock... destroyer of my resurrection... thou shalt choke upon the dust of my waste!"*
 
-Myagkiy did not falter. He stood at the center of the throne hall, planting his boots firmly upon the cracked flagstones. Drawing upon the pinnacle well of his divine ordained power, he unleashed his new master spell:
+Myagkiy did not falter. He stood at the center of the throne hall, planting his boots firmly upon the cracked flagstones. Facing the starving god, Myagkiy spoke with calm, resonant authority that echoed off the primordial bone vault:
 
-> ***"HOLY AURA!"***
+> *"For too long you have tried to pierce the veil, Myrkul. Your foul reign is coming to a close and you sit here alone as one such as yourself would be. I have learned that life is fellowship. Even in death, the souls of the departed come in flocks to be weighed by Kelemvor before being sent to their eternal reward. I come not to destroy you, but to pity you in your wretchedness. The position of judge was once your own and you perverted it and ultimately lost it. The Time of Troubles saw you dethroned and cast down from deity. So I say to you, yield your attempts at conquest and mayhem and death or be vanquished for all eternity."*
 
-A thirty-foot sphere of blinding, solar radiance exploded from Myagkiy's chest. Pure dawnfire flooded the dark primordial skull, banishing every trace of gloom. 
-* *The Sovereign Ward:* Myagkiy gained **Advantage on all saving throws**; all enemy attacks against his **AC 24** were made at **Disadvantage**; and any undead that dared strike him in melee risked being **permanently blinded**!
+The Lord of Bones shuddered upon his ossuary seat, clutching his scythe with shaking skeletal fingers as sickly green flames flared from his eye sockets in incandescent fury:
+
+> *"PITY?! Thou darest speak of PITY to the Lord of Bones?! I shall flay thy soul across the three glooms of Hades!"*
+
+* **Initiative:**
+  * **Myagkiy Znak:** `11 - 1 = 10`
+  * **Weakened Avatar of Myrkul:** `3 + 2 = 5`
+  * *(Myagkiy acts first!)*
+
+---
 
 #### ⚔️ The Final Duel
 
@@ -1917,15 +1927,6 @@ A thirty-foot sphere of blinding, solar radiance exploded from Myagkiy's chest. 
     * Myrkul commands the cracked flagstones beneath Myagkiy to erupt with clawing skeletal hands:
     * *Strength Saving Throw (DC 16):* Rolled with Advantage (Holy Aura): `[17, 12] + 2 = 19 vs DC 16` → **SUCCESS!**
     * Furthermore, ***Freedom of Movement*** renders Myagkiy immune to restraint; the grasping bone fingers shatter against his consecrated greaves into harmless dust.
-
-
-
-
-
-
-
-
-
 
 ##### ⚔️ Round 2: The Searing Natron & The Hard Sign
 
@@ -1950,14 +1951,8 @@ A thirty-foot sphere of blinding, solar radiance exploded from Myagkiy's chest. 
     * At the end of the round, the Avatar sweeps its black scythe at Myagkiy (AC 24) at Disadvantage:
     * *Attack Roll (Disadvantage vs AC 24):* Rolled `[17, 7] + 10 = 17 vs AC 24` → **MISS!** Deflected effortlessly by the **Ь** heater shield!
 
-
-
-
-
-
-
-
 ##### ⚔️ Round 3: The Searing Flame & The Blinding of the God
+
 * **Myagkiy Znak (Init 10):**
   * *Action — Sacred Flame:* Pointing his open gauntlet directly into the snarling face of the Lord of Bones, Myagkiy calls down a blinding column of pure solar radiance:
     * *Avatar DEX Save (DC 18 — Magic Resistance Advantage):* Rolled `[14, 9] + 2 = 16 vs DC 18` → **FAILED SAVE!**
@@ -1983,24 +1978,8 @@ A thirty-foot sphere of blinding, solar radiance exploded from Myagkiy's chest. 
     * At the end of the round, the sighted Avatar sweeps his scythe with furious precision at Myagkiy (AC 24) at Disadvantage:
     * *Attack Roll (Disadvantage vs AC 24):* Rolled `[18, 11] + 10 = 21 vs AC 24` → **MISS!** Smashes violently into the glowing **Ь** heater shield in a cascade of blinding sparks!
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ##### ⚔️ Round 4: The Sunder of the Breastplate & The Severed Horn
+
 * **Myagkiy Znak (Init 10):**
   * *Action — Bonecounter Strike (+Natron Salts + Blessed Strikes):* Stepping up the steps of the ossuary dais, Myagkiy brings ***Bonecounter*** crashing down in a two-handed overhand strike aimed dead-center at the Avatar's glowing sternum:
     * *Attack Roll vs. Avatar (AC 18):* Rolled `d20 (17) + 9 = 26 vs AC 18` → **HIT!**
@@ -2081,13 +2060,8 @@ With a hollow, whistling implosion of escaping grave dust, the physical vessel o
 
 Outside on the causeway, the two Death Knights collapse into inert heaps of rusted iron plate and dry bone; their skeletal mounts dissolve into wisps of black smoke. The remaining wights and lesser undead scatter wailing into the waste of Oinos or crumble to dust.
 
-
-
-
-
-
-
-
+![[myagkiy_bridge_ch05_avatar_myrkul_guiding_bolt_climax.jpg]]
+*Figure 5.2: The Shattering of the Lord of Bones (1505 DR) — Enveloped in the blinding radiance of Holy Aura, Myagkiy Znak unleashes a 6th-level Guiding Bolt of solar starlight, obliterating the Weakened Avatar of Myrkul in the titan skull sanctum of Hades.*
 
 ---
 
@@ -2202,22 +2176,3 @@ The taproom fell quiet as the four champions converged in the center of the tave
 Krageer slammed a colossal hand onto Myagkiy's pauldron with enough force to shake a normal man to his knees, while Rhynok stepped forward to clasp Myagkiy's forearm in silent, warrior respect. tankards of dark ale were raised high into the firelight.
 
 The five-year bridge had closed. The trials were ended. **The Order of Znak was whole once more.**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-The five-year bridge had closed. **The Order of Znak was whole once more.**
