@@ -1277,14 +1277,47 @@ Before them, the golden sands of Anauria stretched under the open sky, leading b
 
 *Table Session: November 20–21, 2026*  
 *In-Game Setting: Early 1503 DR (The Year of the Shield)*  
-*Location: The Ashen Plains of the Fugue Plane & The City of Judgment*  
+*Location: The Southern Sands of Anauroch, The Ashen Plains of the Fugue Plane, & The City of Judgment*  
 
-### 📊 Character Milestone: Level 14 Life Domain Cleric
-Following the victory at Aul-Khem and two years of scouring Myrkulite cells along the northern frontier, Myagkiy achieved the **Level 14 Milestone**:
-* **Hit Points:** **139 / 139 HP** (`+9 HP` from `1d8 + 4 CON`).
-* **Armor Class (AC):** **24 AC** (Dayne Beltran's Consecrated +2 Plate Armor & +2 Shield).
-* ***Destroy Undead (CR 3):*** When invoking *Turn Undead*, any undead creature of Challenge Rating 3 or lower that fails its saving throw is instantly vaporized into fine ash.
-* ***Blessed Strikes (TCoE):*** Weapon strikes and cantrips gain an extra **1d8 radiant damage** once per turn.
+### 🏜️ Prelude: The Scouring of the Sands & The Obsidian Ledger (Late 1502 – Early 1503 DR)
+
+The deliverance of the three nomad brothers from the black glass chrysalis of Aul-Khem marked not the conclusion of the desert journey, but the ignition of a calculated, relentless crusade across the wastes of **Anauria**.
+
+Returning to the goat-hair tents of **Clan Bait Mahra**, Myagkiy spent the cold desert nights huddled over the low embers of dried acacia root fires, translating the cryptic Netherese shorthand inscribed upon ***The Obsidian Ledger of the Grave-Sworn***. The recovered war-journal of Death Knight Vaelen was a morbid masterwork of logistics: it cataloged four centuries of hidden desert redoubts, subterranean bone cisterns, embalming vaults, and sleeper cells established by surviving Myrkulite death-priests to harvest the life-force of traveling caravans and isolated Bedine encampments.
+
+For four grueling months through the bitter winter winds of **1502 DR**, Myagkiy became the desert's wrathful shepherd. 
+
+Riding alongside fifty mounted Bedine dune-warriors led by Kahlil, Zayd, and the rescued herders—men who now bore the mark of the Soft Sign upon their shields—Myagkiy systematically tracked every coordinate recorded in Vaelen’s ledger:
+
+* **The Sunken Cistern of El-Kharba:** Beneath the dry salt flats forty leagues south of Aul-Khem, Myagkiy breached an underground cistern where three mummified Anaurian cult leaders were drowning captive nomadic families to distill necrotic ichor. Wading into the waist-deep black brine, Myagkiy unleashed *Turn Undead*, his flanged steel mace ***Bonecounter*** shattering ancient sarcophagi while his radiant aura boiled the cursed water into pure, drinkable spring water.
+* **The Embalming Crypts of the Whispering Ridge:** Hidden beneath the shifting red dunes of the Scimitar Gap, a redoubt of ghasts and deathlock wights was unearthed. As toxic sand-storms raged above, Myagkiy consecrated the tomb with *Holy Weapon* and *Sacred Flame*, burning Vaelen’s cache of blasphemous Netherese grave-shrouds to ash and permanently severing the soul-traps that had bound desert spirits for generations.
+* **The Well of the Black Lotus:** At an abandoned caravan oasis corrupted by a circle of Necromancers of the Horned Skull, Myagkiy confronted the cultists before they could complete a mass poison ritual. With a single strike of his +2 shield against *Bonecounter*, the divine thunder of Kelemvor reverberated through the stone wellhead, disintegrating the death-mages and restoring life to the barren oasis palms.
+
+Every night after battle, Myagkiy tended to the wounded Bedine riders, pouring his Life Domain medicine and liturgical blessings of Gond into shattered bones and scimitar cuts. To the tribes, he was no longer merely a pilgrim; he was *Al-Khatib al-Latif*—the Gentle Preacher who fought like an iron bastion and healed like a desert spring.
+
+#### The Final Redoubt: The Tomb of the Iron Astrologer
+In late winter of **1503 DR**, Myagkiy and his Bedine outriders stormed the final and most ancient desert cell: a subterranean basalt vault sealed beneath the ruins of an Anaurian star-observatory.
+
+There, surrounded by the shattered remnants of an iron astrolabe array, Myagkiy unraveled the ultimate secret of Vaelen's network. The desert cells were not isolated pockets of worship—they were terrestrial feeder conduits. Thousands of mortal souls siphoned across the Sword Coast and the desert sands were being funneled into a colossal, extraplanar engine: **The Negative Energy Siphon**, anchored across the planar veil directly between the **Fugue Plane** and the **Negative Energy Plane**.
+
+Upon the altar of the defeated Anaurian necromancer-general, resting in a cradle of velvet lined with bone dust, Myagkiy claimed the key to the next horizon: **The Tuning Fork of Tarnished Silver & Ashen Lead**, attuned directly to the resonant vibrational frequency of the **Ashen Plains of the Fugue Plane**.
+
+His work upon the mortal soil of Anauroch was complete. The desert had been cleansed.
+
+---
+
+### 📊 Character Milestone: Level 14 Life Domain Cleric (Winter 1502–1503 DR)
+
+Forged in the crucible of four months of relentless desert warfare, tomb-breaching, and the preservation of dozens of Bedine lives, Myagkiy achieved the **Level 14 Milestone**:
+
+* **Hit Points:** Fully restored and elevated to **139 / 139 HP** (`+9 HP` from `1d8 + 4 CON`).
+* **Armor Class (AC):** **24 AC** (Dayne Beltran's Consecrated +2 Plate Armor & +2 Shield **Ь**).
+* ***Destroy Undead (CR 3):*** The divine authority of Life flowing through Myagkiy has reached terrifying potency. When invoking *Turn Undead*, any undead creature of Challenge Rating 3 or lower (including mummies, wights, ghasts, and minotaur skeletons) that fails its Wisdom saving throw does not merely flee—it is **instantly vaporized into fine, inert white ash**!
+* ***Blessed Strikes (TCoE):*** In recognition of his relentless martial defense of the innocent, Gond and Kelemvor bless his martial prowess: once on each of his turns when he hits a creature with a weapon attack or deals cantrip damage, he deals an additional **1d8 radiant damage**.
+
+Sitting cross-legged on a woven camel-hair rug inside the council tent of Clan Bait Mahra, Myagkiy struck the tarnished fork against the rim of his shield. A pure, heavy planar chime reverberated across the dunes. 
+
+Whispering a prayer of parting to his Bedine brethren, Myagkiy cast ***Plane Shift***, stepping across the mortal threshold into the realm of the dead.
 
 ---
 
