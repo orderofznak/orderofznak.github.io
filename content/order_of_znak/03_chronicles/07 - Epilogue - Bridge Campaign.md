@@ -30,7 +30,7 @@ In 1500 DR, with the town secure and the young wards coming of age, each champio
 | :--- | :--- | :--- | :--- |
 | **Chapter 7a** | **[[07a - Bridge - Krageer - The Stone and the Skillet\|7a: The Stone and the Skillet]]** | [[Krageer Stoneface Ogolakanu\|Krageer]] & [[Cooragh]] | Four winters in the Spine of the World; uniting the four Goliath clans; the War of Milagove; slaying white dragon Hrimgarra the Pale Widow; the sacred Binding of Stones; **Level 15 (Barbarian 9 / Fighter 6)**. |
 | **Chapter 7b** | **[[07b - Bridge - Tvyordiy - The Breath of the Boundless Sky\|7b: The Breath of the Boundless Sky]]** | [[Tvyordiy Znak]] & [[Yeri]] | Trek across the High Forest; Grandfather Tree & [[Elder Kaya]]; ascent of Mount Nimbus; entering the Elemental Plane of Air; family reunion with [[Deekek]] & [[Klee'errk]]; forging the Unbending Talons; shattering the Avatar of Talos; founding the Aufox Manor dojo; **Level 15 Monk (Timeless Body)**. |
-| **Chapter 7c** | *The Road of the Soft Sign (Planned)* | [[Myagkiy Znak]] | Cleansing the lingering crypts and undead cabals of Myrkul along the northern coast. |
+| **Chapter 7c** | **[[07c - Bridge - Myagkiy - The Shepherd of the Quiet Grave|7c: The Shepherd of the Quiet Grave]]** | [[Myagkiy Znak]] | 5-year crusade (1500–1505 DR) hunting surviving Myrkulite cabals; calling in Claugiyliamatar's debt in Kryptgarden; shattering the Anaurian Chrysalis in Anauroch; parley with Kelemvor at the City of Judgment; destroying the Negative Plane Void-Anchor; storming Hades to defeat the Apostle of Bones; **Level 15 Cleric (8th-Level Spells)**. |
 | **Chapter 7d** | *The Shadow of the High Forest (Planned)* | [[Rhynok]] | Deep wilderness hunt and tracking shadowy fey encroaching upon the frontiers. |
 
 ---
