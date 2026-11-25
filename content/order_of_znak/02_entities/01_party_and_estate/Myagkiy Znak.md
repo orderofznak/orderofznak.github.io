@@ -5,8 +5,10 @@ system: dnd5e
 campaign: order_of_znak
 status: archived
 type: character
-last_updated: 2026-10-17
-tags: [character-sheet, human, cleric, life-domain, myagkiy-znak, order-of-znak]
+level: 15
+last_updated: 2026-11-24
+tags: [character-sheet, human, cleric, life-domain, myagkiy-znak, order-of-znak, level-15]
+aliases: ["Myagkiy Znak", "Myagkiy", "The Soft Sign", "Al-Khatib al-Latif", "The Shepherd of the Quiet Grave"]
 ---
 
 # 🕊️ Myagkiy Znak (Ь)
@@ -68,6 +70,40 @@ tags: [character-sheet, human, cleric, life-domain, myagkiy-znak, order-of-znak]
   - *The Final Miracle:* As Talos's divine lightning tore the dreadnaught apart and dragged it into the ocean vortex, Myagkiy cast ***Word of Recall***, teleporting the party, Captain Deloz, and the 5 surviving drow safely onto the consecrated stones of Leilon's sanctuary!
 * **Level 13 Milestone:** Attained **Level 13** Life Domain Cleric, gaining access to 7th-level spells (such as *Conjure Celestial* and *Divine Word*). Honored with a stone statue in Leilon's town square and establishing the town's premier temple academy.
 
+### 🕊️ [[07c - Bridge - Myagkiy - The Shepherd of the Quiet Grave|Bridge: The Shepherd of the Quiet Grave (1500–1505 DR)]]
+* **Chapter 1: The Dragon's Debt & The Reaper of the Triad (1500 DR):**
+  * Parted ways with [[Tvyordiy Znak]] at the Leilon road fork to pursue the roots of Myrkul's resurgence.
+  * Confronted ancient green dragon [[Claugiyliamatar]] in Deeping Cave, claiming her life-debt to acquire coordinates pointing eastward to the sunken ruins of Anauria.
+  * Retraced pastoral ministry through Delimbiyr Vale and the Greypeaks, wintering with mountain hamlets.
+  * Ambushed and routed [[Death Priest Malakor]] at Weeping Stone Crossing, deploying the Celestial Avenger, his twin-sign *Spiritual Weapon*, and *Bonecounter*.
+* **Chapter 2: The Sunken Pyramids of Anauria (1501–1502 DR):**
+  * Trekked into the Anauroch desert, earning the hospitality and respect of [[Sheikh Tariq ibn-Rashid]] and the Bedine of Clan Bait Mahra.
+  * Infiltrated the black glass pyramid of Aul-Khem guided by scouts [[Kahlil and Zayd]].
+  * Disarmed gravity traps and routed [[Death Knight Vaelen]] in the ritual sanctum.
+  * Executed the heroic **42-Second Triple *Revivify*** under high table initiative, restoring three suffocated nomad brothers to life and expending all 17 spell slots to heal them.
+  * Recovered *The Astrolabe of Nephren-Ka* and Vaelen's *Obsidian Ledger of the Grave-Sworn*.
+* **Chapter 3: The Astral Pipeline & The City of Judgment (1502–1503 DR):**
+  * Led a four-month winter desert crusade with 50 Bedine camel riders, systematically scouring and purifying Myrkulite cells across the dunes, achieving the **Level 14 Milestone**.
+  * Stormed the Tomb of the Iron Astrologer, uncovering the extraplanar Negative Energy Siphon and securing the *Tuning Fork of Tarnished Silver & Ashen Lead*.
+  * Cast ***Plane Shift*** to the Fugue Plane; parleyed with [[High Justiciar Orin the Stern]] and [[Arch-Doomguide Vaelor]] in the City of Judgment beneath the Crystal Spire of [[Kelemvor]].
+  * Severed the Astral soul-conduit by casting *Dispel Magic*, freeing trapped souls from the void-funnel.
+* **Chapter 4: The Void & The Severing (1503–1504 DR):**
+  * Shifted into the Negative Energy Plane protected by *Aura of Life* and *Death Ward*.
+  * Successfully turned the terrifying CR 16 Nightwalker guardian via *Destroy Undead (CR 3)* Channel Divinity.
+  * Shattered the weeping obsidian **Cenotaph of the Black Star** with the radiant solar strikes of *Bonecounter*, liberating 10,000 ascending souls and severing Myrkul's energy pipeline.
+  * Achieved the pinnacle milestone: **Level 15 Life Domain Cleric** (148 HP, AC 24, unlocking 8th-level spells).
+* **Chapter 5: The Final Reckoning in Hades & The Host of the Living (1505 DR):**
+  * Shifted to the Sunken Bone Citadel of Oinos in the Gray Waste of Hades.
+  * Survived the causeway ambush by two Death Knights at 1 HP via *Death Ward* detonation, extracting via *Word of Recall* back to the Crystal Spire.
+  * Invoked ***Divine Intervention*** to summon the **Host of the Delivered**—Bedine dune-riders, Greypeak mountaineers, and Kelemvorite Doomguides standing united in fellowship.
+  * Stormed the titan skull sanctum and engaged the [[Avatar of Myrkul]] in a dramatic 7-round interactive duel: deploying 8th-level ***Holy Aura***, a 5th-level *Spiritual Weapon* (twin-sign warhammer of **Ь** and **Ъ**), Natron Salt-coated *Bonecounter*, tactical withdrawal via *Cape of the Mountebank*, and delivering the finishing blow with an upcast 6th-level ***Guiding Bolt*** (44 radiant damage) that completely obliterated the Avatar.
+* **Scene 6: The Epilogue & The 5-Year Reunion at The Wayside Inn (Spring 1505 DR):**
+  * Repatriated the Host of the Delivered through the Crystal Spire and cast *Banishment* upon himself to return to Toril.
+  * Dwelt with the Bedine in Anauroch for three weeks, receiving sacred geometric temple clan tattoos upon either temple from the shamans of Clan Bait Mahra.
+  * Retraced his pastoral ministry across the Greypeaks with a 50-rider Bedine escort.
+  * Cast *Sending* to [[Leopold]] at Aufox Manor; met by [[Tvyordiy Znak]] flying south on the High Road for a tearful, bone-crushing embrace between the Hard Sign and Soft Sign.
+  * Reunited at **The Wayside Inn** hearth with **[[Krageer Stoneface Ogolakanu]]** and **[[Rhynok]]**, making the Order of Znak whole once more.
+
 ---
 
 ## 🎨 Artwork & Imagery
@@ -91,12 +127,23 @@ tags: [character-sheet, human, cleric, life-domain, myagkiy-znak, order-of-znak]
 
 ## 📊 Character Build, Level Progression & Gear Acquisition Log
 
-### 🧬 Final Level 13 Build & Ability Scores
+### 🧬 Final Level 15 Build & Ability Scores
 * **Player:** Peter
 * **Race & Background:** Variant Human | Hermit
-* **Class (Level 13):** Level 13 **Life Domain** Cleric (Single-classed full caster)
+* **Age & Timeline:** **Early 50s (approx. 50–55 years old in 1505 DR)**. Completed hermit contemplation along the Dessarin in 1485–1488 DR; adopted young Tvyordiy Znak in Waterdeep over 15 years prior; veteran elder battle-priest and adoptive father figure of the Order.
+* **Canonical Physical Profile:**
+  * **Complexion:** **Dark-skinned (rich deep brown / Black complexion)**.
+  * **Hair & Beard:** **Dark dreadlocks (locs)**, prominently streaked and frosted with silver and iron-grey, bound back in a warrior-monk's knot; full, neatly trimmed dark beard heavily salted with grey.
+  * **Tattoos & Scars:** **Sacred geometric Bedine clan tattoos** inked in dark indigo upon either temple, conferred during his tribal adoption by Clan Bait Mahra in spring 1505 DR.
+  * **Build & Height:** 6'1", 215 lbs, broad-shouldered, muscular, bearing hermit callouses and battle poise.
+  * **Eyes:** Warm, observant, and deeply resolute dark brown eyes.
+* **Class (Level 15):** Level 15 **Life Domain** Cleric (Single-classed full caster)
+* **Hit Points:** **148 / 148 HP** (15d8 Hit Dice)
 * **Ability Scores:** `STR 19 (+4)` *(via Gauntlets of Ogre Power)* | `DEX 8 (-1)` | `CON 19 (+4)` | `INT 8 (-1)` | `WIS 20 (+5)` | `CHA 12 (+1)`
-* **Armor Class (AC):** **24 AC** (Dayne's +2 Plate Armor & +2 Shield)
+* **Saving Throws:** Wisdom (+10), Charisma (+6), Constitution (+9 via *Resilient: Constitution*)
+* **Armor Class (AC):** **24 AC** (Dayne's Consecrated +2 Plate Armor & +2 Shield **Ь**)
+* **Spell Slots (Level 15):** 1st (4), 2nd (3), 3rd (3), 4th (3), 5th (2), 6th (1), 7th (1), **8th (1)**
+* **Signature Spells Prepared:** ***Holy Aura*** (8th), *Conjure Celestial* (7th), *Divine Word* (7th), *Plane Shift* (7th), *Heal* (6th), *Word of Recall* (6th), *Greater Restoration* (5th), *Mass Cure Wounds* (5th), *Aura of Life* (4th), *Death Ward* (4th), *Banishment* (4th), *Spirit Guardians* (3rd), *Revivify* (3rd), *Spiritual Weapon* (2nd), *Bless* (1st), *Cure Wounds* (1st), *Sacred Flame* (Cantrip), *Guidance* (Cantrip).
 
 ### 📈 Level-by-Level Progression
 | Level / Tier | Class & Milestone | Mechanical Features, Subclass, ASIs & Signature Spells |
@@ -113,8 +160,10 @@ tags: [character-sheet, human, cleric, life-domain, myagkiy-znak, order-of-znak]
 | **Level 9** | Cleric 9 (*Act 3: [[04 - Act 3 - Sleeping Dragon's Wake|Sleeping Dragon's Wake]]*) | **5th-Level Spells:** *Flame Strike*, *Greater Restoration*, *Mass Cure Wounds*, *Raise Dead*. |
 | **Level 10** | Cleric 10 (*SDW Post-Ghost Ship*) | ***Divine Intervention*** & *Channel Divinity: Preserve Life* improvement. |
 | **Level 11** | Cleric 11 (*SDW Conclusion & [[05 - Interlude 2 - Keeping the Faith|Keeping the Faith]]*) | **6th-Level Spells:** ***Heroes' Feast***, ***True Seeing***, ***Heal***. Operated at Level 11 through *Keeping the Faith*. |
-| **Level 12** | Cleric 12 (*Act 4: [[06 - Act 4 - Divine Contention|Divine Contention]]*) | **ASI:** **+1 Constitution / +1 Wisdom** (or Feat) bringing Constitution to 19 (+4). |
+| **Level 12** | Cleric 12 (*Act 4: [[06 - Act 4 - Divine Contention|Divine Contention]]*) | **ASI:** **+1 Constitution / +1 Wisdom** (or Feat: *Resilient: Constitution*) bringing Constitution to 19 (+4). |
 | **Level 13** | Cleric 13 (*Act 4 Climax Milestone — Dec 18, 2022*) | **7th-Level Spells** (*Conjure Celestial*, *Divine Word*, *Resurrection*, *Symbol*). Supreme master of life and divine preservation across the Sword Coast. |
+| **Level 14** | Cleric 14 (*Bridge Ch. 3 — Winter 1502–1503 DR*) | ***Destroy Undead (CR 3):*** When invoking *Turn Undead*, undead of CR 3 or lower that fail saving throw are instantly vaporized into white ash. ***Blessed Strikes*** enhanced (+1d8 radiant once per turn). HP increased to **139 HP**. |
+| **Level 15** | Cleric 15 (*Bridge Ch. 5 — 1505 DR Climax*) | **8th-Level Spells:** Unlocks **8th-Level Divine Spell Slot (1/1)** (*Holy Aura*, *Antimagic Field*, *Sunburst*). Pinnacle milestone achieved in Hades; HP elevated to **148 HP**. |
 
 ### 🎒 Weapons, Armor & Item Acquisition Log
 | Item / Weapon | Where & When Acquired | Mechanical Properties & Campaign Notes |
@@ -124,11 +173,16 @@ tags: [character-sheet, human, cleric, life-domain, myagkiy-znak, order-of-znak]
 | ***Gauntlets of Ogre Power*** | **[[Axeholm]]** (Level 6 — Jan 20, 2020; attuned Feb 2, 2020) | Discovered by Myagkiy's own successful **Perception check** inside the secret fireplace vault; sets **Strength to 19 (+4)**, allowing heavy plate mobility without speed penalty. |
 | ***+1 Shield*** | **[[Circle of Thunder]]** (Level 6 — Anchorite Caves) | Claimed from the caves after slaying [[Gorthok]], [[Flenz]], and [[Narux]] as the party's sole shield-bearer. |
 | **Mithral Chain Mail** | **Mid-Campaign Upgrade** | Worn prior to acquiring Dayne's Plate Armor. |
-| ***Ring of Warmth*** | **[[Thunder Cliffs]]** (Level 8 — July 28, 2020) | Claimed from the Talosite sea cave cache after defeating Gadrille; grants resistance to cold damage and immunity to extreme freezing temperatures. |
-| ***Cape of the Mountebank*** | **[[03 - Interlude 1 - Shadow's Run|Shadow's Run]]** (Level 8 — Aug 23, 2020) | Looted from the Shadow Dragon hoard; casts ***Dimension Door*** 1/day vanishing in a cloud of smoke. Used to escape Chain Devil grapple in Starmetal Hills. |
+| ***Ring of Warmth*** | **[[Thunder Cliffs]]** (Level 8 — July 28, 2020) | Claimed from the Talosite sea cave cache after defeating Gadrille; grants resistance to cold damage and immunity to extreme freezing temperatures. Maintained his body heat through desert freezing nights in Anauroch. |
+| ***Cape of the Mountebank*** | **[[03 - Interlude 1 - Shadow's Run|Shadow's Run]]** (Level 8 — Aug 23, 2020) | Looted from the Shadow Dragon hoard; casts ***Dimension Door*** 1/day vanishing in a cloud of smoke. Used to escape Chain Devil grapple in Starmetal Hills and tactical extraction in Hades against the Avatar. |
 | **Dayne's +2 Plate Armor** | **[[05 - Interlude 2 - Keeping the Faith|Interlude 2: "Keeping the Faith"]]** (Level 11 — July 8, 2022) | Consecrated armor gifted by Forge Cleric **[[Dayne Beltran]]** and [[Flanning Teldorer]]; combined with his **+2 Shield** for **24 AC**. |
-| ***Bonecounter* & Light Hammer** | **Leilon Trilogy (Acts 2–4)** | Upgraded signature enchanted mace and backup thrown weapon. |
+| ***Bonecounter* & Light Hammer** | **Leilon Trilogy (Acts 2–4)** | Upgraded signature enchanted flanged steel mace and backup thrown weapon. Coated with Refined Natron Salts during the final battle in Hades. |
 | ***Lantern of Revealing*** | **Leilon Trilogy (Acts 2–4)** | Reveals invisible foes (Invisible Stalkers) within a 30-ft radius. |
+| ***Wand of Magic Detection*** | **[[07c - Bridge - Myagkiy - The Shepherd of the Quiet Grave|Bridge: Aul-Khem (1502 DR)]]** | Used to detect magical traps, bone puzzle locks, and secret compartments in the sunken pyramid. |
+| ***Astrolabe of Nephren-Ka*** | **[[07c - Bridge - Myagkiy - The Shepherd of the Quiet Grave|Bridge: Aul-Khem (1502 DR)]]** | Ancient ivory, electrum, and gold soul-compass recovered from [[Lich-Vizier Nephren-Ka]]'s font; tracks planar vectors and phylactery resonances. |
+| ***The Obsidian Ledger of the Grave-Sworn*** | **[[07c - Bridge - Myagkiy - The Shepherd of the Quiet Grave|Bridge: Aul-Khem (1502 DR)]]** | Recovered war-journal of [[Death Knight Vaelen]]; used to systematically hunt down and destroy Myrkulite sleeper cells across Anauroch. |
+| ***Tuning Fork of Tarnished Silver & Ashen Lead*** | **[[07c - Bridge - Myagkiy - The Shepherd of the Quiet Grave|Bridge: Anauroch & City of Judgment (1503–1505 DR)]]** | Claimed from the Tomb of the Iron Astrologer and planar armory of [[Arch-Doomguide Vaelor]]; attuned to the Fugue Plane and the Gray Waste of Hades. |
+| **Sacred Temple Clan Tattoos** | **[[07c - Bridge - Myagkiy - The Shepherd of the Quiet Grave|Bridge: Anauroch (1505 DR)]]** | Conferred by the shamans and [[Sheikh Tariq ibn-Rashid]] of Clan Bait Mahra; geometric dark indigo tribal adoption marks on both temples. |
 
 ---
 

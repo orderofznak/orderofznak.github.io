@@ -20,7 +20,7 @@ aliases: ["The Shepherd of the Quiet Grave", "The Road of the Soft Sign", "Myagk
 
 ---
 
-*What [[Myagkiy Znak]] did across five years of solitary crusade (1500–1505 DR), hunting down the surviving cabals of Myrkul, terminating attempts to cultivate a new Chosen or Avatar of Death, and walking the planes until the gathering at the [[Wayside Inn]].*
+*What [[Myagkiy Znak]] did across five years of solitary crusade (1500–1505 DR), hunting down the surviving cabals of [[Myrkul]], terminating attempts to cultivate a new Chosen or [[Avatar of Myrkul|Avatar of Death]], and walking the planes until the gathering at the [[Wayside Inn]].*
 
 When [[The Order of Znak]] scattered following five peaceful winters in [[Leilon]], they did not march under banners or sound trumpets. They dispersed like seeds caught in an autumn gale. [[Tvyordiy Znak]] had turned east toward the High Forest and the Star Mounts to seek his ancestral bloodline in the open skies. [[Krageer Stoneface Ogolakanu]] had turned north into the frozen crags with [[Cooragh]], carrying his seasoned iron skillet and a heart at peace. 
 
@@ -103,7 +103,7 @@ He covered fifteen or sixteen miles between sunrise and dusk, letting the steady
 
 Where he met carters hauling salt-fish or tenant farmers gathering late cabbage, he stopped to share cold cheese and hear the news of the road. The countryside was peaceful. The dragon terrors of Icespire and the storm-raids of Talos had faded into tavern songs. Yet beneath that pastoral tranquility, Myagkiy’s spirit was troubled by what had transpired in the quiet months before his departure.
 
-Within the sanctum of the **[[The Temple of the Twin Signs|Temple of the Gods]]**, in the weeks leading up to the autumn equinox, Myagkiy had sought to pierce the veil. He had burned rare incense over his ivory strips, casting ***Legend Lore*** to gather the ancient names and deeds of Myrkul—learning of the Lord of Bones’ fall at Boareskyr Bridge, the lingering curse of the *Crown of Horns*, and the desperate hunger of his diminished spirit in the wastes of the Outer Planes.
+Within the sanctum of the **[[The Temple of the Twin Signs|Temple of the Gods]]**, in the weeks leading up to the autumn equinox, Myagkiy had sought to pierce the veil. He had burned rare incense over his ivory strips, casting ***Legend Lore*** to gather the ancient names and deeds of [[Myrkul]]—learning of the Lord of Bones’ fall at Boareskyr Bridge, the lingering curse of the *Crown of Horns*, and the desperate hunger of his diminished spirit in the wastes of the Outer Planes.
 
 Yet when Myagkiy had knelt before the consecrated altar of the Twin Signs, focusing his divine focus to cast ***Scrying*** upon the surviving Myrkulite cells, his magic had struck an impenetrable wall.
 
@@ -113,7 +113,7 @@ It was that theological failure that had led Myagkiy to his deduction.
 
 If a creature of radiant good could not pierce the necrotic veil, he needed an instrument already steeped in that darkness. And along the Sword Coast, only one creature possessed both the means and the metaphysical attunement: **[[Claugiyliamatar]]**, the ancient green wyrm known as **Old Gnawbones**.
 
-Deep within her cavern in **Kryptgarden Forest**, she kept dozens of floating crystal scrying spheres and her massive, living topographic map of the Sword Coast. More critically, Claugiyliamatar possessed an involuntary, terrifying connection to the Lord of Bones: during the siege of Leilon, she had been possessed, hollowed out, and inhabited by **[[Ebondeath]]**, the ancient dragon-wraith of Myrkul. Though the ghost had been exorcised, that harrowing violation had left its stain in her marrow—a lingering resonance tuned precisely to Myrkul’s frequency. Her own predatory, wicked nature would offer no moral resistance against scrying the cult.
+Deep within her cavern in **Kryptgarden Forest**, she kept dozens of floating crystal scrying spheres and her massive, living topographic map of the Sword Coast. More critically, Claugiyliamatar possessed an involuntary, terrifying connection to the Lord of Bones: during the siege of Leilon, she had been possessed, hollowed out, and inhabited by **[[Ebondeath]]**, the ancient dragon-wraith of [[Myrkul]]. Though the ghost had been exorcised, that harrowing violation had left its stain in her marrow—a lingering resonance tuned precisely to Myrkul’s frequency. Her own predatory, wicked nature would offer no moral resistance against scrying the cult.
 
 And above all, Old Gnawbones was bound by an absolute debt of blood. 
 
@@ -258,7 +258,7 @@ Claugiyliamatar’s eyes rolled back into her head, turning milky white as she l
 > 
 > *In the sunken ruins of **Anauria**... beneath the glassed sands of southern **Anauroch**... the tombs of ancient Netherese liches have broken open. Servants who bowed to the Lord of Bones before the Fall walk the sands once more. They have chosen their champion.*
 > 
-> *A fallen crusader... **Vaelen the Grave-Sworn**... the 'Reaper of the Triad.' He is binding undead nomads, butchering desert caravans, and gathering surviving cultists to fuel a colossal **blood chrysalis**. They intend to pour ten thousand slaughtered souls into his vessel to birth a living mortal Avatar of Myrkul upon Toril!"*
+> *A fallen crusader... **[[Death Knight Vaelen|Vaelen the Grave-Sworn]]**... the 'Reaper of the Triad.' He is binding undead nomads, butchering desert caravans, and gathering surviving cultists to fuel a colossal **blood chrysalis**. They intend to pour ten thousand slaughtered souls into his vessel to birth a living mortal Avatar of Myrkul upon Toril!"*
 
 Suddenly, the dragon turned her horned head toward the western fringe of the moss map, her left foreclaw stabbing toward the stone wall. Her obsidian talon tapped sharply against the living moss just outside the borders of Kryptgarden Forest:
 
@@ -334,7 +334,7 @@ Dense pine trees and tangled briars flanked the eastern and western banks, provi
 #### 💀 Enemy Roster & Vanguard Positions
 Forewarned by Claugiyliamatar’s scrying, Myagkiy's keen eyes spotted the ambushers before they could spring their trap:
 
-1. **Malakor the Bone-Carver (Cult Leader / War Priest of Myrkul):** Stationed 50 feet away behind the weeping menhir on the eastern bank. He wears dull iron mail and an iron skull mask, clutching a flail of blackened bone and an unholy symbol of Myrkul.
+1. **[[Death Priest Malakor|Malakor the Bone-Carver]] (Cult Leader / War Priest of [[Myrkul]]):** Stationed 50 feet away behind the weeping menhir on the eastern bank. He wears dull iron mail and an iron skull mask, clutching a flail of blackened bone and an unholy symbol of Myrkul.
 2. **2x Myrkulite Death-Snipers (Cult Wight Marksmen):** Perched 10 feet up in the pine boughs flanking the eastern bank (55 feet away, half cover `+2 AC`). Their longbows are nocked with arrows dripping black grave-poison.
 3. **4x Crypt Ghouls:** Submerged beneath the black, rushing water of the stream bed directly at the cobblestone ford (35 feet away), waiting to erupt and drag crossing travelers down into the muck.
 
@@ -511,7 +511,7 @@ Because Myagkiy possessed precise coordinates from Claugiyliamatar and approache
 
 ---
 
-### 🕊️ Scene 5: The Interrogation of Malakor at Weeping Stone Crossing
+### 🕊️ Scene 5: The Interrogation of [[Death Priest Malakor|Malakor]] at Weeping Stone Crossing
 
 *(Interactive Roleplay & Interrogation — Myagkiy Znak Level 13 Life Cleric)*  
 *Location: Eastern Bank of Weeping Stone Crossing | Overcast dusk, smell of ozone and burning pine*
@@ -733,7 +733,7 @@ They were **Bedine**—the fierce, proud human nomads of Clan Bait Mahra who had
 
 In unison, with terrifying, fluid speed born of endless desert warfare, five horn-and-sinew shortbows were raised. Five broadhead arrows, fledged with black vulture feathers, were drawn to full draw, aimed straight at the lone outlander's chest.
 
-At the center of the formation, mounted on a magnificent dapple-grey camel, was **Sheikh Tariq ibn-Rashid**, war-leader of Clan Bait Mahra. His hand rested on the curved hilt of a silver-chased scimitar.
+At the center of the formation, mounted on a magnificent dapple-grey camel, was **[[Sheikh Tariq ibn-Rashid]]**, war-leader of Clan Bait Mahra. His hand rested on the curved hilt of a silver-chased scimitar.
 
 Through the fabric of his veil, Tariq's voice rang out across the sand ridge like cracked flint, speaking in sharp, resonant Midani:
 
@@ -838,7 +838,7 @@ As At'ar's scorching golden disc sank below the western dunes, the Great Sand Se
 
 The heat vanished with terrifying rapidity. Within an hour, the temperature plunged forty degrees, plummeting toward the freezing point as a bitter, ice-rimed wind swept across the granite flats. 
 
-Yet within the grand black goat-hair pavilion (*khayma*) of Sheikh Tariq ibn-Rashid, the cold could not penetrate. Clad in his simple linen tunic, Myagkiy sat comfortably near the central hearth. His attuned ***Ring of Warmth*** hummed with subtle magic, maintaining his body at a steady, comfortable spring warmth and rendering him completely immune to the biting desert chill.
+Yet within the grand black goat-hair pavilion (*khayma*) of [[Sheikh Tariq ibn-Rashid|Sheikh Tariq ibn-Rashid]], the cold could not penetrate. Clad in his simple linen tunic, Myagkiy sat comfortably near the central hearth. His attuned ***Ring of Warmth*** hummed with subtle magic, maintaining his body at a steady, comfortable spring warmth and rendering him completely immune to the biting desert chill.
 
 In the center of the pavilion, a polished brass brazier glowed with burning embers of fragrant cedar and dry desert scrub. The air was rich with the sweet aroma of mint tea steeped with wild sage and dried dates served on silver platters alongside flatbread baked from the morning's miraculous harvest.
 
@@ -945,7 +945,7 @@ Myagkiy therefore declared that the expedition would march **by day**. Sustained
 
 ### 🏜️ The March Across the Silt-Wastes & The Threshold of Aul-Khem
 
-On the dawn of the fourth day, Sheikh Tariq provided Myagkiy with two of the clan's swiftest and bravest young scouts: **Kahlil** and **Zayd**, sons of the elder matriarch Fatima whose sight Myagkiy had restored. Mounted upon light, fleet dromedaries and armed with long lances and composite bows, the two brothers pledged their lives to guide the holy marabout across the treacherous flats.
+On the dawn of the fourth day, [[Sheikh Tariq ibn-Rashid|Sheikh Tariq]] provided Myagkiy with two of the clan's swiftest and bravest young scouts: **[[Kahlil and Zayd|Kahlil]]** and **[[Kahlil and Zayd|Zayd]]**, sons of the elder matriarch Fatima whose sight Myagkiy had restored. Mounted upon light, fleet dromedaries and armed with long lances and composite bows, the two brothers pledged their lives to guide the holy marabout across the treacherous flats.
 
 Alongside them strode Myagkiy, leading his loyal, notched-eared pack dromedary, who now marched with steady, docile endurance.
 
@@ -988,7 +988,7 @@ Standing beside the grumpy, notched-eared camel, Myagkiy unslung Dayne's consecr
 Before setting foot upon the basalt pyramid, Myagkiy knelt upon the cold limestone and invoked the threefold wards of life:
 1. ***Regenerate* (7th-Level Slot):** Laying his gauntlets upon his own breast, Myagkiy whispered the ancient liturgies of renewal. Divine vigor surged through his circulatory system like liquid silver, establishing a continuous cellular fountain that would knit his flesh, restore severed tissues, and heal **10 hit points every six seconds** for the next hour.
 2. ***Death Ward* (4th-Level Slot):** Tracing the Cyrillic Soft Sign across his forehead and cuirass, he anchored a golden aegis of divine preservation around his life force—an unyielding barrier against instant death and lethal strikes for the next eight hours.
-3. ***Aid* (4th-Level Slot):** Placing his hands upon the shoulders of the two young scouts, Kahlil and Zayd, Myagkiy invoked a blessing of stamina and courage. A warm, golden light washed over the three companions, bolstering their physical reserves and expanding their maximum vitality by **+15 hit points** (raising Myagkiy's hit point pool to a formidable **130 HP**).
+3. ***Aid* (4th-Level Slot):** Placing his hands upon the shoulders of the two young scouts, [[Kahlil and Zayd|Kahlil and Zayd]], Myagkiy invoked a blessing of stamina and courage. A warm, golden light washed over the three companions, bolstering their physical reserves and expanding their maximum vitality by **+15 hit points** (raising Myagkiy's hit point pool to a formidable **130 HP**).
 
 Turning to the two brothers, Myagkiy spoke with calm, steady authority:
 
@@ -1096,11 +1096,11 @@ In the center of the chamber rose a three-tiered obsidian dais. Atop the dais sa
 
 Rising from the font was a grotesque, ten-foot-tall horror: **The Blood Chrysalis**. 
 
-The chrysalis was a pulsing, translucent womb of vitrified necrotic membranes, veined with sickly crimson light and supported by a thick, calcified root of white bone-stone that anchored it to the dais floor. Inside the shifting, semi-translucent membrane, the embryonic, horned silhouette of a burgeoning **Avatar of Myrkul** writhed in dark slumber.
+The chrysalis was a pulsing, translucent womb of vitrified necrotic membranes, veined with sickly crimson light and supported by a thick, calcified root of white bone-stone that anchored it to the dais floor. Inside the shifting, semi-translucent membrane, the embryonic, horned silhouette of a burgeoning **[[Avatar of Myrkul]]** writhed in dark slumber.
 
 Surrounding the dais was a terrifying hierarchy of death:
-* Hovering twenty-two feet in the air above the font (`Z = 22 ft`), held aloft by the vertical levitation column of the ritual font, was **Lich-Vizier Nephren-Ka**—an ancient Netherese arch-mage draped in tattered gold-and-purple linen, his withered hands weaving arcs of dark witchfire into the font.
-* Standing at the base of the dais in black-iron plate, resting his gauntlets upon the pommel of a massive executioner's greatsword, was **Death Knight Vaelen the Grave-Sworn**, the fallen paladin of the Triad.
+* Hovering twenty-two feet in the air above the font (`Z = 22 ft`), held aloft by the vertical levitation column of the ritual font, was **[[Lich-Vizier Nephren-Ka]]**—an ancient Netherese arch-mage draped in tattered gold-and-purple linen, his withered hands weaving arcs of dark witchfire into the font.
+* Standing at the base of the dais in black-iron plate, resting his gauntlets upon the pommel of a massive executioner's greatsword, was **[[Death Knight Vaelen|Death Knight Vaelen the Grave-Sworn]]**, the fallen paladin of the Triad.
 * Flanking the dais among the basalt columns were **two Netherese Wights** in ancient bronze plate, composite longbows drawn and nocked with black-fletched arrows.
 * Kneeling on the cold flagstones before the blood gutters at `Y = 30 ft` were **three bound Bedine herders of Clan Bait Mahra**—gagged, tied with heavy hemp ropes, their chests bared to the stone. Standing over them were **four Cult Fanatics**, raising jagged obsidian daggers to slit their throats and pour their lifeblood into the chrysalis!
 
@@ -1243,7 +1243,7 @@ Every single spell slot (17 of 17) and Channel Divinity charge on Myagkiy's char
 
 #### The 2-Minute Swift Sweep (Perception: 28)
 Knowing that Vaelen's panic would clear within minutes on the surface, Myagkiy conducted a lightning sweep of the sanctum with his ***Wand of Magic Detection***:
-* **The Soul-Compass:** Beneath the cracked lip of the blood font, he discovered a secret compartment holding ***The Astrolabe of Nephren-Ka***—an ivory, electrum, and gold soul-compass whose glowing violet needle pointed steadily south-southwest across Anauria toward the hidden necropolis containing the Lich's true phylactery!
+* **The Soul-Compass:** Beneath the cracked lip of the blood font, he discovered a secret compartment holding ***The Astrolabe of [[Lich-Vizier Nephren-Ka|Nephren-Ka]]***—an ivory, electrum, and gold soul-compass whose glowing violet needle pointed steadily south-southwest across Anauria toward the hidden necropolis containing the Lich's true phylactery!
 * **Vaelen's War-Journal:** Behind the shattered chrysalis, he recovered ***The Obsidian Ledger of the Grave-Sworn***, detailing the remaining Myrkulite cells along the Trade Way and revealing that Vaelen's immortality could be severed by burning his ancestral grave-shroud with radiant fire.
 * **Recovered Wealth & Consumables:**
   * Two flasks of ***Potion of Superior Healing*** (`8d4 + 8` HP each).
@@ -1258,11 +1258,11 @@ Gathering the three bewildered, weeping Bedine herders—Marwan, Tariq's nephew,
 
 Ascending the limestone rim of the caldera, a great cry of joyous disbelief echoed across the sands. 
 
-Kahlil and Zayd spurred their fleet dromedaries forward, leaping from their saddles and throwing their arms around their rescued brothers. They wept openly, kissing the hem of Myagkiy's travel linens and crying out in the Bedine tongue:
+[[Kahlil and Zayd|Kahlil and Zayd]] spurred their fleet dromedaries forward, leaping from their saddles and throwing their arms around their rescued brothers. They wept openly, kissing the hem of Myagkiy's travel linens and crying out in the Bedine tongue:
 
 > *"The marabout of the Soft Sign has walked into the mouth of Kozah and brought the dead back into the sun! Blessed be the guest who entered our tents!"*
 
-Kahlil pointed with his lance toward the eastern horizon, where distant tracks in the sand marked the retreat of Death Knight Vaelen toward the deep wastes of Netheril.
+Kahlil pointed with his lance toward the eastern horizon, where distant tracks in the sand marked the retreat of [[Death Knight Vaelen]] toward the deep wastes of Netheril.
 
 Myagkiy reached out, gently patting the neck of his notched-eared pack camel, who gave a soft, contented grunt in the warm breeze. Stowing the Astrolabe and the Obsidian Ledger securely in his saddlebags, Myagkiy mounted his camel beside the five Bedine outriders.
 
@@ -1283,7 +1283,7 @@ Before them, the golden sands of Anauria stretched under the open sky, leading b
 
 The deliverance of the three nomad brothers from the black glass chrysalis of Aul-Khem marked not the conclusion of the desert journey, but the ignition of a calculated, relentless crusade across the wastes of **Anauria**.
 
-Returning to the goat-hair tents of **Clan Bait Mahra**, Myagkiy spent the cold desert nights huddled over the low embers of dried acacia root fires, translating the cryptic Netherese shorthand inscribed upon ***The Obsidian Ledger of the Grave-Sworn***. The recovered war-journal of Death Knight Vaelen was a morbid masterwork of logistics: it cataloged four centuries of hidden desert redoubts, subterranean bone cisterns, embalming vaults, and sleeper cells established by surviving Myrkulite death-priests to harvest the life-force of traveling caravans and isolated Bedine encampments.
+Returning to the goat-hair tents of **Clan Bait Mahra**, Myagkiy spent the cold desert nights huddled over the low embers of dried acacia root fires, translating the cryptic Netherese shorthand inscribed upon ***The Obsidian Ledger of the Grave-Sworn***. The recovered war-journal of [[Death Knight Vaelen]] was a morbid masterwork of logistics: it cataloged four centuries of hidden desert redoubts, subterranean bone cisterns, embalming vaults, and sleeper cells established by surviving Myrkulite death-priests to harvest the life-force of traveling caravans and isolated Bedine encampments.
 
 For four grueling months through the bitter winter winds of **1502 DR**, Myagkiy became the desert's wrathful shepherd. 
 
@@ -1313,7 +1313,7 @@ Forged in the crucible of four months of relentless desert warfare, tomb-breachi
 * **Hit Points:** Fully restored and elevated to **139 / 139 HP** (`+9 HP` from `1d8 + 4 CON`).
 * **Armor Class (AC):** **24 AC** (Dayne Beltran's Consecrated +2 Plate Armor & +2 Shield **Ь**).
 * ***Destroy Undead (CR 3):*** The divine authority of Life flowing through Myagkiy has reached terrifying potency. When invoking *Turn Undead*, any undead creature of Challenge Rating 3 or lower (including mummies, wights, ghasts, and minotaur skeletons) that fails its Wisdom saving throw does not merely flee—it is **instantly vaporized into fine, inert white ash**!
-* ***Blessed Strikes (TCoE):*** In recognition of his relentless martial defense of the innocent, Gond and Kelemvor bless his martial prowess: once on each of his turns when he hits a creature with a weapon attack or deals cantrip damage, he deals an additional **1d8 radiant damage**.
+* ***Blessed Strikes (TCoE):*** In recognition of his relentless martial defense of the innocent, Gond and [[Kelemvor]] bless his martial prowess: once on each of his turns when he hits a creature with a weapon attack or deals cantrip damage, he deals an additional **1d8 radiant damage**.
 
 Sitting cross-legged on a woven camel-hair rug inside the council tent of Clan Bait Mahra, Myagkiy struck the tarnished fork against the rim of his shield. A pure, heavy planar chime reverberated across the dunes. 
 
@@ -1350,9 +1350,9 @@ Tending the siphoning apparatus were **three towering Grave-Wraiths (CR 5)**—h
 In Myagkiy's belt pouch, the **Astrolabe of Nephren-Ka** shuddered violently, its soul-needle locked directly toward the necrotic rift.
 
 #### The Silent Bastion
-At the threshold of the Gate of Black Iron, atop a raised dais of consecrated granite, stood a detachment of Kelemvor's holy wardens led by **High Justiciar Orin the Stern**, a towering Doomguide clad in polished obsidian plate etched with silver scales, his massive two-handed executioner's broadsword grounded tip-down. 
+At the threshold of the Gate of Black Iron, atop a raised dais of consecrated granite, stood a detachment of Kelemvor's holy wardens led by **[[High Justiciar Orin the Stern]]**, a towering Doomguide clad in polished obsidian plate etched with silver scales, his massive two-handed executioner's broadsword grounded tip-down. 
 
-Under the ancient **Compact of the Dead Gods**, Kelemvor's divine psychopomps were forbidden from striking on neutral planar ground against rifts anchored in mortal necromancy without precipitating planar war—**unless a living mortal champion, carrying living breath and divine mandate, broke the line first.**
+Under the ancient **Compact of the Dead Gods**, [[Kelemvor]]'s divine psychopomps were forbidden from striking on neutral planar ground against rifts anchored in mortal necromancy without precipitating planar war—**unless a living mortal champion, carrying living breath and divine mandate, broke the line first.**
 
 High Justiciar Orin locked eyes with Myagkiy across the plain, nodding once with solemn urgency toward the rift.
 
@@ -1506,7 +1506,7 @@ Soul Liberation: First set of barbed soul-chains disintegrates; the spirit of a 
 
 The unnatural, howling gale of the necrotic rift died away, replaced by the deep, tranquil stillness of the Fugue Plane.
 
-Across the plain, the colossal **Gate of Black Iron** groaned open. High Justiciar Orin the Stern and four armored Doomguides crested the rise, flanked by two soaring, silver-winged psychopomps carrying radiant halberds. 
+Across the plain, the colossal **Gate of Black Iron** groaned open. **[[High Justiciar Orin the Stern]]** and four armored Doomguides crested the rise, flanked by two soaring, silver-winged psychopomps carrying radiant halberds. 
 
 Myagkiy lowered the head of *Bonecounter*, resting the steel against the grey dust, his eyes tracking the distant, wounded form of Grave-Wraith Alpha eight hundred paces away in the southern gloom:
 
@@ -1586,7 +1586,7 @@ Orin slowed his stride, matching Myagkiy's pace, looking up toward the Crystal S
 >
 > In those dark days, this place was a charnel house. It was called the **Bone Castle of Myrkul**. The walls were mortared out of screaming human skulls and fused ribs that wept black ichor into the dust. The air was choked with the suffocating stench of rotting grave-cloth and eternal despair.
 >
-> When Lord Kelemvor claimed the throne, he commanded us to tear the screaming bones from the battlements. We broke the charnel towers of Myrkul with divine mauls and sanctified fire. We smoothed the basalt into orderly roads, and from the deep bedrock, the Lord of the Dead raised the **Crystal Spire**—translucent and luminous, that all judgments might be seen in the open light of truth.
+> When Lord [[Kelemvor]] claimed the throne, he commanded us to tear the screaming bones from the battlements. We broke the charnel towers of Myrkul with divine mauls and sanctified fire. We smoothed the basalt into orderly roads, and from the deep bedrock, the Lord of the Dead raised the **Crystal Spire**—translucent and luminous, that all judgments might be seen in the open light of truth.
 >
 > The lightness of the air thou feelest... that is the peace of the Lord of the Dead. It is the lifting of mortal weariness."*
 
@@ -1596,9 +1596,9 @@ Orin slowed his stride, matching Myagkiy's pace, looking up toward the Crystal S
 
 Ascending the one hundred polished obsidian steps, Myagkiy and Orin entered the **Hall of the Weighed**—a colossal rotunda of living, iridescent quartz beneath the floating platinum-and-silver **Scale of the Final Balance**.
 
-Presiding over the court stood **Arch-Doomguide Vaelor**, an elder psychopomp with silver cloth bound over his eyes.
+Presiding over the court stood **[[Arch-Doomguide Vaelor]]**, an elder psychopomp with silver cloth bound over his eyes.
 
-Myagkiy placed the *Astrolabe of Nephren-Ka* and the *Obsidian Ledger* upon the jade pedestal. Channelling the resonant starlight of the Spire, Vaelor unlocked the astrolabe's deep planar cartography:
+Myagkiy placed the *Astrolabe of [[Lich-Vizier Nephren-Ka|Nephren-Ka]]* and the *Obsidian Ledger* upon the jade pedestal. Channelling the resonant starlight of the Spire, Vaelor unlocked the astrolabe's deep planar cartography:
 * **Node 1 (Toril - Aul-Khem):** Extinguished and vitrified by Myagkiy's holy fire.
 * **Node 2 (Fugue Plane - City Perimeter):** Severed and imploded by Myagkiy's hammer.
 * **Node 3 (Terminal Master Reservoir):** A thick, pulsing beam of pitch-black necrotic energy plunged straight into the lightless void of the **Negative Energy Plane**, terminating at the **Cenotaph of the Black Star**—the ancient fortress housing Nephren-Ka's true phylactery!
@@ -1753,7 +1753,7 @@ With a sound like a collapsing mountain, the starmetal chains snapped in twain. 
 
 Tens of thousands of captive soul-sparks erupted from the shattered core in a titanic, ascending helix of pure, unblemished white fire. They spiraled upward through the dark planar ceiling toward the Astral Plane and the City of Judgment, countless silent voices whispering blessings of deliverance:
 
-> *"Freedom... Praise be to the Soft Sign... Praise be to Kelemvor..."*
+> *"Freedom... Praise be to the Soft Sign... Praise be to [[Kelemvor]]..."*
 
 At the base of the shattered dais, the black siphon conduit snapped shut with a hollow, dying roar of thwarted divine fury echoing upward from the abyss—the distant gasp of **Myrkul**, feeling his primary soul-pipeline ripped from his grasp forever!
 
@@ -1772,9 +1772,9 @@ Knowing the Nightwalker’s turning timer would expire in less than forty second
 A flash of crystalline light enveloped him, plucking him across the planes and returning him instantly to his designated sanctuary within the **Crystal Spire** in Kelemvor's City of Judgment.
 
 #### Direct Logistics & The Hades Vector
-Myagkiy wasted no time in lengthy audiences with the judges. Meeting briefly with **Arch-Doomguide Vaelor**, he presented the shattered fragment of starmetal chain and reported that the master void-anchor was destroyed.
+Myagkiy wasted no time in lengthy audiences with the judges. Meeting briefly with **[[Arch-Doomguide Vaelor]]**, he presented the shattered fragment of starmetal chain and reported that the master void-anchor was destroyed.
 
-Recognizing that Myrkul was reeling on his back foot, Myagkiy declared his intent to strike immediately. Vaelor unlocked the planar armory, bestowing upon him the **Tuning Fork of Tarnished Silver & Ashen Lead**, attuned directly to the resonant frequency of the **Gray Waste of Hades**.
+Recognizing that [[Myrkul]] was reeling on his back foot, Myagkiy declared his intent to strike immediately. Vaelor unlocked the planar armory, bestowing upon him the **Tuning Fork of Tarnished Silver & Ashen Lead**, attuned directly to the resonant frequency of the **Gray Waste of Hades**.
 
 Locking the coordinates onto the *Astrolabe of Nephren-Ka*, the target was confirmed: **The Sunken Bone Citadel of Oinos**, along the blackened tributaries of the River Styx.
 
@@ -1831,7 +1831,7 @@ Space folded violently, and Myagkiy collapsed onto the smooth, cool limestone fl
 
 His gunmetal plate was battered and scorched with necrotic soot; blood seeped from cracked mail; his breath came in ragged, burning gasps at **1 HP**.
 
-High Justiciar Orin the Stern and Arch-Doomguide Vaelor rushed to his side, their silver-robed attendants pouring restorative salves and healing magic over his wounds. Yet as Myagkiy lay upon the sanctuary dais, it was not the pain of his broken flesh that seized his soul.
+[[High Justiciar Orin the Stern|High Justiciar Orin the Stern]] and [[Arch-Doomguide Vaelor]] rushed to his side, their silver-robed attendants pouring restorative salves and healing magic over his wounds. Yet as Myagkiy lay upon the sanctuary dais, it was not the pain of his broken flesh that seized his soul.
 
 It was the revelation.
 
@@ -1872,7 +1872,7 @@ It widened into a roaring, golden archway of celestial dawnfire.
 Out from the rift marched **The Host of the Delivered**:
 * **The Bedine of Anauria:** Fifty dune-riders, desert scouts, and shamans—their flowing white robes wrapped tight against the sulfurous winds, carrying composite shortbows and curved scimitars, their wooden bucklers boldly painted with the silver Cyrillic Soft Sign (**Ь**).
 * **The Greypeak Mountaineers:** Thirty burly highland warriors, hunters, and shield-maidens wielding heavy war-picks and boar spears, singing ancestral battle-hymns that shook the stagnant air of Hades.
-* **The Kelemvorite Vanguard:** High Justiciar Orin the Stern leading a phalanx of twenty silver-armored Doomguides and four soaring Celestial Arbiters with greatswords of pure starlight.
+* **The Kelemvorite Vanguard:** [[High Justiciar Orin the Stern]] leading a phalanx of twenty silver-armored Doomguides and four soaring Celestial Arbiters with greatswords of pure starlight.
 
 Myagkiy stood frozen. Tears cut clean tracks through the grey ash on his dark cheeks. 
 
@@ -1907,7 +1907,7 @@ Gripping ***Bonecounter*** in his right hand and raising Dayne's +2 shield (**Ь
 
 ---
 
-### ⚡ Scene 5: The Climax — Myagkiy Znak vs. The Weakened Avatar of Myrkul
+### ⚡ Scene 5: The Climax — Myagkiy Znak vs. The [[Avatar of Myrkul|Weakened Avatar of Myrkul]]
 
 The inner sanctum was a colossal, hollowed-out dome formed from the horned skull of a primordial titan. 
 
@@ -1918,7 +1918,7 @@ In ancient times, this manifestation would have commanded the terror of a Greate
 * The Astral soul-pipeline was collapsed.
 * The 10,000 captive souls of the Cenotaph of the Black Star were liberated into the Upper Planes.
 
-What sat upon the throne was a starving, hollowed, desperate husk—a **Weakened Avatar of Myrkul (CR 16 Boss)**. Its flesh was shriveled parchment stretched over yellowed bone; its cowl was tattered burial shroud; its hand trembled as it lifted a jagged, black-iron **Scythe of the Reaper**.
+What sat upon the throne was a starving, hollowed, desperate husk—a **[[Avatar of Myrkul|Weakened Avatar of Myrkul]] (CR 16 Boss)**. Its flesh was shriveled parchment stretched over yellowed bone; its cowl was tattered burial shroud; its hand trembled as it lifted a jagged, black-iron **Scythe of the Reaper**.
 
 The Avatar’s hollow eye-sockets blazed with sickly green witchfire as it hissed:
 
